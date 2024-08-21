@@ -1,0 +1,1 @@
+./Disseminated intravascular coagulation (DIC).md

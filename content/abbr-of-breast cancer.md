@@ -1,0 +1,141 @@
+---
+title: "abbr-of-breast cancer"
+slug: "abbr-of-breast-cancer"
+date: "2023-10-06"
+enableToc: false
+tags:
+  - building
+---
+
+> [!info]
+>
+> 🌱 來自: [[breast cancer]]
+
+# abbr-of-breast cancer
+
+- ABUS - Automated Breast Ultrasound
+- [[AC]]
+- [[AIs]]
+- ADH - atypical ductal hyperplasia
+- ALH - atypical lobular hyperplasia
+- [[ALND]]
+- APBI - Accelerated Partial Breast Irradiation
+- AWS - Axillary Web Syndrome (also known as Cording)
+- B9 - benign
+- BART - BRACAnalysis Rearrangement Test
+- BC - breast cancer
+- Bi-Lat - bilateral (eg. bilateral mastectomy is the removal of both breasts)
+- BIRADS - Breast Imaging Reporting and Data System score
+- BM or BMX - bilateral mastectomy (removal of both breasts)
+- BS - breast specialist/surgeon
+- BTW - by the way OR between
+- Bump - written to bubble a thread up in the active topics
+- BWT - but what the ____!
+- C. diff - Clostridium difficile, often called C. difficile or C. diff, is a bacterium that can cause symptoms ranging from diarrhea to life-threatening inflammation of the colon.
+- CAT - computerized tomography scan (also CT scan)
+- CC - capsular contracture
+- CEA - carcinoembryonic antigen, a tumor marker in the blood
+- CHF - congestive heart failure
+- CMF - cyclophosphamide (brand name: Cytoxan), methotrexate (brand names: Amethopterin, Mexate, Folex), fluorouracil (also called 5-fluorouracil or 5-FU; brand name: Adrucil), a common chemotherapy combination.
+- CT scan - computerized tomography scan (also CAT scan)
+- DCIS - ductal carcinoma in situ
+- [[DD]] - dose dense, in reference to chemotherapy; or dear daughter when referencing family
+- DH - dear husband
+- DIEP - deep inferior epigastric perforator flap breast reconstruction
+- DIL - daughter-in-law
+- DP - dear partner
+- DS - dear son
+- DW - dear wife
+- ER+/- - estrogen receptor positive (+) or negative (-)
+- FEC - fluorouracil (also called 5-fluorouracil or 5-FU; brand name: Adrucil), epirubicin (brand name: Ellence), cyclophosphamide (brand name: Cytoxan), a common chemotherapy combination.
+- FG - fat graft
+- FIL - father-in-law
+- FISH - Fluorescence In Situ Hybridization, a type of pathology test
+- [[FNA]]
+- FWIW - for what it's worth
+- GCM - Glucosamine chondroitin with MSM (for joint pain relief)
+- [[H]] - Herceptin (chemical name: trastuzumab)
+- [[HER2]] +/- - human epidermal growth factor receptor 2 positive (+) or negative (-). Read more on HER2 status.
+- [[HT]] -
+- [[HRT]] -
+- Hx - history
+- IBC - inflammatory breast cancer
+- IDC - invasive ductal carcinoma
+- IGAP - Inferior Gluteal Artery Perforator Flap
+- IHC - ImmunoHistoChemistry, a type of pathology test
+- ILC - invasive lobular carcinoma
+- IMF - infra-mammary fold (the crease/fold under the breast)
+- [[IMHO]]
+- IORT - intraoperative radiation therapy
+- IPLC - invasive pleomorphic lobular carcinoma, a subtype of invasive lobular carcinoma
+- KWIM - know what I mean
+- LAVH - laparoscropic assisted vaginal hysterectomy
+- LCIS - lobular carcinoma in situ
+- LD flap - latissimus dorsi flap breast reconstruction
+- LE - lymphedema
+- Lump - lumpectomy
+- Lt - left
+- LVI - lymphatic/vascular invasion
+- Lx - lumpectomy
+- Mast - mastectomy
+- [[MBC]] -
+- Med Onc - medical oncologist
+- Mets - metastasis
+- MIL - mother-in-law
+- MLD - manual lymph drainage
+- MO - medical oncologist
+- Mojo - sex, or lack of; libido
+- MPBC - metaplastic breast cancer
+- MRA - magnetic resonance angiogram
+- MRI - magnetic resonance imaging
+- [[MX]] -
+- NAC - nipple-areolar complex, a term used in nipple-sparing mastectomy
+- NB - Navelbine (chemical name: vinorelbine)
+- [[NEAD]]
+- NED - no evidence of disease
+- NP - nurse practitioner
+- NSM - nipple-sparing mastectomy
+- ODAAT - one day at a time
+- ONC - oncologist
+- Ooph - oophorectomy or ovary removal
+- OS - overall survival
+- [[P]] -
+- PAP Flap - profunda artery perforator flap
+- Path - pathology
+- PASH - Pseudoangiomatous stromal hyperplasia
+- PBM - prophylactic bilateral mastectomy
+- PCC - Penguin cold caps
+- [[PCP]]
+- [[pCR]] -
+- PE - pleural effusion or pulmonary embolism
+- PET scan - Positron Emission Tomography scan
+- PET-CT scan - a combination of PET and CT scans
+- PFC - perfluorinated compounds
+- PFC - post final chemo
+- PFS - Progression Free Survival
+- PICC - peripherally inserted central catheter, sometimes called an arm port
+- PILC - pleomorphic invasive lobular carcinoma, a subtype of invasive lobular carcinoma (ILC)
+- PM - private message
+- PR +/- - progesterone receptor positive (+) or negative (-)
+- PS - plastic surgeon
+- RADS - radiation therapy or radiotherapy
+- Rad onc - radiation oncologist
+- RO - radiation oncologist
+- RS - recurrent score
+- SE - side effects
+- SERDs - Selective Estrogen Receptor Downregulators
+- SERMs - Selective Estrogen Receptor Modulators
+- SGAP Flap - superior gluteal artery perforator flap
+- SIL - sister-in-law
+- SNB - sentinel node biopsy
+- TAH-BSO - Total Abdominal Hysterectomy - Bilateral Salpingo Oophorectomy
+- TCH - taxotere (chemical name: docetaxel), carboplatin (brand name: Paraplatin), herceptin (chemical name: trastuzumab)
+- TCHP - Taxotere (chemical name: docetaxel), carboplatin, Herceptin (chemical name: trastuzumab), Perjeta (chemical name: pertuzumab)
+- TE - temporary expanders or tissue expanders, used in breast implant reconstruction
+- TL;DR - too long; didn't read: a quick note used by authors of a post to preface lengthy posts with a quick summary of the topic and question, so others don't have to read further if not necessary
+- [[TM]] -
+- TN - triple negative (negative status for ER, PR, and HER2)
+- TNBC - triple negative breast cancer (negative status for ER, PR, and HER2)
+- TRAM flap - transverse rectus abdominis myocutaneous flap reconstruction flap
+- TX - treatment
+- WBR - whole brain radiotherapy

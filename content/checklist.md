@@ -1,0 +1,155 @@
+---
+title: "checklist"
+slug: "checklist"
+date: "2023-12-06"
+enableToc: false
+tags:
+  - building
+---
+
+> [!info]
+>
+> 🌱 來自: [[medical]]
+
+# checklist
+
+- [[Abdominal compartment syndrome checklist]]
+- [[Acute appendicitis checklist]]
+- [[Acute asthma exacerbation checklist]] 🏗️
+- [[Acute back pain checklist]]
+- [[Acute chest syndrome checklist]]
+- [[Acute cholangitis checklist]]
+- [[Acute cholecystitis checklist]]
+- [[Acute compartment syndrome checklist]]
+- [[Acute exacerbation of chronic obstructive pulmonary disease checklist]]
+- [[Acute heart failure checklist]] 🏗️
+- [[Acute kidney injury checklist]] 🏗️
+- [[Acute pancreatitis checklist]]
+- [[Acute respiratory distress syndrome checklist]] 🏗️
+- [[Acute tonsillitis and pharyngitis checklist]]
+- [[Alcohol withdrawal checklist]]
+- [[Alcoholic hepatitis checklist]]
+- [[Altered mental status and coma checklist]] 🏗️
+- [[Anaphylaxis checklist]] 🏗️
+- [[Anemia checklist]] 🏗️
+- [[Angioedema checklist]] 🏗️
+- [[Anticoagulant reversal checklist]]
+- [[Aortic dissection checklist]]
+- [[Aortic regurgitation checklist]]
+- [[Aortic valve stenosis checklist]]
+- [[Approach to psychosis checklist for psychosis]]
+- [[Approach to the poisoned patient]]
+- [[Atrial fibrillation with rapid ventricular response checklist]] 🏗️
+- [[Atrioventricular block checklist]]
+- [[Bowel obstruction checklist]] 🏗️
+- [[Brain tumors checklist]] 🏗️
+- [[Carbon monoxide toxicity checklist]]
+- [[Cerebral venous thrombosis checklist]]
+- [[Choledocholithiasis checklist]] 🏗️
+- [[Cholelithiasis checklist]] 🏗️
+- [[Clostridioides difficile infection checklist]] 🏗️
+- [[Cluster headache checklist]]
+- [[Deep neck infections checklist]]
+- [[Dehydration and hypovolemia checklist]] 🏗️
+- [[Delirium checklist]] 🏗️
+- [[Disseminated intravascular coagulation checklist]] 🏗️
+- [[Diverticulitis checklist]] 🏗️
+- [[Endotracheal intubation checklist]] 🏗️
+- [[Epidural hematoma checklist]]
+- [[Epiglottitis checklist]]
+- [[Epistaxis checklist]] 🏗️
+- [[Esophageal perforation checklist]]
+- [[Fever checklist]] 🏗️
+- [[Foreign body aspiration checklist]]
+- [[Gastrointestinal bleeding checklist]] 🏗️
+- [[Gastrointestinal perforation checklist]]
+- [[Glaucoma Angle-closure glaucoma]]
+- [[Heparin-induced thrombocytopenia checklist]]
+- [[Hip fractures checklist]]
+- [[Hypercalcemia checklist]] 🏗️
+- [[Hyperglycemic crises checklist]] 🏗️
+- [[Hyperkalemia checklist]] 🏗️
+- [[Hypernatremia checklist]] 🏗️
+- [[Hypertensive crises checklist]] 🏗️
+- [[Hypoglycemia checklist]] 🏗️
+- [[Hyponatremia checklist]] 🏗️
+- [[Infectious gastroenteritis checklist]] 🏗️
+- [[Inpatient management of hyperglycemia checklist]] 🏗️
+- [[Intestinal ischemia checklist]]
+- [[Intracerebral hemorrhage checklist]]
+- [[Intravascular catheter-related bloodstream infections checklist]] 🏗️
+- [[Ischemic stroke checklist]]
+- [[Mallory-Weiss syndrome checklist]]
+- [[Meningitis checklist]]
+- [[Migraine checklist]]
+- [[Mild traumatic brain injury checklist]]
+- [[Mitral regurgitation checklist for acute mitral regurgitation]]
+- [[Nephrolithiasis checklist]]
+- [[Neutropenic fever checklist]] 🏗️
+- [[Nonpurulent skin and soft tissue infections]]
+- [[Nonthrombotic embolism checklist]]
+- [[Paralytic ileus checklist]] 🏗️
+- [[Peptic ulcer disease checklist]] 🏗️
+- [[Pericardial effusion and cardiac tamponade checklist]]
+- [[Pericarditis checklist]]
+- [[Pleural effusion checklist]] 🏗️
+- [[Pneumonia checklist]] 🏗️
+- [[Pneumothorax checklist]] 🏗️
+- [[Postoperative nausea and vomiting]]
+- [[Procedural sedation and analgesia checklist]]
+- [[Psoas abscess checklist]]
+- [[Pulmonary embolism checklist]] 🏗️
+- [[Purulent skin and soft tissue infections]]
+- [[Pyelonephritis checklist]]
+- [[Refeeding syndrome checklist]]
+- [[Rhabdomyolysis and crush syndrome checklist]]
+- [[Secondary brain injury and neuroprotective measures checklist]]
+- [[Sepsis checklist]] 🏗️
+- [[Septic arthritis checklist]]
+- [[Skin and soft tissue infections checklist]] 🏗️
+- [[Spontaneous bacterial peritonitis checklist]] 🏗️
+- [[Subarachnoid hemorrhage checklist]]
+- [[Syncope checklist]] 🏗️
+- [[Takotsubo cardiomyopathy checklist]]
+- [[Tension-type headache checklist]]
+- [[Transient ischemic attack checklist]]
+- [[Traumatic brain injury checklist]]
+- [[Treatment checklist for herpes simplex encephalitis]]
+- [[Treatment of purulent SSTIs]]
+- [[Trigeminal neuralgia checklist]]
+- [[Wound treatment checklist]]
+- [[checklist for ABCDE approach]] 🏗️
+- [[checklist for NSTE-ACS]]
+- [[checklist for STEMI]]
+- [[checklist for SVC syndrome]] 🏗️
+- [[checklist for acute DVT]] 🏗️
+- [[checklist for acute gout flare]]
+- [[checklist for acute transfusion reactions]] 🏗️
+- [[checklist for acute traumatic SDH]]
+- [[checklist for adrenal crisis]]
+- [[checklist for compressive spinal emergencies]] 🏗️
+- [[checklist for esophageal variceal hemorrhage]]
+- [[checklist for established TLS]]
+- [[checklist for hyperemesis gravidarum]]
+- [[checklist for hypocalcemia]] 🏗️
+- [[checklist for hypokalemia]] 🏗️
+- [[checklist for hypomagnesemia]] 🏗️
+- [[checklist for hypophosphatemia]] 🏗️
+- [[checklist for leukostasis]] 🏗️
+- [[checklist for lung abscess]]
+- [[checklist for massive life-threatening hemoptysis]] 🏗️
+- [[checklist for moderate and severe purulent infections]]
+- [[checklist for myxedema coma]]
+- [[checklist for necrotizing SSTI]]
+- [[checklist for nonmassive hemoptysis]] 🏗️
+- [[checklist for nonpurulent SSTI]]
+- [[checklist for nonshockable rhythms]]
+- [[checklist for postresuscitation care]]
+- [[checklist for ruptured ovarian cyst]]
+- [[checklist for shockable rhythms]]
+- [[checklist for suspected TSS]]
+- [[checklist for suspected acute IE]] 🏗️
+- [[checklist for sustained VT]]
+- [[checklist for thyroid storm]]
+- [[checklist for unstable bradycardia]]
+- [[checklist for fractures]]

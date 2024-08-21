@@ -1,0 +1,1 @@
+./different clinical, endoscopic, and radiographic features of UC and CD.md

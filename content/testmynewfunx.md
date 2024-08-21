@@ -1,0 +1,5 @@
+# testmynewfunx
+
+wow
+
+[[testmynewfunx2]]

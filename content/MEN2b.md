@@ -1,0 +1,1 @@
+./multiple endocrine neoplasia type 2.md

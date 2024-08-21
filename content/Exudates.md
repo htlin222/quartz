@@ -1,0 +1,44 @@
+---
+title: Exudates
+---
+
+# Exudates
+
+- [[Exudates by lung parenchymal infection]] (25%)
+- Malignancy (15%):
+  - primary lung cancer most common,
+  - metastases (esp. breast,
+  - lymphoma,
+  - etc.),
+  - [[mesothelioma]] (✓ serum osteopontin levels; NEJM 2005;353:15)
+- _Pulmonary embolism_ (10%):
+  - effusions in ~40% of PEs;
+  - _exudate (75%)_ >transudate (25%);
+  - hemorrhagic—must have high suspicion b/c presentation highly variable
+- Collagen vascular disease:
+  - RA (large)
+  - SLE (small)
+  - GPA
+  - EGPA
+- Abdominal diseases:
+  - pancreatitis
+  - cholecystitis
+  - esophageal rupture
+  - abdominal abscess
+- Hemothorax (Hcteff/Hctblood >50%):
+  - trauma
+  - PE
+  - malignancy
+  - coagulopathy,
+  - leaking aortic aneurysm,
+  - aortic dissection
+  - pulmonary vascular malformation
+- Chylothorax (triglycerides >_110_): thoracic duct damage due to trauma, malignancy, LAM
+- Other:
+  - _Post-CABG_: left-sided; initially bloody, clears after several wks
+  - Dressler’s syndrome (pericarditis & pleuritis post-MI), uremia, post-radiation therapy
+  - Asbestos exposure: benign; ⊕ eosinophils
+  - Drug-induced (eg, nitrofurantoin, methysergide, bromocriptine, amiodarone): ⊕ eos
+  - Uremia; post-XRT; sarcoidosis
+  - [[Meigs syndrome]]: benign ovarian tumor → ascites & pleural effusion
+  - [[Yellow-nail syndrome]]:
