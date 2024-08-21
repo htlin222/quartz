@@ -16,7 +16,7 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+    const ogImagePath = `https://og-mlkgi530p-htlin222.vercel.app/api/blog?templateTitle=${title}`
 
     return (
       <head>
