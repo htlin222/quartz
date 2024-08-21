@@ -7,6 +7,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 export default (() => {
   const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
     const title = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
+    const sanitizedTitle = encodeURI(title.trim());  // 使用 encodeURI 將標題進行編碼
     const description =
       fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description
     const { css, js } = externalResources
@@ -16,7 +17,7 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://og-mlkgi530p-htlin222.vercel.app/api/blog?templateTitle=${title}`
+    const ogImagePath = `https://og-mlkgi530p-htlin222.vercel.app/api/blog?templateTitle=${sanitizedTitle}`
 
     return (
       <head>
