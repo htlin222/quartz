@@ -11,11 +11,6 @@ lizard
 
 back to [[medical]]
 
-> 凝血異常，血癌疫情，
-> 淋巴癌痛，貧血病變。
-> 血液 ✖ 不濟，體內缺乏，
-> 病症多端，需高明。
-
 [[book list of hematology]]
 
 [[framework_hematology_blood.md|framework_hematology_blood]]

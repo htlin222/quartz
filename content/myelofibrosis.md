@@ -8,7 +8,7 @@ enableToc: false
 >
 > 🌱 來自：[[Etiologies-of thrombocytopenia]]
 
-# myelofibrosis #🚧 施工中
+# myelofibrosis
 
 [[hematology]]
 
@@ -43,7 +43,13 @@ enableToc: false
 
 ## Genetics
 
-- Driver muts: Majority of pts have mut in one of JAK2 (JAK2 V617F in ∼50%, JAK2 exon 12 in ∼15%), CALR (∼25%), or MPL (∼5%). Approx 10% of pts are “triple-negative” & have none of these muts. CALR muts are a/w improved survival relative to other muts
+> More than 90% of myelofibrosis patients harbor driver mutations in one of the 3 genes JAK2, CALR, and MPL,
+
+- Driver muts: pts have mut in one of three
+  - JAK2 (JAK2 V617F in ∼50%, JAK2 exon 12 in ∼15%),
+  - CALR (∼25%), or
+  - MPL (∼5%).
+- Approx 10% of pts are “triple-negative” & have none of these muts. CALR muts are a/w improved survival relative to other muts
 - Muts in ASXL1, EZH2, IDH1/2, SRSF2, Ras pathway are a/w worse prog (Leukemia 2013;27(9):1861; Leukemia 2020;34(3):799)
 
 ## Disease sequelae
@@ -57,5 +63,11 @@ enableToc: false
 
 - IPSS: Estimates survival from time of dx (Blood 2009;115:392)
 - DIPSS: Can be used at any time DIPSS-plus additionally considers karyotype, transfusion, thrombocytopenia (JCO 2011;29(4):392)
+- [[gipss.md|GIPSS]]
 - Molecular IPSS (MIPSS)-70 & MIPSS70-plus include molecular data ie, high-risk muts (ASXL1, EZH2, IDH1/2, SRSF2) (JCO 2018;36(4):310)
 - Lille system: Based on Hb levels & presence of leukopenia or leukocytosis
+- MYSEC-PM, SMF
+
+> Greenfield G, McMullin MF, Mills K. [[molecular_pathogenesis_of_the_myeloproliferative_neoplasms.md|Molecular pathogenesis of the myeloproliferative neoplasms]]. Journal of Hematology &#38; Oncology. 2021;14(1):1-18. doi:10.1186/s13045-021-01116-z
+
+[[treatment-of-myelofibrosis.md|treatment-of-myelofibrosis]]

@@ -21,6 +21,8 @@ Rare,
 
 - Defined by translocation of retinoic acid receptor: **t(15;17); PML-RARA** (>95% of cases)
 
+[[apollo.md|APOLLO]]
+
 - **Medical emergency** with **DIC** and **bleeding** common
 
 - Remarkable responses to **[[all-trans-retinoic acid]] (ATRA)** & **arsenic trioxide (ATO)** which induce differentiation of leukemic blasts.

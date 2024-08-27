@@ -26,3 +26,9 @@ enableToc: false
 
 - [[treatment and prognosis of multiple myeloma (MM)]]
 - [[common toxicities of Rx of multiple myeloma (MM)]]
+
+2024-08-24: 
+
+[[bispecific_antibodies_for_relapse_and_refractory_multiple_myeloma.md|Bispecific antibodies for relapse and refractory multiple myeloma]]
+
+[[bcma_in_mm.md|BCMA in MM]]
