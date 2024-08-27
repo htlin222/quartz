@@ -1,5 +1,6 @@
 ---
 title: Alterations in Renal and Urinary Tract Function
+date: 2024-01-01
 ---
 # Alterations in Renal and Urinary Tract Function
 

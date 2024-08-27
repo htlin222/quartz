@@ -1,5 +1,6 @@
 ---
 title: Long-term anticoagulation options-venous thromboembolism
+date: 2024-01-01
 ---
 # Long-term anticoagulation options-venous thromboembolism
 

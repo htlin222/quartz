@@ -1,5 +1,6 @@
 ---
 title: infectious disease
+date: 2024-01-01
 alias: id
 enableToc: false
 ---

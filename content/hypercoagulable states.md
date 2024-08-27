@@ -1,5 +1,6 @@
 ---
 title: hypercoagulable states
+date: 2024-01-01
 ---
 
 # hypercoagulable states

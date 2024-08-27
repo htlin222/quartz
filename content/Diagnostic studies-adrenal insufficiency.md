@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies-adrenal insufficiency
+date: 2024-01-01
 ---
 # Diagnostic studies-adrenal insufficiency
  (JCEM 2016;101:364)

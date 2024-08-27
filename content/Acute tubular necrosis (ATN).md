@@ -1,5 +1,6 @@
 ---
 title: Acute tubular necrosis  ATN 
+date: 2024-01-01
 ---
 # Acute tubular necrosis (ATN)
 

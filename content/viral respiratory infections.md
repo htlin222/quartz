@@ -1,5 +1,6 @@
 ---
 title: viral respiratory infections
+date: 2024-01-01
 ---
 
 # viral respiratory infections

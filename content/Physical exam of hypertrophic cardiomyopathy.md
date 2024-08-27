@@ -1,5 +1,6 @@
 ---
 title: Physical exam of hypertrophic cardiomyopathy
+date: 2024-01-01
 ---
 
 # Physical exam of hypertrophic cardiomyopathy

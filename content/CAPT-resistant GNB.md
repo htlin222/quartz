@@ -1,5 +1,6 @@
 ---
 title: CAPT-resistant GNB
+date: 2024-01-01
 ---
 # CAPT-resistant GNB
 

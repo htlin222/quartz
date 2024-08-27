@@ -1,5 +1,6 @@
 ---
 title: DIP desquamative IP
+date: 2024-01-01
 ---
 # DIP desquamative IP
 

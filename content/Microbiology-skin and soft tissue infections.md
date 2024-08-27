@@ -1,5 +1,6 @@
 ---
 title: Microbiology-skin and soft tissue infections
+date: 2024-01-01
 ---
 # Microbiology-skin and soft tissue infections
 皮膚和軟組織感染 (SSTI) 很常見，範圍從輕度蜂窩組織炎到危及生命的壞死性軟組織感染 (NSTI)。關鍵的管理考慮因素包括做出準確的診斷、評估感染的化膿性和嚴重程度，以及選擇抗生素以針對最可能的微生物。在本節中，我們將介紹以下疾病的診斷和治療

@@ -1,5 +1,6 @@
 ---
 title: premedication of airway-management
+date: 2024-01-01
 ---
 # premedication of airway-management
 

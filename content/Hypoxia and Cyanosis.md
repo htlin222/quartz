@@ -1,5 +1,6 @@
 ---
 title: Hypoxia and Cyanosis
+date: 2024-01-01
 ---
 # Hypoxia and Cyanosis
 

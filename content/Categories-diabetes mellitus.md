@@ -1,5 +1,6 @@
 ---
 title: Categories-diabetes mellitus
+date: 2024-01-01
 ---
 # Categories-diabetes mellitus
 

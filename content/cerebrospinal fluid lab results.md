@@ -1,5 +1,6 @@
 ---
 title: cerebrospinal fluid lab results
+date: 2024-01-01
 ---
 # cerebrospinal fluid lab results
 

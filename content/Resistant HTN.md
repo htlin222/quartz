@@ -1,5 +1,6 @@
 ---
 title: Resistant HTN
+date: 2024-01-01
 ---
 # Resistant HTN
 

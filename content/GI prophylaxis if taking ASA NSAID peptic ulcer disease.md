@@ -1,5 +1,6 @@
 ---
 title: GI prophylaxis if taking ASA NSAID peptic ulcer disease 
+date: 2024-01-01
 ---
 # GI prophylaxis if taking ASA NSAID peptic ulcer disease 
 

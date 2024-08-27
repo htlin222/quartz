@@ -1,1 +1,16 @@
-./Cushing’s Syndrome.md
+---
+title: Cushing’s Syndrome
+date: 2024-01-01
+alias: Cushing
+---
+
+# Cushing’s Syndrome
+
+- Cushing’s syndrome = cortisol excess
+- Cushing’s disease = Cushing’s syndrome _2°_ to pituitary ACTH hypersecretion
+- [[Etiologies of hypercortisolism]]
+- [[Clinical manifestations-Cushing’s Syndrome]]
+- [[Diagnosis Cushing’s Syndrome]]
+- [[Treatment of Cushing’s syndrome]]
+- [[Etiologies of hypercortisolism]] 󰒖
+- [[Clinical suspicion of Cushing]] Harrison 圖

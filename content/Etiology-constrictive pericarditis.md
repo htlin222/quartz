@@ -1,5 +1,6 @@
 ---
 title: Etiology-constrictive pericarditis
+date: 2024-01-01
 ---
 # Etiology-constrictive pericarditis
 

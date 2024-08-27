@@ -1,5 +1,6 @@
 ---
 title: JAMA review of hyponatremia
+date: 2024-01-01
 ---
 ## Diagnosis and Management of Hyponatremia
 JAMA. 2022;328(3):280-291.

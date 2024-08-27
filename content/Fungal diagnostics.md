@@ -1,5 +1,6 @@
 ---
 title: Fungal diagnostics
+date: 2024-01-01
 ---
 
 # Fungal diagnostics

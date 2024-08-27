@@ -1,5 +1,6 @@
 ---
 title: Secondary immune thrombocytopenic purpura  2° ITP
+date: 2024-01-01
 alias: 2ITP
 ---
 

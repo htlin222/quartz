@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations-chronic pancreatitis
+date: 2024-01-01
 ---
 # Clinical manifestations-chronic pancreatitis
 

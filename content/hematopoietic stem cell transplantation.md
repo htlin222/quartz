@@ -1,5 +1,6 @@
 ---
 title: hematopoietic stem cell transplantation
+date: 2024-01-01
 alias: HSCT
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Diagnosis-crohn’s disease
+date: 2024-01-01
 ---
 # Diagnosis-crohn’s disease
 

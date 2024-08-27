@@ -1,5 +1,6 @@
 ---
 title: diagnostic studies of peptic ulcer disease
+date: 2024-01-01
 ---
 
 # diagnostic studies of peptic ulcer disease

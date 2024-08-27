@@ -1,5 +1,6 @@
 ---
 title: Exercise-tolerance-test
+date: 2024-01-01
 ---
 # Exercise-tolerance-test
 

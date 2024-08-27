@@ -1,5 +1,6 @@
 ---
 title: Diagnostic evaluation of breast cancer
+date: 2024-01-01
 ---
 # Diagnostic evaluation of breast cancer
 

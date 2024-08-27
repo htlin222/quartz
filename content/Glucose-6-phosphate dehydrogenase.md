@@ -1,5 +1,6 @@
 ---
 title: Glucose-6-phosphate dehydrogenase
+date: 2024-01-01
 ---
 # Glucose-6-phosphate dehydrogenase
 

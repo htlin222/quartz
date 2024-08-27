@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations-acute mesenteric ischemia
+date: 2024-01-01
 ---
 
 # Clinical manifestations-acute mesenteric ischemia

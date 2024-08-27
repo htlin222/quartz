@@ -1,5 +1,6 @@
 ---
 title: Structural dysphagia
+date: 2024-01-01
 ---
 
 # Structural dysphagia

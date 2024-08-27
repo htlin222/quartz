@@ -1,5 +1,6 @@
 ---
 title: Diagnostic approach-fever syndromes
+date: 2024-01-01
 ---
 # Diagnostic approach-fever syndromes
 

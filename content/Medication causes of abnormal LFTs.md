@@ -1,5 +1,6 @@
 ---
 title: Medication causes of abnormal LFTs
+date: 2024-01-01
 ---
 # Medication causes of abnormal LFTs
 

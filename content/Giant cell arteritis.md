@@ -1,5 +1,6 @@
 ---
 title: Giant cell arteritis
+date: 2024-01-01
 ---
 # Giant cell arteritis
 - In many cases, FUO in the elderly results from an atypical manifestation of a common disease, among which giant cell arteritis and polymyalgia rheumatica are most frequently involved.

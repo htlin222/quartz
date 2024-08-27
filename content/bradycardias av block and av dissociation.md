@@ -1,5 +1,6 @@
 ---
 title: bradycardias av block and av dissociation
+date: 2024-01-01
 ---
 
 # bradycardias av block and av dissociation

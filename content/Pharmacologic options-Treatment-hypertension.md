@@ -1,5 +1,6 @@
 ---
 title: Pharmacologic options-Treatment-hypertension
+date: 2024-01-01
 ---
 # Pharmacologic options-Treatment-hypertension
 

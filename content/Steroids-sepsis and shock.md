@@ -1,5 +1,6 @@
 ---
 title: Steroids-sepsis and shock
+date: 2024-01-01
 ---
 # Steroids-sepsis and shock
 

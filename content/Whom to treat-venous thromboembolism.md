@@ -1,5 +1,6 @@
 ---
 title: Whom to treat-venous thromboembolism
+date: 2024-01-01
 ---
 # Whom to treat-venous thromboembolism
 

@@ -1,5 +1,6 @@
 ---
 title: old headache
+date: 2024-01-01
 ---
 # old headache
 

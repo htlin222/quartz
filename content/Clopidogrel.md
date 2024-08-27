@@ -1,5 +1,6 @@
 ---
 title: Clopidogrel
+date: 2024-01-01
 ---
 # Clopidogrel
 

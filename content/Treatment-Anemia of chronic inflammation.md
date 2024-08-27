@@ -1,5 +1,6 @@
 ---
 title: Treatment-Anemia of chronic inflammation
+date: 2024-01-01
 ---
 # Treatment-Anemia of chronic inflammation
 

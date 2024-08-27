@@ -1,5 +1,6 @@
 ---
 title: Thrombotic microangiopathies
+date: 2024-01-01
 alias: TMA
 ---
 # Thrombotic microangiopathies

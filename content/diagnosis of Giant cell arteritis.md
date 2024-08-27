@@ -1,5 +1,6 @@
 ---
 title: diagnosis of Giant cell arteritis
+date: 2024-01-01
 ---
 # diagnosis of Giant cell arteritis
 

@@ -1,5 +1,6 @@
 ---
 title: Packed red blood cells
+date: 2024-01-01
 ---
 # Packed red blood cells
 

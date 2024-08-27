@@ -1,5 +1,6 @@
 ---
 title: Renal potassium losses
+date: 2024-01-01
 ---
 
 # Renal potassium losses

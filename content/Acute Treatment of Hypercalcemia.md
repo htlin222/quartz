@@ -1,5 +1,6 @@
 ---
 title: Acute Treatment of Hypercalcemia
+date: 2024-01-01
 ---
 # Acute Treatment of Hypercalcemia
 

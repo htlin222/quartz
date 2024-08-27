@@ -1,5 +1,6 @@
 ---
 title: oncologic emergencies
+date: 2024-01-01
 ---
 
 # oncologic emergencies

@@ -1,5 +1,6 @@
 ---
 title: Workup-cirrhosis
+date: 2024-01-01
 ---
 # Workup-cirrhosis
 

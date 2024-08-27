@@ -1,5 +1,6 @@
 ---
 title: Nonspecific Low Back Pain
+date: 2024-01-01
 aliases: [Nonspecific Low Back Pain]
 linter-yaml-title-alias: Nonspecific Low Back Pain
 ---

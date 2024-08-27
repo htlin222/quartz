@@ -1,5 +1,6 @@
 ---
 title: Pathophysiology  risk factors -aortic aneurysms
+date: 2024-01-01
 ---
 
 # Pathophysiology risk factors -aortic aneurysms

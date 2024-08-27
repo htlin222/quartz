@@ -1,5 +1,6 @@
 ---
 title: phosphate replacement therapies
+date: 2024-01-01
 ---
 # phosphate replacement therapies
 - In adults with symptomatic mild hypophosphatemia (2-2.5 mg/dL [0.65-0.81 mmol/L])

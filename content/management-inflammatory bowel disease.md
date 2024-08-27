@@ -1,5 +1,6 @@
 ---
 title: management-inflammatory bowel disease
+date: 2024-01-01
 alias: mgmt-IBD
 ---
 

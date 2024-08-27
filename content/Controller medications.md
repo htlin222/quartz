@@ -1,5 +1,6 @@
 ---
 title: Controller medications
+date: 2024-01-01
 ---
 # Controller medications
 

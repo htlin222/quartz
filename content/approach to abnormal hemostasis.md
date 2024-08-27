@@ -1,5 +1,6 @@
 ---
 title: approach to abnormal hemostasis
+date: 2024-01-01
 ---
 # approach to abnormal hemostasis
 

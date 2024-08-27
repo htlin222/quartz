@@ -1,5 +1,6 @@
 ---
 title: Definition-acute liver failure
+date: 2024-01-01
 ---
 # Definition-acute liver failure
 

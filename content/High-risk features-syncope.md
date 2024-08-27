@@ -1,5 +1,6 @@
 ---
 title: High-risk features-syncope
+date: 2024-01-01
 ---
 # High-risk features-syncope
 

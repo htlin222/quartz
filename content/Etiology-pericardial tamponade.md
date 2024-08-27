@@ -1,5 +1,6 @@
 ---
 title: Etiology-pericardial tamponade
+date: 2024-01-01
 ---
 # Etiology-pericardial tamponade
 

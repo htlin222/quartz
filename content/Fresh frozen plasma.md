@@ -1,5 +1,6 @@
 ---
 title: Fresh frozen plasma
+date: 2024-01-01
 alias: FFP
 ---
 

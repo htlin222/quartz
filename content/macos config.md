@@ -1,5 +1,6 @@
 ---
 title: macos config
+date: 2024-01-01
 ---
 # macos config
 

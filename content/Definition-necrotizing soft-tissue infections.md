@@ -1,5 +1,6 @@
 ---
 title: Definition-necrotizing soft-tissue infections
+date: 2024-01-01
 ---
 # Definition-necrotizing soft-tissue infections
 

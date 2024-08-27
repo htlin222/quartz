@@ -1,5 +1,6 @@
 ---
 title: Transudate vs exudate
+date: 2024-01-01
 ---
 # Transudate vs exudate
 

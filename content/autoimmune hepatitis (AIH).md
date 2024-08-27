@@ -1,5 +1,6 @@
 ---
 title: autoimmune hepatitis  AIH
+date: 2024-01-01
 alias: AIH
 ---
 

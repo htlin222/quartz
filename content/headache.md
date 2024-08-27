@@ -1,5 +1,6 @@
 ---
 title: headache
+date: 2024-01-01
 ---
 # headache
 * [[Primary headache syndromes]]

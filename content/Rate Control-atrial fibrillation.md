@@ -1,5 +1,6 @@
 ---
 title: Rate Control-atrial fibrillation
+date: 2024-01-01
 ---
 
 # Rate Control-atrial fibrillation

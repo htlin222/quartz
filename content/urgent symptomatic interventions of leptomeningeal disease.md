@@ -1,5 +1,6 @@
 ---
 title: urgent symptomatic interventions of leptomeningeal disease
+date: 2024-01-01
 ---
 # urgent symptomatic interventions of leptomeningeal disease
 

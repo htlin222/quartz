@@ -1,5 +1,6 @@
 ---
 title: Allergic Transfusion reactions
+date: 2024-01-01
 ---
 # Allergic Transfusion reactions
 

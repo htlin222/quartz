@@ -1,5 +1,6 @@
 ---
 title: excursion
+date: 2024-01-01
 ---
 # excursion
 

@@ -1,5 +1,6 @@
 ---
 title: Diagnostic-studies-workup-pulmonary hypertension
+date: 2024-01-01
 ---
 # Diagnostic-studies-workup-pulmonary hypertension
 

@@ -1,5 +1,6 @@
 ---
 title: Graves’ disease
+date: 2024-01-01
 ---
 # Graves’ disease
 

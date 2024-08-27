@@ -1,5 +1,6 @@
 ---
 title: Pain
+date: 2024-01-01
 ---
 # Pain
 

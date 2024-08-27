@@ -1,5 +1,6 @@
 ---
 title: Additional Diabetes Treatment Options
+date: 2024-01-01
 ---
 # Additional Diabetes Treatment Options
 

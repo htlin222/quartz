@@ -1,5 +1,6 @@
 ---
 title: open pressure
+date: 2024-01-01
 ---
 # open pressure
 

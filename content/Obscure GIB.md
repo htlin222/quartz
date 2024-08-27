@@ -1,5 +1,6 @@
 ---
 title: Obscure GIB
+date: 2024-01-01
 ---
 # Obscure GIB
 

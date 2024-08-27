@@ -1,5 +1,6 @@
 ---
 title: Prerenal acute kidney injury etiology
+date: 2024-01-01
 ---
 # Prerenal acute kidney injury etiology
 

@@ -1,5 +1,6 @@
 ---
 title: Medical Therapy for IBD
+date: 2024-01-01
 alias: mx-IBD
 ---
 

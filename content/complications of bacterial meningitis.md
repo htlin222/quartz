@@ -1,5 +1,6 @@
 ---
 title: complications of bacterial meningitis
+date: 2024-01-01
 ---
 # complications of bacterial meningitis
 

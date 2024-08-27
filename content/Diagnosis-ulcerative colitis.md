@@ -1,5 +1,6 @@
 ---
 title: Diagnosis-ulcerative colitis
+date: 2024-01-01
 ---
 
 # Diagnosis-ulcerative colitis

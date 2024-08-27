@@ -1,5 +1,6 @@
 ---
 title: Vascular Beds Affected by Inherited and Acquired Hypercoagulable States
+date: 2024-01-01
 ---
 # Vascular Beds Affected by Inherited and Acquired Hypercoagulable States
 

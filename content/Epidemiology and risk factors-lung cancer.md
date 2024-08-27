@@ -1,5 +1,6 @@
 ---
 title: Epidemiology and risk factors-lung cancer
+date: 2024-01-01
 ---
 # Epidemiology and risk factors-lung cancer
 

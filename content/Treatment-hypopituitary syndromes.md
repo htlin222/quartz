@@ -1,5 +1,6 @@
 ---
 title: Treatment-hypopituitary syndromes
+date: 2024-01-01
 ---
 # Treatment-hypopituitary syndromes
 

@@ -1,5 +1,6 @@
 ---
 title: Treatment-hypocalcemia
+date: 2024-01-01
 ---
 # Treatment-hypocalcemia
 also treat concomitant vitamin D deficiency; Endocrine 2020;69:485

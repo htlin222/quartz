@@ -1,5 +1,6 @@
 ---
 title: dysmotility and nutrition
+date: 2024-01-01
 ---
 
 # dysmotility and nutrition

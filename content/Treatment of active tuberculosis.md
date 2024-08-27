@@ -1,5 +1,6 @@
 ---
 title: Treatment of active tuberculosis
+date: 2024-01-01
 ---
 
 # Treatment of active tuberculosis

@@ -1,5 +1,6 @@
 ---
 title: Rank the Differential Diagnosis
+date: 2024-01-01
 ---
 # Rank the Differential Diagnosis
 

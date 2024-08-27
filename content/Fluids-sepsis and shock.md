@@ -1,5 +1,6 @@
 ---
 title: Fluids-sepsis and shock
+date: 2024-01-01
 ---
 # Fluids-sepsis and shock
 

@@ -1,5 +1,6 @@
 ---
 title: Types of Cryoglobulinemia
+date: 2024-01-01
 ---
 # Types of Cryoglobulinemia
 

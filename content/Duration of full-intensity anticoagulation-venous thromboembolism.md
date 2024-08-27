@@ -1,5 +1,6 @@
 ---
 title: Duration of full-intensity anticoagulation-venous thromboembolism
+date: 2024-01-01
 ---
 # Duration of full-intensity anticoagulation-venous thromboembolism
 

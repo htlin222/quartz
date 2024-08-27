@@ -1,5 +1,6 @@
 ---
 title: Treatment-hyperosmolar hyperglycemic state
+date: 2024-01-01
 ---
 # Treatment-hyperosmolar hyperglycemic state
 

@@ -1,5 +1,6 @@
 ---
 title: Secondary causes of headaches
+date: 2024-01-01
 ---
 # Secondary causes of headaches
 

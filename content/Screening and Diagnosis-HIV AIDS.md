@@ -1,5 +1,6 @@
 ---
 title: Screening and Diagnosis-HIV AIDS
+date: 2024-01-01
 ---
 # Screening and Diagnosis-HIV AIDS
 

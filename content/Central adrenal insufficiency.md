@@ -1,5 +1,6 @@
 ---
 title: Central adrenal insufficiency
+date: 2024-01-01
 ---
 
 # Central adrenal insufficiency

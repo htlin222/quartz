@@ -1,5 +1,6 @@
 ---
 title: acute aortic syndromes
+date: 2024-01-01
 ---
 
 > [[cardiology]]

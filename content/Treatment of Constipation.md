@@ -1,5 +1,6 @@
 ---
 title: Treatment of Constipation
+date: 2024-01-01
 ---
 # Treatment of Constipation
 

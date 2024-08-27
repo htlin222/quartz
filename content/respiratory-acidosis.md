@@ -1,5 +1,6 @@
 ---
 title: respiratory-acidosis
+date: 2024-01-01
 ---
 # respiratory-acidosis
  (NEJM 1989;321:1223; Crit Care 2010;14:220)

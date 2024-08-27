@@ -1,5 +1,6 @@
 ---
 title: Classification-autoimmune hepatitis  AIH
+date: 2024-01-01
 ---
 
 # Classification-autoimmune hepatitis (AIH)

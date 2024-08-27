@@ -1,5 +1,6 @@
 ---
 title: Digoxin
+date: 2024-01-01
 ---
 
 # Digoxin

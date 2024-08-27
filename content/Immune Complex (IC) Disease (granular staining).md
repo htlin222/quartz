@@ -1,5 +1,6 @@
 ---
 title: Immune Complex (IC) Disease  granular staining 
+date: 2024-01-01
 aliases: [Immune Complex (IC) Disease (granular staining)]
 linter-yaml-title-alias: Immune Complex (IC) Disease (granular staining)
 ---

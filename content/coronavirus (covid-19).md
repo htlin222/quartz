@@ -1,5 +1,6 @@
 ---
 title: coronavirus  covid-19
+date: 2024-01-01
 alias: COVID-19
 ---
 

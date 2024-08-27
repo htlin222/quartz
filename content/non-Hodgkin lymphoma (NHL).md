@@ -15,7 +15,7 @@ enableToc: false
 - [[marginal zone lymphoma]]
 - [[mantle cell lymphoma]]
 - [[diffuse large B-cell lymphoma]]
-    - [[double_hit_and_double_expressors_in_lymphoma.md|Double hit and double expressors in lymphoma]]
+  - [[double_hit_and_double_expressors_in_lymphoma.md|Double hit and double expressors in lymphoma]]
 - [[burkitt lymphoma]]
 - [[peripheral T cell lymphoma]]
 - [[cutaneous T cell lymphoma]]

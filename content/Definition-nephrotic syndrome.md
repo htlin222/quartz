@@ -1,5 +1,6 @@
 ---
 title: Definition-nephrotic syndrome
+date: 2024-01-01
 ---
 # Definition-nephrotic syndrome
 

@@ -1,5 +1,6 @@
 ---
 title: SGLT2i in chronic kidney disease
+date: 2024-01-01
 ---
 # SGLT2i in chronic kidney disease
 

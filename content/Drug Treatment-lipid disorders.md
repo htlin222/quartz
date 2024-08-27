@@ -1,5 +1,6 @@
 ---
 title: Drug Treatment-lipid disorders
+date: 2024-01-01
 slug: "drug-treatment-lipid-disorders"
 ---
 

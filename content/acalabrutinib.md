@@ -36,4 +36,4 @@ Citations:
 [4] <https://www.cancerresearchuk.org/about-cancer/treatment/drugs/acalabrutinib>
 [5] <https://pubmed.ncbi.nlm.nih.gov/34055635/>
 
-- from [[demo]]
+- from [[smart_stop]]

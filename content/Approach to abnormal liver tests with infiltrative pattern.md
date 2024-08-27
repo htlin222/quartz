@@ -1,5 +1,6 @@
 ---
 title: Approach to abnormal liver tests with infiltrative pattern
+date: 2024-01-01
 ---
 # Approach to abnormal liver tests with infiltrative pattern
 

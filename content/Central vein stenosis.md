@@ -1,5 +1,6 @@
 ---
 title: Central vein stenosis
+date: 2024-01-01
 ---
 # Central vein stenosis
 

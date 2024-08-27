@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations-Cushing’s Syndrome
+date: 2024-01-01
 ---
 
 # Clinical manifestations-Cushing’s Syndrome

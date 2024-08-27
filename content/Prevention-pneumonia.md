@@ -1,5 +1,6 @@
 ---
 title: Prevention-pneumonia
+date: 2024-01-01
 ---
 
 # Prevention-pneumonia

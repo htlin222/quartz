@@ -9,8 +9,13 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[Miscellaneous Agents]]
+> 🌱 來自：[[Miscellaneous Agents]]
 
 # bortezomib
 
+Velcade
 
+- from [[imroz]]
+- from [[cassiopeia]]
+- from [[perseus]]
+- from [[dreamm-7]]

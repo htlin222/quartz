@@ -1,5 +1,6 @@
 ---
 title: IV Drugs for Hypertensive Crises
+date: 2024-01-01
 ---
 # IV Drugs for Hypertensive Crises
 

@@ -1,5 +1,6 @@
 ---
 title: Staging of breast cancer
+date: 2024-01-01
 ---
 # Staging of breast cancer
 

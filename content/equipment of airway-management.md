@@ -1,5 +1,6 @@
 ---
 title: equipment of airway-management
+date: 2024-01-01
 ---
 # equipment of airway-management
 

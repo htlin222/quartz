@@ -1,5 +1,6 @@
 ---
 title: buy mac
+date: 2024-01-01
 ---
 M1 256GB 16GB with AirPods 2
 NT$33,200

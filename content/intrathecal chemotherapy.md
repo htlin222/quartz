@@ -1,5 +1,6 @@
 ---
 title: intrathecal chemotherapy
+date: 2024-01-01
 ---
 # intrathecal chemotherapy
 

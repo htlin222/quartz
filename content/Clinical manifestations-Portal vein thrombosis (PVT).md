@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations-Portal vein thrombosis  PVT 
+date: 2024-01-01
 ---
 # Clinical manifestations-Portal vein thrombosis (PVT)
 

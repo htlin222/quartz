@@ -1,5 +1,6 @@
 ---
 title: Normal GFR but with ↓ renal K excretion-hyperkalemia
+date: 2024-01-01
 ---
 
 # Normal GFR but with ↓ renal K excretion-hyperkalemia

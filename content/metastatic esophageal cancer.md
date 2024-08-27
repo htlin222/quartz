@@ -1,5 +1,6 @@
 ---
 title: metastatic esophageal cancer
+date: 2024-01-01
 ---
 
 # metastatic esophageal cancer

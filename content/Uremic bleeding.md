@@ -1,5 +1,6 @@
 ---
 title: Uremic bleeding
+date: 2024-01-01
 ---
 # Uremic bleeding
 

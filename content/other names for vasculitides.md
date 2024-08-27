@@ -1,5 +1,6 @@
 ---
 title: other names for vasculitides
+date: 2024-01-01
 ---
 # other names for vasculitides
 

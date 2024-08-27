@@ -1,5 +1,6 @@
 ---
 title: inflammatory bowel disease
+date: 2024-01-01
 alias: IBD
 ---
 

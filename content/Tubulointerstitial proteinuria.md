@@ -1,5 +1,6 @@
 ---
 title: Tubulointerstitial proteinuria
+date: 2024-01-01
 ---
 # Tubulointerstitial proteinuria
 

@@ -1,5 +1,6 @@
 ---
 title: Treatment-acute mesenteric ischemia
+date: 2024-01-01
 ---
 # Treatment-acute mesenteric ischemia
 

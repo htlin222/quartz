@@ -1,5 +1,6 @@
 ---
 title: Coagulation factor inhibitors
+date: 2024-01-01
 ---
 # Coagulation factor inhibitors
 

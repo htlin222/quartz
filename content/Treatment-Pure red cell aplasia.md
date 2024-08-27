@@ -1,5 +1,6 @@
 ---
 title: Treatment-Pure red cell aplasia
+date: 2024-01-01
 ---
 # Treatment-Pure red cell aplasia
 

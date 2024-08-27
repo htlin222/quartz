@@ -1,5 +1,6 @@
 ---
 title: Treatment of Chronic HF with Reduced EF
+date: 2024-01-01
 ---
 
 # Treatment of Chronic HF with Reduced EF

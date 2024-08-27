@@ -1,5 +1,6 @@
 ---
 title: Contrast-induced acute kidney injury
+date: 2024-01-01
 ---
 # Contrast-induced acute kidney injury
 

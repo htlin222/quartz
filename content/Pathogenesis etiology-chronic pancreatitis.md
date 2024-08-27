@@ -1,5 +1,6 @@
 ---
 title: Pathogenesis etiology-chronic pancreatitis
+date: 2024-01-01
 ---
 
 # Pathogenesis etiology-chronic pancreatitis

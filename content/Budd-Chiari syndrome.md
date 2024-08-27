@@ -1,5 +1,6 @@
 ---
 title: Budd-Chiari syndrome
+date: 2024-01-01
 ---
 
 # Budd-Chiari syndrome

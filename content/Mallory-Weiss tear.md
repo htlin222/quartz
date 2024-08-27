@@ -1,5 +1,6 @@
 ---
 title: Mallory-Weiss tear
+date: 2024-01-01
 ---
 # Mallory-Weiss tear
 

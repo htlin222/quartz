@@ -1,5 +1,6 @@
 ---
 title: Definition and pathophysiology-hemoptysis
+date: 2024-01-01
 ---
 # Definition and pathophysiology-hemoptysis
 * Expectoration of blood or blood-streaked sputum

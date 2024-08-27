@@ -1,5 +1,6 @@
 ---
 title: Vitamin B12 deficiency
+date: 2024-01-01
 ---
 # Vitamin B12 deficiency
 

@@ -1,5 +1,6 @@
 ---
 title: Effect of 1 L infusion in 70-kg male
+date: 2024-01-01
 ---
 # Effect of 1 L infusion in 70-kg male
 

@@ -1,5 +1,6 @@
 ---
 title: Lactic acidosis
+date: 2024-01-01
 ---
 # Lactic acidosis
 

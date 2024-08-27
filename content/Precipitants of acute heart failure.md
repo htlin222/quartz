@@ -1,5 +1,6 @@
 ---
 title: Precipitants of acute heart failure
+date: 2024-01-01
 ---
 
 # Precipitants of acute heart failure

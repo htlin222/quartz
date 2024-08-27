@@ -1,5 +1,6 @@
 ---
 title: Definition-diabetes mellitus
+date: 2024-01-01
 ---
 # Definition-diabetes mellitus
 

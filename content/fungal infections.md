@@ -1,5 +1,6 @@
 ---
 title: fungal infections
+date: 2024-01-01
 ---
 
 qv: [[infectious disease]]

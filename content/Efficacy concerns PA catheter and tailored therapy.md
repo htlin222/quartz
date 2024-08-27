@@ -1,5 +1,6 @@
 ---
 title: Efficacy concerns PA catheter and tailored therapy
+date: 2024-01-01
 ---
 # Efficacy concerns PA catheter and tailored therapy
 

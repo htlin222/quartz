@@ -1,5 +1,6 @@
 ---
 title: Treatment-Wilson disease
+date: 2024-01-01
 ---
 # Treatment-Wilson disease
 

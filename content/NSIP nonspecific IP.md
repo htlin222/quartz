@@ -1,5 +1,6 @@
 ---
 title: NSIP nonspecific IP
+date: 2024-01-01
 ---
 # NSIP nonspecific IP
 

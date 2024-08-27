@@ -1,5 +1,6 @@
 ---
 title: Ingestions-caused-metabolic-acidosis
+date: 2024-01-01
 ---
 # Ingestions-caused-metabolic-acidosis
 

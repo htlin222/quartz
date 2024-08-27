@@ -1,5 +1,6 @@
 ---
 title: Treatment acute diarrhea
+date: 2024-01-01
 ---
 # Treatment acute diarrhea
 

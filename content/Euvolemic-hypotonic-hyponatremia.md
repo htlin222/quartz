@@ -1,5 +1,6 @@
 ---
 title: Euvolemic-hypotonic-hyponatremia
+date: 2024-01-01
 ---
 # Euvolemic-hypotonic-hyponatremia
 (ie, ↑ TBW relative to total body Na)

@@ -1,5 +1,6 @@
 ---
 title: Sinusoidal obstruction syndrome  SOS
+date: 2024-01-01
 ---
 # Sinusoidal obstruction syndrome (SOS)
 

@@ -1,5 +1,6 @@
 ---
 title: esophageal and gastric disorders
+date: 2024-01-01
 aliases: [esophageal and gastric disorders]
 linter-yaml-title-alias: esophageal and gastric disorders
 ---

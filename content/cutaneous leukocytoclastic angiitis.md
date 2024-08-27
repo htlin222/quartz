@@ -1,5 +1,6 @@
 ---
 title: cutaneous leukocytoclastic angiitis
+date: 2024-01-01
 ---
 # cutaneous leukocytoclastic angiitis
 

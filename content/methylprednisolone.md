@@ -1,5 +1,6 @@
 ---
 title: methylprednisolone
+date: 2024-01-01
 ---
 # methylprednisolone
 

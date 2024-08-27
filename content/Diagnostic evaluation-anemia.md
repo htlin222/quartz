@@ -1,5 +1,6 @@
 ---
 title: Diagnostic evaluation-anemia
+date: 2024-01-01
 ---
 
 # Diagnostic evaluation-anemia

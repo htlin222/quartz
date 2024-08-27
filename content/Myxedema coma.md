@@ -1,5 +1,6 @@
 ---
 title: Myxedema coma
+date: 2024-01-01
 ---
 # Myxedema coma
 

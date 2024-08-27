@@ -1,5 +1,6 @@
 ---
 title: Causes of Hemolytic Anemia by Mechanism
+date: 2024-01-01
 ---
 
 # Causes of Hemolytic Anemia by Mechanism

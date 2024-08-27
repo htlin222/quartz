@@ -1,5 +1,6 @@
 ---
 title: Epidemiology-tuberculosis
+date: 2024-01-01
 ---
 
 # Epidemiology-tuberculosis

@@ -1,5 +1,6 @@
 ---
 title: Ventilator Modes and Principles
+date: 2024-01-01
 ---
 # Ventilator Modes and Principles
 

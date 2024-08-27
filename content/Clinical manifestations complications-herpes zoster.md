@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations complications-herpes zoster
+date: 2024-01-01
 ---
 # Clinical manifestations complications-herpes zoster
 

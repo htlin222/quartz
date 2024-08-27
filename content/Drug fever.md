@@ -1,5 +1,6 @@
 ---
 title: Drug fever
+date: 2024-01-01
 ---
 # Drug fever
 

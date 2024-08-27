@@ -1,5 +1,6 @@
 ---
 title: Anemias of other chronic disorders
+date: 2024-01-01
 ---
 # Anemias of other chronic disorders
 

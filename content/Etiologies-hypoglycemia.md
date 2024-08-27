@@ -1,5 +1,6 @@
 ---
 title: Etiologies-hypoglycemia
+date: 2024-01-01
 ---
 # Etiologies-hypoglycemia
 

@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations of acute coronary syndromes
+date: 2024-01-01
 ---
 
 # Clinical manifestations of acute coronary syndromes

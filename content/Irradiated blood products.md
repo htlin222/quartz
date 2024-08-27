@@ -1,5 +1,6 @@
 ---
 title: Irradiated blood products
+date: 2024-01-01
 ---
 # Irradiated blood products
 

@@ -1,5 +1,6 @@
 ---
 title: Antituberculous Treatment Regimens
+date: 2024-01-01
 ---
 
 # Antituberculous Treatment Regimens

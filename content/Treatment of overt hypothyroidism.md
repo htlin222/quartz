@@ -1,5 +1,6 @@
 ---
 title: Treatment of overt hypothyroidism
+date: 2024-01-01
 ---
 
 # Treatment of overt hypothyroidism

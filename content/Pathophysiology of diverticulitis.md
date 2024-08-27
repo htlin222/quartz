@@ -1,5 +1,6 @@
 ---
 title: Pathophysiology of diverticulitis
+date: 2024-01-01
 ---
 # Pathophysiology of diverticulitis
 

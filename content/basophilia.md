@@ -1,5 +1,6 @@
 ---
 title: basophilia
+date: 2024-01-01
 ---
 # basophilia
 

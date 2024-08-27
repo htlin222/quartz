@@ -1,5 +1,6 @@
 ---
 title: Primary hyperparathyroidism
+date: 2024-01-01
 ---
 
 # Primary hyperparathyroidism

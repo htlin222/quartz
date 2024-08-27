@@ -1,5 +1,6 @@
 ---
 title: Leuko-reduced blood products
+date: 2024-01-01
 ---
 # Leuko-reduced blood products
 

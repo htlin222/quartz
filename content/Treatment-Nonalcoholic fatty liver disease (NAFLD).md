@@ -1,5 +1,6 @@
 ---
 title: Treatment-Nonalcoholic fatty liver disease  NAFLD 
+date: 2024-01-01
 ---
 # Treatment-Nonalcoholic fatty liver disease (NAFLD)
 

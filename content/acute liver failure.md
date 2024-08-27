@@ -1,5 +1,6 @@
 ---
 title: acute liver failure
+date: 2024-01-01
 alias: ALF
 ---
 

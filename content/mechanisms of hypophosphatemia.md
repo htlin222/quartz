@@ -1,5 +1,6 @@
 ---
 title: mechanisms of hypophosphatemia
+date: 2024-01-01
 ---
 # mechanisms of hypophosphatemia
 

@@ -1,5 +1,6 @@
 ---
 title: rapid progressive glomerulonephritis  RPGN 
+date: 2024-01-01
 ---
 # rapid progressive glomerulonephritis (RPGN)
 

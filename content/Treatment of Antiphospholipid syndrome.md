@@ -1,5 +1,6 @@
 ---
 title: Treatment of Antiphospholipid syndrome
+date: 2024-01-01
 ---
 # Treatment of Antiphospholipid syndrome
 

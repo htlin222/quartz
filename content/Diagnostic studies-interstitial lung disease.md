@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies-interstitial lung disease
+date: 2024-01-01
 ---
 # Diagnostic studies-interstitial lung disease
 

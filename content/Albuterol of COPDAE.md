@@ -1,5 +1,6 @@
 ---
 title: Albuterol of COPDAE
+date: 2024-01-01
 ---
 
 👉 [[COPD Exacerbation Treatment]]

@@ -1,5 +1,6 @@
 ---
 title: Type of Idiopathic interstitial pneumonias  IIPs
+date: 2024-01-01
 ---
 # Type of Idiopathic interstitial pneumonias (IIPs)
 

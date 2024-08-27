@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies-pheochromocytoma and paraganglioma
+date: 2024-01-01
 ---
 # Diagnostic studies-pheochromocytoma and paraganglioma
 

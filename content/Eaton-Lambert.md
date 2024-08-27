@@ -1,5 +1,6 @@
 ---
 title: Eaton-Lambert
+date: 2024-01-01
 ---
 # Eaton-Lambert
 

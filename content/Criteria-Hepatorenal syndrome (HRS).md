@@ -1,5 +1,6 @@
 ---
 title: Criteria-Hepatorenal syndrome  HRS 
+date: 2024-01-01
 ---
 # Criteria-Hepatorenal syndrome (HRS)
 

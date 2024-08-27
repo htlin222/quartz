@@ -1,5 +1,6 @@
 ---
 title: Etiologies-acute pancreatitis
+date: 2024-01-01
 ---
 # Etiologies-acute pancreatitis
 

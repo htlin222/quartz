@@ -1,5 +1,6 @@
 ---
 title: Antiphospholipid syndrome  APS
+date: 2024-01-01
 ---
 # Antiphospholipid syndrome (APS)
 

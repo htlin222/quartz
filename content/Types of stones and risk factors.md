@@ -1,5 +1,6 @@
 ---
 title: Types of stones and risk factors
+date: 2024-01-01
 tags:
   - building
 ---

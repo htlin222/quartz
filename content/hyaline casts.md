@@ -1,5 +1,6 @@
 ---
 title: hyaline casts
+date: 2024-01-01
 ---
 # hyaline casts
 

@@ -1,5 +1,6 @@
 ---
 title: Exposure-interstitial lung disease
+date: 2024-01-01
 ---
 # Exposure-interstitial lung disease
 

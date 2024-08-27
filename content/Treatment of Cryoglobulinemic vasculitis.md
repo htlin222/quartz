@@ -1,5 +1,6 @@
 ---
 title: Treatment of Cryoglobulinemic vasculitis
+date: 2024-01-01
 ---
 # Treatment of Cryoglobulinemic vasculitis
 

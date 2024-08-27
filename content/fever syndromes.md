@@ -1,5 +1,6 @@
 ---
 title: fever syndromes
+date: 2024-01-01
 ---
 # fever syndromes
 

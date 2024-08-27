@@ -1,5 +1,6 @@
 ---
 title: Pel-Ebstein fever
+date: 2024-01-01
 ---
 # Pel-Ebstein fever
 

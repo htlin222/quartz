@@ -1,5 +1,6 @@
 ---
 title: Role of hematopoietic growth factors
+date: 2024-01-01
 ---
 # Role of hematopoietic growth factors
 

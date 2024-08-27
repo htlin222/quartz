@@ -1,5 +1,6 @@
 ---
 title: computed tomogram in central nervous system infection
+date: 2024-01-01
 ---
 # computed tomogram in central nervous system infection
 

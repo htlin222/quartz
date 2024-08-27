@@ -1,5 +1,6 @@
 ---
 title: Diagnosis-sexually transmitted infections
+date: 2024-01-01
 ---
 # Diagnosis-sexually transmitted infections
 

@@ -1,5 +1,6 @@
 ---
 title: Amiodarone
+date: 2024-01-01
 ---
 # Amiodarone
 

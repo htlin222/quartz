@@ -1,5 +1,6 @@
 ---
 title: Molecular description of lymphoma
+date: 2024-01-01
 ---
 # Molecular description of lymphoma
 

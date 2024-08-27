@@ -1,5 +1,6 @@
 ---
 title: Pathophysiology-hyponatremia
+date: 2024-01-01
 ---
 # Pathophysiology-hyponatremia
  (JASN 2008;19:1076; NEJM 2015;372:1349)

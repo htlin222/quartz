@@ -1,5 +1,6 @@
 ---
 title: Lymphocytic pleocytosis
+date: 2024-01-01
 ---
 # Lymphocytic pleocytosis
 

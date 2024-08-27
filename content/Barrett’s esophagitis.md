@@ -1,5 +1,6 @@
 ---
 title: Barrett’s esophagitis
+date: 2024-01-01
 ---
 # Barrett’s esophagitis
 

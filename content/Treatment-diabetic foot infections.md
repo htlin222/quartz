@@ -1,5 +1,6 @@
 ---
 title: Treatment-diabetic foot infections
+date: 2024-01-01
 ---
 # Treatment-diabetic foot infections
 

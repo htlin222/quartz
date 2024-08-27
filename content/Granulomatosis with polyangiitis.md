@@ -1,5 +1,6 @@
 ---
 title: Granulomatosis with polyangiitis
+date: 2024-01-01
 ---
 # Granulomatosis with polyangiitis
 

@@ -1,5 +1,6 @@
 ---
 title: Diagnosis-osteomyelitis
+date: 2024-01-01
 ---
 # Diagnosis-osteomyelitis
 

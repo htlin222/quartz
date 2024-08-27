@@ -1,5 +1,6 @@
 ---
 title: Thyroid nodules
+date: 2024-01-01
 ---
 # Thyroid nodules
 

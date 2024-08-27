@@ -1,5 +1,6 @@
 ---
 title: Types of gallstones-cholelithiasis
+date: 2024-01-01
 ---
 # Types of gallstones-cholelithiasis
 

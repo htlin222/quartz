@@ -1,5 +1,6 @@
 ---
 title: neurologic critical care
+date: 2024-01-01
 ---
 # neurologic critical care
 

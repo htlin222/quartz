@@ -1,5 +1,6 @@
 ---
 title: Cancer screening of inflammatory bowel disease
+date: 2024-01-01
 alias: ca-IBD
 ---
 

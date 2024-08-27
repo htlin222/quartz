@@ -1,5 +1,6 @@
 ---
 title: aura
+date: 2024-01-01
 ---
 # aura
 

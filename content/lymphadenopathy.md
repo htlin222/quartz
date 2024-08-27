@@ -1,5 +1,6 @@
 ---
 title: lymphadenopathy
+date: 2024-01-01
 ---
 # lymphadenopathy
 

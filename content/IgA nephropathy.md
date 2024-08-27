@@ -1,5 +1,6 @@
 ---
 title: IgA nephropathy
+date: 2024-01-01
 ---
 # IgA nephropathy
 

@@ -1,5 +1,6 @@
 ---
 title: Workup-nephrotic syndrome
+date: 2024-01-01
 ---
 # Workup-nephrotic syndrome
 

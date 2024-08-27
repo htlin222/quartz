@@ -1,5 +1,6 @@
 ---
 title: Treatment of SIADH
+date: 2024-01-01
 ---
 # Treatment of SIADH
 

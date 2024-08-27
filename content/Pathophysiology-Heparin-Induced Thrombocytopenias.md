@@ -1,5 +1,6 @@
 ---
 title: Pathophysiology-Heparin-Induced Thrombocytopenias
+date: 2024-01-01
 ---
 # Pathophysiology-Heparin-Induced Thrombocytopenias
 

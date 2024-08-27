@@ -1,5 +1,6 @@
 ---
 title: ischemic colitis
+date: 2024-01-01
 ---
 # ischemic colitis
 

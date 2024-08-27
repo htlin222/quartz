@@ -1,5 +1,6 @@
 ---
 title: Etiologies of Hypocalcemia
+date: 2024-01-01
 ---
 # Etiologies of Hypocalcemia
 [[Laboratory Findings in Calcium Disorders]]

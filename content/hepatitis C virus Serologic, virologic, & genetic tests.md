@@ -1,5 +1,6 @@
 ---
 title: hepatitis C virus Serologic, virologic, & genetic tests
+date: 2024-01-01
 ---
 
 # hepatitis C virus Serologic, virologic, & genetic tests

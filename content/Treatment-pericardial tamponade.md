@@ -1,5 +1,6 @@
 ---
 title: Treatment-pericardial tamponade
+date: 2024-01-01
 ---
 # Treatment-pericardial tamponade
 

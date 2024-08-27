@@ -1,5 +1,6 @@
 ---
 title: Treatment-fever of unknown origin
+date: 2024-01-01
 ---
 # Treatment-fever of unknown origin
 

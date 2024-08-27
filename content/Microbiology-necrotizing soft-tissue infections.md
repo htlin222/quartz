@@ -1,5 +1,6 @@
 ---
 title: Microbiology-necrotizing soft-tissue infections
+date: 2024-01-01
 ---
 # Microbiology-necrotizing soft-tissue infections
 > Necrotizing soft tissue infections  = NSTI

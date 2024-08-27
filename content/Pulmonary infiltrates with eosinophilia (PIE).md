@@ -1,5 +1,6 @@
 ---
 title: Pulmonary infiltrates with eosinophilia  PIE 
+date: 2024-01-01
 ---
 
 # Pulmonary infiltrates with eosinophilia (PIE)

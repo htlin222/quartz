@@ -1,5 +1,6 @@
 ---
 title: Pneumocystis jiroveci  PCP  pneumonia
+date: 2024-01-01
 ---
 # Pneumocystis jiroveci (PCP) pneumonia
 

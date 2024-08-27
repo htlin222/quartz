@@ -1,5 +1,6 @@
 ---
 title: Classic tachycardias of WPW accessory pathways
+date: 2024-01-01
 ---
 # Classic tachycardias of WPW accessory pathways
 

@@ -1,5 +1,6 @@
 ---
 title: Complications of HTN
+date: 2024-01-01
 ---
 
 # Complications of HTN

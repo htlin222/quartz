@@ -1,5 +1,6 @@
 ---
 title: The Effect of Advances in Lung-Cancer Treatment on Population Mortality
+date: 2024-01-01
 ---
 # The Effect of Advances in Lung-Cancer Treatment on Population Mortality
 

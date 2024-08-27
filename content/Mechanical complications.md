@@ -1,5 +1,6 @@
 ---
 title: Mechanical complications
+date: 2024-01-01
 ---
 # Mechanical complications
 Mechanical complications (incid. <1% for each; typically occur a few days post-MI)

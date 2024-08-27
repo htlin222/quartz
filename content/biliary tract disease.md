@@ -1,5 +1,6 @@
 ---
 title: biliary tract disease
+date: 2024-01-01
 ---
 # biliary tract disease
 * [[cholelithiasis]]

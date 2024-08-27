@@ -1,5 +1,6 @@
 ---
 title: Approach to metabolic acidosis
+date: 2024-01-01
 ---
 # Approach to metabolic acidosis
 

@@ -1,5 +1,6 @@
 ---
 title: positioning-airway-management
+date: 2024-01-01
 ---
 # positioning-airway-management
 

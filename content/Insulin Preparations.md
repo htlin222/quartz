@@ -1,5 +1,6 @@
 ---
 title: Insulin Preparations
+date: 2024-01-01
 ---
 # Insulin Preparations
 

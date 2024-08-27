@@ -1,5 +1,6 @@
 ---
 title: colonoscopy for LGIB
+date: 2024-01-01
 ---
 # colonoscopy for LGIB
 

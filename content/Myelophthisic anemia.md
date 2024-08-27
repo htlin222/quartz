@@ -1,5 +1,6 @@
 ---
 title: Myelophthisic anemia
+date: 2024-01-01
 ---
 # Myelophthisic anemia
 

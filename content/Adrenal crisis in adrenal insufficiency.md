@@ -1,5 +1,6 @@
 ---
 title: Adrenal crisis in adrenal insufficiency
+date: 2024-01-01
 ---
 # Adrenal crisis in adrenal insufficiency
 

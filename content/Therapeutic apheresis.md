@@ -1,5 +1,6 @@
 ---
 title: Therapeutic apheresis
+date: 2024-01-01
 ---
 # Therapeutic apheresis
 

@@ -22,3 +22,4 @@ AML 是：老年患者中最常見的 → 急性白血病，診斷時的 → 中
 - [[prognosis of acute myelogenous leukemia (AML)]]
 - [[acute promyelocytic leukemia (APL)]]
 - [[topics-of-acute myelogenous leukemia.md|Topics-of-acute myelogenous leukemia]]
+- 2024-08-24 [[flt3_mutation_in_aml.md|FLT3 mutation in AML]]

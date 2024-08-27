@@ -1,5 +1,6 @@
 ---
 title: Scleroderma renal crisis
+date: 2024-01-01
 ---
 # Scleroderma renal crisis
 

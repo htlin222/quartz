@@ -1,5 +1,6 @@
 ---
 title: Drug-induced hemolytic anemia
+date: 2024-01-01
 ---
 # Drug-induced hemolytic anemia
 

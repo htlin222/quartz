@@ -1,5 +1,6 @@
 ---
 title: hypertrophic pulm osteoarthropathy
+date: 2024-01-01
 ---
 # hypertrophic pulm osteoarthropathy
 

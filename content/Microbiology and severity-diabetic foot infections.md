@@ -1,5 +1,6 @@
 ---
 title: Microbiology and severity-diabetic foot infections
+date: 2024-01-01
 ---
 # Microbiology and severity-diabetic foot infections
 

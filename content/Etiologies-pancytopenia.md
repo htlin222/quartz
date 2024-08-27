@@ -1,5 +1,6 @@
 ---
 title: Etiologies-pancytopenia
+date: 2024-01-01
 ---
 # Etiologies-pancytopenia
 

@@ -1,5 +1,6 @@
 ---
 title: Diagnostic evaluation-hemolytic anemias
+date: 2024-01-01
 ---
 
 # Diagnostic evaluation-hemolytic anemias

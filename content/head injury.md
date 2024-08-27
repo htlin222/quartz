@@ -1,5 +1,6 @@
 ---
 title: head injury
+date: 2024-01-01
 ---
 # head injury
 

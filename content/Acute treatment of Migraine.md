@@ -1,5 +1,6 @@
 ---
 title: Acute treatment of Migraine
+date: 2024-01-01
 ---
 # Acute treatment of Migraine
 

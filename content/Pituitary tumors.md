@@ -1,5 +1,6 @@
 ---
 title: Pituitary tumors
+date: 2024-01-01
 ---
 
 # Pituitary tumors

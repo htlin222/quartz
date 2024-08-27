@@ -1,5 +1,6 @@
 ---
 title: drugs routinely used for intrathecal application
+date: 2024-01-01
 ---
 # drugs routinely used for intrathecal application
 

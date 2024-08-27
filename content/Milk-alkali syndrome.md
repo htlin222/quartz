@@ -1,5 +1,6 @@
 ---
 title: Milk-alkali syndrome
+date: 2024-01-01
 ---
 # Milk-alkali syndrome
 

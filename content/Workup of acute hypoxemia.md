@@ -1,5 +1,6 @@
 ---
 title: Workup of acute hypoxemia
+date: 2024-01-01
 ---
 # Workup of acute hypoxemia
 

@@ -1,5 +1,6 @@
 ---
 title: Indications for Permanent Pacing
+date: 2024-01-01
 ---
 # Indications for Permanent Pacing
 

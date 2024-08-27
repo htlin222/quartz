@@ -1,5 +1,6 @@
 ---
 title: Definition of fever and neutropenia
+date: 2024-01-01
 ---
 # Definition of fever and neutropenia
 

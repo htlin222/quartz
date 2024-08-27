@@ -1,5 +1,6 @@
 ---
 title: Spontaneous bacterial peritonitis  SBP
+date: 2024-01-01
 ---
 
 # Spontaneous bacterial peritonitis

@@ -1,5 +1,6 @@
 ---
 title: risk factor of delirium
+date: 2024-01-01
 ---
 # risk factor of delirium
 

@@ -1,5 +1,6 @@
 ---
 title: Complications-cholecystitis
+date: 2024-01-01
 ---
 # Complications- [[cholecystitis]]
 

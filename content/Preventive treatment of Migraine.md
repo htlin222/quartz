@@ -1,5 +1,6 @@
 ---
 title: Preventive treatment of Migraine
+date: 2024-01-01
 ---
 # Preventive treatment of Migraine
 

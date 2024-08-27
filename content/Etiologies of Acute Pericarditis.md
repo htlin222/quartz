@@ -1,5 +1,6 @@
 ---
 title: Etiologies of Acute Pericarditis
+date: 2024-01-01
 ---
 
 # Etiologies of Acute Pericarditis

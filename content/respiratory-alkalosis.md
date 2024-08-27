@@ -1,5 +1,6 @@
 ---
 title: respiratory-alkalosis
+date: 2024-01-01
 ---
 # respiratory-alkalosis
 

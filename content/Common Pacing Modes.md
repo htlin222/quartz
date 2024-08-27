@@ -1,5 +1,6 @@
 ---
 title: Common Pacing Modes
+date: 2024-01-01
 ---
 # Common Pacing Modes
 ## VVI

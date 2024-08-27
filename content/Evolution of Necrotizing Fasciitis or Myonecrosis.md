@@ -1,5 +1,6 @@
 ---
 title: Evolution of Necrotizing Fasciitis or Myonecrosis
+date: 2024-01-01
 ---
 # Evolution of Necrotizing Fasciitis or Myonecrosis
 

@@ -1,5 +1,6 @@
 ---
 title: Thrombocytopenia and Risk of Bleeding
+date: 2024-01-01
 ---
 
 # Thrombocytopenia and Risk of Bleeding

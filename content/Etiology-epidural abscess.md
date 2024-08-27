@@ -1,5 +1,6 @@
 ---
 title: Etiology-epidural abscess
+date: 2024-01-01
 ---
 # Etiology-epidural abscess
 

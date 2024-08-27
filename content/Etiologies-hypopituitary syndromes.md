@@ -1,5 +1,6 @@
 ---
 title: Etiologies-hypopituitary syndromes
+date: 2024-01-01
 ---
 # Etiologies-hypopituitary syndromes
 

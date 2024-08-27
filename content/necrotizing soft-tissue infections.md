@@ -1,5 +1,6 @@
 ---
 title: necrotizing soft-tissue infections
+date: 2024-01-01
 ---
 # necrotizing soft-tissue infections
 (NEJM 2017;377:2253)

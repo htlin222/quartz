@@ -1,5 +1,6 @@
 ---
 title: Bleeding Treatment for idiopathic thrombocytopenic purpura
+date: 2024-01-01
 ---
 
 - from: [[Treatment of Primary ITP in Adults]] 󰒖

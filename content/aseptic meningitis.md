@@ -1,5 +1,6 @@
 ---
 title: aseptic meningitis
+date: 2024-01-01
 ---
 # aseptic meningitis
 

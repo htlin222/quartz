@@ -1,5 +1,6 @@
 ---
 title: Cardiac resynch therapy (CRT) Biventricular  BiV  pacing
+date: 2024-01-01
 ---
 # Cardiac resynch therapy (CRT) Biventricular (BiV) pacing
 

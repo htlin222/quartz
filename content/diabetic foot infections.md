@@ -1,5 +1,6 @@
 ---
 title: diabetic foot infections
+date: 2024-01-01
 ---
 # diabetic foot infections
 

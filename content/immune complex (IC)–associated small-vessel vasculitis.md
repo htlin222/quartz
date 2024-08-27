@@ -1,5 +1,6 @@
 ---
 title: immune complex  IC –associated small-vessel vasculitis
+date: 2024-01-01
 ---
 # immune complex (IC)–associated small-vessel vasculitis
 

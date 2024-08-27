@@ -1,5 +1,6 @@
 ---
 title: Broad categories-interstitial lung disease
+date: 2024-01-01
 ---
 # Broad categories-interstitial lung disease
 

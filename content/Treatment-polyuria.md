@@ -1,5 +1,6 @@
 ---
 title: Treatment-polyuria
+date: 2024-01-01
 ---
 
 # Treatment-polyuria

@@ -1,5 +1,6 @@
 ---
 title: Thalassemias
+date: 2024-01-01
 ---
 
 # Thalassemias

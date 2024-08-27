@@ -1,5 +1,6 @@
 ---
 title: Severity of Asthma Exacerbation
+date: 2024-01-01
 ---
 # Severity of Asthma Exacerbation
 

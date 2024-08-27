@@ -1,5 +1,6 @@
 ---
 title: Rate of correction of hypernatremia
+date: 2024-01-01
 ---
 # Rate of correction of hypernatremia
 

@@ -1,5 +1,6 @@
 ---
 title: IV immune globulin
+date: 2024-01-01
 ---
 # IV immune globulin
 

@@ -1,5 +1,6 @@
 ---
 title: Indications for surgery-bacterial endocarditis
+date: 2024-01-01
 ---
 # Indications for surgery-bacterial endocarditis
 

@@ -1,5 +1,6 @@
 ---
 title: Principles of Imaging in Vasculitides
+date: 2024-01-01
 ---
 # Principles of Imaging in Vasculitides
 

@@ -1,5 +1,6 @@
 ---
 title: Pathology pathogenesis esophageal cancer
+date: 2024-01-01
 ---
 # Pathology pathogenesis esophageal cancer
 ## Squamous cell carcinoma

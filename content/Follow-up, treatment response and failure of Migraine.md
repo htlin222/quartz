@@ -1,5 +1,6 @@
 ---
 title: Follow-up, treatment response and failure of Migraine
+date: 2024-01-01
 ---
 # Follow-up, treatment response and failure of Migraine
 

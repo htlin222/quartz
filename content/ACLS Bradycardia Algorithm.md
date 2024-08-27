@@ -1,5 +1,6 @@
 ---
 title: ACLS Bradycardia Algorithm
+date: 2024-01-01
 ---
 # ACLS Bradycardia Algorithm
 

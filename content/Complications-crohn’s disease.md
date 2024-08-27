@@ -1,5 +1,6 @@
 ---
 title: Complications-crohn’s disease
+date: 2024-01-01
 ---
 # Complications-crohn’s disease
 

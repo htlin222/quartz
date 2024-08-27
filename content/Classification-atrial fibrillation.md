@@ -1,5 +1,6 @@
 ---
 title: Classification-atrial fibrillation
+date: 2024-01-01
 ---
 # Classification-atrial fibrillation
 (Circ 2014;130:e199)

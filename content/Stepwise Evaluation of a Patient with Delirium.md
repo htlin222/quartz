@@ -1,5 +1,6 @@
 ---
 title: Stepwise Evaluation of a Patient with Delirium
+date: 2024-01-01
 ---
 # Stepwise Evaluation of a Patient with Delirium
 

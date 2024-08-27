@@ -1,5 +1,6 @@
 ---
 title: Definitions-skin and soft tissue infections
+date: 2024-01-01
 ---
 # Definitions-skin and soft tissue infections
 

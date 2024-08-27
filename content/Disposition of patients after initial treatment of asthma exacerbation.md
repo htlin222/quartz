@@ -1,5 +1,6 @@
 ---
 title: Disposition of patients after initial treatment of asthma exacerbation
+date: 2024-01-01
 ---
 # Disposition of patients after initial treatment of asthma exacerbation
 

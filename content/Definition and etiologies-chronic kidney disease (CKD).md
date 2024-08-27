@@ -1,5 +1,6 @@
 ---
 title: Definition and etiologies-chronic kidney disease  CKD 
+date: 2024-01-01
 ---
 # Definition and etiologies-chronic kidney disease (CKD)
 

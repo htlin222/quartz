@@ -1,5 +1,6 @@
 ---
 title: Risk factors-venous thromboembolism
+date: 2024-01-01
 ---
 # Risk factors-venous thromboembolism
 

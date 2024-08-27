@@ -1,5 +1,6 @@
 ---
 title: Cryoglobulinemic vasculitis
+date: 2024-01-01
 ---
 # Cryoglobulinemic vasculitis
 

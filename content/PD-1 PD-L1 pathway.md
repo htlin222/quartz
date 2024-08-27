@@ -1,5 +1,6 @@
 ---
 title: PD-1 PD-L1 pathway
+date: 2024-01-01
 ---
 # PD-1 PD-L1 pathway
 ### Programmed Cell Death Protein 1 (PD-1)

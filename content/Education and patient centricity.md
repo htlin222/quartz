@@ -1,5 +1,6 @@
 ---
 title: Education and patient centricity
+date: 2024-01-01
 ---
 # Education and patient centricity
 

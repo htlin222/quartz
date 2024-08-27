@@ -1,5 +1,6 @@
 ---
 title: Treatment of Alchololic-associated hepatitis
+date: 2024-01-01
 ---
 # Treatment of Alchololic-associated hepatitis
 

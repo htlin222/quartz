@@ -1,5 +1,6 @@
 ---
 title: Orthostatic proteinuria
+date: 2024-01-01
 ---
 # Orthostatic proteinuria
 

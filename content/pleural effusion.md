@@ -1,5 +1,6 @@
 ---
 title: pleural effusion
+date: 2024-01-01
 ---
 
 from [[pulmonology]] 🫁

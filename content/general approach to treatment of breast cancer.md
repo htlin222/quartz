@@ -1,5 +1,6 @@
 ---
 title: general approach to treatment of breast cancer
+date: 2024-01-01
 ---
 # general approach to treatment of breast cancer
 

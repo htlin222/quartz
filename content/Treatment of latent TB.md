@@ -1,5 +1,6 @@
 ---
 title: Treatment of latent TB
+date: 2024-01-01
 ---
 
 # Treatment of latent TB

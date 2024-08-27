@@ -1,5 +1,6 @@
 ---
 title: Appearance of cerebrospinal fluid
+date: 2024-01-01
 ---
 # Appearance of cerebrospinal fluid
 

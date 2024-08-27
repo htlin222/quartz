@@ -1,5 +1,6 @@
 ---
 title: cholelithiasis
+date: 2024-01-01
 ---
 # cholelithiasis
 * [[Epidemiology  pathogenesis-cholelithiasis]]

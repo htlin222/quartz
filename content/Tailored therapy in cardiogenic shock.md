@@ -1,5 +1,6 @@
 ---
 title: Tailored therapy in cardiogenic shock 
+date: 2024-01-01
 ---
 # Tailored therapy in cardiogenic shock 
 

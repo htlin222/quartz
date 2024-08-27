@@ -1,5 +1,6 @@
 ---
 title: autoimmune pancreatitis
+date: 2024-01-01
 alias: AIP
 ---
 

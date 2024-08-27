@@ -1,5 +1,6 @@
 ---
 title: Anemia in chronic kidney disease
+date: 2024-01-01
 ---
 # Anemia in chronic kidney disease
 

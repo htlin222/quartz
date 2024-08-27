@@ -1,5 +1,6 @@
 ---
 title: Risk Factors and Screening
+date: 2024-01-01
 ---
 # Risk Factors and Screening
 

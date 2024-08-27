@@ -1,5 +1,6 @@
 ---
 title: Approach to Diuresis
+date: 2024-01-01
 ---
 
 # Approach to Diuresis

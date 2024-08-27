@@ -1,5 +1,6 @@
 ---
 title: Outpatient screening and treatment goals-diabetes mellitus
+date: 2024-01-01
 ---
 # Outpatient screening and treatment goals-diabetes mellitus
 

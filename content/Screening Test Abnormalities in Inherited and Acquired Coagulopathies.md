@@ -1,5 +1,6 @@
 ---
 title: Screening Test Abnormalities in Inherited and Acquired Coagulopathies
+date: 2024-01-01
 ---
 # Screening Test Abnormalities in Inherited and Acquired Coagulopathies
 

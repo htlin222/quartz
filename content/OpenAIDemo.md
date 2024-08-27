@@ -1,5 +1,6 @@
 ---
 title: OpenAIDemo
+date: 2024-01-01
 ---
 What are the treatment of lung cancer
 

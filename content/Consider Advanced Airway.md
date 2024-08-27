@@ -1,5 +1,6 @@
 ---
 title: Consider Advanced Airway
+date: 2024-01-01
 ---
 # Consider Advanced Airway
 

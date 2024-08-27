@@ -1,5 +1,6 @@
 ---
 title: Cutaneous arteritis
+date: 2024-01-01
 ---
 # Cutaneous arteritis
 

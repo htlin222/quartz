@@ -1,5 +1,6 @@
 ---
 title: Recurrent infection-clostridioides difficile infection
+date: 2024-01-01
 ---
 # Recurrent infection-clostridioides difficile infection
 

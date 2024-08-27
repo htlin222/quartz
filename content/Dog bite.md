@@ -1,5 +1,6 @@
 ---
 title: Dog bite
+date: 2024-01-01
 ---
 # Dog bite
 

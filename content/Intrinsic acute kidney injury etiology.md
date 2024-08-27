@@ -1,5 +1,6 @@
 ---
 title: Intrinsic acute kidney injury etiology
+date: 2024-01-01
 ---
 # Intrinsic acute kidney injury etiology
 

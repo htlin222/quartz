@@ -1,5 +1,6 @@
 ---
 title: King’s College Criteria for Liver Transplantation consideration
+date: 2024-01-01
 ---
 # King’s College Criteria for Liver Transplantation consideration
 

@@ -1,5 +1,6 @@
 ---
 title: Etiology-acute liver failure
+date: 2024-01-01
 ---
 # Etiology-acute liver failure
 

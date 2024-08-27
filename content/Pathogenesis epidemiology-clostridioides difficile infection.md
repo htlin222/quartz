@@ -1,5 +1,6 @@
 ---
 title: Pathogenesis epidemiology-clostridioides difficile infection
+date: 2024-01-01
 ---
 # Pathogenesis epidemiology-clostridioides difficile infection
 

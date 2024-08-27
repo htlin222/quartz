@@ -1,5 +1,6 @@
 ---
 title: Imaging studies of acute pancreatitis
+date: 2024-01-01
 ---
 # Imaging studies of acute pancreatitis
 

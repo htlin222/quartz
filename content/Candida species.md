@@ -1,5 +1,6 @@
 ---
 title: Candida species
+date: 2024-01-01
 ---
 
 # Candida species

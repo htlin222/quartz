@@ -1,5 +1,6 @@
 ---
 title: Chest Discomfort
+date: 2024-01-01
 ---
 # Chest Discomfort
 

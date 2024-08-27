@@ -1,5 +1,6 @@
 ---
 title: Localization of MI
+date: 2024-01-01
 ---
 
 # Localization of MI

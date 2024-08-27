@@ -1,5 +1,6 @@
 ---
 title: initial test of hypophosphatemia
+date: 2024-01-01
 ---
 # initial test of hypophosphatemia
 - serum calcium, vitamin D, and parathyroid hormone levels;

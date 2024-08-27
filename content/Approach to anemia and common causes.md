@@ -1,5 +1,6 @@
 ---
 title: Approach to anemia and common causes
+date: 2024-01-01
 ---
 # Approach to anemia and common causes
 

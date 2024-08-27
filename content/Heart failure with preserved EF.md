@@ -1,5 +1,6 @@
 ---
 title: Heart failure with preserved EF
+date: 2024-01-01
 ---
 
 # Heart failure with preserved EF

@@ -1,5 +1,6 @@
 ---
 title: chronic kidney disease  CKD
+date: 2024-01-01
 ---
 
 # chronic kidney disease (CKD)

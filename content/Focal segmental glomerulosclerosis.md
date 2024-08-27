@@ -1,5 +1,6 @@
 ---
 title: Focal segmental glomerulosclerosis
+date: 2024-01-01
 ---
 # Focal segmental glomerulosclerosis
 

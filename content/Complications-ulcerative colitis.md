@@ -1,5 +1,6 @@
 ---
 title: Complications-ulcerative colitis
+date: 2024-01-01
 ---
 # Complications-ulcerative colitis
 

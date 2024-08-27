@@ -1,5 +1,6 @@
 ---
 title: Primary central nervous system vasculitis
+date: 2024-01-01
 ---
 # Primary central nervous system vasculitis
 

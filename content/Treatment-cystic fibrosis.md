@@ -1,5 +1,6 @@
 ---
 title: Treatment-cystic fibrosis
+date: 2024-01-01
 ---
 # Treatment-cystic fibrosis
 

@@ -1,5 +1,6 @@
 ---
 title: abnormal liver tests
+date: 2024-01-01
 ---
 
 # abnormal liver tests

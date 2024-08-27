@@ -1,5 +1,6 @@
 ---
 title: positive and negative predictive values of tests
+date: 2024-01-01
 ---
 # positive and negative predictive values of tests
 

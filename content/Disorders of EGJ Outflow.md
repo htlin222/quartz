@@ -1,5 +1,6 @@
 ---
 title: Disorders of EGJ Outflow
+date: 2024-01-01
 ---
 # Disorders of EGJ Outflow
 

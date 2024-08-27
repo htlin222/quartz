@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies-hypercalcemia
+date: 2024-01-01
 ---
 # Diagnostic studies-hypercalcemia
 

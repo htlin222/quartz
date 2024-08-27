@@ -1,5 +1,6 @@
 ---
 title: Definition and pathophysiology-cystic fibrosis
+date: 2024-01-01
 ---
 # Definition and pathophysiology-cystic fibrosis
 

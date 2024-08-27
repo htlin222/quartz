@@ -1,5 +1,6 @@
 ---
 title: hepatitis C virus acute infxn
+date: 2024-01-01
 ---
 
 # hepatitis C virus acute infxn

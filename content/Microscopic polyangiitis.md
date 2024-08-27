@@ -1,5 +1,6 @@
 ---
 title: Microscopic polyangiitis
+date: 2024-01-01
 ---
 # Microscopic polyangiitis
 

@@ -1,5 +1,6 @@
 ---
 title: predictors of difficult mask ventilation
+date: 2024-01-01
 ---
 # predictors of difficult mask ventilation
 

@@ -1,5 +1,6 @@
 ---
 title: Esophageal or gastric varices
+date: 2024-01-01
 slug: 'esophageal-or-gastric-varices'
 ---
 # Esophageal or gastric varices

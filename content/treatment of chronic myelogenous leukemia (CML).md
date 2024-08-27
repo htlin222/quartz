@@ -40,6 +40,8 @@ enableToc: false
 	* preferred for int-high risk,
 	* but ↑ toxicity
 
+[[ascend-cml.md|ASCEND-CML]]
+
 ---
 
 * Imatinib, dasatinib, nilotinib, & bosutinib approved for 1st line Rx.

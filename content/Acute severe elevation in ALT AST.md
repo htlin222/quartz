@@ -1,5 +1,6 @@
 ---
 title: Acute severe elevation in ALT AST
+date: 2024-01-01
 ---
 # Acute severe elevation in ALT AST
 

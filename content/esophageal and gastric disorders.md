@@ -1,5 +1,6 @@
 ---
 title: esophageal and gastric disorders
+date: 2024-01-01
 ---
 
 # esophageal and gastric disorders

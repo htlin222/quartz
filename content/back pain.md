@@ -1,5 +1,6 @@
 ---
 title: back pain
+date: 2024-01-01
 ---
 # Back pain
 

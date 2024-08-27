@@ -1,5 +1,6 @@
 ---
 title: clostridioides difficile infection
+date: 2024-01-01
 ---
 # clostridioides difficile infection
 

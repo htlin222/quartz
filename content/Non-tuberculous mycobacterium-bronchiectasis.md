@@ -1,5 +1,6 @@
 ---
 title: Non-tuberculous mycobacterium-bronchiectasis
+date: 2024-01-01
 ---
 # Non-tuberculous mycobacterium-bronchiectasis
 

@@ -1,5 +1,6 @@
 ---
 title: Meckel’s diverticulum
+date: 2024-01-01
 ---
 # Meckel’s diverticulum
 

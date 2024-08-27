@@ -1,5 +1,6 @@
 ---
 title: Inherited Hypercoagulable States
+date: 2024-01-01
 ---
 # Inherited Hypercoagulable States
 

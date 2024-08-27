@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations gastroesophageal reflux disease
+date: 2024-01-01
 ---
 # Clinical manifestations gastroesophageal reflux disease
 

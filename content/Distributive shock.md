@@ -1,5 +1,6 @@
 ---
 title: Distributive shock
+date: 2024-01-01
 ---
 # Distributive shock
 

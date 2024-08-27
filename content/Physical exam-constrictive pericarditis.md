@@ -1,5 +1,6 @@
 ---
 title: Physical exam-constrictive pericarditis
+date: 2024-01-01
 ---
 
 # Physical exam-constrictive pericarditis

@@ -1,5 +1,6 @@
 ---
 title: Alcohol-associated hepatitis
+date: 2024-01-01
 ---
 # Alcohol-associated hepatitis
 

@@ -1,5 +1,6 @@
 ---
 title: Modification to initial antibiotic regimen based on site-specific evaluation of fever and neutropenia
+date: 2024-01-01
 ---
 # Modification to initial antibiotic regimen based on site-specific evaluation of fever and neutropenia
 

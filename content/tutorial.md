@@ -1,5 +1,6 @@
 ---
 title: tutorial
+date: 2024-01-01
 ---
 - CS 61A：编程入门（用的 Python，之前用的是 Scheme）
 - CS 61B：算法与数据结构（用的 Java）

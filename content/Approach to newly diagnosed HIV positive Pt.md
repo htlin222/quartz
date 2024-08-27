@@ -1,5 +1,6 @@
 ---
 title: Approach to newly diagnosed HIV positive Pt
+date: 2024-01-01
 ---
 # Approach to newly diagnosed HIV positive Pt
 

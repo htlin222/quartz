@@ -1,5 +1,6 @@
 ---
 title: Treatment-hypernatremia
+date: 2024-01-01
 ---
 # Treatment-hypernatremia
 

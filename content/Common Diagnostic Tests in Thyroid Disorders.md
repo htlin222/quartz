@@ -1,5 +1,6 @@
 ---
 title: Common Diagnostic Tests in Thyroid Disorders
+date: 2024-01-01
 ---
 
 # Common Diagnostic Tests in Thyroid Disorders

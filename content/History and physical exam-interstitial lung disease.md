@@ -1,5 +1,6 @@
 ---
 title: History and physical exam-interstitial lung disease
+date: 2024-01-01
 ---
 # History and physical exam-interstitial lung disease
 

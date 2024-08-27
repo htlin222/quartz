@@ -1,5 +1,6 @@
 ---
 title: Definition of Constipation
+date: 2024-01-01
 ---
 # Definition of Constipation
 

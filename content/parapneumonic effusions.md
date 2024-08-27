@@ -1,5 +1,6 @@
 ---
 title: parapneumonic effusions
+date: 2024-01-01
 ---
 # parapneumonic effusions
 

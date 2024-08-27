@@ -1,5 +1,6 @@
 ---
 title: hyperactive delirium
+date: 2024-01-01
 ---
 # hyperactive delirium
 

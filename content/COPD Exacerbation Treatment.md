@@ -1,5 +1,6 @@
 ---
 title: COPD Exacerbation Treatment
+date: 2024-01-01
 ---
 
 # COPD Exacerbation Treatment

@@ -1,5 +1,6 @@
 ---
 title: Pathophysiology-metabolic-alkalosis
+date: 2024-01-01
 ---
 # Pathophysiology-metabolic-alkalosis
 (CJASN 2020;15:1848)

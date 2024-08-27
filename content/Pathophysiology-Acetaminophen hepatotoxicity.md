@@ -1,5 +1,6 @@
 ---
 title: Pathophysiology-Acetaminophen hepatotoxicity
+date: 2024-01-01
 ---
 # Pathophysiology-Acetaminophen hepatotoxicity
 

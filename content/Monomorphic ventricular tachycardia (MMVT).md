@@ -1,5 +1,6 @@
 ---
 title: Monomorphic ventricular tachycardia  MMVT
+date: 2024-01-01
 ---
 
 # Monomorphic ventricular tachycardia (MMVT)

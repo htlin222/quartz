@@ -1,5 +1,6 @@
 ---
 title: Asthma plus syndromes
+date: 2024-01-01
 ---
 
 # Asthma plus syndromes

@@ -1,5 +1,6 @@
 ---
 title: Laboratory studies-cirrhosis
+date: 2024-01-01
 ---
 
 ## Laboratory studies-cirrhosis

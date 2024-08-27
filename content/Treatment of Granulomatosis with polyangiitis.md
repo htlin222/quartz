@@ -1,5 +1,6 @@
 ---
 title: Treatment of Granulomatosis with polyangiitis
+date: 2024-01-01
 ---
 # Treatment of Granulomatosis with polyangiitis
 

@@ -1,5 +1,6 @@
 ---
 title: Treatment-hypertensive crises
+date: 2024-01-01
 ---
 # Treatment-hypertensive crises
  (Circ 2018;138:e426)

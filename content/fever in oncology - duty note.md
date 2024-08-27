@@ -1,5 +1,6 @@
 ---
 title: fever in oncology - duty note
+date: 2024-01-01
 ---
 # fever in oncology - duty note
 

@@ -1,5 +1,6 @@
 ---
 title: workup-hyponatremia
+date: 2024-01-01
 ---
 # workup-hyponatremia
 (JASN 2012;23:1140 & 2017;28:1340; Crit Care 2013;17:206; NEJM 2015;372:55)

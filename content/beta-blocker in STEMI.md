@@ -1,5 +1,6 @@
 ---
 title: "beta-blocker in STEMI"
+date: 2024-01-01
 slug: "beta-blocker-in-stemi"
 dat ↣ e: "2023-07-23"
 enableToc: false

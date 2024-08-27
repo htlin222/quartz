@@ -1,5 +1,6 @@
 ---
 title: pericarditis and pericardial effusion
+date: 2024-01-01
 ---
 
 # Pericarditis and pericardial effusion

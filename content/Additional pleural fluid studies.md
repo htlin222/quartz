@@ -1,5 +1,6 @@
 ---
 title: Additional pleural fluid studies
+date: 2024-01-01
 ---
 # Additional pleural fluid studies
 

@@ -1,5 +1,6 @@
 ---
 title: Hemochromatosis & iron overload syndromes
+date: 2024-01-01
 ---
 # Hemochromatosis & iron overload syndromes
 

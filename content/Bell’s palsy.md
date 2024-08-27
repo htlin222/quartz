@@ -1,5 +1,6 @@
 ---
 title: Bell’s palsy
+date: 2024-01-01
 ---
 # Bell’s palsy
 

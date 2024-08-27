@@ -1,5 +1,6 @@
 ---
 title: First-line or upfront therapy for idiopathic thrombocytopenic purpura
+date: 2024-01-01
 ---
 # First-line or upfront therapy for idiopathic thrombocytopenic purpura
 

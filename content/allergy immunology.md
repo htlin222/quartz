@@ -1,5 +1,6 @@
 ---
 title: allergy immunology
+date: 2024-01-01
 ---
 
 # allergy immunology

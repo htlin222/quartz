@@ -1,5 +1,6 @@
 ---
 title: empiric replacement fluids can be used for fluid losses
+date: 2024-01-01
 ---
 # empiric replacement fluids can be used for fluid losses
 

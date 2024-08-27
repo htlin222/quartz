@@ -1,5 +1,6 @@
 ---
 title: Factitious disorder
+date: 2024-01-01
 ---
 # Factitious disorder
 

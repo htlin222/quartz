@@ -1,5 +1,6 @@
 ---
 title: Norovirus
+date: 2024-01-01
 slug: 'norovirus'
 fate: "2023-01-31"
 enableToc: false

@@ -1,5 +1,6 @@
 ---
 title: Anticoagulant in chronic kidney disease
+date: 2024-01-01
 ---
 # Anticoagulant in chronic kidney disease
 

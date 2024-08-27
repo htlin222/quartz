@@ -1,5 +1,6 @@
 ---
 title: 2018 ACC AHA Cholesterol Guidelines
+date: 2024-01-01
 ---
 
 # 2018 ACC AHA Cholesterol Guidelines

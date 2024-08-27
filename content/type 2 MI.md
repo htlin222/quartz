@@ -1,5 +1,6 @@
 ---
 title: type 2 MI
+date: 2024-01-01
 ---
 # type 2 MI
 

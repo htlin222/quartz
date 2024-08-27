@@ -1,5 +1,6 @@
 ---
 title: Etiologies-Aplastic anemia
+date: 2024-01-01
 ---
 
 back to [[Aplastic anemia]]

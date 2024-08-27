@@ -1,5 +1,6 @@
 ---
 title: diabetic ketoacidosis
+date: 2024-01-01
 ---
 # diabetic ketoacidosis
 

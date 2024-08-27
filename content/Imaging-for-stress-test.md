@@ -1,5 +1,6 @@
 ---
 title: Imaging-for-stress-test
+date: 2024-01-01
 ---
 # Imaging-for-stress-test
 

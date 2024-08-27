@@ -1,5 +1,6 @@
 ---
 title: ACLS Tachycardia Algorithm
+date: 2024-01-01
 ---
 # ACLS Tachycardia Algorithm
 

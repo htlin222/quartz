@@ -1,5 +1,6 @@
 ---
 title: SVC syndrome
+date: 2024-01-01
 ---
 
 # SVC syndrome

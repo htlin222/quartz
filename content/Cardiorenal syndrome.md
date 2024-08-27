@@ -1,5 +1,6 @@
 ---
 title: Cardiorenal syndrome
+date: 2024-01-01
 ---
 # Cardiorenal syndrome
 

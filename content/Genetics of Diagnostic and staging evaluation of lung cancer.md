@@ -1,5 +1,6 @@
 ---
 title: Genetics of Diagnostic and staging evaluation of lung cancer
+date: 2024-01-01
 ---
 # Genetics of Diagnostic and staging evaluation of lung cancer
 

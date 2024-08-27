@@ -1,5 +1,6 @@
 ---
 title: Approach to suspected PE
+date: 2024-01-01
 ---
 # Approach to suspected PE
 

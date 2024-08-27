@@ -1,5 +1,6 @@
 ---
 title: Direct Oral Anticoagulants  DOACs  for NVAF
+date: 2024-01-01
 alias: DOAC
 ---
 

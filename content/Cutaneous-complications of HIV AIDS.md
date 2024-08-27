@@ -1,5 +1,6 @@
 ---
 title: Cutaneous-complications of HIV AIDS
+date: 2024-01-01
 ---
 # Cutaneous-complications of HIV AIDS
 * Eosinophilic folliculitis; warts (HPV); HSV & VZV; MRSA SSTI; scabies; candidiasis; eczema; prurigo nodularis; psoriasis; drug eruption; subungual onychomycosis

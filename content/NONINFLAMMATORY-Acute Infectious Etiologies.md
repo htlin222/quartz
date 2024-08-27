@@ -1,5 +1,6 @@
 ---
 title: NONINFLAMMATORY-Acute Infectious Etiologies
+date: 2024-01-01
 ---
 # NONINFLAMMATORY-Acute Infectious Etiologies
 

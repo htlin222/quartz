@@ -1,5 +1,6 @@
 ---
 title: Dx studies of Granulomatosis with polyangiitis
+date: 2024-01-01
 ---
 # Dx studies of Granulomatosis with polyangiitis
 

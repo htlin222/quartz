@@ -1,5 +1,6 @@
 ---
 title: General evaluation or chronic diarrhea
+date: 2024-01-01
 ---
 # General evaluation or chronic diarrhea
 

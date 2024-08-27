@@ -1,5 +1,6 @@
 ---
 title: Residual syndrome
+date: 2024-01-01
 ---
 # Residual syndrome
 

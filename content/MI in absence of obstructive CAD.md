@@ -1,5 +1,6 @@
 ---
 title: MI in absence of obstructive CAD
+date: 2024-01-01
 ---
 
 # MI in absence of obstructive CAD

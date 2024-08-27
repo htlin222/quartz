@@ -1,5 +1,6 @@
 ---
 title: Management of hyperglycemia in inPts
+date: 2024-01-01
 ---
 # Management of hyperglycemia in inPts
 

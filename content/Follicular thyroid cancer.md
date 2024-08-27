@@ -1,5 +1,6 @@
 ---
 title: Follicular thyroid cancer
+date: 2024-01-01
 ---
 # Follicular thyroid cancer
 

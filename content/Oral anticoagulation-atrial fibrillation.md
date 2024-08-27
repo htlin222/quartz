@@ -1,5 +1,6 @@
 ---
 title: Oral anticoagulation-atrial fibrillation
+date: 2024-01-01
 ---
 
 # Oral anticoagulation-atrial fibrillation

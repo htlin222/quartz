@@ -1,5 +1,6 @@
 ---
 title: Markdownify
+date: 2024-01-01
 ---
 To import a URL as Markdown, turn on the option under "Editing" in nvALT's Preferences. Now, when you drag a URL to the notes list, it will convert it to Markdown as much as possible. The success depends on the quality of the original markup in the page.
 

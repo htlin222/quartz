@@ -1,5 +1,6 @@
 ---
 title: Cat bite
+date: 2024-01-01
 ---
 # Cat bite
 

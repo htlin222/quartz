@@ -1,5 +1,6 @@
 ---
 title: Drugs and toxins that cause acute liver failure
+date: 2024-01-01
 ---
 # Drugs and toxins that cause acute liver failure
 

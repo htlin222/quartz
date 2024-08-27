@@ -1,5 +1,6 @@
 ---
 title: How does this thing work?
+date: 2024-01-01
 ---
 Always begin typing in the
 

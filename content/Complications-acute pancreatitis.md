@@ -1,5 +1,6 @@
 ---
 title: Complications-acute pancreatitis
+date: 2024-01-01
 ---
 # Complications-acute pancreatitis
 

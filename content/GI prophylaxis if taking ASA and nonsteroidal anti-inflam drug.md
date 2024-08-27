@@ -1,5 +1,6 @@
 ---
 title: GI prophylaxis if taking ASA and nonsteroidal anti-inflam drug
+date: 2024-01-01
 ---
 # GI prophylaxis if taking ASA and nonsteroidal anti-inflam drug
 

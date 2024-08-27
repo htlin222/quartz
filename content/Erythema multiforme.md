@@ -1,5 +1,6 @@
 ---
 title: Erythema multiforme
+date: 2024-01-01
 ---
 # Erythema multiforme
 

@@ -1,5 +1,6 @@
 ---
 title: Patterns of LFTs
+date: 2024-01-01
 ---
 # Patterns of LFTs
 

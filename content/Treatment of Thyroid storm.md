@@ -1,5 +1,6 @@
 ---
 title: Treatment of Thyroid storm
+date: 2024-01-01
 ---
 # Treatment of Thyroid storm
 

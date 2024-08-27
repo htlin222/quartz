@@ -1,5 +1,6 @@
 ---
 title: Diagnosis-Glucose-6-phosphate dehydrogenase
+date: 2024-01-01
 ---
 # Diagnosis-Glucose-6-phosphate dehydrogenase
 

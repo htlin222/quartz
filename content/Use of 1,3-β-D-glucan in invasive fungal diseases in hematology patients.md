@@ -1,5 +1,6 @@
 ---
 title: Use of 1,3-β-D-glucan in invasive fungal diseases in hematology patients
+date: 2024-01-01
 ---
 # Use of 1,3-β-D-glucan in invasive fungal diseases in hematology patients
 

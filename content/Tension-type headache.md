@@ -1,5 +1,6 @@
 ---
 title: Tension-type headache
+date: 2024-01-01
 ---
 # Tension-type headache
 

@@ -1,5 +1,6 @@
 ---
 title: Synthesis and Metabolism of Vitamin D
+date: 2024-01-01
 ---
 # Synthesis and Metabolism of Vitamin D
 

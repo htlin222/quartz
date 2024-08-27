@@ -1,5 +1,6 @@
 ---
 title: Pathogenesis-cholecystitis
+date: 2024-01-01
 ---
 # Pathogenesis - [[cholecystitis]]
 

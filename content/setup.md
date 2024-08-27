@@ -1,5 +1,6 @@
 ---
 title: At client
+date: 2024-01-01
 aliases: [At client]
 linter-yaml-title-alias: At client
 ---

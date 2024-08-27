@@ -1,5 +1,6 @@
 ---
 title: Management-solitary pulmonary nodule
+date: 2024-01-01
 ---
 # Management-solitary pulmonary nodule
 

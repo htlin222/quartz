@@ -1,5 +1,6 @@
 ---
 title: Cell count of ascites
+date: 2024-01-01
 ---
 # Cell count of ascites
 

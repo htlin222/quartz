@@ -1,5 +1,6 @@
 ---
 title: Comparison of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease
+date: 2024-01-01
 ---
 # Comparison of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease
 

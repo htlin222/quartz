@@ -1,5 +1,6 @@
 ---
 title: hyperthyroidism
+date: 2024-01-01
 ---
 
 # hyperthyroidism

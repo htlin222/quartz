@@ -1,5 +1,6 @@
 ---
 title: Infection as Etiologies of Classic FUO
+date: 2024-01-01
 ---
 # Infection as Etiologies of Classic FUO
 

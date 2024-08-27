@@ -1,5 +1,6 @@
 ---
 title: Normal hepatic vasculature
+date: 2024-01-01
 ---
 # Normal hepatic vasculature
 

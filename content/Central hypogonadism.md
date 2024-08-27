@@ -1,5 +1,6 @@
 ---
 title: Central hypogonadism
+date: 2024-01-01
 ---
 
 # Central hypogonadism

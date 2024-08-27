@@ -1,5 +1,6 @@
 ---
 title: Prevention-Contrast-induced acute kidney injury
+date: 2024-01-01
 ---
 # Prevention-Contrast-induced acute kidney injury
 

@@ -1,5 +1,6 @@
 ---
 title: Treatment-acute pancreatitis
+date: 2024-01-01
 ---
 
 # Treatment-acute pancreatitis

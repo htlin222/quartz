@@ -1,5 +1,6 @@
 ---
 title: Polymorphic ventricular tachycardia  PMVT
+date: 2024-01-01
 ---
 
 # Polymorphic ventricular tachycardia (PMVT)

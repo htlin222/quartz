@@ -1,5 +1,6 @@
 ---
 title: Diagnostic evaluation of fever and neutropenia
+date: 2024-01-01
 ---
 # Diagnostic evaluation of fever and neutropenia
 

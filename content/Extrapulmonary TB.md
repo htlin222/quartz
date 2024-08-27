@@ -1,5 +1,6 @@
 ---
 title: Extrapulmonary TB
+date: 2024-01-01
 ---
 
 # Extrapulmonary TB

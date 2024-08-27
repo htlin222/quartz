@@ -1,5 +1,6 @@
 ---
 title: dilated cardiomyopathy
+date: 2024-01-01
 ---
 
 # dilated cardiomyopathy

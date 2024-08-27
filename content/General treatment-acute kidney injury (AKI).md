@@ -1,5 +1,6 @@
 ---
 title: General treatment-acute kidney injury  AKI 
+date: 2024-01-01
 ---
 # General treatment-acute kidney injury (AKI)
 

@@ -1,5 +1,6 @@
 ---
 title: Ascites fluid total protein  AFTP
+date: 2024-01-01
 alias: AFTP
 ---
 

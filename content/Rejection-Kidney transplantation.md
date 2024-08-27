@@ -1,5 +1,6 @@
 ---
 title: Rejection-Kidney transplantation
+date: 2024-01-01
 ---
 # Rejection-Kidney transplantation
 

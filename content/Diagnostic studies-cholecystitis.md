@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies-cholecystitis
+date: 2024-01-01
 ---
 # Diagnostic studies- [cholecystitis](cholecystitis.md)
 

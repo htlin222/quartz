@@ -1,5 +1,6 @@
 ---
 title: Workup of chronic diarrhea
+date: 2024-01-01
 ---
 # Workup of chronic diarrhea
 

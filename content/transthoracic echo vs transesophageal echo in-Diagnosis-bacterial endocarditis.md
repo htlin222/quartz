@@ -1,5 +1,6 @@
 ---
 title: transthoracic echo vs transesophageal echo in-Diagnosis-bacterial endocarditis
+date: 2024-01-01
 ---
 # transthoracic echo vs transesophageal echo in-Diagnosis-bacterial endocarditis
 

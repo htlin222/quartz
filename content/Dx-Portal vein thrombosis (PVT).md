@@ -1,5 +1,6 @@
 ---
 title: Dx-Portal vein thrombosis  PVT 
+date: 2024-01-01
 ---
 # Dx-Portal vein thrombosis (PVT)
 

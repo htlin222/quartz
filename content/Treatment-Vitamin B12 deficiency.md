@@ -1,5 +1,6 @@
 ---
 title: Treatment-Vitamin B12 deficiency
+date: 2024-01-01
 ---
 # Treatment-Vitamin B12 deficiency
 

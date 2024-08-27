@@ -1,5 +1,6 @@
 ---
 title: typical electrocardiogram in a patient with acute pericarditis
+date: 2024-01-01
 ---
 # typical electrocardiogram in a patient with acute pericarditis
 

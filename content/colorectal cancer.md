@@ -1,5 +1,6 @@
 ---
 title: colorectal cancer
+date: 2024-01-01
 alias: CRC
 tags:
   - building

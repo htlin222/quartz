@@ -1,5 +1,6 @@
 ---
 title: Acute hemolytic
+date: 2024-01-01
 ---
 # Acute hemolytic
 

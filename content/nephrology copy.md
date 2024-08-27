@@ -1,5 +1,6 @@
 ---
 title: nephrology
+date: 2024-01-01
 aliases: [nephrology]
 linter-yaml-title-alias: nephrology
 ---

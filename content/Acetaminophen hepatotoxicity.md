@@ -1,5 +1,6 @@
 ---
 title: Acetaminophen hepatotoxicity
+date: 2024-01-01
 ---
 # Acetaminophen hepatotoxicity
 

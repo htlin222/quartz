@@ -1,5 +1,6 @@
 ---
 title: Irritable bowel syndrome
+date: 2024-01-01
 ---
 # Irritable bowel syndrome
 

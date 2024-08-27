@@ -1,5 +1,6 @@
 ---
 title: Risk factors for bloodstream infections
+date: 2024-01-01
 ---
 # Risk factors for bloodstream infections
 

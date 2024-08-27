@@ -1,5 +1,6 @@
 ---
 title: Idiopathic interstitial pneumonias  IIPs
+date: 2024-01-01
 ---
 
 > from [[interstitial lung disease]]

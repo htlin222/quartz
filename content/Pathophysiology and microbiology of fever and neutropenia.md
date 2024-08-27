@@ -1,5 +1,6 @@
 ---
 title: Pathophysiology and microbiology of fever and neutropenia
+date: 2024-01-01
 ---
 # Pathophysiology and microbiology of fever and neutropenia
 

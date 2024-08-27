@@ -1,5 +1,6 @@
 ---
 title: Alterations in Circulatory and Respiratory Functions
+date: 2024-01-01
 ---
 # Alterations in Circulatory and Respiratory Functions
 

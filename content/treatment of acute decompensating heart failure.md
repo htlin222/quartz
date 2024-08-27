@@ -1,5 +1,6 @@
 ---
 title: treatment of acute decompensating heart failure
+date: 2024-01-01
 ---
 # treatment of acute decompensating heart failure
 (NEJM 2017;377:1964)

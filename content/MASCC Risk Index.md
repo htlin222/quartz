@@ -1,5 +1,6 @@
 ---
 title: MASCC Risk Index
+date: 2024-01-01
 ---
 # MASCC Risk Index
 

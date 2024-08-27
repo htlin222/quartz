@@ -1,5 +1,6 @@
 ---
 title: Ticagrelor
+date: 2024-01-01
 ---
 # Ticagrelor
 

@@ -1,5 +1,6 @@
 ---
 title: Cerebral edema-Management-acute liver failure
+date: 2024-01-01
 ---
 # Cerebral edema-Management-acute liver failure
 

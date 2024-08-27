@@ -1,5 +1,6 @@
 ---
 title: Fever workup in patient with HIV AIDS
+date: 2024-01-01
 ---
 # Fever workup in patient with HIV AIDS
 * Etiologies (Infect Dis Clin North Am 2007;21:1013)

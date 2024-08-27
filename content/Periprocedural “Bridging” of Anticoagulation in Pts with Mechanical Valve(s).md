@@ -1,5 +1,6 @@
 ---
 title: Periprocedural “Bridging” of Anticoagulation in Pts with Mechanical Valve s 
+date: 2024-01-01
 ---
 # Periprocedural “Bridging” of Anticoagulation in Pts with Mechanical Valve(s)
 

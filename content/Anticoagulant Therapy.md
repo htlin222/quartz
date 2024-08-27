@@ -1,5 +1,6 @@
 ---
 title: Anticoagulant Therapy
+date: 2024-01-01
 ---
 # Anticoagulant Therapy
 

@@ -1,5 +1,6 @@
 ---
 title: herpes simplex virus infection
+date: 2024-01-01
 ---
 # herpes simplex virus infection
 

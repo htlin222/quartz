@@ -1,5 +1,6 @@
 ---
 title: Hemophilias
+date: 2024-01-01
 ---
 # Hemophilias
 

@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies
+date: 2024-01-01
 slug: 'diagnostic-studies'
 ---
 # Diagnostic studies

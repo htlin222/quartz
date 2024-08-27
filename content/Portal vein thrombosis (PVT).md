@@ -1,5 +1,6 @@
 ---
 title: Portal vein thrombosis  PVT  
+date: 2024-01-01
 ---
 # Portal vein thrombosis (PVT) 
 

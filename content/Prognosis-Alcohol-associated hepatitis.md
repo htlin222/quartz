@@ -1,5 +1,6 @@
 ---
 title: Prognosis-Alcohol-associated hepatitis
+date: 2024-01-01
 ---
 # Prognosis-Alcohol-associated hepatitis
 

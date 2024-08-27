@@ -1,5 +1,6 @@
 ---
 title: Migraine without aura
+date: 2024-01-01
 ---
 # Migraine without aura
 

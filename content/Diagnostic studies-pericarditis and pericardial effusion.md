@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies-pericarditis and pericardial effusion
+date: 2024-01-01
 ---
 # Diagnostic studies-pericarditis and pericardial effusion
 

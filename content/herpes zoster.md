@@ -1,5 +1,6 @@
 ---
 title: herpes zoster
+date: 2024-01-01
 ---
 # herpes zoster
 

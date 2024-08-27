@@ -1,5 +1,6 @@
 ---
 title: Clinical evaluation of Secondary causes of headaches
+date: 2024-01-01
 ---
 # Clinical evaluation of Secondary causes of headaches
 

@@ -1,5 +1,6 @@
 ---
 title: Treatment-Paroxysmal nocturnal hemoglobinuria
+date: 2024-01-01
 ---
 # Treatment-Paroxysmal nocturnal hemoglobinuria
 

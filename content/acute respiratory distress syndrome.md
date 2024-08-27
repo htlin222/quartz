@@ -1,5 +1,6 @@
 ---
 title: acute respiratory distress syndrome
+date: 2024-01-01
 ---
 # acute respiratory distress syndrome
 

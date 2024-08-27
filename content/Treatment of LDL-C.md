@@ -1,5 +1,6 @@
 ---
 title: Treatment of LDL-C
+date: 2024-01-01
 ---
 # Treatment of LDL-C
 

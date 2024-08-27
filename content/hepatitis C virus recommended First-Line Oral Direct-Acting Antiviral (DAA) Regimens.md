@@ -1,5 +1,6 @@
 ---
 title: hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral  DAA  Regimens
+date: 2024-01-01
 ---
 
 # hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens

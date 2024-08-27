@@ -1,5 +1,6 @@
 ---
 title: Complications & prognosis-venous thromboembolism
+date: 2024-01-01
 ---
 # Complications & prognosis-venous thromboembolism
 

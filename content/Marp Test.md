@@ -1,5 +1,6 @@
 ---
 title: hi
+date: 2024-01-01
 ---
 
 ANKI:

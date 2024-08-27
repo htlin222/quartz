@@ -1,5 +1,6 @@
 ---
 title: Tests of hepatic function
+date: 2024-01-01
 ---
 # Tests of hepatic function
 

@@ -1,5 +1,6 @@
 ---
 title: What are the most commonly encountered fever patterns
+date: 2024-01-01
 ---
 # What are the most commonly encountered fever patterns
 

@@ -1,5 +1,6 @@
 ---
 title: Autoimmune hemolytic anemia
+date: 2024-01-01
 ---
 
 # Autoimmune hemolytic anemia

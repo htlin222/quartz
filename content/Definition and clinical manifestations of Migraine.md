@@ -1,5 +1,6 @@
 ---
 title: Definition and clinical manifestations of Migraine
+date: 2024-01-01
 ---
 # Definition and clinical manifestations of Migraine
 (Lancet 2018;391:1315 & Continuum 2021;27:586)

@@ -1,5 +1,6 @@
 ---
 title: Region or Exposure Common Etiologies -fever in a returned traveler
+date: 2024-01-01
 ---
 # Region or Exposure Common Etiologies -fever in a returned traveler
 

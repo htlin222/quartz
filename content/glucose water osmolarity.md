@@ -1,5 +1,6 @@
 ---
 title: glucose water osmolarity
+date: 2024-01-01
 ---
 # glucose water osmolarity
 

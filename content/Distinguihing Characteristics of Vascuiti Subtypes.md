@@ -1,5 +1,6 @@
 ---
 title: Distinguihing Characteristics of Vascuiti Subtypes
+date: 2024-01-01
 ---
 # Distinguihing Characteristics of Vascuiti Subtypes
 

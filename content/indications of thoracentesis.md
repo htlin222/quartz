@@ -1,5 +1,6 @@
 ---
 title: indications of thoracentesis
+date: 2024-01-01
 ---
 # indications of thoracentesis
 

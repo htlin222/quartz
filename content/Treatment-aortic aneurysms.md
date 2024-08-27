@@ -1,5 +1,6 @@
 ---
 title: Treatment-aortic aneurysms
+date: 2024-01-01
 ---
 # Treatment-aortic aneurysms
 

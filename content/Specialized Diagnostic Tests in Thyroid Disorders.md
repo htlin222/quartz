@@ -1,5 +1,6 @@
 ---
 title: Specialized Diagnostic Tests in Thyroid Disorders
+date: 2024-01-01
 ---
 
 # Specialized Diagnostic Tests in Thyroid Disorders

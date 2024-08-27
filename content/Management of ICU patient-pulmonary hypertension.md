@@ -1,5 +1,6 @@
 ---
 title: Management of ICU patient-pulmonary hypertension
+date: 2024-01-01
 ---
 # Management of ICU patient-pulmonary hypertension
 

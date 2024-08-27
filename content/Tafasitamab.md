@@ -9,8 +9,9 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[Monoclonal Antibodies]]
+> 🌱 來自：[[Monoclonal Antibodies]]
 
 # Tafasitamab
 
-
+- from [[l-mind]]
+- from [[smart_stop]] 

@@ -1,5 +1,6 @@
 ---
 title: Treatment of hypertrophic cardiomyopathy
+date: 2024-01-01
 ---
 
 # Treatment of hypertrophic cardiomyopathy

@@ -1,5 +1,6 @@
 ---
 title: Glucose of cerebrospinal fluid
+date: 2024-01-01
 ---
 # Glucose of cerebrospinal fluid
 

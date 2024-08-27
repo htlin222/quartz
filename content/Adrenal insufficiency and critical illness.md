@@ -1,5 +1,6 @@
 ---
 title: Adrenal insufficiency and critical illness
+date: 2024-01-01
 ---
 # Adrenal insufficiency and critical illness
 

@@ -1,5 +1,6 @@
 ---
 title: Treatment of asymptomatic 1° HPT
+date: 2024-01-01
 ---
 # Treatment of asymptomatic 1° HPT
 

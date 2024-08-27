@@ -1,5 +1,6 @@
 ---
 title: Tests of hepatocellular injury or cholestasis
+date: 2024-01-01
 ---
 
 # Tests of hepatocellular injury or cholestasis

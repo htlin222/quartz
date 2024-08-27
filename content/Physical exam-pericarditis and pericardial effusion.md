@@ -1,5 +1,6 @@
 ---
 title: Physical exam-pericarditis and pericardial effusion
+date: 2024-01-01
 ---
 # Physical exam-pericarditis and pericardial effusion
 

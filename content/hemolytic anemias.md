@@ -1,5 +1,6 @@
 ---
 title: hemolytic anemias
+date: 2024-01-01
 ---
 
 # hemolytic anemias

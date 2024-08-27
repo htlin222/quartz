@@ -1,5 +1,6 @@
 ---
 title: clinical case of epidural abscess
+date: 2024-01-01
 ---
 # clinical case of epidural abscess
 

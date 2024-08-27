@@ -1,5 +1,6 @@
 ---
 title: Workup-glomerulonephritis
+date: 2024-01-01
 ---
 # Workup-glomerulonephritis
 

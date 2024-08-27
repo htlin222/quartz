@@ -1,5 +1,6 @@
 ---
 title: Approach to treatment-of-hyponatremia
+date: 2024-01-01
 ---
 # Approach to treatment-of-hyponatremia
 

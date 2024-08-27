@@ -1,5 +1,6 @@
 ---
 title: Alterations in Body Temperature
+date: 2024-01-01
 ---
 # Alterations in Body Temperature
 

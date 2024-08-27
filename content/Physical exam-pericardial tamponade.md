@@ -1,5 +1,6 @@
 ---
 title: Physical exam-pericardial tamponade
+date: 2024-01-01
 ---
 # Physical exam-pericardial tamponade
 

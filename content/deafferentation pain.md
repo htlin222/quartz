@@ -1,5 +1,6 @@
 ---
 title: deafferentation pain
+date: 2024-01-01
 ---
 # deafferentation pain
 

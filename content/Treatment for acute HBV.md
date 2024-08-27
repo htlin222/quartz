@@ -1,5 +1,6 @@
 ---
 title: Treatment for acute HBV
+date: 2024-01-01
 ---
 # Treatment for acute HBV
 

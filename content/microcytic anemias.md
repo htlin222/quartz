@@ -1,5 +1,6 @@
 ---
 title: microcytic anemias
+date: 2024-01-01
 ---
 
 # microcytic anemias

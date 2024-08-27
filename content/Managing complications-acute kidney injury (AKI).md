@@ -1,5 +1,6 @@
 ---
 title: Managing complications-acute kidney injury  AKI 
+date: 2024-01-01
 ---
 # Managing complications-acute kidney injury (AKI)
 

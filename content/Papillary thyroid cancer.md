@@ -1,5 +1,6 @@
 ---
 title: Papillary thyroid cancer
+date: 2024-01-01
 ---
 # Papillary thyroid cancer
 

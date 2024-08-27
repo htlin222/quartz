@@ -1,5 +1,6 @@
 ---
 title: type 1 MI
+date: 2024-01-01
 ---
 # type 1 MI
 

@@ -1,5 +1,6 @@
 ---
 title: physical findings may help identify the cause of a fever
+date: 2024-01-01
 ---
 # physical findings may help identify the cause of a fever
 

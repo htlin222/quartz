@@ -1,5 +1,6 @@
 ---
 title: Indications PA catheter and tailored therapy
+date: 2024-01-01
 ---
 # Indications PA catheter and tailored therapy
 

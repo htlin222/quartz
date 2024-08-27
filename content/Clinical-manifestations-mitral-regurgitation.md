@@ -1,5 +1,6 @@
 ---
 title: Clinical-manifestations-mitral-regurgitation
+date: 2024-01-01
 ---
 # Clinical-manifestations-mitral-regurgitation
 

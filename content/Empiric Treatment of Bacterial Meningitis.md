@@ -1,5 +1,6 @@
 ---
 title: Empiric Treatment of Bacterial Meningitis
+date: 2024-01-01
 ---
 # Empiric Treatment of Bacterial Meningitis
  (Lancet 2012;380:1693)

@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies of solitary pulmonary nodule
+date: 2024-01-01
 ---
 
 # Diagnostic studies of solitary pulmonary nodule

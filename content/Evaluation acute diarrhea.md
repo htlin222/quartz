@@ -1,5 +1,6 @@
 ---
 title: Evaluation acute diarrhea
+date: 2024-01-01
 ---
 # Evaluation acute diarrhea
 

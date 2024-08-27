@@ -1,5 +1,6 @@
 ---
 title: Prinzmetal's variant angina
+date: 2024-01-01
 aliases: ["Prinzmetal's variant angina"]
 linter-yaml-title-alias: "Prinzmetal's variant angina"
 ---

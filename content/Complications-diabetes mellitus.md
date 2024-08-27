@@ -1,5 +1,6 @@
 ---
 title: Complications-diabetes mellitus
+date: 2024-01-01
 ---
 # Complications-diabetes mellitus
 

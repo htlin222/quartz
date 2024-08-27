@@ -1,5 +1,6 @@
 ---
 title: Background of vasculitis
+date: 2024-01-01
 ---
 # Background of vasculitis
 * [Vasculitis Pathophysiology Overview - YouTube](https://www.youtube.com/watch?v=D9h6-LPySPI&ab channel=ArmandoHasudungan)

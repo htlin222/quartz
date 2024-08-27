@@ -1,5 +1,6 @@
 ---
 title: Obstructive shock
+date: 2024-01-01
 ---
 # Obstructive shock
 

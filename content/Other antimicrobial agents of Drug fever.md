@@ -1,5 +1,6 @@
 ---
 title: Other antimicrobial agents of Drug fever
+date: 2024-01-01
 ---
 # Other antimicrobial agents of Drug fever
 

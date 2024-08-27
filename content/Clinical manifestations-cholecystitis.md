@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations-cholecystitis
+date: 2024-01-01
 ---
 # Clinical manifestations-cholecystitis
 

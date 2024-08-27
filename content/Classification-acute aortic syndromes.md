@@ -1,5 +1,6 @@
 ---
 title: Classification-acute aortic syndromes
+date: 2024-01-01
 ---
 
 # Classification-acute aortic syndromes

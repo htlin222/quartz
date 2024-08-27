@@ -1,5 +1,6 @@
 ---
 title: pain and palliative care
+date: 2024-01-01
 ---
 # pain and palliative care
 

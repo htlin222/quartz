@@ -1,5 +1,6 @@
 ---
 title: Peritoneal dialysis-associated-Bacterial peritonitis
+date: 2024-01-01
 ---
 # Peritoneal dialysis-associated-Bacterial peritonitis
 

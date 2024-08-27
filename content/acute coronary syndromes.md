@@ -1,5 +1,6 @@
 ---
 title: acute coronary syndromes
+date: 2024-01-01
 ---
 
 # acute coronary syndromes

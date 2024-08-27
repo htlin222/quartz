@@ -1,5 +1,6 @@
 ---
 title: Coronary artery bypass grafting  CABG -related MI
+date: 2024-01-01
 ---
 # Coronary artery bypass grafting (CABG)-related MI
 

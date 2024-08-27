@@ -1,5 +1,6 @@
 ---
 title: Tuberculin skin test
+date: 2024-01-01
 ---
 # Tuberculin skin test
 

@@ -1,5 +1,6 @@
 ---
 title: disorders of hemostasis
+date: 2024-01-01
 ---
 
 # disorders of hemostasis

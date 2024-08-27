@@ -1,5 +1,6 @@
 ---
 title: Physical Exam Secret
+date: 2024-01-01
 ---
 # Physical Exam Secret
 

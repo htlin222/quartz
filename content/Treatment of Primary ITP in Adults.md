@@ -1,5 +1,6 @@
 ---
 title: Treatment of Primary ITP in Adults
+date: 2024-01-01
 ---
 
 # Treatment of Primary ITP in Adults

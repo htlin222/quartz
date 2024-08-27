@@ -1,5 +1,6 @@
 ---
 title: Renal tubular acidoses
+date: 2024-01-01
 alias: RTA
 ---
 

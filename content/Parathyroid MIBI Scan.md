@@ -1,5 +1,6 @@
 ---
 title: Parathyroid MIBI Scan
+date: 2024-01-01
 ---
 # Parathyroid MIBI Scan
 

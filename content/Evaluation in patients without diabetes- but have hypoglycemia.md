@@ -1,5 +1,6 @@
 ---
 title: Evaluation in patients without diabetes- but have hypoglycemia
+date: 2024-01-01
 ---
 # Evaluation in patients without diabetes- but have hypoglycemia
 

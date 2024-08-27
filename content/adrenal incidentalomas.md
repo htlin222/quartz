@@ -1,5 +1,6 @@
 ---
 title: adrenal incidentalomas
+date: 2024-01-01
 alias: adrenal incidentaloma
 ---
 

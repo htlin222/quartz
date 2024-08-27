@@ -1,5 +1,6 @@
 ---
 title: Treatment-skin and soft tissue infections
+date: 2024-01-01
 ---
 # Treatment-skin and soft tissue infections
 

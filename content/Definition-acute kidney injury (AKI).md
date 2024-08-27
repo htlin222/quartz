@@ -1,5 +1,6 @@
 ---
 title: Definition-acute kidney injury  AKI
+date: 2024-01-01
 ---
 
 # Definition-acute kidney injury (AKI)

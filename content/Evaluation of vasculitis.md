@@ -1,5 +1,6 @@
 ---
 title: Evaluation of vasculitis
+date: 2024-01-01
 ---
 # Evaluation of vasculitis
 

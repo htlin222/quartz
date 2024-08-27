@@ -1,5 +1,6 @@
 ---
 title: Peritoneal dialysis  PD
+date: 2024-01-01
 ---
 # Peritoneal dialysis (PD)
 

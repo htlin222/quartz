@@ -1,5 +1,6 @@
 ---
 title: wide complex
+date: 2024-01-01
 ---
 # wide complex
 

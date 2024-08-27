@@ -1,5 +1,6 @@
 ---
 title: Serologic and virologic tests
+date: 2024-01-01
 ---
 
 # Serologic and virologic tests

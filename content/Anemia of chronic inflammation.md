@@ -1,5 +1,6 @@
 ---
 title: Anemia of chronic inflammation
+date: 2024-01-01
 ---
 # Anemia of chronic inflammation
 

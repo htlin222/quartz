@@ -1,5 +1,6 @@
 ---
 title: Workup-acute kidney injury  AKI
+date: 2024-01-01
 ---
 
 # Workup-acute kidney injury (AKI)

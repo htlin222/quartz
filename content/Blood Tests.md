@@ -1,5 +1,6 @@
 # Blood Tests
 
+date: 2024-01-01
 *   erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) levels usually elevated<sup><a data-for="reference" data-tip="#GUID-1EC227A7-990C-4DEA-B5C5-C0B0A80AFCAA__GENREF6606" href="https://www.dynamed.com/condition/giant-cell-arteritis-including-temporal-arteritis#GUID-1EC227A7-990C-4DEA-B5C5-C0B0A80AFCAA__GENREF6606" currentitem="false">1</a></sup>
 *   other blood test findings reported with giant cell arteritis include
     *   anemia (hemoglobin < 12 g/dL) in about one-half of patients

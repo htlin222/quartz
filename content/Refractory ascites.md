@@ -1,5 +1,6 @@
 ---
 title: Refractory ascites
+date: 2024-01-01
 ---
 # Refractory ascites
 

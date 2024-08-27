@@ -1,5 +1,6 @@
 ---
 title: interstitial lung disease
+date: 2024-01-01
 ---
 # interstitial lung disease
 

@@ -9,19 +9,14 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[treatment and prognosis of multiple myeloma (MM)]]
+> 🌱 來自：[[treatment and prognosis of multiple myeloma (MM)]]
 
 # treatment of multiple myeloma (MM)
 
-## News: 
 
-
-[[isatuximab.md|Isatuximab]] 2024-06-04
-
-
-
----
-
+- [[cassiopeia.md|CASSIOPEIA]] D-VRd
+- [[perseus.md|PERSEUS]] D-VTd
+- [[imroz.md|IMROZ]] 
 
 - incl. proteasome inhibitors:
   - **bortezomib (V)**

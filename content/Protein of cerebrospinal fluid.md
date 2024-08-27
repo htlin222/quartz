@@ -1,5 +1,6 @@
 ---
 title: Protein of cerebrospinal fluid
+date: 2024-01-01
 ---
 # Protein of cerebrospinal fluid
 

@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations-diabetic ketoacidosis
+date: 2024-01-01
 ---
 # Clinical manifestations-diabetic ketoacidosis
 

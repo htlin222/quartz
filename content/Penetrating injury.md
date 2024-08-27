@@ -1,5 +1,6 @@
 ---
 title: Penetrating injury
+date: 2024-01-01
 ---
 # Penetrating injury
 

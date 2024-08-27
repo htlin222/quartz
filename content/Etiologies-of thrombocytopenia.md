@@ -1,5 +1,6 @@
 ---
 title: Etiologies-of thrombocytopenia
+date: 2024-01-01
 ---
 
 - from [[platelet disorders]]

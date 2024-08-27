@@ -1,5 +1,6 @@
 ---
 title: Classification of Pain
+date: 2024-01-01
 ---
 # Classification of Pain
 

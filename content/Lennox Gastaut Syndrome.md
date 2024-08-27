@@ -1,5 +1,6 @@
 ---
 title: Lennox Gastaut Syndrome
+date: 2024-01-01
 ---
 # Lennox Gastaut Syndrome
 

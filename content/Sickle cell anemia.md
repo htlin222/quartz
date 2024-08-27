@@ -1,5 +1,6 @@
 ---
 title: Sickle cell anemia
+date: 2024-01-01
 ---
 
 # Sickle cell anemia

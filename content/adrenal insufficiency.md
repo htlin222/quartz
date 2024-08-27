@@ -1,5 +1,6 @@
 ---
 title: adrenal insufficiency
+date: 2024-01-01
 ---
 
 # adrenal insufficiency

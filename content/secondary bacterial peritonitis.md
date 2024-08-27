@@ -1,5 +1,6 @@
 ---
 title: secondary bacterial peritonitis
+date: 2024-01-01
 ---
 # secondary bacterial peritonitis
 

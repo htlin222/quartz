@@ -1,5 +1,6 @@
 ---
 title: pathogenesis of disseminated intravascular coagulation  DIC 
+date: 2024-01-01
 ---
 # pathogenesis of disseminated intravascular coagulation (DIC)
 

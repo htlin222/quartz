@@ -1,5 +1,6 @@
 ---
 title: Treatment peptic ulcer disease 
+date: 2024-01-01
 ---
 # Treatment peptic ulcer disease 
 

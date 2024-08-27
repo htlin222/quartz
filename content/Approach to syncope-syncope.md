@@ -1,5 +1,6 @@
 ---
 title: Approach to syncope-syncope
+date: 2024-01-01
 ---
 # Approach to syncope-syncope
 

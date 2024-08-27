@@ -1,5 +1,6 @@
 ---
 title: Treatment-bronchiectasis
+date: 2024-01-01
 ---
 # Treatment-bronchiectasis
 

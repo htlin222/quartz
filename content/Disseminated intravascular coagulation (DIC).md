@@ -1,5 +1,6 @@
 ---
 title: Disseminated intravascular coagulation  DIC
+date: 2024-01-01
 alias: DIC
 ---
 

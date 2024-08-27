@@ -1,5 +1,6 @@
 ---
 title: Heparin-Induced Thrombocytopenias
+date: 2024-01-01
 alias: HIT
 ---
 

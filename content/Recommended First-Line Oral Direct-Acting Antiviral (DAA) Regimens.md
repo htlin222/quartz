@@ -1,5 +1,6 @@
 ---
 title: Recommended First-Line Oral Direct-Acting Antiviral  DAA  Regimens
+date: 2024-01-01
 ---
 
 see [[HCV]]

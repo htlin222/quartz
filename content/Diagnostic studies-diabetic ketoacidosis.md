@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies-diabetic ketoacidosis
+date: 2024-01-01
 ---
 
 # Diagnostic studies-diabetic ketoacidosis

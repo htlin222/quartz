@@ -1,5 +1,6 @@
 ---
 title: Vitamin K deficiency
+date: 2024-01-01
 ---
 # Vitamin K deficiency
 

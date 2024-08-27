@@ -1,5 +1,6 @@
 ---
 title: Variable and Possible Etiology-fever and rash
+date: 2024-01-01
 ---
 # Variable and Possible Etiology-fever and rash
 

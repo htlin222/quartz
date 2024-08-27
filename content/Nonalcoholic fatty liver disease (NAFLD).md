@@ -1,5 +1,6 @@
 ---
 title: Nonalcoholic fatty liver disease  NAFLD
+date: 2024-01-01
 ---
 
 # Nonalcoholic fatty liver disease (NAFLD)

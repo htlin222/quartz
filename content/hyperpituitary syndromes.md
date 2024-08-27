@@ -1,5 +1,6 @@
 ---
 title: hyperpituitary syndromes
+date: 2024-01-01
 alias: hyperpituitary
 ---
 

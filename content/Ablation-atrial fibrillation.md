@@ -1,5 +1,6 @@
 ---
 title: Ablation-atrial fibrillation
+date: 2024-01-01
 ---
 # Ablation-atrial fibrillation
 

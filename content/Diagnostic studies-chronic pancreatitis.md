@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies-chronic pancreatitis
+date: 2024-01-01
 ---
 
 # Diagnostic studies-chronic pancreatitis

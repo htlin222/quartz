@@ -1,5 +1,6 @@
 ---
 title: Initial treatment-clostridioides difficile infection
+date: 2024-01-01
 ---
 # Initial treatment-clostridioides difficile infection
 

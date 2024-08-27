@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations-pheochromocytoma and paraganglioma
+date: 2024-01-01
 ---
 # Clinical manifestations-pheochromocytoma and paraganglioma
  (NEJM 2019;381:552)

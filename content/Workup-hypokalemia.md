@@ -1,5 +1,6 @@
 ---
 title: Workup-hypokalemia
+date: 2024-01-01
 ---
 
 > [[nephrology]]

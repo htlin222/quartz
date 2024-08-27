@@ -1,5 +1,6 @@
 ---
 title: Risk factors-acute aortic syndromes
+date: 2024-01-01
 ---
 
 # Risk factors-acute aortic syndromes

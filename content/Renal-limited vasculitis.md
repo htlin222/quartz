@@ -1,5 +1,6 @@
 ---
 title: Renal-limited vasculitis
+date: 2024-01-01
 ---
 # Renal-limited vasculitis
 

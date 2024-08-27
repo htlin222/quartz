@@ -1,5 +1,6 @@
 ---
 title: Treatment-Hepatorenal syndrome  HRS 
+date: 2024-01-01
 ---
 # Treatment-Hepatorenal syndrome (HRS)
 

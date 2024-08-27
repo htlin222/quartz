@@ -1,5 +1,6 @@
 ---
 title: laryngoscopy and confirmation of placement
+date: 2024-01-01
 ---
 # laryngoscopy and confirmation of placement
 

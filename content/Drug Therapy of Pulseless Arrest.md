@@ -1,5 +1,6 @@
 ---
 title: Drug Therapy of Pulseless Arrest
+date: 2024-01-01
 ---
 # Drug Therapy of Pulseless Arrest
 

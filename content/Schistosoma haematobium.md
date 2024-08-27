@@ -1,5 +1,6 @@
 ---
 title: Schistosoma haematobium
+date: 2024-01-01
 ---
 # Schistosoma haematobium
 

@@ -1,5 +1,6 @@
 ---
 title: basic techniques and procedures
+date: 2024-01-01
 ---
 # basic techniques and procedures
 

@@ -1,5 +1,6 @@
 ---
 title: physiology of pulmary
+date: 2024-01-01
 ---
 # physiology of pulmary
 

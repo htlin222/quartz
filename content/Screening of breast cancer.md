@@ -1,5 +1,6 @@
 ---
 title: Screening of breast cancer
+date: 2024-01-01
 ---
 # Screening of breast cancer
 

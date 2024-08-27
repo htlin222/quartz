@@ -1,5 +1,6 @@
 ---
 title: Culture-negative neutrocytic ascites  CNNA
+date: 2024-01-01
 ---
 # Culture-negative neutrocytic ascites (CNNA)
 

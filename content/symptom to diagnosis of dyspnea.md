@@ -1,5 +1,6 @@
 ---
 title: symptom to diagnosis of dyspnea
+date: 2024-01-01
 ---
 # symptom to diagnosis of dyspnea
 

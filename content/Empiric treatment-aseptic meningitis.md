@@ -1,5 +1,6 @@
 ---
 title: Empiric treatment-aseptic meningitis
+date: 2024-01-01
 ---
 # Empiric treatment-aseptic meningitis
 

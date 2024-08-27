@@ -1,5 +1,6 @@
 ---
 title: Etiologies-encephalitis
+date: 2024-01-01
 ---
 # Etiologies-encephalitis
 

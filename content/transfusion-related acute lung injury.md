@@ -1,5 +1,6 @@
 ---
 title: transfusion-related acute lung injury
+date: 2024-01-01
 ---
 # transfusion-related acute lung injury
 

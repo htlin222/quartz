@@ -1,5 +1,6 @@
 ---
 title: Pancoast’s syndrome
+date: 2024-01-01
 ---
 # Pancoast’s syndrome
 

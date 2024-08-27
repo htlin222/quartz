@@ -1,5 +1,6 @@
 ---
 title: Clinical manifestations-Screening for latent TB
+date: 2024-01-01
 ---
 
 # Clinical manifestations-Screening for latent TB

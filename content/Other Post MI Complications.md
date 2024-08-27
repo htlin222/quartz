@@ -1,5 +1,6 @@
 ---
 title: Other Post MI Complications
+date: 2024-01-01
 ---
 # Other Post MI Complications
 

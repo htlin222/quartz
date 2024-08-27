@@ -1,5 +1,6 @@
 ---
 title: Physical-exam-aortic-stenosis
+date: 2024-01-01
 ---
 
 # Physical-exam-aortic-stenosis

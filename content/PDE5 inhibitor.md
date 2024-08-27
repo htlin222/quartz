@@ -1,5 +1,6 @@
 ---
 title: "PDE5 inhibitor"
+date: 2024-01-01
 slug: "pde-inhibitor"
 dat ↣ e: "2023-07-23"
 enableToc: false

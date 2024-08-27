@@ -1,5 +1,6 @@
 ---
 title: Nonmegaloblastic macrocytic anemias
+date: 2024-01-01
 ---
 # Nonmegaloblastic macrocytic anemias
 

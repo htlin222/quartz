@@ -1,5 +1,6 @@
 ---
 title: bag and mask ventilation
+date: 2024-01-01
 ---
 # bag and mask ventilation
 

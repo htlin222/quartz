@@ -1,5 +1,6 @@
 ---
 title: config
+date: 2024-01-01
 ---
 echo -e "site name:MyDocs\ntheme:\n\tname:material" >> /volume1/docker/mkdocs/mkdocs.yml
 

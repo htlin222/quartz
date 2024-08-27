@@ -1,5 +1,6 @@
 ---
 title: Post-sphincter-otomy bleeding
+date: 2024-01-01
 ---
 # Post-sphincter-otomy bleeding
 

@@ -1,5 +1,6 @@
 ---
 title: Physical exam heart failure
+date: 2024-01-01
 ---
 # Physical exam heart failure
 (“2-minute” hemodynamic profile; JAMA 1996;275:630 & 2002;287:628)

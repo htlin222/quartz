@@ -1,5 +1,6 @@
 ---
 title: Initial anticoagulation options for-venous thromboembolism
+date: 2024-01-01
 ---
 # Initial anticoagulation options for-venous thromboembolism
 

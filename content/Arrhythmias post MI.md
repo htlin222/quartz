@@ -1,5 +1,6 @@
 ---
 title: Arrhythmias post MI
+date: 2024-01-01
 ---
 # Arrhythmias post MI
 

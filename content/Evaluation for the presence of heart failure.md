@@ -1,5 +1,6 @@
 ---
 title: Evaluation for the presence of heart failure
+date: 2024-01-01
 ---
 
 # Evaluation for the presence of heart failure
