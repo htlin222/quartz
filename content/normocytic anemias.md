@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: normocytic anemias
-date: 2024-01-01
 ---
+
 # normocytic anemias
 
 ## Anemia of chronic inflammation

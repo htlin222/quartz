@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-acute mesenteric ischemia
-date: 2024-01-01
 ---
+
 # Treatment-acute mesenteric ischemia
 
 * IVF, NPO, optimize hemodynamics (minimize pressors), broad-spectrum abx, anticoagulation w/ heparin ± tPA (for occlusive disease), IV papaverine (vasodilator; for non-occlusive mesenteric ischemia)

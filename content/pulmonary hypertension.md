@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: pulmonary hypertension
-date: 2024-01-01
 ---
+
 # pulmonary hypertension
 
 PHT defined as PA mean pressure ≥20 mmHg at rest (ERJ 2019;53:1801913)

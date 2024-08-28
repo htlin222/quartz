@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cluster headache
-date: 2024-01-01
 ---
+
 # Cluster headache
 
 and other trigeminal autonomic cephalalgias (TACs) (Continuum 2018;24:1137)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-ascites
-date: 2024-01-01
 ---
+
 # Treatment-ascites
 
 * ↓ Na intake (**1–2 g/d**); restrict intake of free water if Na <125

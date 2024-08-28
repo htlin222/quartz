@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Tailored therapy in cardiogenic shock 
-date: 2024-01-01
 ---
+
 # Tailored therapy in cardiogenic shock 
 
 * Goals: optimize both MAP and CO while ↓ risk of pulmonary edema

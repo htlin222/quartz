@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Nervous System Dysfunction
-date: 2024-01-01
 ---
+
 # Nervous System Dysfunction
 
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Prognosis-acute liver failure
-date: 2024-01-01
 ---
+
 # Prognosis-acute liver failure
 
 (Ann Intern Med 2016;164:724; World J Gastro 2016;22:1523)

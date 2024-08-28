@@ -11,9 +11,7 @@ enableToc: false
 # Treatment of hepatocellular carcinoma
 
 ---
-
 ![Figure: ](https://i.imgur.com/ofJbB9j.png)
-
 ---
 
 (NEJM 2019;380:1450)
@@ -27,9 +25,7 @@ enableToc: false
   - [Sorafenib 抗癌藥與臨床應用](https://www.taiwan-pharma.org.tw/magazine/113/019.pdf)
 
 ---
-
 ## OS
-
 - First: _Atezolizumab + bevacizumab_ 19.2 months
 - First/second Sorafenib: 14.6-10.7 months/
 - lenvatinib: 13.7
@@ -37,11 +33,7 @@ enableToc: false
 - Cabozantinib: 10.2 months
 - Ramucirumab (AFP >400): 8.1 months
   (HCC; qv in Heme-Onc) (Nature Reviews 2021;7:6)
-
 - ↑ risk w/ cirrhosis of any type (leading cause of death in cirrhosis, 1–6%/y) but esp. ↑ w/ viral (Hep B/C~3–8%/y), concomitant EtOH use, obesity related NASH, HFE or diabetes
-
 - Clinical: asx vs. hepatic decompensation (eg, ascites, HE), PVT w/ tumor thrombus
-
 - Dx: screen Pts w/ cirrhosis q6mo w/ U/S ± AFP; alternative is dual-phase CT/MRI
-
 - Rx: see “HCC” in Heme-Onc

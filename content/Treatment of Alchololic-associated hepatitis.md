@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of Alchololic-associated hepatitis
-date: 2024-01-01
 ---
+
 # Treatment of Alchololic-associated hepatitis
 
 * consider if MDF ≥32, MELD >18, or presence of encephalopathy

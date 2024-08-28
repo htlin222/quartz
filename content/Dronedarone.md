@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Dronedarone
-date: 2024-01-01
 ---
+
 # Dronedarone
 
 n/a

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Indications for surgery-bacterial endocarditis
-date: 2024-01-01
 ---
+
 # Indications for surgery-bacterial endocarditis
 
 (consult early; JTCS 2017;153:1241; Circ 2021;143:e72)

@@ -1,25 +1,20 @@
----
+date: "2023-12-01---
 title: "AE_TAS102"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_TAS102
-
 **Administration: 35mg/m2 BID (5/2) for 2 weeks, and 2 weeks off
 **AEs such as n/v, anorexia, fatigue, diarrhea, pancytopenia, abnormal LFTs, and FN but only 4%.
 .AETAXOL
 explain the AEs of taxol, such as myelosuppression, hand-foot-syndrome, mainly sensory neuropathy, alopexia, mucositis and/or diarrhea, and hypersensitivity reaction.
 \*\*Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -56,4 +51,3 @@ explain the AEs of taxol, such as myelosuppression, hand-foot-syndrome, mainly s
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

@@ -1,22 +1,17 @@
----
+date: "2023-12-01---
 title: "AE_TAXOTERECDDP"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_TAXOTERECDDP
-
 **explain AEs of chemotherapy, such as myelosuppression, alopecia, nausea/vomiting, mucositis, hypersensitivity reaction, neuropathy, nephrotoxicity, hearing impairement, hand-foot-syndrome, fatigue and infertility
 **Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -53,4 +48,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

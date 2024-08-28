@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition, precipitants, pathophysiology-hyperosmolar hyperglycemic state
-date: 2024-01-01
 ---
+
 # Definition, precipitants, pathophysiology-hyperosmolar hyperglycemic state
 
 

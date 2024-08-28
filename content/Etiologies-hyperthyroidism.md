@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-hyperthyroidism
-date: 2024-01-01
 ---
+
 # Etiologies-hyperthyroidism
 
 * Graves’ disease (60–80% of thyrotoxicosis)

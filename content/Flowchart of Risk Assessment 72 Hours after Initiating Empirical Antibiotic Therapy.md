@@ -14,7 +14,5 @@ tags:
 # Flowchart of Risk Assessment 72 Hours after Initiating Empirical Antibiotic Therapy
 
 ---
-
 ![Figure: ](https://i.imgur.com/de5s3kP.png)
-
 ---

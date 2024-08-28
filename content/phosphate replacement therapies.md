@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: phosphate replacement therapies
-date: 2024-01-01
 ---
+
 # phosphate replacement therapies
 - In adults with symptomatic mild hypophosphatemia (2-2.5 mg/dL [0.65-0.81 mmol/L])
 - treat with increased dietary phosphate or oral phosphate supplements 1,000-2,000 mg/day.

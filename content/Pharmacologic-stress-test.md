@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pharmacologic-stress-test
-date: 2024-01-01
 ---
+
 
 # Pharmacologic-stress-test
 

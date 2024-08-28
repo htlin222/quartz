@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostics for active TB
-date: 2024-01-01
 ---
+
 
 # Diagnostics for active TB
 

@@ -21,12 +21,10 @@ see [What you Need to Know about Cardiac Murmurs for the Boards and Wards : USML
 | Afterload | Hand grip (  vascular resistance) | Nitrate                                 |
 
 ---
-
 |     | 增加   | 減少    |
 | --- | ------ | ------- |
 | 前  | 蹲、跆 | 站、瓦  |
 | 後  | 握     | Nitrate |
-
 ---
 
 ## HCOM, MVP
@@ -39,7 +37,5 @@ see [What you Need to Know about Cardiac Murmurs for the Boards and Wards : USML
 | 後  |    |    |
 
 ---
-
 ![Figure: 更多血在 ↣ 心臟、 ✖ 不嚴重、小聲](https://i.imgur.com/6ARyYc9.png)
-
 ---

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of DKA
-date: 2024-01-01
 ---
+
 # Treatment of DKA
 
 (BMJ 2019;365:1114)

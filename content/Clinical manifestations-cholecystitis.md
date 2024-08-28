@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-cholecystitis
-date: 2024-01-01
 ---
+
 # Clinical manifestations-cholecystitis
 
 * History: RUQ/epigastric pain ± radiation to R shoulder/back, nausea, vomiting, fever

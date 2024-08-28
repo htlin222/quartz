@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Acute bacterial skin and skin structure infections
-date: 2024-01-01
 ---
+
 # Acute bacterial skin and skin structure infections
 
 ## Primary Regimens

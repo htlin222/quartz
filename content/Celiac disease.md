@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Celiac disease
-date: 2024-01-01
 ---
+
 # Celiac disease
 
 (JAMA 2017;318:647; Lancet 2018;391:70; Gastro 2019;156:4)

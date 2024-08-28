@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Focused history of chest pain
-date: 2024-01-01
 ---
+
 
 # Focused history of chest pain
 

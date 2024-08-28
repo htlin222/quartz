@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: management of Barrett’s esophagitis
-date: 2024-01-01
 ---
+
 # management of Barrett’s esophagitis
 
 PPI. 

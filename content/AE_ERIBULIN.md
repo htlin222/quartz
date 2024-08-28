@@ -1,24 +1,19 @@
----
+date: "2023-12-01---
 title: "AE_ERIBULIN"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_ERIBULIN
-
 **explain the AEs of chemotherapy, such as myelosuppression (dose-limiting neutropenia), fatigue, anorexia, emesis, mucositis, diarrhea, peripheral neuropathy, QTc prolongation occurs rarely.
 **Emphasize the importance of nutrional support (high protein diet) during C/T period.
 AEEVEROLIMUS
 \*\*explain AEs of everolimus such as fatigue, mucositis (oral ulcer and diarrhea), emesis, anorexia, increased risk of opportunisitc infections (bacterial or fungus), pulmonary toxicity (noninfectious pneumonitis), skin rash, myelosuppression, hyperlipidemia 70~75% (TG/Chol), and hyperglycemia 50%, mild LFTs elevation
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -55,4 +50,3 @@ AEEVEROLIMUS
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Allergic Transfusion reactions
-date: 2024-01-01
 ---
+
 # Allergic Transfusion reactions
 
 urticaria; rarely, anaphylaxis due to rxn to txfused proteins, especially in IgA-deficient Pts w/ anti-IgA Abs (use washed products). Rx: urticaria → diphenhydramine; anaphylaxis → epinephrine ± steroids. Washed products ↓ rxns in chronic txfusions.

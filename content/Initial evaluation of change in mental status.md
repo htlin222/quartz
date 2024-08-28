@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Initial evaluation of change in mental status
-date: 2024-01-01
 ---
+
 # Initial evaluation of change in mental status
 see [[Stepwise Evaluation of a Patient with Delirium]]
 - History (witness & background crucial): tempo, premorbid sx (eg, focal neuro deficits, HA, infxn, pain, falls), medical conditions (eg, dementia, epilepsy, onc, cardiac, psych, infection/immune status), accompanied by head trauma, current meds (eg, sedatives, opioids, anticoag, anticonvulsants, immunosuppressants), drug/alcohol use

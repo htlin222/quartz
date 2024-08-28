@@ -1,19 +1,15 @@
----
+date: "2023-12-06---
 title: "Ischemic stroke checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[checklist]]
-
 # Ischemic stroke checklist
-
 ## Initial evaluation
-
 - Perform primary survey.
 - Determine the time of onset of symptoms and assess severity with NIHSS.
 - Call for immediate neurology consult or activate stroke team.
@@ -32,9 +28,7 @@ tags:
 - Lower blood pressure to < 185/110 mm Hg.
 - Administer thrombolytic therapy (per neurologist).
 - Evaluate indications for mechanical thrombectomy in discussions with stroke specialists.
-
 ## After stabilization
-
 - Admit preferentially to stroke unit (medicine or neurology) or ICU for first 24 hours.
 - Continue blood pressure management and other neuroprotective measures (e.g., euglycemia, normothermia).
 - Perform serial neurological assessments.

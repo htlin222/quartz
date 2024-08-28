@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Coccidioidomycosis
-date: 2024-01-01
 ---
+
 
 # Coccidioidomycosis
 

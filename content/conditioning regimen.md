@@ -36,7 +36,6 @@ tags:
 * RIC須再輸幹細胞，才能重建骨髓
 
 ---
-
 * MAC: 年輕、體力好、自體 (autologous) HSCT，及alloHSCT當下癌未全緩解
 * 年老、力差、共病多選擇RIC或NMA。
 * 雖然，相較於RIC或NMA，選擇MAC的癌症復發率較低，但是MAC有較高的移植死亡率；

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Fourth Universal Definition of Myocardial Infarction  2018 
-date: 2024-01-01
 ---
+
 # Fourth Universal Definition of Myocardial Infarction (2018)
 ![官網一張圖看完](https://i.imgur.com/f0UkPNT.jpg)
 

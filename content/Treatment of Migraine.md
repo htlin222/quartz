@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of Migraine
-date: 2024-01-01
 ---
+
 # Treatment of Migraine
 
 Abortive Rx: 5-HT1 agonists (triptans) effective if given early in migraine attack;

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Chest Discomfort
-date: 2024-01-01
 ---
+
 # Chest Discomfort
 
 * [[chest pain]]

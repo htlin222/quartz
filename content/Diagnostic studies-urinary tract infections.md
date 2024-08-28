@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-urinary tract infections
-date: 2024-01-01
 ---
+
 # Diagnostic studies-urinary tract infections
 
 (NEJM 2016;374:562)

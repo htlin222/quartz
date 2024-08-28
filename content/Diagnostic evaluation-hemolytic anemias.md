@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic evaluation-hemolytic anemias
-date: 2024-01-01
 ---
+
 
 # Diagnostic evaluation-hemolytic anemias
 
@@ -28,13 +29,10 @@ assoc. w/
 * ↑↑ LDH, ↓ haptoglobin.
 
 ---
-
 ### Extravascular:
 more common cause.
 Mϕ clear damaged/opsonized RBC;
 splenomegaly
 	(reticuloendothelial expansion in spleen, liver, BM, LNs);
-
 * ↑ LDH ↓ hapto
-
 * Family h/o anemia; personal or family h/o cholelithiasis

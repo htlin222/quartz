@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Treatment-bacterial endocarditis
-date: 2024-01-01
 alias: Rx_IE
 ---
+
 
 # Treatment-bacterial endocarditis
 

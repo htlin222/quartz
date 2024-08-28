@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Confusion and Delirium
-date: 2024-01-01
 ---
+
 # Confusion and Delirium
 [[terms used to describe patients with delirium]]
 

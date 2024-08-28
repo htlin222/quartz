@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies of Decreased Responsiveness
-date: 2024-01-01
 ---
+
 # Etiologies of Decreased Responsiveness
 
 see: [[Differential Diagnosis of Delirium]]

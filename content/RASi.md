@@ -14,9 +14,7 @@ tags:
 # RASi
 
 ---
-
 ![Figure: ](https://i.imgur.com/aO2oL4U.png)
-
 ---
 
 - RASi/腎素-血管張力素系統抑制劑

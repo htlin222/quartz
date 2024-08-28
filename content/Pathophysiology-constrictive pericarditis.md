@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathophysiology-constrictive pericarditis
-date: 2024-01-01
 ---
+
 # Pathophysiology-constrictive pericarditis
 
 * Adhesion of visceral and parietal pericardial layers → rigid pericardium that limits diastolic filling of ventricles → ↑ systemic venous pressures

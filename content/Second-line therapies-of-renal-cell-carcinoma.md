@@ -1,17 +1,14 @@
----
+date: "2024-01-03---
 title: "Second-line therapies-of-renal-cell-carcinoma"
 date: "2024-01-03 11:11:04"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自：[[renal-cell-carcinoma]]
-
 # Second-line therapies-of-renal-cell-carcinoma
-
 - Preferred:
   - Cabozantinib,
   - nivolumab,
@@ -23,9 +20,7 @@ tags:
     - axitinib+avelumab,
     - sorafenib,
     - or bevacizumab
-
 ### Siblings
-
 - [[Epidemiology-of-renal-cell-carcinoma]]
 - [[Histology and molecular biology-of-renal-cell-carcinoma]]
 - [[Hereditary RCC and germline testing-of-renal-cell-carcinoma]]

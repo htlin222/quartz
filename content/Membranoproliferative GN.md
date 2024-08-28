@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Membranoproliferative GN
-date: 2024-01-01
 ---
+
 
 # Membranoproliferative GN
 

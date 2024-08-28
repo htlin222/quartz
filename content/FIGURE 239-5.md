@@ -31,7 +31,5 @@ tags:
   - 圖示二尖瓣狹窄患者的  舒張期左心房-左心室梯度（藍色區域），伴有舒張中期雜音 (MDM) 和收縮期前雜音 (PSM)
 
 ---
-
 ![🖼️ Figure: _](https://i.imgur.com/PczmzfG.png)
-
 ---

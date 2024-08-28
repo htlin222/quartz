@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Atrial-Abnormality
-date: 2024-01-01
 ---
+
 # Atrial-Abnormality
 
 ECG P-wave criteria

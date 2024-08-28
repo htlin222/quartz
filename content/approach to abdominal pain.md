@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: approach to abdominal pain
-date: '2023-01-25'
 enableToc: false
 ---
+
 
 > [!info]
 >

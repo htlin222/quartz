@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "PNET"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # PNET
-
 ### Metastatic W/D neuroendocrine tumor, M1, G1 (Ki-67:<2%, tissue from liver), suspected Pan NET with liver mets
-
 - check for functioning tumor or not: ask s/s such as hypoglycemia (insulinoma), diarrhea or hypokalemia (VIPoma), hot flush, diarrhea or hyperglycemia (glucagonoma), recurrent gastric ulcers (gastrinoma), or bronchoconstrition, cardiac valvular fibrosis
 - survey for MEN-1 (pituitary tumor and/or hyperparathyroidism)
 - Offer referral to NTUH 核醫科鄭湄芳 (0972653453) for gallium 68 scan clinical trial available since July, 2019 if necessary
@@ -23,9 +19,7 @@ tags:
   @ need to check CGA, Calcitonin, PTH-rp, GHRH, gastrin, urine 5-HIAA, serum VIP, serum glucagon, serum insulin, pro-insulin, c-peptide
   @ 請開立重大傷病
   @ refer to Lin-kou CGMH for Gallium 68 scan clinical trial
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -86,4 +80,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: fever in a returned traveler
-date: 2024-01-01
 ---
+
 # fever in a returned traveler
 
 See CDC.gov/travel for up to date information on regional risks and recommendations

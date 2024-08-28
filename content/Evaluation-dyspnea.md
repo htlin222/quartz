@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Evaluation-dyspnea
-date: 2024-01-01
 ---
+
 
 # Evaluation-dyspnea
 
@@ -20,11 +21,8 @@ quality of sensation, tempo, positional dependence, exac./allev. factors, exerti
 - Dyspnea w/ nl CXR: CAD, asthma, PE, PHT, early ILD, anemia, acidosis, NM disease
 
 ---
-
 - Based on results of initial evaluation: PFT, chest CT, TTE, cardiopulmonary testing
-
 ## BNP & NT-proBNP ↑ in CHF (also ↑ in AF, RV strain from PE, COPD flare, PHT, ARDS)
-
 - <100 pg/mL to r/o CHF (90% Se),
 - > 400 to r/i (NEJM 2002;347:161) NT-proBNP
 - <300 pg/mL to r/o CHF (99% Se);

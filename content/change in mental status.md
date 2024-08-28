@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: change in mental status
-date: 2024-01-01
 ---
+
 
 # change in mental status
 

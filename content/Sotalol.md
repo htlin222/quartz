@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Sotalol
-date: 2024-01-01
 ---
+
 # Sotalol
 
 n/a 

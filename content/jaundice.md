@@ -31,6 +31,5 @@ enableToc: false
 - 👉 [[Rotor syndrome]] _Iso-Dir_
 
 ---
-
 - 👉 [[Crigler-Najjar syndrome]] _Iso-Indir_
 - 👉 [[Gilbert syndrome]] _Iso-Indir_

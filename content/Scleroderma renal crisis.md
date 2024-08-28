@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Scleroderma renal crisis
-date: 2024-01-01
 ---
+
 # Scleroderma renal crisis
 
  (Nature Neph 2016;12:678)

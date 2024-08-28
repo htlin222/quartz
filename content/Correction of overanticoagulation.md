@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Correction of overanticoagulation
-date: 2024-01-01
 ---
+
 # Correction of overanticoagulation
 
 (Circ 2021;143:e72)

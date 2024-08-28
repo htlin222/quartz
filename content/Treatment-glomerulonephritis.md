@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-glomerulonephritis
-date: 2024-01-01
 ---
+
 # Treatment-glomerulonephritis
 
  (AJKD 2020;75:124 & 2020;76:265)

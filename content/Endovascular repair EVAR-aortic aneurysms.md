@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Endovascular repair EVAR-aortic aneurysms
-date: 2024-01-01
 ---
+
 # Endovascular repair EVAR-aortic aneurysms
 
  (Circ 2015;131:1291; NEJM 2019;380:2126)

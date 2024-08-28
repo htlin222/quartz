@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Antituberculous Treatment Regimens
-date: 2024-01-01
 ---
+
 
 # Antituberculous Treatment Regimens
 
@@ -14,9 +15,7 @@ date: 2024-01-01
 - If sensitive to INH & RIF → INH + RIF + PZA × 2 mo, then → INH + RIF × at least 4 mo
 
 ---
-
 ![Figure: ](https://i.imgur.com/aFZatqC.png)
-
 ---
 
 - 起始期：頭兩個月請愛用四合一 (INH、PZA、EMB、RIF)

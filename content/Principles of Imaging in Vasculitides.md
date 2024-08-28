@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Principles of Imaging in Vasculitides
-date: 2024-01-01
 ---
+
 # Principles of Imaging in Vasculitides
 
 ## for large- and certain medium-vessel vasculitides, various imaging techniques can be useful
@@ -16,5 +17,4 @@ date: 2024-01-01
 * this may play a role in evaluating disease activity and extent of involvement
 
 ---
-
 Reference - Curr Rheumatol Rep 2020 Jun 19;22(8):34

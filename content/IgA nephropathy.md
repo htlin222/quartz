@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: IgA nephropathy
-date: 2024-01-01
 ---
+
 # IgA nephropathy
 
 (CJASN 2017;12:677; AJKD 2021;78:429)
@@ -13,9 +14,7 @@ date: 2024-01-01
 * Rx: ACEI/ARB; if persistent proteinuria (> 1g/d), clinical trial enrollment or shared decision for steroids, consider SGLT2i (NEJM 2020;383:1436); ± cytotoxic Rx for GN; ? fish oil
 
 ---
-
 # IgA vasculitis
-
 (formerly [[Henoch-Schönlein purpura]] [HSP]) ([Rheumatol 2019;58:1607](https://academic.oup.com/rheumatology/article-abstract/58/9/1607/5382174))
 * IgA-mediated [[small-vessel vasculitis]] w/ predilection for skin, GI tract, and kidneys
 * Epidemiology: incidence 140/million/y; ♂ >♀, children >adults, winter >summer

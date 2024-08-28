@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Kidney transplantation
-date: 2024-01-01
 ---
+
 # Kidney transplantation
 
  (Med Clin N Am 2016;100:435)

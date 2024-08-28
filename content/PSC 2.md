@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Primary sclerosing cholangitis  PSC
-date: 2024-01-01
 alias: Primary sclerosing cholangitis
 ---
+
 
 # Primary sclerosing cholangitis (PSC)
 

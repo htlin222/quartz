@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "GC"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # GC
-
 ### Gastric cancer, (P/D) adenocrcinoma, bormann type III pT4bN3bM1 (AJCC 7th), pancreatic invasion, omentum mets, LN less curvature (7/22), greater curvature (8/28) s/p palliative subtotal gastrectomy on 2017/00/00, LVI+, perineural invasion
-
 - Initial presentation
 - Treatment plan: palliative chemotherapy
 - Follow up parameter: abdominal CT scan and CEA/CA199 if elevated
@@ -22,9 +18,7 @@ tags:
   @ Start palliatve chemotherapy today, explain treatment options
   @ Vascular assessment, nutritional assessment, dental check, pharmacist education before chemotherapy.
   @ pending for HER2-neur IHC stain
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -85,4 +79,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

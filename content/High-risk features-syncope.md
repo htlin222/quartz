@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: High-risk features-syncope
-date: 2024-01-01
 ---
+
 # High-risk features-syncope
 
  (admit w/ tele; JACC 2017;70:620; EHJ 2018;39:1883)

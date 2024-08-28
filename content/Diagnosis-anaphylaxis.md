@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis-anaphylaxis
-date: 2024-01-01
 ---
+
 # Diagnosis-anaphylaxis
 any of the three following criteria
 

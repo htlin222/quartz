@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: diltiazem
-date: 2024-01-01
 ---
+
 # diltiazem
 
 Wt/4

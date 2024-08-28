@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of Prinzmetals variant angina
-date: 2024-01-01
 ---
+
 # Treatment of Prinzmetals variant angina
 
 * high-dose CCB & standing nitrates (+SL prn),

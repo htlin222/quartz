@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-syncope
-date: 2024-01-01
 ---
+
 # Treatment-syncope
 
  (JACC 2017;70:620 & 2019;74:2410; EHJ 2018;39:1883)

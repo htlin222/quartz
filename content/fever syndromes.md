@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: fever syndromes
-date: 2024-01-01
 ---
+
 # fever syndromes
 
 Temperature ≥100.4°F or ≥38°C

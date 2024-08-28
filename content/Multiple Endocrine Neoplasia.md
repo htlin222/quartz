@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Multiple Endocrine Neoplasia
-date: 2024-01-01
 alias: MEN
 ---
+
 
 # Multiple Endocrine Neoplasia
 
@@ -14,6 +15,5 @@ alias: MEN
 - [[von Hippel–Lindau]] (VHL)
 
 ---
-
 also see [[pheochromocytoma]]
 [[gastrointestinal neuroendocrine tumors]]

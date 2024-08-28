@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Optimal-medical-therapy-stable ischemic heart disease
-date: 2024-01-01
 ---
+
 
 - from: [[stable ischemic heart disease]] 󰒖
 

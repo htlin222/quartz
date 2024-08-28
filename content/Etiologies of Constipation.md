@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies of Constipation
-date: 2024-01-01
 ---
+
 # Etiologies of Constipation
 
 ## Primary etiologies: slow transit vs. pelvic floor dyssynergia

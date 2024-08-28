@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Medical Therapy of Crohn’s Disease
-date: 2024-01-01
 ---
+
 
 # Medical Therapy of Crohn’s Disease
 

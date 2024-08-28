@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pain
-date: 2024-01-01
 ---
+
 # Pain
 
 - [[Pain: Pathophysiology and Management]]

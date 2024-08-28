@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies of hypercortisolism
-date: 2024-01-01
 ---
+
 
 # Etiologies of hypercortisolism
 

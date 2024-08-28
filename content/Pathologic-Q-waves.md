@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathologic-Q-waves
-date: 2024-01-01
 ---
+
 
 # Pathologic-Q-waves
 

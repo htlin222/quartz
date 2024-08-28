@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Recognizing and managing comorbidities of Migraine
-date: 2024-01-01
 ---
+
 # Recognizing and managing comorbidities of Migraine
 
 * Identify comorbid conditions

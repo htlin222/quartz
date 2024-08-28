@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-glomerulonephritis
-date: 2024-01-01
 ---
+
 # Workup-glomerulonephritis
 
 (JAMA 2017;318:1276)

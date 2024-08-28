@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cyclic vomiting syndrome
-date: 2024-01-01
 ---
+
 # Cyclic vomiting syndrome
 
 acute recurrent vomiting;

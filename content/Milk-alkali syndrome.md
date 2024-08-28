@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Milk-alkali syndrome
-date: 2024-01-01
 ---
+
 # Milk-alkali syndrome
 
 - 乳鹼綜合徵由高鈣血症、代謝性鹼中毒和與攝入大量鈣和可吸收鹼相關的急性腎損傷三聯徵組成。

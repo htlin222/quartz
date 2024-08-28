@@ -24,11 +24,8 @@ Smoking history: __pack/y from age__ to age__
 Alcohol consumption:
 
 ---
-
 ## PHYSICAL EXAM
-
 (PRESENT MEDICAL CONDITIONS)
-
 Normal weight: Height: BMI
 Main symptoms:
 Weight loss:
@@ -41,20 +38,14 @@ Chest: bilateral<> clear<> breath sounds
 Heart: regular rhythm,<> normal rate,<>no murmur
 Abd: non<>distended, normo<>active BoS, nontender
 Ext: warm, <bilateral 2+>no<> pitting edema
-
 ### Assessment
-
 # Lung adenocarcinoma
-
 ## DIAGNOSIS AND CLINICAL STAGING
-
 - < date > PET/CT scan:
 - < date > Bronchoscopy:
 - < date > EBUS/EUS:
 - < date > TNM stage and grade:
-
 ### HISTOLOGICAL ANALYSIS
-
 - Core biopsy of primary tumour:
 - Non-squamous:
   - Tested for EGFR mut. PD-L1, method used
@@ -67,9 +58,7 @@ Ext: warm, <bilateral 2+>no<> pitting edema
   - Lung function tests
   - Cardio-vascular check-up
 - Timeline for further work-up has been checked and it is tight enough
-
 ### MDT discussion and decision
-
 - Treatment options have been discussed with the patient and strategy accepte
   - Surgery Performed Planned
   - SBRT Radiotherapy Radiofrequency ablation (or similar ablative approach)

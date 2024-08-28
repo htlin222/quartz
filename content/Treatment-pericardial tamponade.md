@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-pericardial tamponade
-date: 2024-01-01
 ---
+
 # Treatment-pericardial tamponade
 
 * Volume (but be careful b/c overfilling can worsen tamponade) and ⊕ inotropes (avoid βB)

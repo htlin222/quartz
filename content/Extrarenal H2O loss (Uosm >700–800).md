@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Extrarenal H2O loss  Uosm >700–800 
-date: 2024-01-01
 ---
+
 # Extrarenal H2O loss (Uosm >700–800)
 
  GI H2O loss: vomiting, NGT drainage, osmotic diarrhea, fistula, lactulose, malabsorption

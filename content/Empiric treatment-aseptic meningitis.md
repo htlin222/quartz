@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Empiric treatment-aseptic meningitis
-date: 2024-01-01
 ---
+
 # Empiric treatment-aseptic meningitis
 
 - Suspected bacterial meningitis: see empiric treatment of bacterial meningitis above

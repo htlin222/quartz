@@ -1,17 +1,14 @@
----
+date: "2023-12-06---
 title: "Hormone positive disease-adjuvant endocrine treatment"
 date: "2023-12-06 14:52:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[localized breast cancer]]
-
 # Hormone positive disease-adjuvant endocrine treatment
-
 - ER &/or PR positive (IHC > 10%): Always needs endocrine tx. Use of chemo depends on node status & molecular assays
 - ER &/or PR low (IHC < 10%): Consider endocrine tx
 - Premenopausal: If high risk (age < 35 y +/− any high-risk factor, eg, node +) → OFS+TAM or OFS+AI (based on distant relapse & OS ↑). Note: OFS+AI > OFS + TAM (based on recurrence risk), no OS benefit. (SOFT/TEXT, NEJM 2018;379:122-137; NEJM 2014;371:107-118; JCO 2016;34:1689)
@@ -32,9 +29,7 @@ tags:
 - pN1 (1-3 N+), postmenopausal pt, & RS ≤25: ET only (IDFS ET alone ∼ chemo + ET); RS >25: Chemo then ET. If premenopausal, chemo always indicated regardless of RS (RxPONDER, NEJM 2021;385:2336-2347)
 - Hormone-positive disease-prognostic models
 - MammaPrint: 70-gene signature to categorize into 2 groups-good vs. poor prog irrespective of ER status; if high clinical risk, including 1-3 LN, but good prog on genetic risk, may be able to avoid chemo in postmenopausal pts (MINDACT, Lancet 2005;365:671; updated NEJM 2016;375:717, SABCS 2020)
-
 ### Siblings
-
 - [[Local management with surgery and radiation-of-localized breast cancer]]
 - [[Chemotherapy regimens for NAV or ADJ use in HR positive and TNBC-of-localized breast cancer]]
 - [[Hormone positive disease-adjuvant endocrine treatment]]

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cryptococcus neoformans
-date: 2024-01-01
 ---
+
 # Cryptococcus neoformans
 
 A common infectious cause of subacute and chronic meningoencephalitis associated with raised intracranial pressure in immunocompromised patients is Cryptococcus neoformans.

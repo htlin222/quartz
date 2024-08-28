@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Disposition-anaphylaxis
-date: 2024-01-01
 ---
+
 # Disposition-anaphylaxis
 * Mild rxn limited to urticaria or mild bronchospasm can be observed for ≥6 h; admit all others
 

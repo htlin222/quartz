@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: ABG-vs-VBG
-date: 2024-01-01
 ---
+
 # ABG-vs-VBG
 
 concordant for pH (~0.04), HCO3 (~2 mEq) but not PCO2 (~8±17 mmHg)

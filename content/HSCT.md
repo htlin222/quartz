@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: hematopoietic stem cell transplantation
-date: 2024-01-01
 alias: HSCT
 ---
+
 
 # hematopoietic stem cell transplantation
 
@@ -18,9 +19,7 @@ alias: HSCT
 - [[donor-specific.md|donor-specific]]
 
 ---
-
 > 類型、細胞來源、適應症、併發症、時機、預防
-
 - [[categories of stem cell transplantation]]
     - [[autologous_stem_cell_transplantation.md|Autologous Stem Cell Transplantation]]
     - [[allogeneic_stem_cell_transplantation.md|allogeneic stem cell transplantation]]
@@ -32,9 +31,7 @@ alias: HSCT
 - [[post-transplant_maintenance_therapy.md|Post-transplant maintenance therapy]]
 - [[Transplant Infection Prevention, Overview]]
 - [[2024-01-21-post-ash.md|2024-01-21-post-ASH]]
-
 ## Chronic Active Antibody-Mediated Rejection (ABMR)
-
 - Diagnosis requires:
   - Morphologic evidence of chronic tissue injury (e.g. transplant glomerulopathy)
   - Evidence of current or recent antibody interaction with the vascular endothelium (e.g. linear C4d staining of peritubular capillaries)

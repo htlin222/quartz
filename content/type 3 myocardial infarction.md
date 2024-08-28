@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: type 3 myocardial infarction
-date: 2024-01-01
 ---
+
 # type 3 myocardial infarction
 
 Cardiac death

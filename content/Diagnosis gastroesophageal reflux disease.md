@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis gastroesophageal reflux disease
-date: 2024-01-01
 ---
+
 
 # Diagnosis gastroesophageal reflux disease
 

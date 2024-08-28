@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Staging of lung cancer
-date: 2024-01-01
 ---
+
 # Staging of lung cancer
 
 * based on tumor size and extent of invasion (T),

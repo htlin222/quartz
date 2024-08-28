@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: stroke
-date: 2024-01-01
 ---
+
 
 # stroke
 

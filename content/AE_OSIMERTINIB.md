@@ -1,21 +1,16 @@
----
+date: "2023-12-01---
 title: "AE_OSIMERTINIB"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_OSIMERTINIB
-
 \*AEs such as skin rash or acne, diarrhea, dry skin, paronychia, stomtitis, decreased appetite, pruritus, cough, constipation, nausea, fatigue, and headache.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -52,4 +47,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

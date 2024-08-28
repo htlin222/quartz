@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations gastroesophageal reflux disease
-date: 2024-01-01
 ---
+
 # Clinical manifestations gastroesophageal reflux disease
 
 * Esophageal: heartburn, atypical chest pain, regurgitation, sour taste, dysphagia 

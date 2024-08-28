@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: nonthyroidal illness  sick euthyroid syndrome
-date: 2024-01-01
 ---
+
 
 # nonthyroidal illness (sick euthyroid syndrome)
 

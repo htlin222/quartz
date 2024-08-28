@@ -1,23 +1,18 @@
----
+date: "2023-12-05---
 title: "BMD"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # BMD
-
 - BMD: `___`/`___`/`___`
   - Lumbar spine: T-score: -2.0 (LOW BONE DENSITY);
   - Right hip: T-score: -2.9 (OSTEOPOROSIS)
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]

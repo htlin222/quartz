@@ -1,23 +1,22 @@
 ---
+date: "2024-01-01"
+---
+
+date: "2023-12-05---
 title: "HCC"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自：[[snippets]]
-
 # HCC
-
 - [[epidemiology-of-hepatocellular_carcinoma.md|Epidemiology-of-hepatocellular carcinoma]]
 - [[systemic_therapies-of-hepatocellular_carcinoma.md|Systemic therapies-of-hepatocellular carcinoma]]
     - [[subsequent_therapies-of-hepatocellular_carcinoma.md|Subsequent therapies-of-hepatocellular carcinoma]]
-
 ### Hepatocellular carcinoma s/p ?
-
 - Initial presentation:
 - EGD on 2017/00/00:
 - CT on 2017/00/00:
@@ -28,7 +27,5 @@ tags:
   @ Arrange EGD first before started targeted therapy
   @ Pharmacist education before targeted therapy
   \*possible side effect of sorafenib was told, such as hypertension, hand-food syndrome, skin rash, GI upset, diarrhea, and bleeding
-
 ### HBV/HCV/Alcoholic liver cirrhosis, child A, complicated with minimal ascites, splenomegaly and portal hypertension
-
 ### Siblings

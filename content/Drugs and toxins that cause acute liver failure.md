@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Drugs and toxins that cause acute liver failure
-date: 2024-01-01
 ---
+
 # Drugs and toxins that cause acute liver failure
 
 (nearly 80% of cases in U.S.; Gastro 2015;148:1353, Clin Liver Dis 2017;21:151)

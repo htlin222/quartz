@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Sarcoidosis
-date: 2024-01-01
 ---
+
 
 # Sarcoidosis
 

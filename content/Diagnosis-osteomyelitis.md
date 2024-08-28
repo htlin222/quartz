@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis-osteomyelitis
-date: 2024-01-01
 ---
+
 # Diagnosis-osteomyelitis
 
 (JAMA 2008;299:806)

@@ -1,23 +1,21 @@
 ---
+date: "2024-01-01"
+---
+
+date: "2023-12-05---
 title: "NSCLC"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # NSCLC
-
 Non-smoker/smoker, female/male, Asian
-
 ### NSCLC, M/D? adenocarcinoma, in LLL, cTxNxMx, stage IV, with ?? mets, dx on 2020/00/00
-
 \*EGFR exon 21 L858R/ 19 Del/ Wild type, ALK, ROS-1, PDL-1
-
 - Initial presentation:
 - Follow up parameter: Primary lung CT, CEA if elevated, and bone scan
 - Chest CT on 2020/00/00:

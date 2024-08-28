@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hypervolemic hypotonic hyponatremia
-date: 2024-01-01
 ---
+
 # Hypervolemic hypotonic hyponatremia
 
  (ie, ↑ total body Na, ↑ ↑ TBW)

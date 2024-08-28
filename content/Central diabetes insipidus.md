@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Central diabetes insipidus
-date: 2024-01-01
 ---
+
 # Central diabetes insipidus
 
 > **Arginine vasopressin** deficiency (central diabetes insipidus): Treatment

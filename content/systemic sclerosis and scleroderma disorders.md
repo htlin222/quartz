@@ -22,7 +22,6 @@ tags:
 - Usually only 2 of the 5 symptoms of the CREST syndrome is → necessary to be diagnosed with the disease.
 
 ---
-
 - [[Definition and epidemiology of systemic sclerosis and scleroderma disorders|Definition and epidemiology]] 󰒖 (Best Pract Res Clin Rheumatol 2018;32:223)
 - [[ACR-EULAR SSc classification criteria]] (Ann Rheum Dis 2013;72:1747)
 - [[clinical manifestations of systemic sclerosis]]

@@ -1,17 +1,14 @@
----
+date: "2023-12-06---
 title: "Triple negative disease"
 date: "2023-12-06 15:57:58"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[metastatic breast cancer]]
-
 # Triple negative disease
-
 - Initial work-up: PD-L1 IHC, NGS, germline genetic testing
 - Targeted/ IO:
 - If PD-L1 > = 1%: Atezo + nab-paclitaxel (IMpassion130, NEJM 2018;379:2108)
@@ -23,9 +20,7 @@ tags:
 - For 3rd line: Sacituzumab-govitecan (ADC to Trop2)-demonstrated ↑ PFS & ↑ OS benefit (ASCENT, NEJM 2021;384;1529)
 - Monitor for pancytopenia
 - NTRK fusion → laro/entrectinib
-
 ## Chemo
-
 Sequential single-agent chemo preferred over combination, but combo could be considered if significant burden of dz & rapid progression (no OS benefit of combo AT vs. A −>T but ↑ RR w/ combo)
 Combo docetaxel/cape ↑ OS vs. doce alone (JCO 2002;20:2812) & paclitaxel/gem ↑ OS vs. paclitaxel alone but incl. tox & never tested vs. sequential Rx (JCO 2008;26:3950)
 No standard sequence of agents, although weekly paclitaxel is typically 1st-line (CALGB 40502) → cape & eribulin 2nd/3rd
@@ -35,9 +30,7 @@ Anthracyclines: Doxorubicin, epirubicin, & pegylated liposomal doxorubicin; cons
 Antimetabolite: Cape & gemcitabine
 Less commonly used: Infusional 5-FU, ixabepilone, vinblastine, etoposide, cis, cyclophosphamide, mitoxantrone, irinotecan
 Combinations: Gem/carbo, CAF, FEC, AC, EC, AT, CMF, doce/cape, gem/taxol, cape/ixabepilone
-
 ### Siblings
-
 - [[Workup-of-metastatic breast cancer]]
 - [[General management principles-of-metastatic breast cancer]]
 - [[Hormone-receptor positive (HER2 negative)-of-metastatic breast cancer]]

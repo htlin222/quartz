@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: hepatitis C virus Monitoring on Rx
-date: 2024-01-01
 alias: HCV-monitor
 ---
+
 
 # hepatitis C virus Monitoring on Rx
 

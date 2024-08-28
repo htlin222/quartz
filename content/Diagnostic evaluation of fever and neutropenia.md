@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic evaluation of fever and neutropenia
-date: 2024-01-01
 ---
+
 # Diagnostic evaluation of fever and neutropenia
 
 - Exam: skin, **oropharynx**, lung, perirectal area, surgical & catheter sites; avoid rectal exam

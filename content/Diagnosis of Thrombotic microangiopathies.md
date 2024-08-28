@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis of Thrombotic microangiopathies
-date: 2024-01-01
 ---
+
 # Diagnosis of Thrombotic microangiopathies
 
 * unexplained thrombocytopenia (typically <20k) + MAHA

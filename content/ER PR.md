@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: ER PR
-date: 2024-01-01
 ---
+
 # ER PR
 
 ## Endo (NEJM 2019;380: 1226)

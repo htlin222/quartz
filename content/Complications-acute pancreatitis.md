@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications-acute pancreatitis
-date: 2024-01-01
 ---
+
 # Complications-acute pancreatitis
 
 * Systemic: ARDS, abdominal compartment syndrome, AKI, GIB (pseudoaneurysm), DIC

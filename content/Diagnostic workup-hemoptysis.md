@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic workup-hemoptysis
-date: 2024-01-01
 ---
+
 # Diagnostic workup-hemoptysis
 
 * Localize bleeding site 

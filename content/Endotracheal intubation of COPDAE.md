@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Endotracheal intubation of COPDAE
-date: 2024-01-01
 ---
+
 
 # Endotracheal intubation of COPDAE
 

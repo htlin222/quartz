@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Consciousness Arousal
-date: 2024-01-01
 ---
+
 # Consciousness Arousal
 
 ## Arousal:

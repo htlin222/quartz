@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Preventive treatment of Migraine
-date: 2024-01-01
 ---
+
 # Preventive treatment of Migraine
 
 * Recommended for patients adversely affected on ≥2 days per month despite optimized acute therapy

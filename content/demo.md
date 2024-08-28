@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: test pandoc
-date: 2024-01-01
 ---
+
 
 ## Title
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-Portal vein thrombosis  PVT 
-date: 2024-01-01
 ---
+
 # Treatment-Portal vein thrombosis (PVT)
 
 * Treatment: Acute: If noncirrhotic, LMWH → warfarin or DOAC × 6 mo, or indefinitely if irreversible cause. If cirrhotic, anticoag ↑ recanalization w/o ↑ bleeding (Gastro 2017;153:480); screen for high-risk varices prior to Rx (Nat Rev Gastro Hep 2014;11:435).

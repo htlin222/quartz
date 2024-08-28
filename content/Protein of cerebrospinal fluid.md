@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Protein of cerebrospinal fluid
-date: 2024-01-01
 ---
+
 # Protein of cerebrospinal fluid
 
 * 是大分子，會被BBB擋住，正常約 15–40 mg/dL

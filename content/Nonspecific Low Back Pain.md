@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Nonspecific Low Back Pain
-date: 2024-01-01
 ---
+
 # Nonspecific Low Back Pain
 
 ![[Nonspecific Low Back Pain-metadata#Metadata]]

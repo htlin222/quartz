@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies of Non-AG Metabolic Acidosis
-date: 2024-01-01
 ---
+
 # Etiologies of Non-AG Metabolic Acidosis
 
 ## GI losses of HCO3

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations peptic ulcer disease 
-date: 2024-01-01
 ---
+
 # Clinical manifestations peptic ulcer disease 
 
 * Epigastric gnawing abdominal pain: relieved with food (DU) or worsened by food (GU)

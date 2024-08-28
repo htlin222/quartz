@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Ingestions-caused-metabolic-acidosis
-date: 2024-01-01
 ---
+
 # Ingestions-caused-metabolic-acidosis
 
 (NEJM 2018;378:270) Call poison control for guidance (02-28757525-821 北榮毒物科)

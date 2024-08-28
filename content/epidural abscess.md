@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: epidural abscess
-date: 2024-01-01
 ---
+
 # epidural abscess
 
 ## [[clinical case of epidural abscess]]

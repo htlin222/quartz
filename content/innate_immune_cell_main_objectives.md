@@ -22,5 +22,4 @@ tags:
 - cytokine and chemokine production
 
 ---
-
 [Lecture 1c: Categories of Immune Responses - YouTube](https://www.youtube.com/watch?v=-notZo2Epnw&list=PLGtzDsBAPCCI9lUJzpAAK8nP9Exrb_V0l&index=2)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: chest radiograph
-date: 2024-01-01
 ---
+
 # chest radiograph
 
 ## Tips:
@@ -25,9 +26,7 @@ date: 2024-01-01
 ### CHRONIC CAUSES OF PARENCHYMAL CONSOLIDATION
 
 ---
-
 ## Atelectasis
-
 #### Obstructive atelectasis
 Distal to obstruction of a bronchus
 #### Passive atelectasis
@@ -38,13 +37,11 @@ Compression by a space-occupying process, such as a pleural effusion, pulmonary 
 Caused by deficiency of surfactant (e.g., radiation pneumonitis)
 #### Cicatrization atelectasis
 Caused by contraction of fibrous tissue as it matures; can be focal (e.g., tuberculosis) or diffuse (e.g., idiopathic pulmonary fibrosis)
-
 ### Patterns of Atelectasis
 S sign of Golden
 juxtaphrenic peak
 Luftsichel sign
 thymic sail sign
-
 ---
 
 ## Nodules and Masses
@@ -68,7 +65,6 @@ Pulmonary arteriovenous malformation
 * Hematomas
 
 ---
-
 ## Interstitial Patterns
 * Septal Pattern
 	* Kerley's A, B, and C Lines

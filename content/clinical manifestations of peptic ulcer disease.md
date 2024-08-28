@@ -1,8 +1,13 @@
 ---
+date: "2024-01-01"
+---
+
+---
+date: "2024-01-01"
 title: clinical manifestations of peptic ulcer disease
-date: 2024-01-01
 alias: sx-PUD
 ---
+
 
 # clinical manifestations of peptic ulcer disease
 

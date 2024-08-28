@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Propafenone
-date: 2024-01-01
 ---
+
 # Propafenone
 
 600 mg PO x 150-300mg tid

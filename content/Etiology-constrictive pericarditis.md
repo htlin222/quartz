@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiology-constrictive pericarditis
-date: 2024-01-01
 ---
+
 # Etiology-constrictive pericarditis
 
 (Circ 2011;124:1270)

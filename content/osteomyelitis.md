@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: osteomyelitis
-date: 2024-01-01
 ---
+
 # osteomyelitis
 
 > [!note]

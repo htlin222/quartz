@@ -1,17 +1,14 @@
----
+date: "2024-01-03---
 title: "Histology and molecular biology-of-renal-cell-carcinoma"
 date: "2024-01-03 11:11:04"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自：[[renal-cell-carcinoma]]
-
 # Histology and molecular biology-of-renal-cell-carcinoma
-
 - Clear cell (ccRCC; 80-90% of all RCC).
   - Remainder non-clear cell include:
     - papillary,
@@ -22,9 +19,7 @@ tags:
     - TFE3 translocation,
     - & unclassified
 - Sarcomatoid is a variant seen w/ any cell type reflecting a phenotype that is more aggressive but possibly more responsive to immunotherapy
-
 ### Siblings
-
 - [[Epidemiology-of-renal-cell-carcinoma]]
 - [[Histology and molecular biology-of-renal-cell-carcinoma]]
 - [[Hereditary RCC and germline testing-of-renal-cell-carcinoma]]

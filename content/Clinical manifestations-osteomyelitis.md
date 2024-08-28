@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-osteomyelitis
-date: 2024-01-01
 ---
+
 # Clinical manifestations-osteomyelitis
 
 * Surrounding soft-tissue compromise ± fistula to superficial skin

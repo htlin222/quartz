@@ -1,21 +1,16 @@
----
+date: "2023-12-05---
 title: "HNSCCAECCRT"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # HNSCCAECCRT
-
 explain the AEs of CCRT, such as nausea/vomiting, mucositis, diarrhea, hypersensitivity reaction, hand-foot-syndrome, hyperpigmentation, nephrotoxicity, radiation dermatitis, radiation esophagitis, radiation pneumonitis, myelosuppression, alopecia, xerostomia, hypothyroidism in the future
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -76,4 +71,3 @@ explain the AEs of CCRT, such as nausea/vomiting, mucositis, diarrhea, hypersens
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

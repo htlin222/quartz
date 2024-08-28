@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Acute Treatment of Hypercalcemia
-date: 2024-01-01
 ---
+
 # Acute Treatment of Hypercalcemia
 
 ## Normal saline (4–6 L/d) h during Rx

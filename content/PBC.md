@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Primary biliary cholangitis  PBC
-date: 2024-01-01
 alias: PBC
 ---
+
 
 # Primary biliary cholangitis (PBC)
 

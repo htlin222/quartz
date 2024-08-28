@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-aseptic meningitis
-date: 2024-01-01
 ---
+
 # Etiologies-aseptic meningitis
 
 (Neurology 2006;66:75)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Factitious disorder
-date: 2024-01-01
 ---
+
 # Factitious disorder
 
 所以裝病症候群診斷的三個條件：  

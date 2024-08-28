@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: JAMA review of hyponatremia
-date: 2024-01-01
 ---
+
 ## Diagnosis and Management of Hyponatremia
 JAMA. 2022;328(3):280-291.
 經過這麼多年後，熱騰騰的Hyponatremia review.

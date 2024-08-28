@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-encephalitis
-date: 2024-01-01
 ---
+
 # Etiologies-encephalitis
 
 (specific etiology found in <20% of cases; Neurology 2006;66:75; CID 2008;47:303)

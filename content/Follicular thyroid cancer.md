@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Follicular thyroid cancer
-date: 2024-01-01
 ---
+
 # Follicular thyroid cancer
 
 * Peak incidence 40 to 60 y, ♀:♂ 3:1; RFs: childhood radiation; FHx; familial syndrome

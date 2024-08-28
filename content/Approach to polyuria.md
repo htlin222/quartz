@@ -1,14 +1,13 @@
 ---
+date: "2024-01-01"
 title: Approach to polyuria
-date: 2024-01-01
 ---
+
 
 # Approach to polyuria
 
 ---
-
 ![Figure: Approach to the patient with polyuria](https://i.imgur.com/kfUZY1e.png)
-
 ---
 
 ```

@@ -25,18 +25,13 @@ also look :
 * rarely CHF
 
 ---
-
 ## [[dasatinib]]:
 * pericardial & pleural effusions and pulm.
 * HTN
-
 ## [[nilotinib]]:
-
 * ↑ bili & lipase
 * CV toxicity
-
 ## [[ponatinib]]:
-
 * pancreatitis
 * arterial vascular events
 	(cerebral, cardiac, & PAD)

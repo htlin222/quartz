@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications-cholecystitis
-date: 2024-01-01
 ---
+
 # Complications- [[cholecystitis]]
 
 * Gangrenous cholecystitis: necrosis w/ risk of empyema and perforation

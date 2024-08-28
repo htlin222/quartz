@@ -1,23 +1,18 @@
----
+date: "2023-12-01---
 title: "AE_CDK46"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_CDK46
-
 Abemaciclib:200-150mg BID, AEs such as diarrhea (80%), neutropenia, anemia, fatigue, nausea, and alopecia. Monitor CBC and LFTs on D1 and D14 of first 2 cycles and then on D1 for 4 cycles and periodically.
 Palbociclib:125mg, AEs such as neutropenia, anemia, fatigue, nausea, alopecia, and diarrhea. Monitor CBC and LFTs on D1 and D14 of first 2 cycles and then on D1 for 4 cycles and periodically.
 Ribociclib: 600mg(#3 QD), AEs such as neutropenia, anemia, fatigue, nausea, alopecia, diarrhea, and QTc prolong. Monitor CBC and LFTs and on D1 and D14 of first 2 cycles and then on D1 for 4 cycles and periodically. ECG as baseline and D14 and then on D1 of 2nd cycle.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -54,4 +49,3 @@ Ribociclib: 600mg(#3 QD), AEs such as neutropenia, anemia, fatigue, nausea, alop
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

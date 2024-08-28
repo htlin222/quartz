@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: New York Heart Association class
-date: 2024-01-01
 ---
+
 
 # New York Heart Association class
 

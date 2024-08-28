@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Transjugular intrahepatic portosystemic shunt  TIPS 
-date: 2024-01-01
 ---
+
 # Transjugular intrahepatic portosystemic shunt (TIPS)
 
 

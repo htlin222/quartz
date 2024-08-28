@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-acute pancreatitis
-date: 2024-01-01
 ---
+
 # Clinical manifestations-acute pancreatitis
 
 * Epigastric abdominal or LUQ pain (90%), only ½ w/ bandlike pain radiating to back

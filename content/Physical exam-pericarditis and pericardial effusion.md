@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Physical exam-pericarditis and pericardial effusion
-date: 2024-01-01
 ---
+
 # Physical exam-pericarditis and pericardial effusion
 
 * Pericarditis: multiphasic friction rub best heard at LLSB w/ diaphragm of stethoscope. Notoriously variable and evanescent leathery sound w/ up to 3 components: atrial contraction, ventricular contraction, ventricular relaxation (NEJM 2012;367:e20).

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Risk factors for bloodstream infections
-date: 2024-01-01
 ---
+
 # Risk factors for bloodstream infections
 
 (JAMA 2012;308:502; CID;2020;71)

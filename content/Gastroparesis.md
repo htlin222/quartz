@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Gastroparesis
-date: 2024-01-01
 ---
+
 # Gastroparesis
 
 [Gastroparesis.](https://www.ncbi.nlm.nih.gov/pubmed/30385743)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Overview-potassium homeostasis
-date: 2024-01-01
 ---
+
 
 # Overview-potassium homeostasis
 
@@ -24,7 +25,5 @@ date: 2024-01-01
 ## Diet: alone rarely causes ↑ or ↓ K (total body store ~3500 mEq, daily intake ~100 mEq)
 
 ---
-
 ![Figure: Body K+ distribution and cellular K+ flux.](https://i.imgur.com/j70D72X.png)
-
 ---

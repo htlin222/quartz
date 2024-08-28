@@ -1,17 +1,14 @@
----
+date: "2023-12-05---
 title: "ANAL"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # Anal cancer, SqCC, cT`___`N`___`M`___`, dx on `___`/`___`/`___`
-
 - Initial presentation:
 - Treatment plan: definitive CCRT and longterm observation
 - 2010/00/00: Explain the purpose of neoadjuvant CCRT, the goal is to decrease recurrence/metastasis as possible, not guarantee cure!! Thus regular follow up is still needed.

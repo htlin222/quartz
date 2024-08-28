@@ -1,8 +1,13 @@
 ---
+date: "2024-01-01"
+---
+
+---
+date: "2024-01-01"
 title: endocrinology
-date: 2024-01-01
 alias: meta
 ---
+
 
 # endocrinology
 

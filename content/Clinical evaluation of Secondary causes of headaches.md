@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical evaluation of Secondary causes of headaches
-date: 2024-01-01
 ---
+
 # Clinical evaluation of Secondary causes of headaches
 
 (Neurology 2019;92:134 & JAMA 2021;325:1874)

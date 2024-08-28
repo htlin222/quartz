@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Prognosis-cirrhosis
-date: 2024-01-01
 ---
+
 # Prognosis-cirrhosis
 
 (www.mdcalc.com/child-pugh-score-cirrhosis-mortality)

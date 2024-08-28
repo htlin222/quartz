@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "NET"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # NET
-
 ### Metastatic neuroendocrine tumor of liver, M1, G1 (Ki-67:1%, tissue from liver), primary to be determined, dx on 2018/5/21
-
 - 2018/5/29 check for functioning tumor or not: ask s/s such as hypoglycemia (insulinoma), diarrhea or hypokalemia (VIPoma), hot flush, diarrhea or hyperglycemia (glucagonoma), recurrent gastric ulcers (gastrinoma), or bronchoconstrition, cardiac valvular fibrosis.
 - 2018/5/29 Check for primary site with whole body CT scan or CXR, panendoscope, colonscopy
 - 2018/5/29 survey for MEN-1 (pituitary tumor and/or hyperparathyroidism)
@@ -23,9 +19,7 @@ tags:
   @ need to arrange EGD (patient has GERD s/s) and colonscopy for primary site survey
   @ need to check CGA, Calcitonin, PTH-rp, GHRH, gastrin, urine 5-HIAA, serum VIP, serum glucagon, serum insulin, pro-insulin, c-peptide
   @ 請開立重大傷病
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -86,4 +80,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

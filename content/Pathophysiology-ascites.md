@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathophysiology-ascites
-date: 2024-01-01
 ---
+
 # Pathophysiology-ascites
 
 ([Hepatology 2021;74:1014](https://journals.lww.com/hep/Fulltext/2021/08000/Diagnosis,_Evaluation,_and_Management_of_Ascites,.34.aspx))

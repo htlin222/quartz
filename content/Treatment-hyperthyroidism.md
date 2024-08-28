@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-hyperthyroidism
-date: 2024-01-01
 ---
+
 # Treatment-hyperthyroidism
 
 * β-blockers: control tachycardia (propranolol also ↓ T4 → T3 conversion)

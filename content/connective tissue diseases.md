@@ -13,9 +13,7 @@ tags:
 # connective tissue diseases
 
 ---
-
 ![Figure: ](https://i.imgur.com/km1trGa.png)
-
 ---
 
 Centr, centromere; dcSSc, diffuse cutaneous systemic sclerosis; lcSSc, limited cSSc; IM, inflammatory myopathies; RF, rheumatoid factor; Sm, Smith (Primer on the Rheumatic Diseases, 12th ed., 2001; Lancet 2013;382:797; J Rheumatol 2015;42:558)

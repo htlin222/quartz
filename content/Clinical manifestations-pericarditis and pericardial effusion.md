@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-pericarditis and pericardial effusion
-date: 2024-01-01
 ---
+
 # Clinical manifestations-pericarditis and pericardial effusion
 
 NEJM 2014;371:2410; JACC 2020;75:76)

@@ -1,11 +1,12 @@
 ---
-date: 2023-06-08
+date: "2024-01-01"
 enableToc: false
 slug: surface-anatomy-of-bone-marrow-aspiration-and-biopsy
 tags:
   - building
 title: surface anatomy of Bone marrow aspiration and biopsy
 ---
+
 
 > [!info]
 >

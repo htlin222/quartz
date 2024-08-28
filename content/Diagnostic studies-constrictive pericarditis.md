@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-constrictive pericarditis
-date: 2024-01-01
 ---
+
 
 # Diagnostic studies-constrictive pericarditis
 
@@ -17,7 +18,6 @@ date: 2024-01-01
      - downsloping of TP segment
 
 ---
-
 - CXR: calcification (MTb most common), espec in lateral view (although not specific)
 - Echocardiogram: ± thickened pericardium, “septal bounce” = abrupt displacement of septum during rapid filling in early diastole
 - Cardiac catheterization:

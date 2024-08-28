@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: AIP acute IP  Hamman-Rich syndrome 
-date: 2024-01-01
 ---
+
 # AIP acute IP (Hamman-Rich syndrome)
 
 

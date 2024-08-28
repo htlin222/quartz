@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: EGFR ex20 insertion
-date: 2024-01-01
 ---
+
 # EGFR ex20 insertion
 
 * EGFR 第20號外顯子(exon 20）插入突變是非小細胞肺癌(NSCLC) 中的特亞群

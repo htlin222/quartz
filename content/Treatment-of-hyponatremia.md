@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-of-hyponatremia
-date: 2024-01-01
 ---
+
 # Treatment-of-hyponatremia
 
 NEJM 2015;372:55; JASN 2017;28:1340; CJASN 2018;13:641 & 984)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Prerenal acute kidney injury etiology
-date: 2024-01-01
 ---
+
 # Prerenal acute kidney injury etiology
 
 * ↓ Effective arterial volume (NEJM 2007;357:797) Hypovolemia, ↓ CO (CHF), ↓ oncotic pressure (cirrhosis, nephrotic), vasodilation (sepsis)

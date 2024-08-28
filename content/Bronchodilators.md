@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Bronchodilators
-date: 2024-01-01
 ---
+
 # Bronchodilators
 
 * (1st-line): long-acting muscarinic antag (LAMA), β2-agonists (LABA)

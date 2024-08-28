@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Adrenal insufficiency and critical illness
-date: 2024-01-01
 ---
+
 # Adrenal insufficiency and critical illness
 
 (NEJM 2003;348:727; JAMA 2009;301:2362)

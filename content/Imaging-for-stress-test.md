@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Imaging-for-stress-test
-date: 2024-01-01
 ---
+
 # Imaging-for-stress-test
 
 * Use if uninterpretable ECG (V-paced, LBBB, resting ST ↓ >1 mm, digoxin, LVH, WPW), after indeterminate ECG test, or if pharmacologic test

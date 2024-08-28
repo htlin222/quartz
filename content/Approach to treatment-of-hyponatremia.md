@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Approach to treatment-of-hyponatremia
-date: 2024-01-01
 ---
+
 # Approach to treatment-of-hyponatremia
 
 * depends on volume status, acuity of hyponatremia, and if symptomatic

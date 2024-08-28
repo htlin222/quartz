@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Procainamide
-date: 2024-01-01
 ---
+
 
 # Procainamide
 
@@ -11,5 +12,4 @@ decrease BP: 1 QT:± AVN blocker
 %
 
 ---
-
 ## Backlink: [[Antiarrhythmic Drugs (AAD) for AF]]

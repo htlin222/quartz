@@ -19,7 +19,6 @@ tags:
   Claudin 18.2 ADC showed promising activity in late line.
 
 ---
-
 - [[renasisance_gastric.md|RENASISANCE_Gastric]]
 - [[armani.md|ARMANI]] phase III
 - [[nivofgfr2.md|NIVOFGFR2]]

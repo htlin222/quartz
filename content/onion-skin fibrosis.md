@@ -14,9 +14,7 @@ tags:
 # onion-skin fibrosis
 
 ---
-
 ![Figure: ](https://i.imgur.com/LChtuzu.png)
-
 ---
 
 Early changes of primary sclerosing cholangitis affecting a small interlobular bile duct. Layers of fibrous tissue are deposited around a small bile duct (arrows).

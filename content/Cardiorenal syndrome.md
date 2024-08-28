@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cardiorenal syndrome
-date: 2024-01-01
 ---
+
 # Cardiorenal syndrome
 
 (CJASN 2017;12:1624)

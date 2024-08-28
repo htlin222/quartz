@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical-manifestations-aortic-stenosis
-date: 2024-01-01
 ---
+
 
 # Clinical-manifestations-aortic-stenosis
 

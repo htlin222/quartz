@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: intrathecal chemotherapy
-date: 2024-01-01
 ---
+
 # intrathecal chemotherapy
 
 The distinction between the two different leptomeningeal tumor spreading patterns described above has an impact on the indication for an intrathecal chemotherapy: 

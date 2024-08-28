@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Fibrinolysis vs  Hospital Transfer for Primary PCI
-date: 2024-01-01
 ---
+
 1.Time required for transport to skilled PCI lab: door-to-balloon <120 min & [door-to-balloon]–[door-to-needle] <1 h favors transfer for PCI
 
 2.Risk from STEMI: high-risk Pts (eg, shock) fare better with mechanical reperfusion

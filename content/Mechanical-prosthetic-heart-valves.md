@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Mechanical-prosthetic-heart-valves
-date: 2024-01-01
 ---
+
 # Mechanical-prosthetic-heart-valves
 
 * Bileaflet (eg, St. Jude Medical); tilting disk; caged-ball

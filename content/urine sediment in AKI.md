@@ -14,9 +14,7 @@ tags:
 # urine sediment in AKI
 
 ---
-
 ![Figure: 310-6 Interpretation of urinary sediment findings in acute kidney injury](https://i.imgur.com/gIsCX2w.png)
-
 ---
 
 - [[nl of urine sediment in AKI]] 󰒖

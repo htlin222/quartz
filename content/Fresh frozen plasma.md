@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Fresh frozen plasma
-date: 2024-01-01
 alias: FFP
 ---
+
 
 - from: [[Blood Products and Indications]] 󰒖
 
@@ -32,6 +33,5 @@ due to defic. of multiple coag factors
 - Single-dose Kcentra 4F-PCC—the only FDA-approved alternative to plasma for urgent warfarin reversal
 
 ---
-
 - Profilnine SD "基立福" 第九凝固因子複合體注射劑 [美國上市] 有
 - Beriplex P/N 250/500 第九凝血因子複合注射劑 [英國上市] 有

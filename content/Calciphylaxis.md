@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Calciphylaxis
-date: 2024-01-01
 ---
+
 # Calciphylaxis
 
 calcific uremic arteriopathy, NEJM 2018;378:1704)

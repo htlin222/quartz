@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-fever in a returned traveler
-date: 2024-01-01
 ---
+
 # Workup-fever in a returned traveler
 
 

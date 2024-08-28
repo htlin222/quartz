@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: nephrotic syndrome
-date: 2024-01-01
 ---
+
 
 # nephrotic syndrome
 

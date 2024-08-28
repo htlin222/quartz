@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Primary central nervous system vasculitis
-date: 2024-01-01
 ---
+
 # Primary central nervous system vasculitis
 
 原發性中樞神經系統血管炎是一種罕見的且知識淵博的血管炎，僅限於大腦和脊髓。

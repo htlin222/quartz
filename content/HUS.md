@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Hemolytic-uremic syndrome
-date: 2024-01-01
 alias: HUS
 ---
+
 
 # Hemolytic-uremic syndrome
 

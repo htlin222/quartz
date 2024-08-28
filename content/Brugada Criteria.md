@@ -14,9 +14,7 @@ tags:
 # Brugada Criteria
 
 ---
-
 ![Figure:Brugada Algorithm](https://i.imgur.com/FGegKGv.png)
-
 ---
 
 ## Concordance

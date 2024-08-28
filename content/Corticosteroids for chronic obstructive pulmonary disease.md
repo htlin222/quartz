@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Corticosteroids for chronic obstructive pulmonary disease
-date: 2024-01-01
 ---
+
 # Corticosteroids for chronic obstructive pulmonary disease
 
 * (inhaled, ICS): 

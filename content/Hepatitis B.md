@@ -1,21 +1,20 @@
 ---
+date: "2024-01-01"
+---
+
+date: "2023-12-05---
 title: "HBV"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # HBV
-
 Check HBV profile for application of anti-viral agent for prophylaxis of HBV flare up during chemotherapy. Start entecavir (2021/2/xx~ till post chemotherapy for half more year)
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -76,4 +75,3 @@ Check HBV profile for application of anti-viral agent for prophylaxis of HBV fla
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

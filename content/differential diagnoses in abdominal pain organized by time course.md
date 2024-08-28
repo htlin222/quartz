@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: differential diagnoses in abdominal pain organized by time course
-date: '2023-01-25'
 enableToc: false
 ---
+
 
 > [!info]
 >

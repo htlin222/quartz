@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "CRCADJ"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # CRCADJ
-
 ### Sigmoid colon cancer s/p laparoscopic anterior resection on 2010/00/00, pT3(1.1cm)N0(0/14), M/D adenocarcinoma, LVI present, perineural-, CEA not elevated, MSS
-
 - Initial presentation: OB+ during routine screen
 - Treatment plan: adjuvant chemotherapy will be started post op 4~6 weeks
 - 2010/00/00: Explain the concept of adjuvant chemotherapy, the goal is to decrease recurrence/metastasis as possible, not guarantee cure!! Thus regular follow up is still needed.
@@ -25,9 +21,7 @@ tags:
   <3> UFT(UFT 300mg/m2 and LV 30~90mg/m2, D1-D28, 1 wk rest) for 0.5 to 3 year
   @ Arrange admission for #1 mFOLFOX-6 on ? and check lab.
   @ Vascular assessment, nutritional assessment, dental check, pharmacist education before chemotherapy.
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -88,4 +82,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

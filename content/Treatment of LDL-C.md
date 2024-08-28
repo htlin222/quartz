@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of LDL-C
-date: 2024-01-01
 ---
+
 # Treatment of LDL-C
 
 * Statins: every 1 mmol (39 mg/dL) ↓ LDL-C → 22% ↓ major vascular events (CV death, MI, stroke, revasc) in individuals w/ & w/o CAD (Lancet 2010;376:1670)

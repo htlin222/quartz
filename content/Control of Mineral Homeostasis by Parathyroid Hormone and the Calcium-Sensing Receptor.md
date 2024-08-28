@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Control of Mineral Homeostasis by Parathyroid Hormone and the Calcium-Sensing Receptor
-date: 2024-01-01
 ---
+
 # Control of Mineral Homeostasis by Parathyroid Hormone and the Calcium-Sensing Receptor
 ## 重要名詞：
 

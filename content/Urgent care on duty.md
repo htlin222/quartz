@@ -37,12 +37,10 @@ tags:
 - [[VTE Treatment for Cancer Patients]] (DVT and PE)
  
 --- 
-
 - [[Neutropenic Fever - Inpatient Adult Treatment (Hematologic Cancers including Lymphoma/Myeloma)]]
 - [[Neutropenic Fever - Inpatient Adult Treatment (Solid Tumors)]]
 - [[Sepsis Management]] - Adult
 - [[Suspected Bacterial Pneumonia in Adult Patients]] (Solid Tumors)
-
 ---
 
 - [[Tumor Lysis Syndrome]]

@@ -1,23 +1,17 @@
----
+date: "2023-12-12---
 title: "KFSYSCC Fellowship Tuesday Morning Journal Club"
 date: "2023-12-12 17:45:33"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[alki in nsclc]]
-
 # KFSYSCC Fellowship Tuesday Morning Journal Club
-
 ### 2023-12-12
-
 # <!--fit-->**Treatment of <br>ALK Translocation-Positive<br>Non-Small Cell Lung Cancer**
-
 ### Siblings
-
 - [[KFSYSCC Fellowship Tuesday Morning Journal Club]]
 - [[林協霆,<sup>1</sup>; 吳茂青<sup>2</sup>]]
 - [[Patient 1: 58-year-old man]]
@@ -60,4 +54,3 @@ tags:
 - [[<!--fit-->_Have a nice day_]]
 - [[Addendum]]
 - [[ALCHEMIST: Bringing genomic discovery and targeted therapies to early-stage lung cancer]]
-

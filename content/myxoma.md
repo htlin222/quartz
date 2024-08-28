@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: myxoma
-date: 2024-01-01
 ---
+
 # myxoma
 
 * 黏液瘤」（myxoma），脂肪瘤裡是脂肪，

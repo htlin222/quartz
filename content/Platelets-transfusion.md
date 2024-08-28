@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Platelets-transfusion
-date: 2024-01-01
 ---
+
 # Platelets-transfusion
 
 > [[platelet disorders]]

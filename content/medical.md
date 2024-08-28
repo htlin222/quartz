@@ -11,10 +11,8 @@ tags:
 # 歡迎來到 🦎 的 Medical Wiki
 
 ---
-
 - [[../01_內專/index.md|內專]]
 - [[snippets]]
-
 ---
 
 - [[cardiology]] 🫀

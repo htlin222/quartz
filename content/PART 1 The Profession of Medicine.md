@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: 1 
-date: 2024-01-01
 aliases: [1]
 linter-yaml-title-alias: 1 
 ---
+
 ## The Profession of Medicine PA RT 1 
 
 ## The Practice of Medicine 
@@ -35,29 +36,17 @@ Deductive reasoning and applied technology form the foundation for the approach 
 **FIGURE 1-1 The Doctor by Luke Fildes depicts the caring relationship** between this Victorian physician and a very ill child. Painted in 1891, the painting reflects the death of the painter’s young son from typhoid fever and was intended to reflect the compassionate care provided by the physician even when his tools were not able to influence the course of disease. (Source: History and Art Collection/Alamy Stock Photo.) 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  An informative history is more than eliciting an orderly listing of symptoms. By listening to patients and noting the ways in which they describe their symptoms, physicians can gain valuable insight. Inflections of voice, facial expression, gestures, and attitude (i.e., “body language”) may offer important clues to patients’ perception of and reaction to their symptoms. Because patients vary considerably in their medical sophistication and ability to recall facts, the reported medical history should be corroborated whenever possible. The social history also can provide important insights into the types of diseases that should be considered and can identify practical considerations for subsequent management. The family history not only identifies rare genetic disorders or common exposures, but often reveals risk factors for common disorders, such as coronary heart disease, hypertension, autoimmunity, and asthma. A thorough family history may require input from multiple relatives to ensure completeness and accuracy. An experienced clinician can usually formulate a relevant differential diagnosis from the history alone, using the physical examination and diagnostic tests to narrow the list or reveal unexpected findings that lead to more focused inquiry. The very act of eliciting the history provides the physician with an opportunity to establish or enhance a unique bond that can form the basis for a good patient–physician relationship. This process helps the physician develop an appreciation of the patient’s view of the illness, the patient’s expectations of the physician and the health care system, and the financial and social implications of the illness for the patient. Although current health care settings may impose time constraints on patient visits, it is important not to rush the encounter. A hurried approach may lead patients to believe that what they are relating is not of importance to the physician, and, as a result, they may withhold relevant information. The confidentiality of the patient–physician relationship cannot be overemphasized. 
-
 #### Physical Examination The purpose of the physical examination is 
-
  to identify physical signs of disease. The significance of these objective indications of disease is enhanced when they confirm a functional or structural change already suggested by the patient’s history. At times, however, physical signs may be the only evidence of disease and may not have been suggested by the history. The physical examination should be methodical and thorough, with consideration given to the patient’s comfort and modesty. Although attention is often directed by the history to the diseased organ or part of the body, the examination of a new patient must extend from head to toe in an objective search for abnormalities. The results of the examination, like the details of the history, should be recorded at the time they are elicited—not hours later, when they are subject to the distortions of memory. Physical examination skills should be learned under direct observation of experienced clinicians. Even highly experienced clinicians can benefit from ongoing coaching and feedback. Simulation laboratories and standardized patients play an increasingly important role in the development of clinical skills. Although the skills of physical diagnosis are acquired with experience, it is not merely technique that determines success in identifying signs of disease. The detection of a few scattered petechiae, a faint diastolic murmur, or a small mass in the abdomen is not a question of keener eyes and ears or more sensitive fingers, but of a mind alert to those findings. Because physical findings can change with time, the physical examination should be repeated as frequently as the clinical situation warrants. Given the many highly sensitive diagnostic tests now available (particularly imaging techniques), it may be tempting to place less emphasis on the physical examination. Some are critical of physical diagnosis based on perceived low levels of specificity and sensitivity. Indeed, many patients are seen by consultants only after a series of diagnostic tests have been performed and the results are known. This fact should not deter the physician from performing a thorough physical examination since important clinical findings may have escaped detection by diagnostic tests. Especially important, a thorough and thoughtful physical examination may render a laboratory finding unimportant (i.e., certain echocardiographic regurgitant lesions). The act of a hands-on examination of the patient also offers an opportunity 
-
  for communication and may have reassuring effects that foster the patient–physician relationship. 
-
 #### Diagnostic Studies Physicians rely increasingly on a wide array 
-
  of laboratory and imaging tests to make diagnoses and ultimately to solve clinical problems; however, such information does not relieve the physician from the responsibility of carefully observing and examining the patient. It is also essential to appreciate the limitations of diagnostic tests. By virtue of their apparent precision, these tests often gain an aura of certainty regardless of the fallibility of the tests themselves, the instruments used in the tests, and the individuals performing or interpreting the tests. Physicians must weigh the expense involved in laboratory procedures against the value of the information these procedures are likely to provide. Single laboratory tests are rarely ordered. Instead, physicians generally request “batteries” of multiple tests, which often prove useful and can be performed with a single specimen at relatively low cost. For example, abnormalities of hepatic function may provide the clue to nonspecific symptoms such as generalized weakness and increased fatigability, suggesting a diagnosis of chronic liver disease. Sometimes a single abnormality, such as an elevated serum calcium level, points to a particular disease, such as hyperparathyroidism. The thoughtful use of screening tests (e.g., measurement of lowdensity lipoprotein cholesterol) may allow early intervention to prevent disease (Chap. 6). Screening tests are most informative when they are directed toward common diseases and when their results indicate whether other potentially useful—but often costly—tests or interventions are needed. On the one hand, biochemical measurements, together with simple laboratory determinations such as routine serum chemistries, blood counts, and urinalysis, often provide a major clue to the presence of a pathologic process. On the other hand, the physician must learn to evaluate occasional screening-test abnormalities that do not necessarily connote significant disease. An in-depth workup after the report of an isolated laboratory abnormality in a person who is otherwise well is often wasteful and unproductive. Because so many tests are performed routinely for screening purposes, it is not unusual for one or two values to be slightly abnormal. Nevertheless, even if there is no reason to suspect an underlying illness, tests yielding abnormal results ordinarily are repeated to rule out laboratory error. If an abnormality is confirmed, it is important to consider its potential significance in the context of the patient’s condition and other test results. There is almost continual development of technically improved imaging studies with greater sensitivity and specificity. These tests provide remarkably detailed anatomic information that can be pivotal in informing medical decision-making. MRI, CT, ultrasonography, a variety of isotopic scans, and positron emission tomography (PET) have supplanted older, more invasive approaches and opened new diagnostic vistas. In light of their capabilities and the rapidity with which they can lead to a diagnosis, it is tempting to order a battery of imaging studies. All physicians have had experiences in which imaging studies revealed findings that led to an unexpected diagnosis. Nonetheless, patients must endure each of these tests, and the added cost of unnecessary testing is substantial. Furthermore, investigation of an unexpected abnormal finding may lead to an iatrogenic complication or to the diagnosis of an irrelevant or incidental problem. A skilled physician must learn to use these powerful diagnostic tools judiciously, always considering whether the results will alter management and benefit the patient. 
-
 #### ■ MANAGEMENT OF PATIENT CARE 
-
 #### Team-Based Care Medical practice has long involved teams, 
-
  particularly physicians working with nurses and, more recently, with physician assistants and nurse practitioners. Advances in medicine have increased our ability to manage very complex clinical situations (e.g., intensive care units [ICUs], bone marrow transplantation) and have shifted the burden of disease toward chronic illnesses. Because an individual patient may have multiple chronic diseases, he or she may be cared for by several specialists as well as a primary care physician. In the inpatient setting, care may involve multiple consultants along with 
-
 ---
 
 #### The Practice of Medicine 
@@ -83,35 +72,20 @@ changes over the past few decades. Emergency departments and critical care units
  damental responsibility of the physician and occurs at each stage of the diagnostic and therapeutic process. The decision-making process involves the ordering of additional tests, requests for consultations, decisions about treatment, and predictions concerning prognosis. This process requires an in-depth understanding of the pathophysiology and natural history of disease. Formulating a differential diagnosis requires not only a broad knowledge base but also the ability to assess the relative probabilities of various diseases for a given patient. Application of the scientific method, including hypothesis formulation and data collection, is essential to the process of accepting or rejecting a particular diagnosis. Analysis of the differential diagnosis is an iterative process. As new information or test results are acquired, the group of disease processes being considered can be contracted or expanded appropriately. Whenever possible, decisions should be evidence-based, taking advantage of rigorously designed clinical trials or objective comparisons of different diagnostic tests. Evidence-based medicine stands in sharp contrast to anecdotal experience, which is often biased. Unless attuned to the importance of using larger, objective studies for making decisions, even the most experienced physicians can be influenced 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  to an undue extent by recent encounters with selected patients. Evidence-based medicine has become an increasingly important part of routine medical practice and has led to the publication of many useful practice guidelines. It is important to remember, however, that only a small fraction of the many decisions made in clinical practice are based on rigorous clinical trial evidence; other guideline recommendations are, therefore, predicated on expert consensus and weaker evidentiary support. Thus, the importance of evidence-based medicine notwithstanding, much medical decision-making still relies on good clinical judgment, an attribute that is difficult to quantify or even to assess qualitatively. Physicians must use their knowledge and experience as a basis for weighing known factors, along with the inevitable uncertainties, and then making a sound judgment; this synthesis of information is particularly important when a relevant evidence base is not available. Several quantitative tools may be invaluable in synthesizing the available information, including diagnostic tests, Bayes’ theorem (the probability of an event predicated on prior knowledge of conditions possibly related to the event), and multivariate statistical models (Chap. 4). Diagnostic tests serve to reduce uncertainty about an individual’s diagnosis or prognosis and help the physician decide how best to manage that individual’s condition. The battery of diagnostic tests complements the history and physical examination. The accuracy of a particular test is ascertained by determining its sensitivity (true-positive rate) and specificity (true-negative rate), as well as the predictive value of a positive and a negative result. See Chap. 4 for a more thorough discussion of decision-making in clinical medicine. 
-
 #### Practice Guidelines Many professional organizations and govern
-
  ment agencies have developed formal clinical-practice guidelines to aid physicians and other caregivers in making diagnostic and therapeutic decisions that are evidence-based, cost-effective, and most appropriate to a particular patient and clinical situation. As the evidence base of medicine increases, guidelines can provide a useful framework for managing patients with particular diagnoses or symptoms. Clinical guidelines can protect patients—particularly those with inadequate health care benefits—from receiving substandard care. These guidelines also can protect conscientious caregivers from inappropriate charges of malpractice and society from the excessive costs associated with the overuse of medical resources. There are, however, caveats associated with clinical-practice guidelines since they tend to oversimplify the complexities of medicine. Furthermore, groups with different perspectives may develop divergent recommendations regarding issues as basic as the need for screening of women by mammography or of men with serum prostate-specific antigen (PSA) measurements. Finally, guidelines, as the term implies, do not—and cannot be expected to—account for the uniqueness of each individual and his or her illness. The physician’s challenge is to integrate into clinical practice the useful recommendations offered by experts without accepting them blindly or being inappropriately constrained by them. 
-
 #### Precision Medicine The concept of precision or personalized 
-
  medicine reflects the growing recognition that diseases once lumped together can be further stratified on the basis of genetic, biomarker, phenotypic, and/or psychosocial characteristics that distinguish a given patient from other patients with similar clinical presentations. Inherent in this concept is the goal of targeting therapies in a more specific way to improve clinical outcomes for the individual patient and minimize unnecessary side effects for those less likely to respond to a particular treatment. In some respects, precision medicine represents the evolution of clinical practice guidelines, which are usually developed for populations of patients or a particular diagnosis (e.g., hypertension, thyroid nodule). As the pathobiology, prognosis, and treatment responses of subgroups within these diagnoses become better understood (i.e., through refined genomic analysis or enhanced deep phenotyping), the relevant clinical guidelines incorporate progressively more refined recommendations for individuals within these subgroups. The role of precision medicine is best illustrated for cancers in which genetic testing is able to predict responses (or the lack thereof ) to 
-
  targeted therapies (Chap. 73). One can anticipate similar applications of precision medicine in pharmacogenomics, immunologic disorders, and diseases in which biomarkers can predict treatment responses. See Chap. 5 for a more thorough discussion of precision medicine. 
-
 #### Evaluation of Outcomes Clinicians generally use objective and 
-
  readily measurable parameters to judge the outcome of a therapeutic intervention. These measures may oversimplify the complexity of a clinical condition as patients often present with a major clinical problem in the context of multiple complicating background illnesses. For example, a patient may present with chest pain and cardiac ischemia, but with a background of chronic obstructive pulmonary disease and renal insufficiency. For this reason, outcome measures, such as mortality, length of hospital stay, or readmission rates, are typically riskadjusted. An important point to remember is that patients usually seek medical attention for subjective reasons; they wish to obtain relief from pain, to preserve or regain function, and to enjoy life. The components of a patient’s health status or quality of life can include bodily comfort, capacity for physical activity, personal and professional function, sexual function, cognitive function, and overall perception of health. Each of these important domains can be assessed through structured interviews or specially designed questionnaires. Such assessments provide useful parameters by which a physician can judge patients’ subjective views of their disabilities and responses to treatment, particularly in chronic illness. The practice of medicine requires consideration and integration of both objective and subjective outcomes. Many health systems use survey and patient feedback data to assess qualitative features such as patient satisfaction, access to care, and communication with nurses and physicians. In the United States, HCAHPS (Hospital Consumer Assessment of Healthcare Providers and Systems) surveys are used by many systems and are publicly reported. Social media is also being used to assess feedback in real time as well as to share patient experiences with health care systems, potentially enriching the information available for use in medical decisions. 
-
 #### Errors in the Delivery of Health Care A series of reports from 
-
  the Institute of Medicine (now the National Academy of Medicine [NAM]) called for an ambitious agenda to reduce medical error rates and improve patient safety by designing and implementing fundamental changes in health care systems (Chap. 8). It is the responsibility of hospitals and health care organizations to develop systems to reduce risk and ensure patient safety. Medication errors can be reduced through the use of ordering systems that rely on electronic processes or, when electronic options are not available, that eliminate misreading of handwriting. Whatever the clinical situation, it is the physician’s responsibility to use powerful therapeutic measures wisely, with due regard for their beneficial actions, potential dangers, and cost. Implementation of infection control systems, enforcement of hand-washing protocols, and careful oversight of antibiotic use can minimize the complications of nosocomial infections. Central-line infection rates and catheter-associated urinary tract infections have been dramatically reduced at many centers by careful adherence of trained personnel to standardized protocols for introducing and maintaining central lines and urinary catheters, respectively. Rates of surgical infection and wrong-site surgery can likewise be reduced by the use of standardized protocols and checklists. Falls by patients can be minimized by judicious use of sedatives and appropriate assistance with bed-to-chair and bed-to-bathroom transitions. Taken together, these and other measures are saving thousands of lives each year. 
-
 #### Electronic Medical Records Both the growing reliance on 
-
  computers and the strength of information technology now play central roles in medicine, including efforts to reduce medical errors. Laboratory data are accessed almost universally through computers. Many medical centers now have electronic medical records (EMRs), computerized order entry, and bar-coded tracking of medications. Some of these systems are interactive, sending reminders or warning of potential medical errors. EMRs offer rapid access to information that is invaluable in enhancing health care quality and patient safety, including relevant data, 
-
 ---
 
 #### The Practice of Medicine 
@@ -141,27 +115,17 @@ require physicians to act in the patient’s best interest and to respect the pa
  in the delivery of health care tend to make medical care impersonal. These trends, some of which have been mentioned already, include (1) vigorous efforts to reduce the escalating costs of health care; (2) the growing number of managed-care programs, which are intended to reduce costs but where the patient may have little choice in selecting a physician; (3) increasing reliance on technological advances and 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  computerization; and (4) the need for numerous physicians and other health professionals to be involved in the care of most patients who are seriously ill. In light of these changes in the medical care system, it is a major challenge for physicians to maintain the humane aspects of medical care. The American Board of Internal Medicine, working together with the American College of Physicians–American Society of Internal Medicine and the European Federation of Internal Medicine, has published a Charter on Medical Professionalism that underscores three main principles in physicians’ contract with society: (1) the primacy of patient welfare, (2) patient autonomy, and (3) social justice. While medical schools appropriately place substantial emphasis on professionalism, a physician’s personal attributes, including integrity, respect, and compassion, also are extremely important. In the United States, the Gold Humanism Society recognizes individuals who are exemplars of humanistic patient care and serve as role models for medical education and training. Availability to the patient, expression of sincere concern, willingness to take the time to explain all aspects of the illness, and a nonjudgmental attitude when dealing with patients whose cultures, lifestyles, attitudes, and values differ from those of the physician are just a few of the characteristics of a humane physician. Every physician will, at times, be challenged by patients who evoke strongly negative or positive emotional responses. Physicians should be alert to their own reactions to such situations and should consciously monitor and control their behavior so that the patient’s best interest remains the principal motivation for their actions at all times. Another important aspect of patient care involves an appreciation of the patient’s “quality of life,” a subjective assessment of what each patient values most. This assessment requires detailed, sometimes intimate knowledge of the patient, which usually can be obtained only through deliberate, unhurried, and often repeated conversations. Time pressures will always threaten these interactions, but they should not diminish the importance of understanding and seeking to fulfill the priorities of the patient. 
-
 #### ■ EXPANDING FRONTIERS IN MEDICAL PRACTICE 
-
 #### The Era of “Omics” In the spring of 2003, announcement of 
-
  the complete sequencing of the human genome officially ushered in the genomic era. However, even before that landmark accomplishment, the practice of medicine had been evolving as a result of insights into both the human genome and the genomes of a wide variety of microbes. The clinical implications of these insights are illustrated by the complete genome sequencing of H1N1 influenza virus in 2009 and even faster sequencing of COVID-19 in early 2020, leading to the swift development and dissemination of effective vaccines. Today, gene expression profiles are being used to guide therapy and inform prognosis for a number of diseases, and genotyping is providing a new means to assess the risk of certain diseases as well as variations in response to a number of drugs. Despite these advances, the use of complex genomics in the diagnosis, prevention, and treatment of disease is still in its early stages. The task of physicians is complicated by the fact that phenotypes generally are determined not by genes alone but by the complex interactions among genes and gene products, and by the interplay of genetic and environmental factors. Rapid progress is also being made in other areas of molecular medicine. Epigenetics is the study of alterations in chromatin and histone proteins and methylation of DNA sequences that influence gene expression (Chap. 483). Every cell of the body has identical DNA sequences; the diverse phenotypes a person’s cells manifest are, in part, the result of epigenetic regulation of gene expression. Epigenetic alterations are associated with a number of cancers and other diseases. Proteomics, the study of the entire library of proteins made in a cell or organ and the complex relationship of these proteins to disease, is enhancing the repertoire of the 23,000 genes in the human genome through alternate splicing, posttranslational processing, and posttranslational modifications that often have unique functional consequences. The presence or absence of particular proteins in the circulation or in cells is being explored for many diagnostic and disease-screening 
-
  applications. Microbiomics is the study of the resident microbes in humans and other mammals, which together compose the microbiome. The human haploid genome has ~23,000 genes, whereas the microbes residing on and in the human body encompass more than 3–4 million genes; these resident microbes are likely to be of great significance with regard to health status. Ongoing research is demonstrating that the microbes inhabiting human mucosal and skin surfaces play a critical role in maturation of the immune system, in metabolic balance, in brain function, and in disease susceptibility. A variety of environmental factors, including the use and overuse of antibiotics, have been tied experimentally to substantial increases in disorders such as obesity, metabolic syndrome, atherosclerosis, and immune-mediated diseases in both adults and children. Metagenomics, of which microbiomics is a part, is the genomic study of environmental species that have the potential to influence human biology directly or indirectly. An example is the study of exposures to microorganisms in farm environments that may be responsible for the lower incidence of asthma among children raised on farms. Metabolomics is the study of the range of metabolites in cells or organs and the ways they are altered in disease states. The aging process itself may leave telltale metabolic footprints that allow the prediction (and possibly the prevention) of organ dysfunction and disease. It seems likely that disease-associated patterns will be found in lipids, carbohydrates, membranes, mitochondria and mitochondrial function, and other vital components of cells and tissues. Exposomics is the study of the exposome—i.e., the environmental exposures such as smoking, sunlight, diet, exercise, education, and violence that together have an enormous impact on health. All of this new information represents a challenge to the traditional reductionist approach to medical thinking. The variability of results in different patients, together with the large number of variables that can be assessed, creates challenges in identifying preclinical disease and defining disease states unequivocally. Accordingly, the tools of systems biology and network medicine are being applied to the enormous body of information (“big data”) now obtainable for every patient and may eventually provide new approaches to classifying disease. For a more complete discussion of a complex systems and network science approach to human disease, see Chap. 486. The rapidity of these advances may seem overwhelming to practicing physicians; however, physicians have an important role to play in ensuring that these powerful technologies and sources of new information are applied judiciously to patient care. Since omics are evolving so rapidly, physicians and other health care professionals must engage in continuous learning so that they can apply this new knowledge to the benefit of their patients’ health and well-being. Genetic testing requires wise counsel based on an understanding of the value and limitations of the tests as well as the implications of their results for specific individuals. For a more complete discussion of genetic testing, see Chap. 467. 
-
 #### The Globalization of Medicine 
 Physicians should be cognizant  of diseases and health care services beyond local boundaries. Global travel has critical implications for disease spread, and it is not uncommon for diseases endemic to certain regions to be seen in other regions after a patient has traveled to and returned from those regions. The outbreak of Zika virus infections in the Americas is a cogent example of this phenomenon. In addition, factors such as wars, the migration of refugees, and increasing climate extremes are contributing to changing disease profiles worldwide. Patients have broader access to unique expertise or clinical trials at distant medical centers, even those in other countries, and the cost of travel may be offset by the quality of care at those distant locations. As much as any other factor influencing global aspects of medicine, the Internet has transformed the transfer of medical information throughout the world. This change has been accompanied by the transfer of technological skills through telemedicine and international consultation—for example, interpretation of radiologic images and pathologic specimens. For a complete discussion of global issues, see Chap. 472. 
-
 #### Medicine on the Internet On the whole, 
 the Internet has had a  positive effect on the practice of medicine; through personal computers, a wide range of information is available to physicians and patients 
-
 ---
 
 #### The Practice of Medicine 
@@ -193,57 +157,31 @@ nological advances has profound implications for medical applications that go fa
  capacity to apply one’s skills for the benefit of fellow human beings is a noble calling. The physician–patient relationship is inherently unbalanced in the distribution of power. In light of their influence, physicians must always be aware of the potential impact of what they do and say, and must always strive to strip away individual biases and preferences to find what is best for their patients. To the extent possible, physicians should also act within their communities to promote health 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  and alleviate suffering. Meeting these goals begins by setting a healthy example and continues in taking action to deliver needed care even when personal financial compensation may not be available. 
-
 #### Research, Teaching, and the Practice of Medicine The word 
-
  doctor is derived from the Latin docere, “to teach.” As teachers, physicians should share information and medical knowledge with colleagues, students of medicine and related professions, and their patients. The practice of medicine is dependent on the sum total of medical knowledge, which in turn is based on an unending chain of scientific discovery, clinical observation, analysis, and interpretation. Advances in medicine depend on the acquisition of new information through research, and improved medical care requires the transmission of that information. As part of their broader societal responsibilities, physicians should encourage patients to participate in ethical and properly approved clinical investigations if these studies do not impose undue hazard, discomfort, or inconvenience. Physicians engaged in clinical research must be alert to potential conflicts of interest between their research goals and their obligations to individual patients. The best interests of the patient must always take priority. 
-
  To wrest from nature the secrets which have perplexed philosophers in all ages, to track to their sources the causes of disease, to correlate the vast stores of knowledge, that they may be quickly available for the prevention and cure of disease—these are our ambitions. —William Osler, 1849–1919 
-
 #### ■ FURTHER READING 
-
  Cheston CC et al: Social media use in medical education: A systematic review. Acad Med 88:893, 2013. Cooke M et al: American medical education 100 years after the Flexner report. N Engl J Med 355:1339, 2006. Excel JL et al: Vaccine development for emerging infectious diseases. Nat Med 27:591, 2021 Institute of Medicine: Dying in America: Improving Quality and Honoring Individual Preferences Near the End of Life. Washington, DC, National Academies Press, 2015. Institute of Medicine: Improving Diagnosis in Health Care. Washington, DC, National Academies of Sciences, Engineering, and Medicine, 2015. Levine DM et al: Hospital-level care at home for acutely ill adults: A qualitative evaluation of a randomized controlled trial. J Gen Intern Med 36:1965, 2021. Stern D T, Papadakis M: The developing physician—becoming a professional. N Engl J Med 355:1794, 2006. Vickrey BG et al: How neurologists think: A cognitive psychology perspective on missed diagnoses. Ann Neurol 67:425, 2010. West P et al: Intervention to promote physician well-being, job satisfaction, and professionalism. A randomized clinical trial. JAMA Intern Med 174:527, 2014. 
-
 #### ■ GOALS AND APPROACHES TO PREVENTION 
-
  Prevention of acute and chronic diseases before their onset has been recognized as one of the hallmarks of excellent medical practice for centuries and is now used as a metric for highly functioning health care systems. The ultimate goal of preventive strategies is to avoid premature death. However, as longevity has increased dramatically 
-
 # 2 
-
 ## Promoting Good Health 
-
  Donald M. Lloyd-Jones, Kathleen M. McKibbin 
-
  Normative aging with gradual loss of stock of health 
-
  Squaring the curve with compression of morbidity 
-
  Stock of health 
-
  0 02040 Age 
-
  60 80 100 
-
  0.2 
-
  0.4 
-
  0.6 
-
  0.8 
-
  1 
-
  FIGURE 2-1 Loss of health with aging. Representation of normative aging with loss of the full stock of health with which individuals are born (indicating gain of morbidity), contrasted with a squared curve with greater longevity and fuller stock of health (less morbidity) until shortly before death. The “squared curve” represents the likely ideal situation for most patients. 
-
  worldwide over the last century (largely as a result of public health practices), increasing emphasis is placed on prevention for the purpose of preserving quality of life and extending the health span, not just the life span. Given that all patients will eventually die, the goal of prevention ultimately becomes compression of morbidity toward the end of the life span; that is, reduction of the amount of burden and time spent with disease prior to dying. As shown in Fig. 2-1 , normative aging tends to involve a steady decline in the stock of health, with accelerating decline over time. Successful prevention offers the opportunity both to extend life and to extend healthy life, thus “squaring the curve” of health loss during aging. Prevention strategies have been characterized as tertiary, secondary, primary, and primordial. Tertiary prevention requires rapid action to prevent imminent death in the setting of acute illness, such as through percutaneous coronary intervention in the setting of ST-segment elevation myocardial infarction. Secondary prevention strategies focus on avoiding the recurrence of disease and death in an individual who is already affected. For example, tamoxifen is recommended for women with surgically treated early-stage, estrogen receptor–positive breast cancer, because it reduces the risk of recurrent breast cancer (including in the contralateral breast) and death. Primary prevention attempts to reduce the risk of incident disease among individuals with one or more risk factors. Treatment of elevated blood pressure in individuals who have not yet experienced cardiovascular disease represents one example of primary prevention that has proven effective in reducing the incidence of stroke, heart failure, and coronary heart disease. Primordial prevention is a more recent concept (first introduced in 1979) that focuses on prevention of the development of risk factors for disease, not just prevention of disease. Primordial prevention strategies emphasize upstream determinants of risk for chronic diseases, such as eating patterns, physical activity, and environmental and social determinants of health. It therefore encompasses medical treatment strategies for some individuals as well as a strong reliance on public health and social policy. It is increasingly clear that primordial prevention represents the ultimate means for reducing the burden of chronic diseases of aging. Once risk factors develop, it is difficult to restore risk to the low level of someone who never developed the risk factor. The time spent with adverse levels of the risk factor often causes irreversible damage that precludes complete restoration of low risk. For example, individuals with hypertension who are treated back to optimal levels (<120/<80 mmHg) do have a lower risk compared with untreated patients with hypertension, but they still have twice the risk of cardiovascular events as those who maintained optimal blood pressure without medications. Patients with elevated blood pressure that is subsequently treated have greater left ventricular mass index, worse renal function, and more evidence of atherosclerosis and other target organ damage as a result of the time spent with elevated blood pressure; such damage cannot be fully reversed despite efficacious therapy with antihypertensive medications. Conversely, as described below in greater detail, individuals who maintain optimal levels of all major 
-
 ---
 
 #### Promoting Good Health 
@@ -271,39 +209,22 @@ In recent decades, medical practice has increasingly focused on clinical and pub
 In secondary prevention, the patient already has manifest clinical disease and is therefore at high risk for progression. The approach should be to work with the patient to implement all evidence-based strategies that will help to prevent recurrence or progression. This will typically include drug therapy as well as therapeutic lifestyle changes to control ongoing risk factors that may have caused disease in the first place. Juggling priorities can be difficult, and barriers to implementation are many, including costs, time, patient health literacy, and patient and caregiver capacity to organize the regimen. Addressing these potential barriers with the patient can help to forge a therapeutic bond and 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  TABLE 2-1 Guidelines and Key Recommendations from the Dietary Guidelines for Americans , 2020–2025 GUIDELINES KEY RECOMMENDATIONS 
-
 **1. Follow a healthy dietary pattern at every life**     **stage.** For the first 6 months of life, infants should     exclusively be fed human milk, or iron-fortified     formula if human milk is unavailable. From 6 to     12 months, infants should be introduced to a     variety of complementary nutrient-dense foods.     From 12 months to older adulthood, the dietary     pattern should meet nutrient needs, help achieve     a healthy body weight, and reduce the risk of     chronic disease. 
-
 **2. Customize and enjoy nutrient-dense food and**     **beverage choices to reflect personal preferences,**     **cultural traditions, and budgetary considerations.**     The Dietary Guidelines provide a framework of     several dietary patterns intended to be customized     to individual needs and preferences, as well as     the foodways of the diverse cultures in the United     States. 
-
 **3. Focus on meeting food group needs with nutrient-**     **dense foods and beverages, and stay within**     **calorie limits.** Nutrient-dense foods provide     vitamins, minerals, and other health-promoting     components and have no or little added sugars,     saturated fat, and sodium. A healthy dietary     pattern consists of nutrient-dense forms of     foods and beverages across all food groups, in     recommended amounts, and within calorie limits. 
-
 **4. Limit foods and beverages higher in added sugars,**     **saturated fat, and sodium, and limit alcoholic**     **beverages.** At every life stage, meeting food group     recommendations, even with nutrient-dense     choices, fulfills most of a person’s daily calorie     needs and sodium limits, with little room for extra     added sugars, saturated fat, or sodium, or for     alcoholic beverages. 
-
  The Dietary Guidelines’ Key Recommendations for healthy eating patterns should be applied in their entirety, given the interconnected relationship that each dietary component can have with others. They are also intended as a framework to accommodate personal preferences, cultural traditions, and budgetary considerations. Focus on meeting food group needs with nutrient-dense foods and beverages, and stay within calorie limits to achieve a healthy weight and reduce the risk of chronic disease. The core elements that make up a healthy dietary pattern include: *	Vegetables of all types—dark green; red and orange; beans, peas, and lentils; starchy; and other vegetables *	Fruits, especially whole fruit *	Grains, at least half of which are whole grain *	Dairy, including fat-free or low-fat milk, yogurt, and cheese, and/or lactose-free versions and fortified soy beverages and yogurt as alternatives *	Protein foods, including lean meats, poultry, and eggs; seafood; beans, peas, and lentils; and nuts, seeds, and soy products *	Oils, including vegetable oils and oils in food, such as seafood and nuts A healthy eating pattern limits: *	Added sugars—Less than 10% of calories per day starting at age 2. Avoid foods and beverages with added sugars for those younger than age 2. *	Saturated fat—Less than 10% of calories per day starting at age 2. *	Sodium—Less than 2300 mg per day—and even less for children younger than age 14. *	Alcoholic beverages—Adults of legal drinking age can choose not to drink or to drink in moderation by limiting intake to 2 drinks or less in a day for men and 1 drink or less in a day for women, when alcohol is consumed. Drinking less is better for health than drinking more. There are some adults who should not drink alcohol, such as women who are pregnant. Meet the U.S. Department of Health and Human Services’ Physical Activity Guidelines for Americans In tandem with the recommendations above, Americans of all ages—children, adolescents, adults, and older adults—should meet the Physical Activity Guidelines for Americans to help promote health and reduce the risk of chronic disease. Americans should aim to achieve and maintain a healthy body weight. The relationship between diet and physical activity contributes to calorie balance and managing body weight. 
-
  Source: Adapted from the Dietary Guidelines for Americans, 2020-2025. Washington, DC: U.S. Department of Agriculture and U.S. Department of Health and Human Services; 
-
 2020. Available at https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary Guidelines for Americans 2020-2025.pdf. 
-
  may be better spent on assessing and counseling the patient on other aspects of their health, as discussed below. Evidence-based components that should be included in periodic evaluations focused on health and prevention include a number of age-appropriate screening tests for chronic disease and risk factors, preventive interventions including immunizations and chemoprevention for at-risk individuals, and preventive counseling. The U.S. Preventive Services Task Force publishes its Guide to Clinical Preventive Services, which contains evidence-based recommendations from the Task Force on preventive services for which there is a high degree of certainty that the service provides at least moderate net clinical benefit (i.e., benefits outweigh harms significantly and to a reasonable magnitude). 
-
 #### Healthy Behaviors and Lifestyles Owing to the paucity of 
-
  evidence, the heterogeneity of study designs, and the diverse nature of interventions studied, many clinicians are uncertain as to how to deliver advice regarding healthy behaviors and lifestyles. Nevertheless, adverse behaviors and lifestyles contribute to >75% of premature, preventable deaths and disability. Estimates from the U.S. National Health and Nutrition Examination Survey indicate that fewer than 1% of Americans achieve an optimal heart-healthy eating pattern. Thus, whereas there are many demands on time during a typical patientclinician encounter, few things may have more impact on longevity, health, and quality of life for asymptomatic patients than an efficient approach to assessing, documenting, and improving patients’ health behaviors. Indeed, the mere act of assessing health behaviors has been shown to affect patients’ health behaviors. Facility with tools for assessment of lifestyle and with strategies for counseling are therefore of paramount importance. 
-
 #### Healthy Eating Patterns (see Chap. 332) Despite the existence 
-
  of numerous “fad” diets and seemingly inconsistent recommendations 
-
  on dietary composition, there is remarkable agreement about what should constitute a healthy eating pattern for the broad population to avoid nutritional deficits (i.e., vitamin deficiency) and excesses (i.e., excessive caloric intake) and to maximize potential health (Table 2-1). Optimal eating patterns consist of whole fruits and vegetables, whole grains, lean proteins, and healthy oils, and allow for nonfat or low-fat dairy intake. They tend to exclude frequent ingestion of foods high in refined sugars and starches, saturated fat, and sodium. Since sodium and refined sugars and starches are the hallmark of much of the processed/packaged food supply, a simple rule of thumb is to provide or cook the majority of one’s own meals starting from whole foods and emphasizing fruits and vegetables. Likewise, foods prepared outside of the home tend to have higher fat and sodium content, so special attention to menu choices focused on fruits, vegetables, lean proteins, and whole grains, while minimizing sauces and dressings, can help most individuals follow healthier eating patterns when eating food prepared outside the home. In all cases, sugar-sweetened beverages and nonnutritious snack foods should be minimized. If snacks are included, small amounts of healthy nuts and seeds or more fruits and vegetables should be encouraged. Specific conditions and diseases, such as diabetes, other metabolic disorders, allergies, and gastrointestinal disorders, may require tailored approaches to diet. In counseling most patients, the general approach should focus on whole foods, eating patterns, and appropriate calorie balance, rather than on specific micronutrients such as electrolytes or selected vitamins. It should be remembered that most patients have difficulty understanding nutritional labels on packaged foods, with the attendant demands on numeracy and health literacy. Dietary guidelines are published by the U.S. Department of Agriculture (USDA) and U.S. Department of Health and Human Services every 5 years, and these guidelines have undergone substantial 
-
 ---
 
 #### Promoting Good Health 
@@ -325,21 +246,13 @@ healthy eating patterns, recommendations on participation in physical activity e
  optimal for health in adults aged ≥18 years. Sleeping <7 h is associated with adverse outcomes, including obesity, diabetes, elevated blood pressure, cardiovascular disease, depression, and all-cause mortality, as well as physiologic disturbances such as impaired immune function, increased pain sensitivity, and impaired cognitive performance. Conversely, achieving appropriate levels of sleep is associated with more success in weight loss, better blood pressure control among patients with hypertension, and improved mental health and performance. Regular sleep more than 9 h per night is appropriate for children and adolescents or individuals recovering from sleep deprivation or illness, but for most individuals, the effects on health are uncertain. Patients often express concerns about the quantity and quality of their sleep. With aging, both aspects of sleep tend to decline, even without overt sleep disorders. Documentation of sleep using a sleep log may assist in understanding different types of insomnia and sleep disorders. Encouraging daily activity to promote fatigue, avoidance of eating and drinking alcohol too close to bedtime, and regular daily sleep habits may help patients achieve better sleep. Regular use of sedative medications should generally be discouraged given the high potential for dependence, addiction, and altered sleep quality. DISORDERS OF SLEEP The prevalence of sleep-related breathing disorders, including obstructive sleep apnea (OSA), is poorly documented. A recent systematic review suggested that that the prevalence of clinically important OSA in the general adult population may be between 9% and 38%, with higher rates in men versus women, older versus younger adults, and those with higher versus lower BMI. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  TABLE 2-2 Recommendations from Physical Activity Guidelines for Americans AGE RECOMMENDATIONS 3–5 years *	Preschool-aged children (ages 3 through 5 years) should be physically active throughout the day to enhance growth and development. *	Adult caregivers of preschool-aged children should encourage active play that includes a variety of activity types. 6–17 years *	It is important to provide young people opportunities and encouragement to participate in physical activities that are appropriate for their age, that are enjoyable, and that offer variety. *	Children and adolescents ages 6 through 17 years should do 60 min (1 h) or more of moderate-to-vigorous physical activity daily: *	Aerobic: Most of the 60 min or more per day should be either moderateor vigorous-intensity aerobic physical activity and should include vigorous-intensity physical activity on at least 3 days a week. *	Muscle-strengthening: As part of their 60 min or more of daily physical activity, children and adolescents should include musclestrengthening physical activity on at least 3 days a week. *	Bone-strengthening: As part of their 60 min or more of daily physical activity, children and adolescents should include bone-strengthening physical activity on at least 3 days a week. 18–64 years *	Adults should move more and sit less throughout the day. Some physical activity is better than none. Adults who sit less and do any amount of moderate-to-vigorous physical activity gain some health benefits. *	For substantial health benefits, adults should do at least 150 min (2 h and 30 min) to 300 min (5 hours) a week of moderate-intensity or 75 min (1 h and 15 min) to 150 min (2 h and 30 min) a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderateand vigorous-intensity aerobic activity. Preferably, aerobic activity should be spread throughout the week. *	Additional health benefits are gained by engaging in physical activity beyond the equivalent of 300 min (5 h) of moderate-intensity physical activity a week. *	Adults should also do muscle-strengthening activities of moderate or greater intensity and that involve all major muscle groups on 2 or more days a week, as these activities provide additional health benefits. ≥65 years *	The key guidelines for adults also apply to older adults. In addition, the following key guidelines are just for older adults: *	As part of their weekly physical activity, older adults should do multicomponent physical activity that includes balance training as well as aerobic and muscle-strengthening activities. *	Older adults should determine their level of effort for physical activity relative to their level of fitness. *	Older adults with chronic conditions should understand whether and how their conditions affect their ability to do regular physical activity safely. *	When older adults cannot do 150 min of moderate-intensity aerobic activity a week because of chronic conditions, they should be as physically active as their abilities and conditions allow. Moderate-intensity physical activity: Aerobic activity that increases a person’s heart rate and breathing to some extent. On a scale relative to a person’s capacity, moderate-intensity activity is usually a 5 or 6 on a 0 to 10 scale. Brisk walking, dancing, swimming, or bicycling on a level terrain are examples. Vigorous-intensity physical activity: Aerobic activity that greatly increases a person’s heart rate and breathing. On a scale relative to a person’s capacity, vigorous-intensity activity is usually a 7 or 8 on a 0 to 10 scale. Jogging, singles tennis, swimming continuous laps, or bicycling uphill are examples. Muscle-strengthening activity: Physical activity, including exercise that increases skeletal muscle strength, power, endurance, and mass. It includes strength training, resistance training, and muscular strength and endurance exercises. Bone-strengthening activity: Physical activity that produces an impact or tension force on bones, which promotes bone growth and strength. Running, jumping rope, and lifting weights are examples. Source: Adapted from U.S. Department of Health and Human Services. Physical Activity Guidelines for Americans, 2nd edition. Washington, DC: U.S. Department of Health and Human Services; 2018. Available at https://health.gov/sites/default/files/2019-09/Physical Activity Guidelines 2nd edition.pdf. 
-
  Patients with persistent complaints of poor sleep quality or excessive daytime somnolence or with witnessed apneic spells may benefit from screening for sleep disorders, prior to consideration of a formal sleep study. A number of clinical tools have been developed to screen for sleep apnea, including the Epworth Sleepiness Scale, the STOP (snoring, tiredness, observed apnea, high blood pressure) Questionnaire, and the STOP-Bang Questionnaire (STOP plus assessment of BMI, age, neck circumference, and gender), among others. The U.S. Preventive Services Task Force found that current evidence is insufficient to assess the balance of benefits and harms of screening for OSA in asymptomatic adults owing to a lack of validation data in primary care settings. Nonetheless, the high prevalence and significant health consequences of sleep apnea suggest that clinicians should be alert for its potential presence, particularly in patients who are obese with symptoms of excessive daytime somnolence or witnessed apnea episodes. Other sleep disorders, such as restless leg syndrome, may be identified with simple history. 
-
 #### Weight Management Overweight and obesity are prevalent in 
-
  epidemic proportions in the United States and other industrialized nations (Chaps. 401 and 402). Since 1985, the prevalence of obesity in the United States has increased from ~10 to ~35%, and the prevalence of overweight is now ~40%. Overweight and obesity disproportionately affect individuals in lower socioeconomic strata and in many underserved minority populations, including black Americans, Latino Americans, and American Indians. In all race/ethnic groups, both overweight and obesity are associated with adverse health consequences, including diabetes, certain cancers, cardiovascular diseases, and degenerative joint disease. Eating disorders such as anorexia and bulimia are much less common but pose major health consequences 
-
  for affected patients and should be suspected particularly in younger women with history of rapid weight shifts or underweight status. Weight loss is one of the most difficult preventive interventions to achieve and sustain over time. However, several key factors can assist the patient and clinician, and early referral to a dietician can be very helpful. The first therapeutic goal is to aim for weight stabilization. Many of the risks of overweight and obesity are driven more strongly by continued weight gain, rather than overweight/obese status per se. Working with the patient to find initial strategies for weight maintenance can be a successful initial step with success for many patients. For those who can progress to considering weight loss, it is critical to help the patient understand that there is no standard solution. Experimentation and documentation are key. Tools to assist patients can include food and weight logs, activity logs, and smart phone apps. Some patients respond best to structured approaches such as intermittent fasting regimens or commercial dietary programs where meals are provided. Any of these approaches can be tried with or without social group supports. The key construct for weight loss is, of course, negative calorie balance. This is achieved through a combination of reduced caloric intake and increased physical activity. Patients may already understand, from prior weight loss attempts, what combination works best for them to achieve this. Some patients find that they cannot lose weight without increasing their exercise. For many, reduction of caloric intake is most efficient. Encouraging the patient to find what works for them is most important. The same principle holds for dietary content. Well-done feeding studies indicate that weight loss is dependent far more on the reduction of caloric intake than on the relative composition of fat, protein, and carbohydrate in the diet. There may be other medical reasons 
-
 ---
 
 #### Vaccine Opposition and Hesitancy 
@@ -387,25 +300,15 @@ Regular assessment of patient safety through simple questions about seat belt us
  Julie A. Bettinger, Hana Mitchell 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  crisis of confidence many patients feel toward HCPs and the health care system. Studies demonstrate that an unambiguous, strong recommendation by trusted HCPs is most often the reason that patients, including those who are vaccine hesitant, choose to vaccinate. Strategies for counseling vaccine-hesitant and vaccine-resistant patients will be presented and examples of strong vaccine recommendations provided. Presenting strategies to increase vaccine demand at a system and policy level is beyond the scope of this chapter. While some physicians may have roles that allow them to act at this level, all physicians can act and influence their individual patients. Strategies to create active vaccine demand at the individual level alone will not solve vaccine hesitancy, but vaccine hesitancy cannot be addressed without these efforts. For further discussion of immunization principles and vaccine use, see Chap. 123. 
-
 #### ■ VACCINE COVERAGE AND OUTBREAKS 
-
  The epidemiologic data from measles outbreaks over the past 10 years provide an interesting illustration of the effects of vaccine opposition and hesitancy. For further discussion of measles, see Chap. 205. 
-
 #### North America Herd immunity occurs when enough individuals 
-
  in a population become immune to an infectious disease, usually through vaccination, that transmission of the infection stops. The level of immunity (or level of vaccine coverage) required to confer herd immunity varies with the specific infectious disease. Because measles is a highly contagious virus, a coverage rate of 93–95% must be achieved for vaccination to confer herd immunity and interrupt measles transmission. National coverage estimates place one-dose measles vaccine coverage rates in 2-year-old children at 92% in the United States and 88% in Canada. In spite of these relatively high levels of coverage in young children, numerous measles outbreaks have occurred in both countries since 2010 (Table 3-1). The vast majority (>80%) of measles cases described in Table 3-1 occurred in underor completely unvaccinated individuals. Of note, many of these outbreaks highlight pockets of significantly underor unvaccinated individuals that are not apparent in national vaccine coverage statistics. Moreover, many of the outbreaks listed in Table 3-1 were ignited by unvaccinated returned travelers from areas with existing 
-
  TABLE 3-1 Measles Outbreaks in North America YEAR/PLACE NO. OF CASES REASON 2010/Canada 70 An infected traveler to the 2010 Winter Olympics transmitted infection to an underand unvaccinated local population in British Columbia. 2011/Canada 776 Disease was imported from France by an unvaccinated returned traveler to Quebec. The outbreak spread in a nonvaccinating religious community and outside that community. A majority of cases occurred in underand unvaccinated persons. 2011/United States 118 Of 118 cases, 46 were in returned travelers from Europe and Asia/Pacific regions; 105 cases (89%) occurred in unvaccinated persons. 2013/United States 58 Disease was imported by a returned unvaccinated traveler from Europe. The outbreak spread in a nonvaccinating religious community in New York. 2014/Canada 433 Disease was imported from the Netherlands. The outbreak spread in a nonvaccinating religious community in British Columbia. 2014/United States 383 The outbreak occurred in nonvaccinating religious communities in Ohio. 2015/United States 147 A multistate/multicountry outbreak was linked to Disneyland amusement park. More than 80% of cases occurred in unvaccinated persons. 2015/Canada 159 Disease was imported from the United States (part of the Disneyland outbreak) by an unvaccinated traveler. The outbreak spread in a nonvaccinating religious community in Quebec. 2017/United States 75 The outbreak occurred in an under-vaccinated community in Minnesota; 95% of patients were unvaccinated. 2018/United States 375 Disease was imported by returned unvaccinated travelers from Israel. The outbreak spread in nonvaccinating religious communities in New York and New Jersey. 2019/Canada 31 Disease was imported from Vietnam by a returned traveler to British Columbia. The outbreak spread throughout local area schools in underand unvaccinated persons and resulted in a province-wide measles mass immunization campaign for schoolchildren. 2019/United States 1282 Outbreaks occurred in 10 states; 73% of cases (~935) were linked to outbreaks in nonvaccinating religious communities in New York. Source: Centers for Disease Control and Prevention and Public Health Agency of Canada. 
-
  since Edward Jenner introduced the first vaccine against smallpox in the eighteenth century. So why did the World Health Organization rank these attitudes as one of the ten greatest threats to public health in 2019? Are current opposition and hesitancy any different from what has been seen before? Many sociologists, public health experts, and health care providers (HCPs) argue yes. Recent social and cultural trends, combined with new communication formats, have converged to create a particularly potent form of hesitancy and what some have labeled a crisis of confidence. This crisis manifests as a lack of trust in specific vaccines, vaccine programs, researchers, HCPs, the health care system, pharmaceutical companies, academics, policymakers, governments, and authority in general. (See “Focus: COVID-19 Vaccine Hesitancy,” below.) The roots of modern vaccine hesitancy and opposition—defined as delay or rejection of vaccines in spite of availability—vary depending on the place and the population. For some individuals and communities, pseudoscience and false claims about the safety of existing vaccines (e.g., an unsupported link between measles vaccine and autism) have driven fears, increased hesitancy, and decreased acceptance. For others, real safety events, such as the association of narcolepsy with a specific pandemic influenza vaccine (Pandemrix), have justified concerns. In a few locations (e.g., Ukraine, Pakistan), vaccine hesitancy is the result of failed health systems or even state failures. Finally, for some groups, including some fundamentalist religious groups and alternativeculture communities, vaccine hesitancy and opposition reflect exclusion from and rejection of mainstream society and allopathic health care and manifest as a deep distrust of these institutions and their HCPs. Although the genesis of modern vaccine hesitancy is multifactorial, its outcomes are uniform: a decrease in vaccine demand and uptake, a decrease in coverage by childhood and adult vaccines, and an increase in vaccine-preventable diseases, outbreaks, and epidemics of disease. Addressing this crisis and moving people from vaccine hesitancy and refusal to acceptance and active demand require intervention at multiple levels: the individual, the health system (including public health), and the state. This chapter will define vaccine hesitancy and briefly describe its determinants and effects in North America (the United States and Canada). Physicians and other HCPs are well positioned to address the 
-
 ---
 
 #### Vaccine Opposition and Hesitancy 
@@ -515,31 +418,18 @@ be high in North America, they are lower in other parts of the world. In Samoa, 
 **FIGURE 3-1 Vaccine acceptance continuum.** HCPs, health care providers. (Adapted from J Leask et al: BMC Pediatrics 12:154, 2012; AL Benin et al: Pediatrics 117:1532, 2006; and E Dubé, NE MacDonald: The Vaccine Book, 2016, pp. 507-528.) 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  media. Finally, the real or perceived ability of patients to take the action required for vaccination (i.e., self-efficacy) influences the role complacency plays in hesitancy and willingness to seek vaccination. Convenience is determined by the degree to which conversations about vaccination and other services can be provided in culturally safe contexts that are convenient and comfortable for the individual. Clearly, convenience varies by community, health clinic, and even patient. Persons who are criticized or scolded for not vaccinating themselves or their children may not feel comfortable or safe accessing health services. Factors such as affordability, geographic accessibility, language, and health literacy are important considerations when evaluating the convenience of existing clinical care. Any of these factors can affect vaccine acceptance and can push a patient who has some hesitancy toward vaccinating or not vaccinating. Confidence is based on trust in the safety and efficacy of vaccines, in the health care system that delivers vaccines (including HCPs), and in the policymakers or governments who decide which vaccines are needed and used. A continual erosion of confidence around vaccination, health systems, and governments drives today’s hesitancy and has been amplified by larger social and cultural trends in medicine, parenting, and information availability. 
-
 #### ■ SOCIAL AND CULTURAL TRENDS 
-
 #### Individualized Health Care Over the past 30 years, the focus of 
-
  medicine and health care has shifted to patient-oriented, individualized care, with an increasing emphasis on treatment and prevention options tailored to the individual patient. In vaccination programs, this shift has manifested as requests for individualized vaccine recommendations and customized immunization schedules. The increasing personalization of medicine, while positive overall, has forced public health away from a focus on the community and its common good and has created tension between individual rights and community health. 
-
 #### Parenting Trends The desire for an individualized approach to 
-
  medicine and vaccination reflects broader cultural trends concerning individual risk management: accordingly, the individual is to blame for bad outcomes, and public institutions cannot be trusted to manage technological (i.e., vaccine-related) risks. This viewpoint is directly linked with cultural shifts in parenting and social norms defining what it means to be a “good parent.” The image of a good parent has been reframed to refer to someone whom several investigators have described as “a critical consumer of health services and products, accounting for their own individual situation as they see it with little regard for the implications of their decision on other children.” The archetypical good parent no longer unquestioningly trusts HCPs and other authorities and experts. According to this social norm, “good parents” should seek individual medical advice that is tailored for their child and specific to that child’s needs. While in essence not a bad thing, this norm can conflict directly with public health vaccine recommendations and schedules that are organized to maximize community health and to facilitate efficient provision of care at a community level. 
-
 #### Traditional Media Newspapers, radio, and television have been 
-
  criticized for their coverage of vaccines and in particular their coverage of the alleged link between MMR vaccine and autism. By offering equal coverage throughout the early to mid-2000s for both the scientific evidence and unproven claims of MMR vaccine harms, traditional media outlets provided a forum and a megaphone for the spread of pseudoscience. Equal coverage leads to false equivalencies. Celebrity advocates further amplified the message via this channel. The boost that traditional media provided to active vaccine resistance and, less directly, to vaccine hesitancy has not been adequately measured but must be considered in any discussion of vaccine hesitancy. After headlines about multiple outbreaks of measles and other vaccinepreventable diseases and continued direct criticism of the equalcoverage approach, some traditional media now reject and attempt to discredit pseudoscience. The effect this stance will have on increasing vaccine confidence is unknown. 
-
 #### The Internet and Social Media Approximately 90% of Americans 
-
  and 91% of Canadians use the Internet, and 80% of Americans and 60% of Canadians have a social network profile. Widespread access to social media can be empowering, but it is also problematic. The Internet and social media require users to select their information sources, creating an environment described as an “echo chamber” in which individuals choose information sources harboring beliefs or opinions similar to their own and thereby reinforcing their existing views. This situation has created a new platform for further spread of vaccine misinformation (inaccuracies due to error) and disinformation (deliberate lies) and has provided a forum for vaccine-resistant individuals, including celebrities, to organize and raise funds to support their efforts. The harmful effects of Internet and social media use on vaccine hesitancy have been well documented. Vaccine hesitancy increases for parents who seek their information from the Internet. Unfortunately, public health and health care institutions have been slow to adapt to this new communication medium and to recognize its influence and impact. In this medium, personal stories and anecdotes are now viewed as data and disproportionately influence vaccine decision-making, while traditional, more authoritative, fact-based information sources are deemphasized. Centralized monitoring by jurisdiction of vaccine misinformation and disinformation, with summaries of the relevant discourses and rebuttals provided to HCPs, has been proposed as a potential way to counter the influence of social media on vaccine hesitancy. While such strategies have been applied in single jurisdictions and appear to have had some success, their applicability to a broader context is unknown. Moreover, the resources for such a coordinated response have not been made available, and individual HCPs have been left to counter popular, shifting, viral communications on their own, patient by patient. As with traditional media, the social media landscape appears to be shifting. In 2019, the proliferation of anti-vaccination information combined with measles outbreaks in North America and increasing pressure from health leaders led large social media companies (Facebook, Instagram, Pinterest) to deemphasize anti-vaccination information by removing relevant advertisements and recommendations and decreasing their prominence in search results. While it is too soon to determine the effects of these measures, critics are skeptical that they will have the intended result of reducing vaccine misinformation and disinformation. Early evidence shows that misleading content is still widely available, with anti-vaccine advertisements now using the term “vaccine choice” to avoid censorship. More disturbingly, public health advertisements in support of vaccination have been included in social bans and removed from social media sites. In a more grassroots effort, providers and vaccine supporters have united on social media to provide online support and evidence-based facts to providers and others who support vaccines when they are attacked digitally by anti-vaccine supporters. For example, Shots Heard Round the World (www.shotsheard.com) is an effort led by two U.S. pediatricians to provide advice and support for HCPs who speak out about the importance of vaccines. Such efforts harness the power of social media in ways similar to those used by vaccine opponents and may prove successful in combating vaccine hesitancy. Given these social and cultural trends, no one should be surprised when individuals now question vaccination, express confusion about conflicting information and information sources, and feel unsure whom to trust. Their broader social context is telling them they should question everything and trust no one. This message is reinforced via misinformation and disinformation on social media. Recent vaccinepreventable disease outbreaks illustrate that effective engagement with individuals cannot be accomplished through one-way, top-down information provision (which still is often the de facto choice for health system communication), but rather requires a dialogue that takes into account the social processes surrounding individual vaccination decisions. It is at the interface between the individual and the health system in which conversations between HCPs and their patients can have the greatest impact. It is critical for all HCPs to discuss vaccines and provide strong vaccine recommendations—including HCPs who do not administer vaccines but who have established trust with their patients. 
-
 ---
 
 #### Vaccine Opposition and Hesitancy 
@@ -567,25 +457,15 @@ Vaccine recommendations ideally should be made within an established, trusting p
  Revisiting and Reinforcement of Vaccine Recommendations All health care encounters offer an opportunity to revisit and reinforce vaccine recommendations. Vaccine-hesitant individuals who do not accept vaccines but are willing to review information should be offered a follow-up appointment to reinforce previously made recommendations and address further questions. Vaccine-hesitant 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  TABLE 3-2 Sample Vaccine Conversations STRONG VACCINE RECOMMENDATION “We are headed into the flu season. Getting flu vaccine not only protects you, but it helps protect other people around you who can get very sick from flu. I strongly recommend you get your flu shot. Do you know where to get it?” “You will be turning 50 next year. This means you will be eligible for a vaccine that prevents shingles, and I strongly recommend you receive it. Have you heard about this vaccine before? Can I answer your questions about it?” “I know you are not comfortable getting vaccinated today. I do want to make it clear that I recommend vaccines because I am convinced they are the best way to protect you from some serious diseases. Is there something that would lead you to think about getting vaccinated in the future?” TAILORED COMMUNICATION “I recommend that children and adults stay up to date on recommended vaccines. I see from your vaccine record that you’ve had your childhood vaccines, but you haven’t gotten any adult vaccines. I wanted to clarify whether this is because you decided not to get vaccines or something else prevented you from getting vaccinated.” “I understand that you are here for your pneumococcal vaccine. This is the best way to protect yourself and those around you from pneumonia. Do you have any questions before I give you the vaccine?” “I understand you have some concerns about vaccines. What are you most concerned about? Would you like me to explain why I recommend giving your child these vaccines?” TRANSPARENCY AND ACCURACY “Serious side effects can develop after MMR vaccination but are very rare. On average, 3 out of 10,000 children who get MMR vaccine will have a febrile seizure/ convulsion in the days after vaccination. Febrile seizures can be frightening, but nearly all children who have a febrile seizure recover very quickly and without any long-term consequences. On the other hand, 1 out of 1000 children who get measles will develop encephalitis (brain inflammation) that not only causes seizures but can also lead to permanent damage.” “About 10 out of every 10,000 Americans who do not get vaccinated against flu die because of influenza every year, and many more are hospitalized. While flu vaccine does not prevent all cases of influenza, it is the most effective vaccine we have. By getting the vaccine, you also help protect people around you from getting sick.” “You are correct, aluminum is used in some vaccines to help the body’s immune system respond. However, aluminum is also present in food and drinking water. In fact, the amount of aluminum present in vaccines is similar to or less than what is present in breast milk or infant formulas.” SUPPORT FROM ACCESSIBLE INFORMATION SOURCES “Your child and other boys and girls his age will be eligible for the human papillomavirus vaccine this coming school year. Have you heard about this vaccine before? What questions do you have about it? Here’s a list of websites for parents and teenagers that explain what it is about.” “There’s a lot of information about vaccines on the internet, and a lot of that information is not based on facts. Here is a list of websites that have been reviewed by health care professionals and accurately describe benefits and risks of each vaccine. The information is written in lay language and includes helpful illustrations.” REVISITING AND REINFORCEMENT OF THE RECOMMENDATION “During our last visit, we talked about MMR vaccine for your son and some of the concerns you had about potential side effects. Have you had a chance to look at the take-home information I gave you? Was there anything else you would like to ask about? I recommend that we vaccinate your child today.” “During our last visit, we talked about receiving a pertussis booster during pregnancy and where you can get vaccinated. Have you had a chance to get your pertussis vaccine?” “I see that you got your vaccines at the public health clinic last week. How did it go? Did you have any questions?” “It’s possible that the symptoms you experienced after receiving the vaccine were an adverse reaction to the vaccine. I will report this to the health authority. Let’s discuss what we can do next time to prevent symptoms from occurring again.” Note: Specific vaccine recommendations, vaccine eligibility guidelines, and statistics used to communicate benefits and risks will vary with the health jurisdiction and the country. Several sample statements here are adapted from the Australian National Centre for Immunisation Research and Surveillance website (www. talkingaboutimmunisation.org.au). For patient vaccine information resources, see also the Immunization Action Coalition website for the public developed in partnership with the CDC (vaccineinformation.org). 
-
  patients who accept vaccines should be seen at a follow-up appointment to confirm and document vaccine receipt (if vaccine is not given at the point of care), ascertain whether the vaccine was well tolerated, and reinforce the message about vaccine safety and effectiveness. Patients who actively demand vaccines usually do not require much follow-up other than to confirm and document the receipt of vaccine (if it is not given at the point of care) and to address additional questions or concerns arising subsequent to vaccination. Often this follow-up can be covered without an office visit. WHAT TO SAY TO VACCINE-HESITANT PATIENTS Engaging vaccine-hesitant individuals requires confidence, knowledge, skills, time, and creativity to tailor the approach to each individual patient. Examples for each part of the vaccine recommendation are listed in Table 3-2. 
-
 #### ■ OTHER CONSIDERATIONS DURING CLINICAL 
-
 #### ENCOUNTERS 
-
 #### Missed Opportunities The World Health Organization defines 
-
  a missed opportunity for vaccination as “any contact with health services by an individual (child or person of any age) who is eligible 
-
  for vaccination (e.g., unvaccinated or partially vaccinated and free of contraindications to vaccination), which does not result in the person receiving one or more of the vaccine doses for which he or she is eligible.” HCPs who do not offer point-of-care vaccination frequently miss the opportunity to recommend vaccines to their patients. Missed opportunities for recommending and providing vaccines during routine health care encounters contribute to under-vaccination. Studies show that up to 45% of under-vaccinated children could be up to date with all ageappropriate vaccines and up to 90% of female adolescents could be up to date with human papillomavirus (HPV) vaccination if all opportunities to vaccinate were taken. Vaccine counseling and vaccination should be incorporated into clinical care for individuals of all ages, not just young children. Because many adolescents and adults do not have regular health care follow-up, providers need to take advantage of every health care encounter to recommend and provide vaccines. For example, a visit to an emergency department, a routine follow-up visit at a diabetes clinic, or a visit planning for elective orthopedic surgery offer opportunities to inquire about the patient’s vaccination status and to recommend vaccines. HCPs should make preemptive vaccine recommendations (e.g., initiating discussions about infant vaccines during pregnancy, informing parents about HPV vaccine before their child becomes eligible). Such advance discussions may be especially helpful in identifying 
-
 ---
 
 #### Vaccine Opposition and Hesitancy 
@@ -625,33 +505,19 @@ As COVID-19 vaccines are used to control SARS-CoV-2, some individuals will have 
  concerns can be anticipated on the basis of past experience with new vaccines, several characteristics of COVID-19 vaccines require new approaches to adequately address individual concerns, and HCPs need to educate themselves in several specific areas. First, an overwhelming amount of attention has been paid to the speed of development of COVID-19 vaccines, with some jurisdictions even skipping the usual clinical-trial steps in an effort to provide vaccine more rapidly to their populations. This situation directly increases concerns about the “newness” of the vaccine and its safety and, unfortunately, raises questions about the entire vaccine development process. Education is required to explain how a process that normally requires 5–10 years was condensed to this degree. (See Lurie et al [2020] for an excellent explanation of the COVID-19 vaccine development process.) In addition, transparency with regard to clinical trial data is required to enable scientists, HCPs, and consumers to read and understand the development and evaluation processes. The usually shrouded, proprietary development process is unsuitable if the final vaccine product is to garner public trust. Education on existing vaccine-safety monitoring systems also needs to be provided. HCPs must familiarize themselves with the vaccine development process and safety monitoring systems if they are to present this information to their patients. Second, several newer vaccine platforms that are being used for COVID-19 vaccines (e.g., nucleic acid–based vaccines, viral vector) have not been used in the past. This novelty exacerbates public concern about the unfamiliarity of new vaccines and further heightens misgivings about vaccine safety and the potential for long-term adverse effects. Again, HCPs need to familiarize themselves with the new technology and develop effective messaging for their patients. Public health officials have developed resources to address this issue (see http://www.cdc. gov/vaccines/covid-19/vaccinate-with-confidence.html), but, even in the absence of such resources, HCPs can anticipate questions about the new technology involved and become comfortable explaining it. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
 (^1) The Tuskegee Syphilis Study is the most infamous example of medical experimentation in Black communities in the United States. (See Brandt [1978] for details.) Numerous examples of medical experimentation on Indigenous peoples are available. For example, a 12-year trial of an experimental bacille Calmette-Guérin vaccine for tuberculosis was conducted on Cree and Nakoda Oyadebi infants in Saskatchewan during the 1930s. (See Lux [2016] for details.) Third, clinical trial safety and efficacy data were lacking for all groups initially prioritized to receive the vaccine. For example, longterm-care residents were prioritized for vaccine receipt, but clinical trial data were not available for the range of chronic health conditions that exist in older adults. While observational studies have filled some of these gaps, HCPs need to extrapolate on the basis of available evidence in considering individual patients and must make a recommendation without knowing all the answers. Fourth, some minority and marginalized communities who have been disproportionately affected by COVID-19 express hesitancy or reject COVID-19 vaccines. For some Black, Indigenous, Latinx, and other communities, COVID-19 hesitancy stems directly from systematic discrimination, racism, and mistreatment in the health care system. Black and Indigenous communities also share a horrific legacy of unethical medical experimentation,^1 which, when combined with current discrimination and overt racism, creates a powerful climate of mistrust in HCPs, the medical system, and science. 
-
 #### Social and Cultural Trends The social and cultural trends 
-
  already discussed in this chapter—in particular, traditional media, the Internet, and social media—are exerting influence and pressure that did not affect the introduction of older vaccines, even the H1N1 pandemic vaccines. The media attention given to the development of transverse myelitis in one clinical-trial participant following receipt of COVID-19 vaccine is but one example of the intense media scrutiny of the vaccine development process. Unfortunately, in the United States, efforts to control COVID-19, including vaccine development, have become highly politicized. This degree of politicization has not occurred with past vaccines, so HCPs are in uncharted territory in terms of how to address it or even to understand its potential influence on vaccine acceptance. Again, individual HCPs need to navigate complex conversations with their patients and possibly their communities. Below are some suggestions that may prove helpful in formulating these conversations. 
-
 #### Tips for Discussion of COVID-19 Vaccines * ADDRESS 
-
  CONCERNS ABOUT “NEWNESS” HCPs need to understand and be able to explain the newer vaccine platforms (mRNA, DNA, and viral vector vaccines) and to provide examples of other, older vaccines that have been developed by similar techniques. This information makes COVID-19 vaccines more familiar. ADDRESS CONCERNS ABOUT VACCINE SAFETY HCPs need to understand and explain how vaccines are evaluated before being approved for use and how vaccine safety is monitored after vaccines are used in the population. It is important to be honest and state that potential rare and long-term effects are not yet known, but then to speak to what is from the animal and clinical trial data and to comment on background rates for rare events. Placing potential vaccine risks in the context of known COVID-19 disease risks is helpful for some patients. Depending on the context, explain why specific high-risk groups may have been prioritized to receive the vaccine. Patients who have been prioritized may still need a strong recommendation from an HCP to accept the vaccine. An HCP recommendation is as important here as it is for acceptance of routine vaccines. As with other vaccines, many patients’ decision to accept a COVID-19 vaccine rests upon whether their HCP recommends it. 
-
  Address implicit or overt racism and systemic discrimination in the medical system and create culturally safe health care spaces. HCPs need to be aware of the legacy of discrimination, racism, and medical experimentation and the distrust it fosters in some communities. While SARS-CoV-2 has critically highlighted fractures in our health care system for minority and marginalized communities, addressing these underlying issues goes beyond addressing vaccine hesitancy and is clearly needed for all types of medical care in these communities. EMPHASIZE THE IMPORTANCE OF KEEPING UP TO DATE WITH OTHER ROUTINE VACCINES DURING THE COVID-19 PANDEMIC These vaccines include but are not limited to seasonal influenza vaccine and the childhood primary vaccination series. 
-
 #### ■ FURTHER READING 
-
 #### Vaccine Hesitancy 
-
  American Academy of Pediatrics: Vaccine hesitant parents. Available at http://www.aap.org/en-us/advocacy-and-policy/aap-healthinitiatives/immunizations/Pages/vaccine-hesitant-parents.aspx. Accessed October 23, 2020. DeStefano F et al: Principal controversies in vaccine safety in the United States. Clin Infect Dis 69:726, 2019. Dudley MZ et al: The state of vaccine safety science: Systematic reviews of the evidence. Lancet Infect Dis 20:e80, 2020. Immunization Action Coalition: For healthcare professionals. Available at http://www.immunize.org. Accessed October 23, 2020. Immunization Action Coalition: For the public: Vaccine information you need. Available at vaccineinformation.org. Accessed October 23, 2020. Jamison AM et al: Vaccine-related advertising in the Facebook Ad Archive. Vaccine 38:512, 2020. Leask J et al: Communicating with parents about vaccination: A framework for health professionals. BMC Pediatr 12:154, 2012. MacDonald N et al: Vaccine hesitancy: Definition, scope and determinants. Vaccine 33:4161, 2015. World Health Organization: Vaccine hesitancy survey questions related to SAGE vaccine hesitancy. Available at http://www.who.int/ immunization/programmes systems/Survey Questions Hesitancy.pdf. Accessed October 23, 2020. World Health Organization: Improving vaccination demand and addressing hesitancy. Available at http://www.who.int/immunization/ programmes systems/vaccine hesitancy/en/. Accessed October 23, 2020. World Health Organization: Missed opportunities for vaccination (MOV) strategy. Available at http://www.who.int/immunization/ programmes systems/policies strategies/MOV/en/. Accessed October 23, 2020. 
-
 #### COVID-19 Vaccine Hesitancy 
-
  Brandt AM: Racism and research: The case of the Tuskegee Syphilis Study. Hastings Cent Rep 8:21, 1978. Centers for Disease Control and Prevention: Vaccinate with confidence: Strategy to reinforce confidence in Covid-19 vaccines. Available at http://www.cdc.gov/vaccines/covid-19/vaccinate-withconfidence.html. Accessed April 5, 2021. Lurie N et al: Developing Covid-19 vaccines at pandemic speed. N Engl J Med 382:21, 2020. Lux MK: Separate beds: A history of Indian hospitals in Canada, 1920s–1980s. Toronto, University of Toronto Press, 2016. Mosby I et al: Medical experimentation and the roots of COVID-19 vaccine hesitancy among Indigenous Peoples in Canada. CMAJ 193:E381, 2021. 
-
 ---
 
 #### Decision-Making in Clinical Medicine 
@@ -690,15 +556,10 @@ ingly difficult. Chess has an objective ranking system based on skill and perfor
 <!--ID: 1660788425461-->
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  the diagnosis adequately accounts for the presenting symptoms and signs and can explain all the ancillary findings. The following case based on a real clinical encounter provides an example of premature closure. A 45-year-old man presents with a 3-week history of a “flulike” upper respiratory infection (URI) including dyspnea and a productive cough. The emergency department (ED) clinician pulled out a “URI assessment form,” which defines and standardizes the information gathered. After quickly acquiring the requisite structured examination components and noting in particular the absence of fever and a clear chest examination, the physician prescribed a cough suppressant for acute bronchitis and reassured the patient that his illness was not serious. Following a sleepless night at home with significant dyspnea, the patient developed nausea and vomiting and collapsed. He was brought back to the ED in cardiac arrest and was unable to be resuscitated. His autopsy showed a posterior wall myocardial infarction (MI) and a fresh thrombus in an atherosclerotic right coronary artery. What went wrong? Presumably, the ED clinician felt that the patient was basically healthy (one can be misled by the way the patient appears on examination—a patient that does not appear “sick” may be incorrectly assumed to have an innocuous illness). So, in this case, the physician, upon hearing the overview of the patient from the triage nurse, elected to use the URI assessment protocol even before starting the history, closing consideration of the broader range of possibilities and associated tests required to confirm or refute these possibilities. In particular, by concentrating on the abbreviated and focused URI protocol, the clinician failed to elicit the full dyspnea history, which was precipitated by exertion and accompanied by chest heaviness and relieved by rest, suggesting a far more serious disorder. Heuristics or rules of thumb are a part of the intuitive system. These cognitive shortcuts provide a quick and easy path to reaching conclusions and making choices, but when used improperly, they can lead to errors. Two major research programs have studied heuristics in a mostly nonmedical context and have reached very different conclusions about the value of these cognitive tools. The “heuristics and biases” program focuses on how these mental shortcuts can lead to incorrect judgments. So far, however, little evidence exists that educating physicians and other decision makers to watch for the >100 cognitive biases identified to date has had any effect on the rate of diagnostic errors. In contrast, the “fast and frugal heuristics” research program explores how and when relying on simple heuristics can produce good decisions. Although many heuristics have relevance to clinical reasoning, only four will be mentioned here. When diagnosing patients, clinicians usually develop diagnostic hypotheses based on the similarity of that patient’s symptoms, signs, and other data to their mental representations (memorized patterns) of the disease possibilities. In other words, clinicians pattern match to identify the diagnoses that share the most similar findings to the patient at hand. This cognitive shortcut is called the representativeness heuristic. Consider a patient with hypertension who has headache, palpitations, and diaphoresis. Based on the representativeness heuristic, clinicians might judge pheochromocytoma to be quite likely given this classic presenting symptom triad suggesting pheochromocytoma. Doing so, however, would be incorrect given that other causes of hypertension are much more common than pheochromocytoma and this triad of symptoms can occur in patients who do not have it. Thus, clinicians using the representativeness heuristic may overestimate the likelihood of a particular disease based on the presence of representative symptoms and signs, failing to account for its low underlying prevalence (i.e., the prior, or pretest, probabilities). Conversely, atypical presentations of common diseases may lead to underestimating the likelihood of a particular disease. Thus, inexperience with a specific disease and with the breadth of its presentations may also lead to diagnostic delays or errors, e.g., diseases that affect multiple organ systems, such as sarcoid or tuberculosis, may be particularly challenging to diagnose because of the many different patterns they may manifest. A second commonly used cognitive shortcut, the availability heuristic, involves judgments based on how easily prior similar cases or outcomes can be brought to mind. For example, a clinician may recall 
-
  a case from a morbidity and mortality conference in which an elderly patient presented with painless dyspnea of acute onset and was evaluated for a pulmonary cause but was eventually found to have acute MI, with the diagnostic delay likely contributing to the development of ischemic cardiomyopathy. If the case was associated with a malpractice accusation, such examples may be even more memorable. Errors with the availability heuristic arise from several sources of recall bias. Rare catastrophic outcomes become memorable cases with a clarity and force disproportionate to their likelihood for future diagnosis—for example, a patient with a sore throat eventually found to have leukemia or a young athlete with leg pain subsequently found to have an osteosarcoma—and those publicized in the media or recently experienced are, of course, easier to recall and therefore more influential on clinical judgments. The third commonly used cognitive shortcut, the anchoring heuristic (also called conservatism or stickiness), involves insufficiently adjusting the initial probability of disease up (or down) following a positive (or negative test) when compared with Bayes’ theorem, i.e., sticking to the initial diagnosis. For example, a clinician may still judge the probability of coronary artery disease (CAD) to be high despite a negative exercise perfusion test and go on to cardiac catheterization (see “Measures of Disease Probability and Bayes’ Rule,” below). The fourth heuristic states that clinicians should use the simplest explanation possible that will adequately account for the patient’s symptoms and findings (Occam’s razor or, alternatively, the simplicity heuristic). Although this is an attractive and often used principle, it is important to remember that no biologic basis for it exists. Errors from the simplicity heuristic include premature closure leading to the neglect of unexplained significant symptoms or findings. For complex or unfamiliar diagnostic problems, clinicians typically resort to analytic reasoning processes (System 2) and proceed methodically using the hypothetico-deductive model of reasoning. Based on the patient’s stated reasons for seeking medical attention, clinicians develop an initial list of diagnostic possibilities in hypothesis generation. During the history of the present illness, the initial hypotheses evolve in diagnostic refinement as emerging information is tested against the mental models of the diseases being considered with diagnoses increasing and decreasing in likelihood or even being dropped from consideration as the working hypotheses of the moment. These mental models often generate additional questions that distinguish the diagnostic possibilities from one another. The focused physical examination contributes to further distinguishing the working hypotheses. Is the spleen enlarged? How big is the liver? Is it tender? Are there any palpable masses or nodules? Diagnostic verification involves testing the adequacy (whether the diagnosis accounts for all symptoms and signs) and coherency (whether the signs and symptoms are consistent with the underlying pathophysiologic causal mechanism) of the working diagnosis. For example, if the enlarged and quite tender liver felt on physical examination is due to acute hepatitis (the hypothesis), then certain specific liver function tests will be markedly elevated (the prediction). Should the tests come back normal, the hypothesis may have to be discarded and others reconsidered. Although often neglected, negative findings are as important as positive ones because they reduce the likelihood of the diagnostic hypotheses under consideration. Chest discomfort that is not provoked or worsened by exertion and not relieved by rest in an active patient lowers the likelihood that chronic ischemic heart disease is the underlying cause. The absence of a resting tachycardia and thyroid gland enlargement reduces the likelihood of hyperthyroidism in a patient with paroxysmal atrial fibrillation. The acuity of a patient’s illness may override considerations of prevalence and the other issues described above. “Diagnostic imperatives” recognize the significance of relatively rare but potentially catastrophic conditions if undiagnosed and untreated. For example, clinicians should consider aortic dissection routinely as a possible cause of acute severe chest discomfort. Although the typical presenting symptoms of dissection differ from those of MI, dissection may mimic MI, and because it is far less prevalent and potentially fatal if mistreated, diagnosing dissection remains a challenging diagnostic imperative (Chap. 280). 
-
 ---
 
 #### Decision-Making in Clinical Medicine 
@@ -722,37 +583,21 @@ Clinicians taking care of acute, severe chest pain patients should explicitly an
  More than three decades of research on variations in clinician practice patterns has identified important nonclinical forces that shape clinical decisions. These factors can be grouped conceptually into three overlapping categories: (1) factors related to an individual physician’s practice, (2) factors related to practice setting, and (3) factors related to payment systems. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
 #### Factors Related to Practice Style To ensure that necessary care 
-
  is provided at a high level of quality, physicians fulfill a key role in medical care by serving as the patient’s advocate. Factors that influence performance in this role include the physician’s knowledge, training, and experience. Clearly, physicians cannot practice EBM if they are unfamiliar with the evidence. As would be expected, specialists generally know the evidence in their field better than do generalists. Beyond published evidence and practice guidelines, a major set of influences on physician practice can be subsumed under the general concept of “practice style.” The practice style serves to define norms of clinical behavior. Differing practice styles may be based on training, personal experience, and medical evidence. Beliefs about effectiveness of different therapies and preferred patterns of diagnostic test use are examples of different facets of a practice style. For example, cardiologists evaluating patients with lower risk chest pain symptoms often conceptualize their primary diagnostic objective as maximizing the detection of ischemia. For this reason, they may strongly favor stress imaging. Internists caring for the same patients may be more comfortable with initial use of exercise ECG testing without imaging. This latter practice style focuses less on ischemia detection and more on following guideline recommendations that indicate no outcome advantage for stress imaging in this context. Cardiologist may also favor a more liberal use of coronary angiography and revascularization in patients with stable ischemic symptoms relative to general internists. Beyond the patient’s welfare, physician perceptions about the risk of a malpractice suit resulting from either an erroneous decision or a bad outcome may drive clinical decisions and create a practice referred to as defensive medicine. This practice involves ordering tests and therapies with very small marginal benefits, ostensibly to preclude future criticism should an adverse outcome occur. With conscious or unconscious awareness of a connection to the risk of litigation or to payment, however, over time, such patterns of care may become accepted as part of the practice norm, thereby perpetuating their overuse, e.g., annual cardiac exercise testing in asymptomatic patients. 
-
 #### Practice Setting Factors Factors in this category relate to work 
-
  systems including tasks and workflow (interruptions, inefficiencies, workload), technology (poor design or implementation, errors in use, failure, misuse), organizational characteristics (e.g., culture, leadership, staffing, scheduling), and the physical environment (e.g., noise, lighting, layout). Physician-induced demand is a term that refers to the repeated observation that once medical facilities and technologies become available to physicians, they will find ways to use them. Other environmental factors that can influence decision-making include the local availability of specialists for consultations and procedures; “hightech” advanced imaging or procedure facilities such as MRI machines and proton beam therapy centers; and fragmentation of care. 
-
 #### Payment Systems Economic incentives are closely related to the 
-
  other two categories of practice-modifying factors. Financial issues can exert both stimulatory and inhibitory influences on clinical practice. Historically, physicians are paid on a fee-for-service, capitation, or salary basis. In fee-for-service, physicians who do more get paid more, thereby encouraging overuse, consciously or unconsciously. When fees are reduced (discounted reimbursement), clinicians tend to increase the number of services provided to maintain revenue. Capitation, in contrast, provides a fixed payment per patient per year to encourage physicians to consider a global population budget in managing individual patients and ideally reducing the use of interventions with small marginal benefit. To discourage volume-based excessive utilization, fixed salary compensation plans pay physicians the same regardless of the clinical effort expended but may provide an (unintended) incentive to see fewer patients. In recognition of the nonsustainability of continued growth in medical expenditures and the opportunity costs associated with that (funds that might be more beneficially applied to education, energy, social welfare, or defense), current efforts seek to transition to a value-based payment system to reduce overuse and to reflect benefit. Work to define how to actually tie payment to value has mostly focused so far on “pay for performance” models. High-quality 
-
  clinical trial evidence for the effectiveness of these models is still mostly lacking. 
-
 #### ■ INTERPRETATION OF DIAGNOSTIC TESTS 
-
  Despite impressive technological advances in medicine over the past century, uncertainty still abounds and challenges all aspects of medical decision-making. Compounding this challenge, massive information overload characterizes modern medicine. Clinicians on average subscribe to seven journals, presenting them with >2500 new articles each year, and need access to 2 million pieces of information to practice medicine. Of course, to be useful, this information must be sifted for quality and examined for applicability for integration into patientspecific care. Although computers appear to offer an obvious solution both for information management and for quantification of medical care uncertainties, many practical problems remain to be solved before computerized decision support can be routinely incorporated into the clinical reasoning process in a way that demonstrably improves the quality of care. For the present, understanding the nature of diagnostic test information can help clinicians become more efficient users of such data. The next section reviews select concepts related to diagnostic testing. 
-
 #### ■ DIAGNOSTIC TESTING: MEASURES OF TEST 
-
 #### ACCURACY 
-
  The purpose of performing a test on a patient is to reduce uncertainty about the patient’s diagnosis or prognosis in order to facilitate appropriate management. Although diagnostic tests commonly refer to laboratory (e.g., blood count) or imaging tests or procedures (e.g., colonoscopy or bronchoscopy), any information that changes a provider’s understanding of the patient’s problem qualifies as a diagnostic test. Thus, even the history and physical examination can be considered as diagnostic tests. In clinical medicine, it is common to reduce the results of a test to a dichotomous outcome, such as positive or negative, normal or abnormal. Although this simplification often suppresses useful information (such as the degree of abnormality), it facilitates illustrating some important principles of test interpretation that are described below. The accuracy of any diagnostic test is assessed relative to a “gold standard,” where a positive gold standard test defines the patients who have disease and a negative test securely rules out disease (Table 4-1). Characterizing the diagnostic performance of a new test requires identifying an appropriate population (ideally, patients representative of those in whom the new test would be used) and applying both the new and the gold standard tests to all subjects. Biased estimates of test performance occur when diagnostic accuracy is defined using an inappropriate population or one in which gold standard determination of disease status is incomplete. The accuracy of the new test in distinguishing disease from health is determined relative to the gold standard results and summarized in four estimates. The sensitivity or true-positive rate reflects how well the new test identifies patients with disease. It is the proportion of patients with disease (defined by the gold standard) who have a positive test. The proportion of patients with disease who have a negative test is the false-negative rate, calculated as 1 – sensitivity. The specificity, or true-negative rate, reflects how well 
-
  TABLE 4-1 Measures of Diagnostic Test Accuracy DISEASE STATUS TEST RESULT PRESENT ABSENT Positive True positives (TP) False positives (FP) Negative False negatives (FN) True negatives (TN) Test Characteristics in Patients with Disease True-positive rate (sensitivity) = TP/(TP + FN) False-negative rate = FN/(TP + FN) = 1 – true-positive rate Test Characteristics in Patients without Disease True-negative rate (specificity) = TN/(TN + FP) False-positive rate = FP/(TN + FP) = 1 – true-negative rate 
-
 ---
 
 #### Decision-Making in Clinical Medicine 
@@ -834,223 +679,114 @@ the new test correctly identifies patients without disease. It is the proportion
 **FIGURE 4-1 Each receiver operating characteristic (ROC curve)** illustrates a tradeoff that occurs between improved test sensitivity (accurate detection of patients with disease) and improved test specificity (accurate detection of patients without disease), as the test value defining when the test turns from “negative” to “positive” is varied. A 45° line would indicate a test with no predictive value (sensitivity = specificity at every test value). The area under each ROC curve is a measure of the information content of the test. Thus, a larger ROC area signifies increased diagnostic accuracy. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  99 
-
  1 
-
  2 
-
  5 
-
  0.01 
-
  0.1 
-
  0.2 
-
  0.5 
-
  1 
-
  2 
-
  5 
-
  10 
-
  20 
-
  30 
-
  40 
-
  50 
-
  60 
-
  70 
-
  80 
-
  90 
-
  95 
-
  98 
-
  99 
-
  0.02 
-
  0.05 
-
  0.1 
-
  0.2 
-
  0.5 
-
  10 
-
  99 
-
  98 
-
  95 
-
  90 
-
  80 
-
  70 
-
  60 
-
  50 
-
  40 
-
  30 
-
  20 
-
  10 
-
  1 
-
  2 
-
  5 
-
  10 
-
  20 
-
  50 
-
  0.01 
-
  0.1 
-
  0.2 
-
  0.5 
-
  1 
-
  2 
-
  5 
-
  10 
-
  20 
-
  30 
-
  40 
-
  50 
-
  60 
-
  70 
-
  80 
-
  90 
-
  95 
-
  98 
-
  99 
-
  0.02 
-
  0.05 
-
  0.1 
-
  0.2 
-
  0.5 
-
  5 
-
  2 
-
  1 
-
  0.5 
-
  0.2 
-
  0.1 
-
  20 
-
  50 
-
  98 
-
  95 
-
  90 
-
  80 
-
  70 
-
  60 
-
  50 
-
  40 
-
  30 
-
  20 
-
  10 
-
  5 
-
  2 
-
  1 
-
  0.5 
-
  0.5 
-
  0.1 
-
  Pretest Probability, % 
-
  Posttest Probability, % 
-
  Likelihood Ratio 
-
  Pretest Probability, % 
-
  Posttest Probability, % 
-
  Likelihood Ratio FIGURE 4-2 Nomogram version of Bayes’ theorem used to predict the posttest probability of disease (right-hand scale) using the pretest probability of disease (left-hand scale) and the likelihood ratio for a positive or a negative test (middle scale). See text for information on calculation of likelihood ratios. To use, place a straightedge connecting the pretest probability and the likelihood ratio and read off the posttest probability. The right-hand part of the figure illustrates the value of a positive exercise treadmill test (likelihood ratio 4, green line) and a positive exercise thallium single-photon emission CT perfusion study (likelihood ratio 9, broken yellow line) in a patient with a pretest probability of coronary artery disease of 50%. (Adapted from Centre for Evidence-Based Medicine: Likelihood ratios. Available at http://www. cebm.net/likelihood-ratios/.) 
-
  Lower likelihood ratio negative values more substantially lower the posttest likelihood of disease. A very low likelihood ratio negative (falling below 0.10) usually implies high sensitivity, so a negative high sensitivity test helps “rule out” disease (the SnNout mnemonic). The hypothetical test considered above with a sensitivity of 0.9 and a specificity of 0.9 would have a likelihood ratio for a negative test result of (1 – 0.9)/0.9, or 0.11, meaning that a negative result is about onetenth as likely in patients with disease than in those without disease (or about 10 times more likely in those without disease than in those with disease). 
-
 #### ■ APPLICATIONS TO DIAGNOSTIC TESTING IN CAD 
-
  Consider two tests commonly used in the diagnosis of CAD: an exercise treadmill and an exercise single-photon emission CT (SPECT) myocardial perfusion imaging test (Chap. 241). A positive treadmill ST-segment response has an average sensitivity of ~60% and an average specificity of ~75%, yielding a likelihood ratio positive of 2.4 (0.60/ [1 – 0.75]) (consistent with modest discriminatory ability because it falls between 2 and 5). For a 41-year-old man with nonanginal pain and a 10% pretest probability of CAD, the posttest probability of disease after a positive result rises to only ~30%. For a 60-year-old woman with typical angina and a pretest probability of CAD of 80%, a positive test result raises the posttest probability of disease to ~95%. In contrast, exercise SPECT myocardial perfusion test is more accurate for diagnosis of CAD. For simplicity, assume that the finding of a reversible exercise-induced perfusion defect has both a sensitivity and 
-
  a specificity of 90% (a bit higher than reported), yielding a likelihood ratio for a positive test of 9.0 (0.90/[1 – 0.90]) (consistent with intermediate discriminatory ability because it falls between 5 and 10). For the same 10% pretest probability patient, a positive test raises the probability of CAD to 50% (Fig. 4-2). However, despite the differences in posttest probabilities between these two tests (30 vs 50%), the more accurate test may not improve diagnostic likelihood enough to change patient management (e.g., decision to refer to cardiac catheterization) because the more accurate test has only moved the physician from being fairly certain that the patient did not have CAD to a 50:50 chance of disease. In a patient with a pretest probability of 80%, exercise SPECT test raises the posttest probability to 97% (compared with 95% for the exercise treadmill). Again, the more accurate test does not provide enough improvement in posttest confidence to alter management, and neither test has improved much on what was known from clinical data alone. In general, positive results with an accurate test (e.g., likelihood ratio for a positive test of 10) when the pretest probability is low (e.g., 20%) do not move the posttest probability to a range high enough to rule in disease (e.g., 80%). In screening situations, pretest probabilities are often particularly low because patients are asymptomatic. In such cases, specificity becomes especially important. For example, in screening first-time female blood donors without risk factors for HIV, a positive test raised the likelihood of HIV to only 67% despite a specificity of 99.995% because the prevalence was 0.01%. Conversely, with a high pretest probability, a negative test may not rule out disease adequately if it is not sufficiently sensitive. Thus, the largest change in diagnostic likelihood following a test result occurs when the clinician is most uncertain (i.e., pretest probability between 30 and 70%). For example, in patients with a pretest probability for CAD of 50%, a positive exercise treadmill test moves the posttest probability to 80% and a positive exercise SPECT perfusion test moves it to 90% (Fig. 4-2). As presented above, Bayes’ rule employs a number of important simplifications that should be considered. First, few tests provide only “positive” or “negative” results. Many tests have multidimensional outcomes (e.g., extent of ST-segment depression, exercise duration, and exercise-induced symptoms with exercise testing). Although Bayes’ theorem can be adapted to this more detailed test result format, it is computationally more complex to do so. Similarly, when multiple sequential tests are performed, the posttest probability may be used as the pretest probability to interpret the second test. However, this simplification assumes conditional independence—that is, that the results of the first test do not affect the likelihood of the second test result—and this is often not true. Finally, many texts assert that sensitivity and specificity are prevalence-independent parameters of test accuracy. This statistically useful assumption, however, is often incorrect. A treadmill exercise test, for example, has a sensitivity of ~30% in a population of patients with one-vessel CAD, whereas its sensitivity in patients with severe three-vessel CAD approaches 80%. Thus, the best estimate of sensitivity 
-
 ---
 
 #### Decision-Making in Clinical Medicine 
@@ -1088,37 +824,21 @@ Bayes’ rule, when used as presented above, is useful in studying diagnostic te
  INTERPRETATION Score >6.0 High Score 2.0–6.0 Intermediate Score <2.0 Low 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
 ## DIAGNOSIS AS AN ELEMENT OF QUALITY 
-
 ## OF CARE 
-
  High-quality medical care begins with accurate diagnosis. The incidence of diagnostic errors has been estimated by a variety of methods including postmortem examinations, medical record reviews, and medical malpractice claims, with each yielding complementary but different estimates of this quality of care patient-safety problem. In the past, diagnostic errors tended to be viewed as a failure of individual clinicians. The modern view is that they are mostly a system of care deficiencies. Current estimates suggest that nearly everyone will experience at least one diagnostic error in their lifetime, leading to mortality, morbidity, unnecessary tests and procedures, costs, and anxiety. Solutions to the “diagnostic errors as a system of care” problem have focused on system-level approaches, such as decision support and other tools integrated into EHRs. The use of checklists has been proposed as a means of reducing some of the cognitive errors discussed earlier in the chapter, such as premature closure. While checklists have been shown to be useful in certain medical contexts, such as operating rooms and intensive care units, their value in preventing diagnostic errors that lead to patient adverse events remains to be shown. 
-
 ## EVIDENCE-BASED MEDICINE 
-
  Clinical medicine is defined traditionally as a practice combining medical knowledge (including scientific evidence), intuition, and judgment in the care of patients (Chap. 1). Evidence-based medicine (EBM) updates this construct by placing much greater emphasis on the processes by which clinicians gain knowledge of the most up-to-date and relevant clinical research to determine for themselves whether medical interventions alter the disease course and improve the length or quality of life. The phrase “evidence-based medicine” is now used so often and in so many different contexts that many practitioners are unaware of its original meaning. The intention of the EBM program, as described in the early 1990s by its founding proponents at McMaster University, becomes clearer through an examination of its four key steps: 
-
 1. Formulating the management question to be answered 
-
 2. Searching the literature and online databases for applicable research     data 
-
 3. Appraising the evidence gathered with regard to its validity and     relevance 
-
 4. Integrating this appraisal with knowledge about the unique aspects     of the patient (including the patient’s preferences about the possible     outcomes)     The process of searching the world’s research literature and apprais- ing the quality and relevance of studies can be time-consuming and requires skills and training that most clinicians do not possess. In a busy clinical practice, the work required is also logistically not feasible. This has led to a focus on finding recent systematic overviews of the problem in question as a useful shortcut in the EBM process. System- atic reviews are regarded by some as the highest level of evidence in the EBM hierarchy because they are intended to comprehensively summa- rize the available evidence on a particular topic. To avoid the potential biases found in narrative review articles, predefined reproducible explicit search strategies and inclusion and exclusion criteria seek to find all of the relevant scientific research and grade its quality. The pro- totype for this kind of resource is the Cochrane Database of Systematic Reviews. When appropriate, a meta-analysis is used to quantitatively summarize the systematic review findings (discussed further below).     Unfortunately, systematic reviews are not uniformly the acme of the EBM process they were initially envisioned to be. In select cir- cumstances, they can provide a much clearer picture of the state of the evidence than is available from any individual clinical report, but their value is less clear when only a few trials are available, when trials and observational studies are mixed, or when the evidence base is only observational. They cannot compensate for deficiencies in the under- lying research available, and many are created without the requisite clinical insights. The medical literature is now flooded with systematic 
-
  reviews of varying quality and clinical utility. The peer review system has, unfortunately, not proved to be an effective arbiter of quality of these papers. Therefore, systematic reviews should be used with circumspection in conjunction with selective reading of some of the best empirical studies. 
-
 #### ■ SOURCES OF EVIDENCE: CLINICAL TRIALS AND 
-
 #### REGISTRIES 
-
  The notion of learning from observation of patients is as old as medicine itself. Over the past 50 years, physicians’ understanding of how best to turn raw observation into useful evidence has evolved considerably. Medicine has received a hard refresher lesson in this process from COVID-19 pandemic. Starting in the spring of 2020, case reports, personal and institutional anecdotal experience, and small singlecenter case series started appearing in the peer-reviewed literature and within months turned into a flood of confusing and often contradictory evidence. Observational reports of treatments for COVID-19 fueled the confusion. Despite >40,000 publications appearing in the first 7 months of the pandemic, an enormous amount of uncertainty around prevention, diagnosis, treatment, and prognosis of the disease remained. Many of the early 2020 publications were either small observational series or reviews of published series, neither of which can resolve the key uncertainties clinicians need to address in caring for these patients. These small observational studies often have substantial limitations in validity and generalizability, and although they may generate important hypotheses or be the first reports of adverse events or therapeutic benefit, they have no role in formulating modern standards of practice. The major tools used to develop reliable evidence consist of randomized clinical trials supplemented strategically by large (high-quality) observational registries. A registry or database typically is focused on a disease or syndrome (e.g., different types of cancer, acute or chronic CAD, pacemaker capture, or chronic heart failure), a clinical procedure (e.g., bone marrow transplantation, coronary revascularization), or an administrative process (e.g., claims data used for billing and reimbursement). By definition, in observational data, the investigator does not control patient care. Carefully collected prospective observational data, however, can at times achieve a level of evidence quality approaching that of major clinical trial data. At the other end of the spectrum, data collected retrospectively (e.g., chart review) are limited in form and content to what previous observers recorded and may not include the specific research data being sought (e.g., claims data). Advantages of observational data include the inclusion of a broader population as encountered in practice than is typically represented in clinical trials because of their restrictive inclusion and exclusion criteria. In addition, observational data provide primary evidence for research questions when a randomized trial cannot be performed. For example, it would be difficult to randomize patients to test diagnostic or therapeutic strategies that are unproven but widely accepted in practice, and it would be unethical to randomize based on sex, racial/ethnic group, socioeconomic status, or country of residence or to randomize patients to a potentially harmful intervention, such as smoking or deliberately overeating to develop obesity. A well-done prospective observational study of a particular management strategy differs from a well-done randomized clinical trial most importantly by its lack of protection from treatment selection bias. The use of observational data to compare diagnostic or therapeutic strategies assumes that sufficient uncertainty and heterogeneity exists in clinical practice to ensure that similar patients will be managed differently by diverse physicians. In short, the analysis assumes that a sufficient element of randomness (in the sense of disorder rather than in the formal statistical sense) exists in clinical management. In such cases, statistical models attempt to adjust for important imbalances to “level the playing field” so that a fair comparison among treatment options can be made. When management is clearly not random (e.g., all eligible left main CAD patients are referred for coronary bypass surgery), the problem may be too confounded (biased) for statistical correction, and observational data may not provide reliable evidence. 
-
 ---
 
 #### Decision-Making in Clinical Medicine 
@@ -1144,27 +864,16 @@ The Greek prefix meta signifies something at a later or higher stage of developm
  Croskerry P: A universal model of diagnostic reasoning. Acad Med 84:1022, 2009. Dhaliwal G, Detsky AS: The evolution of the master diagnostician. JAMA 310:579, 2013. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
 #### ■ DISEASE NOSOLOGY AND PRECISION MEDICINE 
-
  Modern disease nosology arose in the late nineteenth century and represented a clear departure from the holistic, limited descriptions of disease dating to Galen. In this rubric, the definition of any disease is largely based on clinicopathologic observation. As the correlation between clinical signs and symptoms with pathoanatomy required autopsy material, diseases tended to be characterized by the end organ in which the primary syndrome was manifest and by late-stage presentations. Morgagni institutionalized this framework with the publication of De Sedibus et Causis Morborum per Anatomen Indagatis in 1761, in which he correlated the clinical features of patients with more than 600 autopsies at the University of Padua, demonstrating an anatomic basis for disease pathophysiology. Clinicopathologic observation served as the basis for inductive generalization coupled with the application of Occam’s razor in which disease complexity was reduced to its simplest possible form. While this approach to defining human disease has held sway for over a century and facilitated the conquest of many diseases previously considered incurable, overly inclusive and simplified Oslerian diagnostics suffer from significant shortcomings. These include, but are not limited to, failure to distinguish the underlying etiology of different diseases with common pathophenotypes. For example, many different diseases can cause end-stage kidney disease or heart failure. Over time, the classification of neurodegenerative disorders or lymphomas, as well as many other diseases, is becoming more refined and precise as the underlying etiologies are identified. These distinctions are important for providing predictable prognostic information for individual patients with even highly prevalent diseases. Additionally, therapies may be ineffective owing to a lack of understanding of the often subtle molecular complexities of specific disease drivers. 
-
 # 5 
-
 ## Precision Medicine and 
-
 ## Clinical Care 
-
  The Editors 
-
  Fanaroff AC et al: Levels of evidence supporting American College of Cardiology/American Heart Association and European Society of Cardiology Guidelines, 2008-2018. JAMA 321:1069, 2019. Hunink MGM et al: Decision Making in Health and Medicine: Integrating Evidence and Values, 2nd ed. Cambridge, Cambridge University Press, 2014. Kahneman D: Thinking Fast and Slow. New York, Farrar, Straus and Giroux, 2013. Kassirer JP et al: Learning Clinical Reasoning, 2nd ed. Baltimore, Lippincott Williams & Wilkins, 2009. Mandelblatt JS et al: Collaborative modeling of the benefits and harms of associated with different U.S. breast cancer screening strategies. Ann Intern Med 164:215, 2016. Monteior S et al: The 3 faces of clinical reasoning: Epistemological explorations of disparate error reduction strategies. J Eval Clin Pract 24:666, 2018. Murthy VK et al: An inquiry into the early careers of master clinicians. J Grad Med Educ 10:500, 2018. Richards JB et al: Teaching clinical reasoning and critical thinking: From cognitive theory to practical application. Chest 158:1617, 2020. Royce CS et al: Teaching critical thinking: A case for instruction in cognitive biases to reduce diagnostic errors and improve patient safety. Acad Med 94:187, 2019. Saposnik G et al: Cognitive biases associated with medical decisions: A systematic review. BMC Med Inform Decis Mak 16:138, 2016. Schuwirth LWT et al: Assessment of clinical reasoning: three evolutions of thought. Diagnosis (Berl) 7:191, 2020. 
-
  Beginning in the mid-twentieth century, the era of molecular medicine offered the idealized possibility of identifying the underlying molecular basis of every disease. Using a conventional reductionist paradigm, physician-scientists explored disease mechanism at everincreasing molecular depth, seeking the single (or limited number of ) molecular cause(s) of many human diseases. Yet, as effective as this now conventional scientific approach was at uncovering many disease mechanisms, the clinical manifestations of very few diseases could be explained on the basis of a single molecular mechanism. Even knowledge of the globin β chain mutation that causes sickle cell disease does not predict the many different manifestations of the disease (stroke syndrome, painful crises, and hemolytic crisis, among others). Clearly, the profession had expected too much from oversimplified reductionism and failed to take into consideration the extraordinary biologic variety and its accompanying molecular and genetic complexity that underpin both normal and pathologic diversity. The promise of the Human Genome Project provided new tools and approaches and unleashed efforts to identify a monogenic, oligogenic, or polygenic cause for every disease (allowing for environmental modulation). Yet, once again, disappointment reigned as the pool of genomes expanded without the expected revelations (aside from rare variants). The arc of progressive reductionism (as illustrated for tuberculosis in Fig. 5-1 ) in refining and explaining disease reached a humbling plateau, revealing the need for new approaches to understand better the etiology, manifestations, and progression of most diseases. The stage was set for a return to holism. However, in contrast to the holism of ancient physicians, we adopted one that is integrative, taking genomic context into account in all dimensions. In the course of elaborating this complex pathobiologic landscape, disease definition must become more precise and progressively more individualized, setting the stage for what we term precision medicine. Oversimplification of phenotype is a natural outgrowth of the observational scientific method. Categorizing individuals as falling into groups or clusters that are reasonably similar simplifies the task of the diagnostician and also facilitates the application of “specific” therapies more broadly. Biomedicine has been viewed as less quantitative and precise than other scientific disciplines, with biologic and pathobiologic diversity (biologic “noise”) viewed as the norm. Thus, distilling such observational complexity to a fundamental group of symptoms or signs that are reasonably invariant across a group of sick individuals has served as the basis for the approach to disease and its treatment since the earliest days of medicine. This approach to diagnosis and therapy has remained in place into the twenty-first century, serving as the basis for the development of standard diagnostic tests and of broadly applied drug therapies. Targeting larger groups of patients is efficient when applied to large populations. As successful as this approach has been in advancing medical care, it is important to point out its limitations, which include significant predictive inaccuracies and sizeable segments of the disease population who do not respond to the most “effective” drugs (upward of 60% by some estimates). Clearly, a more nuanced approach to diagnosis and therapy is required to achieve better prognostic and therapeutic outcomes. Turning first to phenotype, astute clinicians know full well the subtle and vivid differences in presentation that are often manifest among individuals with the same disease. In some cases, these differences in pathophenotype lead to new subclassifications of the disease, such as heart failure with preserved ejection fraction versus heart failure with reduced ejection fraction. Often, these relatively crude efforts at making diagnoses more precise are driven by new technologies or new ways of applying established technologies. In other cases, differences in pathophenotype are more subtle, not necessarily clinically apparent, and often driven by measures of endophenotype, such as distinctions among vasculitides facilitated by refinements in serologies or immunophenotyping. The impetus to create these subclasses of disease is largely determined by the need to improve prognosis and apply more precise and effective therapies. Based on these guiding principles, many experienced clinicians will argue—and rightly so—that they have been practicing personalized, precision medicine throughout their careers: they characterize each patient’s illness in great detail, and choose therapies that respect and are guided by those individualized clinical and laboratory features, limited though they may be. 
-
 ---
 
 #### Precision Medicine and Clinical Care 
@@ -1214,109 +923,58 @@ For many diseases, genomic variation, whether inherited or acquired, provides op
 **FIGURE 5-1 Arc of reductionism in medicine.** (From JA Greene, J Loscalzo. Putting the patient back together–social medicine, network medicine, and the limits of reductionism. N Engl J Med 377:2493, 2017. Copyright © 2017 Massachusetts Medical Society. Reprinted with permission from Massachusetts Medical Society.) 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
 - Mutations in >11 sarcomeric proteins (>1400 variants) 
-
 - Hypertensive heart disease 
-
 - Aortic stenosis 
-
 - Fabry’s disease 
-
 - Pompe’s disease 
-
 - TTP 
-
 - HUS 
-
 - Malignant hypertension 
-
 - Scleroderma renal crisis 
-
 - Preeclampsia/eclampsia 
-
 - HELLP 
-
 - Antiphospholipid syndrome 
-
  A 
 <!--ID: 1660788425490-->
-
 - Syncope 
-
 - Heart failure 
-
 - Angina pectoris 
-
 - Venous thromboembolism 
-
 - Thrombotic stroke 
-
 - Mesenteric thrombosis 
-
 - Coronary thrombosis 
-
 - Livedo reticularis 
-
  Hypertrophic cardiomyopathy 
 <!--ID: 1660788425497-->
-
  Thrombotic microangiopathy 
-
  Aortic stenosis 
-
  Antiphospholipid syndrome 
-
  B 
-
  FIGURE 5-2 Convergent and divergent phenotypes. Examples of the former ( A ) include hypertrophic cardiomyopathy and thrombotic microangiopathy, and examples of the latter, and ( B ) include aortic stenosis and antiphospholipid syndrome, each of which can have several distinct clinical presentations. HELLP, hemolysis, elevated liver enzymes, and a low platelet count; HUS, hemolytic-uremic syndrome; TTP, thrombotic thrombocytopenic purpura. 
-
  Environmental exposures 
-
  Epigenomic modifications 
-
  Single-cell analyses 
-
  Integration: Network of Networks 
-
  Post-translational modifications 
-
  Microbiome interactions 
-
  Genomic network 
-
  Tr anscriptomic network 
-
  Proteomic network 
-
  Metabolomic network 
-
  Psychosocial network 
-
  Clinical phenotypes 
-
  Improved understanding of (patho)biology 
-
  Complex disease reclassification 
-
  Disease prevention 
-
  Network-targeted therapies 
-
  Precision medicine 
-
  HO O 
-
  O OH 
-
  FIGURE 5-3 Universe of precision medicine. The totality of precision medicine incorporates multidimensional biologic networks, the integration of which leads to a network of networks whose components interact with each other and with environmental exposures to yield a distinctive phenotype or pathophenotype. (Reproduced with permission from LY-H Lee, J Loscalzo: Network medicine in pathobiology. Am J Pathol 189:1311, 2019.) 
-
  detailed history, including family history and environmental exposures, as well as relevant (physiologic) functional studies and imaging, including molecular imaging where appropriate. Biochemical, immunologic, and molecular tests of body fluids provide additional detail to the overall phenotype. Importantly, these objective laboratory tests together with functional studies compose an assessment of the endophenotype (or endotype) of an individual, refining the overall discriminant power of the evaluation. One additional concept that has gained traction in recent years is the notion of orthogonal phenotyping, i.e., assessing clinical, molecular, imaging, or functional (endo)phenotypes seemingly unrelated to the clinical presentation. These features further enhance the ability to distinguish (sub) phenotypes and derive from the fact that diseases can be subtly (subclinically) manifest in organ systems different from that in which the primary symptoms or signs are expressed. While some diseases are well known to affect multiple organ systems (e.g., systemic lupus erythematosus) and in many cases involvement of those many systems is assessed at initial diagnosis, such is not the case for most other diseases. As we begin to understand the differences in the organ-specific expression of genomic variants that drive or modify disease, it is becoming increasingly apparent that orthogonal—or more appropriately, unbiased comprehensive—phenotyping should become the norm. Genomic profiling must next be coupled to detailed phenotyping. The complex levels of genomic assessment continue to mature and include DNA sequencing (exomic, whole genome), gene expression (mRNA and protein expression), and metabolomics. In addition, the epigenome, the posttranslationally modified proteome, and the metagenome (the personal microbiome of an individual) are gaining traction as additional elements of comprehensive genomics (Chap. 483). Not all of these genomic features are yet available for clinical laboratory testing, and those that are available are largely confined to blood testing. While DNA sequencing using whole blood would generally apply to any organ-based disease, 
-
 ---
 
 #### Precision Medicine and Clinical Care 
@@ -1334,167 +992,86 @@ gene expression, metabolomics, and epigenetics are often tissue specific. As tis
  The field of precision medicine did not appear abruptly in medical history but, rather, evolved gradually as clinicians became more aware of differences among patients with the same disease. With the advent of modern genomics, in the ideal situation, these phenotype differences can now be mapped to genotype differences. Thus, we can consider precision medicine from the perspective of the pregenomic era and the postgenomic era. Pregenomic precision medicine was applied to many diseases as therapeutic classes expanded for those disorders. A prime example of this approach is in the field of heart failure, where diuretics, digoxin, beta blockers, afterload-reducing agents, venodilators, reninangiotensin-aldosterone inhibitors, and brain natriuretic peptide (nesiritide) are commonly used in some combination for most patients. The choice of agents is governed by the evidence basis for their use, but tailored to the primary pathophysiologic phenotypes manifest in a patient, such as congestion, hypertension, and impaired contractility. These treatments were developed in the latter half of the last century based on empiric observation, reductionist experiments of specific pathways believed to be involved in the pathophysiology, and clinical response in prospective trials. As phenotyping became more refined (e.g., echocardiographic assessments of ventricular function and tissue Doppler characterization of ventricular relaxation), the syndrome was subclassified into heart failure with reduced ejection fraction and heart failure with preserved ejection fraction, the latter of which does not respond well to any of the classes of therapeutic agents currently available. In the postgenomic era, ever more refined and detailed methods are under investigation to characterize pathophenotypes as well as genotypes, which may then be matched to the idealized combination of therapeutic classes of agents. Pulmonary arterial hypertension is another disease for which definitive therapies straddle the preand postgenomic eras of precision medicine. Prior to the 1990s, there were no effective therapies for this highly morbid and lethal condition. With the advent of molecular and biochemical characterization of vascular abnormalities in individuals with established disease, however, therapies with agents that restored normal vascular function improved morbidity and mortality. These included calcium channel blockers, prostacyclin congeners, and endothelin receptor antagonists. As genomic characterization of the disease has progressed over the past two decades, there is increasing recognition of distinct genotypes that yield unique phenotypes (Chap. 283) , such as the demonstration of a primarily fibrotic endophenotype governed by the (oxidized) scaffold protein NEDD-9 and its aldosterone-dependent, TGF-β-independent enhancement of collagen III expression. This approach will continue to evolve as therapies become more effective (e.g., for perivascular fibrosis) and therapeutic choices better targeted to individual patients. Precision genomics has also led to a new classification of the dementias, conditions previously thought to have a single cause with varied clinical expression. These disorders can now be categorized based on the genes and pathways involved and the site where aggregated proteins first form and then spread in the nervous system. For example, the varied clinical presentations of frontotemporal dementia, including progressive aphasia, behavioral disturbances, and dementia with amyotrophic lateral sclerosis, can now be linked to specific genotypes and susceptible cells (Chap. 432). In prion diseases, the clinical phenotype 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  FIGURE 5-4 Gene expression and phenotype. A. The human protein-protein interactome is constructed, and a specific disease module is identified (I); gene expression within this module is ascertained (II); and the tissue specificity of gene expression is determined (III). This analysis leads to a reduction of the total number of disease module genes that govern phenotype in a specific organ, which is a reflection of the specific pathway (or pathways) that is (or are) expressed in their functional entirety in that tissue. B. A disease-tissue bipartite network is constructed wherein specific tissues are placed within the circle and linked to diseases shown on the circumference. Nodes are colored according to tissue classification, the sizes of nodes are proportional to the total number of genes expressed in them, and the widths (shades) of the lines or edges correspond to the significance of the associations with specific diseases. (From M Kitsak et al: Tissue Specificity of Human Disease Module. Sci Rep 6: 35241, 2016, Figure 4.) 
-
  Non-disease genes DATA: 13,460 Proteins 141,296 Interactions 70 Diseases 64 Tissues 
-
  I. Human Interactome: colored nodes are disease genes 
-
  II. Expression Data Node size = expression level 
-
  III. Tissue-specific Interactome Subgraph of significantly expressed genes 
-
  Genes of disease A Genes of disease B Genes of disease C 
-
  A 
-
  Significance threshold 
-
  lowest 
-
  highest 
-
  Gene expression 
-
  Multiple 
-
  Total genes expressed in a tissue: 
-
  Cardiomyopathy, hypertrophic 
-
  Aneurysm 
-
  Crohn disease 
-
  Adrenal gland diseases 
-
  Anemia, aplastic 
-
  Blood coagulation disorders 
-
  Blood platelet disorders 
-
  Blood protein disorders 
-
  Anemia, hemolytic 
-
  Lupus erythematosus, systemic 
-
  Psoriasis 
-
  Arthritis, rheumatoid 
-
  Nutritional and metabolic diseases 
-
  Muscular dystrophies 
-
  Lipid metabolism disorders 
-
  Multiple sclerosis 
-
  Tauopathies 
-
  Macular degeneration 
-
  Disease-Tissue Network 
-
  Basal ganglia diseases Cerebrovascular disorders Alzheimer disease 
-
  Charcot-Marie-Tooth disease 
-
  Peroxisomal disorders 
-
  Glomerulonephritis 
-
  Lung diseases, obstructive 
-
  Asthma 
-
  Mycobacterium infections 
-
  Sarcoma 
-
  Carbohydrate metabolism, inborn errors Amino acid metabolism, inborn errors Leukemia, myeloid, acute 
-
  Breast neoplasms 
-
  Appendix 
-
  Bonemarrow 
-
  Cingulate cortex 
-
  Medulla oblongata 
-
  Lysosomal storage diseases Colorectal neoplasms 
-
  Adrenal cortex 
-
  Pancreatic islet 
-
  Cardiomyopathies 
-
  Association significance: 
-
  Bronchial epithelial cells 
-
  Skeletal muscle 
-
  Whole blood 
-
  z = 18.2 z = 1. 6 
-
  Cardiovascular Digestive Endocrine Immune Integumentary Musculoskeletal Nervous Reproductive Respiratory 
-
  Classification 
-
  CD4 Tcells 
-
  Tongue 
-
  Prostate 
-
  CD105 Endothelial Cardiac myocytes 
-
  CD34 
-
  CD8 Tcells Heart 
-
  CD56 NKCells 
-
  Thyroid Lung 
-
  Placenta 
-
  Smooth muscle 
-
  Liver 
-
  CD14 Monocytes 
-
  Tonsil Lymphnode 
-
  Pituitary 
-
  Spinalcord 
-
  Hypothalamus 
-
  Prefrontal cortex 
-
  X721 B lymphoblasts 
-
  BDCA4 Dentritic cells 
-
  Thalamus Amygdala Whole brain 
-
  B 
-
 ---
 
 #### Precision Medicine and Clinical Care 
@@ -1584,53 +1161,29 @@ is determined by specific germline mutations present in the prion protein **(Cha
  Precision medicine approaches to cancers have, of course, become the prime example of the opportunity that this strategy offers. In the pregenomic era, chemotherapy was widely used with variable success despite continued efforts to characterize the molecular features of the specific tumors and their semi-empiric responses to specific chemotherapeutic agents. As cancer genome sequencing evolved, however, it became apparent that there are a limited number of oncogenic pathways (<20) that are represented in the great majority of malignancies, without regard for the organ in which the disease was primarily manifest. These genomic signatures served as a template for precisely targeted therapies that have led to dramatic changes in response to treatment, including, for example, imatinib (and congeners) for Bcr-Abl tyrosine kinase activity in chronic myelogenous leukemia, erlotinib for EGFR-mutant non-small cell lung cancers, and ibrutinib for Bruton tyrosine kinase in chronic lymphocytic leukemia, among many others. As exciting as these approaches have been, there are at least three primary challenges associated with precision therapeutics that are unique to cancer: (1) the mutational landscape continues to evolve as the disease progresses, and therapy often (if not invariably) leads to selection for resistant clones; (2) the likelihood that any cancer can be definitively cured by any single agent, no matter its exquisite precision, is quite limited, necessitating 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  Health system data 
-
  ‘Omic’ data 
-
  Exposome/social determinants 
-
  Microbiome 
-
  Study-participantgenerated data 
-
  Motivations and behaviours 
-
  Precision participant descriptor 
-
  BC Electronic health-care system of the future 
-
  Dynamic phenotype Data curation and user-friendly display 
-
  A 
-
  FIGURE 5-7 Big data in precision medicine. A. Six dimensions by which individuals may be characterized in the precision medicine era are described. B. The precision participant descriptor integrates the data from these six dimensions and varies over time. C. The electronic medical record increasingly must evolve to provide curated precision data in a user-friendly way. (Reproduced with permission from EM Antman, J Loscalzo: Precision medicine in cardiology. Nat Rev Cardiol 13:591, 2016.) 
-
  Disease 
-
  Sample 
-
  Decreased heterogeneity 
-
  Prognostic enrichment 
-
  Predictive enrichment 
-
  Enrichment strategies 
-
  FIGURE 5-8 The basis for precision medicine. The notion of precision medicine evolved, in part, from clinical trial design. From the entire population of patients with the disease of interest, a sample cohort of individuals is enrolled in the trial that ideally is representative of the entire distribution. Enrichment strategies developed to decrease heterogeneity or increase the representation of individuals with a high risk of observed outcomes (prognostic enrichment) facilitate trial conduct but do not necessarily improve precision in defining treatment response. The predictive enrichment strategy utilizes both trial participant characteristics and data from experiments conducted before or during (adaptive design) the trial to improve the prediction of who is likely to have a more pronounced response to the treatment under study. (Reproduced with permission from EM Antman, J Loscalzo: Precision medicine in cardiology. Nat Rev Cardiol 13:591, 2016.) 
-
  the development of rational polypharmaceutical approaches that take into account alternative pathways that achieve the same oncogenic goals as the primary targeted pathway, complicating drug development; and (3) there is marked genomic heterogeneity in many malignancies arguing that targeting a specific pathway—even with multiple drugs— may not ultimately succeed over the long term owing to the continued and heterogeneous evolution of the genomic landscape within a tumor within a patient. Despite these serious shortcomings, the application of progressively more refined and precisely targeted therapies used alone and in combination, such as with immune modulators, continues to offer great promise for the treatment of these diseases. In some ways, these approaches in cancer mirror earlier strategies in the treatment of infectious diseases in which the identification of the causative organism and its sensitivity to potential antimicrobials allows precision approaches to treatment. Combinatorial antimicrobial treatments represent an effective strategy to address acquired resistance. These diagnostic and therapeutic strategies can be applied without detailed knowledge of personalized responses to the infection or treatment (aside from serious adverse effects) with good outcomes in most cases. Yet, individuals do respond differently to specific infections and their treatments, possibly driven by different endophenotypes (e.g., different inflammatory responses), suggesting that more precise knowledge of these precise mechanistic differences may yield improved prognosis and therapeutic approaches. As with cancer, immune modulation, particularly for immune exhaustion in chronic infections, represents a new frontier, again amenable to the personalized, precise analyses described above. 
-
 #### ■ THE FUTURE OF PRECISION MEDICINE 
-
  Precision medicine clearly holds great promise for the future of the practice of medicine. For precision medicine to continue to evolve successfully, however, several requirements will need to be met. First, both deeply refined personal phenotypic data and genomic data are essential as the information with which precision analysis is performed. These data sets are quite large and require sufficient storage for analysis, especially for individuals in whom time trajectories are acquired (as should be the case for every person). Equally important, the analytical methods required to extract useful information from these data sets are evolving and themselves quite complex. While great progress has been made in genomics and biochemical testing, our ability to capture meaningful immunologic endophenotypes and environmental exposures is limited by comparison. Machine learning and artificial (auxiliary) intelligence methods will be essential for extracting optimal information from these data sets, which include not only pathways that can be uniquely targeted therapeutically but also individualized genomic or phenotypic signatures that are highly predictive of outcome, with or without therapy. Gathering sufficient information on the “normal” segments of the population is also required to ensure appropriate comparison data sets for optimal prediction. Second, phenotyping must continue to expand and become dimensionally richer. The phenotypic features included in this data gathering must incorporate not only data relevant to the clinical presentation but also orthogonal phenotypic data that may yield useful information on disease trajectory or preclinical disease markers. Personal device data, environmental exposure history, social network interactions, and health system data will all be incorporated increasingly in defining phenotype and will require great efforts on the part of the medical informatics community to harmonize data sets, standardize data collection, and optimize/standardize data analysis (Fig. 5-7). Third, perhaps the greatest challenge to making precision medicine the standard approach to illness will be to determine the minimal data set required to predict outcome and response to therapy. Gathering data is comparatively simple; however, analyzing it to eliminate redundant information in these overdetermined biologic systems, weighting the determinants of an outcome, and using the data as phenomic/genomic signatures that are easier to collect than comprehensive, unbiased data sets are the ideal goals—a major challenge, but not insurmountable. Rapidly evolving machine learning and artificial intelligence strategies will also be essential for maximal success. To return to the question of how precise precision medicine needs to be in order to be useful, please refer to Fig. 5-8 where the approaches 
-
 ---
 
 #### Screening and Prevention of Disease 
@@ -1660,33 +1213,19 @@ A primary goal of health care is to prevent disease or detect it early enough th
  The basic principles of screening populations for disease were published by the World Health Organization in 1968 (Table 6-1). In general, screening is most effective when applied to relatively common disorders that carry a large disease burden (Table 6-2). The five leading causes of mortality in the United States are heart diseases, malignant neoplasms, chronic obstructive pulmonary disease, 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  accidents, and cerebrovascular diseases. Thus, many screening strategies are targeted at these conditions. From a global health perspective, these conditions are priorities, but malaria, malnutrition, AIDS, tuberculosis, and violence also carry a heavy disease burden (Chap. 472). Having an effective treatment for early disease has proven challenging for some common diseases. For example, although Alzheimer’s disease is the sixth leading cause of death in the United States, there are no curative treatments and no evidence that early treatment improves outcomes. Lack of facilities for diagnosis and treatment is a particular challenge for developing countries and may change screening strategies, including the development of “see and treat” approaches such as those currently used for cervical cancer screening in some countries. A long latent or preclinical phase where early treatment increases the chance of cure is a hallmark of many cancers; for example, polypectomy prevents progression to colon cancer. Similarly, early identification of hypertension or hyperlipidemia allows therapeutic interventions that reduce the long-term risk of cardiovascular or cerebrovascular events. In contrast, lung cancer screening has historically proven more challenging because most tumors are not curable by the time they can be detected on a chest x-ray. However, the length of the preclinical phase also depends on the level of resolution of the screening test, and this situation changed with the development of chest CT. Low-dose chest CT scanning can detect tumors earlier and has been demonstrated to reduce lung cancer mortality by 20% in individuals who had at least a 30-pack-year history of smoking. The short interval between the ability to detect disease on a screening test and the development of incurable disease also contributes to the limited effectiveness of mammography screening in reducing deaths from some forms of breast cancer. At the other end of the spectrum, the early detection of prostate cancer may not lead to a difference in the mortality rate because the disease is often indolent and competing morbidities, such as coronary artery disease, may ultimately cause mortality (Chap. 70). This uncertainty about the natural history is also reflected in the controversy about treatment of prostate cancer, further contributing to the challenge of screening in this disease. Finally, screening programs can incur significant economic costs that must be considered in the context of the available resources and alternative strategies for improving health outcomes. 
-
 #### ■ METHODS OF MEASURING HEALTH BENEFITS 
-
  Because screening and preventive interventions are recommended to asymptomatic individuals, they are held to a high standard for demonstrating a favorable risk-benefit ratio before implementation. In general, the principles of evidence-based medicine apply to demonstrating the efficacy of screening tests and preventive interventions, where randomized controlled trials (RCTs) with mortality outcomes are the gold standard. However, because RCTs are often not feasible, 
-
  TABLE 6-1 Principles of Screening The condition should be an important health problem. There should be a treatment for the condition. Facilities for diagnosis and treatment should be available. There should be a latent stage of the disease. There should be a test or examination for the condition. The test should be acceptable to the population. The natural history of the disease should be adequately understood. There should be an agreed policy on whom to treat. The cost of finding a case should be balanced in relation to overall medical expenditure. 
-
  TABLE 6-2 Lifetime Cumulative Risk Breast cancer for women 10% Colon cancer 6% Cervical cancer for womena 2% Domestic violence for women Up to 15% Hip fracture for white women 16% aAssuming an unscreened population. 
-
  TABLE 6-3 Estimated Average Increase in Life Expectancy for a Population SCREENING OR PREVENTIVE INTERVENTION AVERAGE INCREASE Mammography: Women, 40–50 years 0–5 days Women, 50–70 years 1 month Pap smears, age 18–65 2–3 months Getting a 35-year-old smoker to quit 3–5 years Beginning regular exercise for a 40-year-old man (30 min, 3 times a week) 
-
  9 months–2 years 
-
  observational studies, such as case-control designs, have been used to assess the effectiveness of some interventions such as colonoscopy for colorectal cancer screening. For some strategies, such as Pap smear screening for cervical cancer, the only data available are ecologic data demonstrating dramatic declines in mortality. Irrespective of the study design used to assess the effectiveness of screening, it is critical that disease incidence or mortality is the primary endpoint rather than length of disease survival. This is important because lead time bias and length time bias can create the appearance of an improvement in disease survival from a screening test when there is no actual effect. Lead time bias occurs because screening identifies a case before it would have presented clinically, thereby creating the perception that a patient lived longer after diagnosis simply by moving the date of diagnosis earlier rather than the date of death later. Length time bias occurs because screening is more likely to identify slowly progressive disease than rapidly progressive disease. Thus, within a fixed period of time, a screened population will have a greater proportion of these slowly progressive cases and will appear to have better disease survival than an unscreened population. A variety of endpoints are used to assess the potential gain from screening and preventive interventions. 
-
 1. The absolute and relative impact of screening on disease incidence or     mortality. The absolute difference in disease incidence or mortality     between a screened and nonscreened group allows the comparison     of size of the benefit across preventive services. A meta-analysis     of Swedish mammography trials (ages 40–70) found that ~1.2     fewer women per 1000 would die from breast cancer if they were     screened over a 12-year period. By comparison, at least ~3 lives     per 1000 would be saved from colon cancer in a population (aged     50–75) screened with annual fecal occult blood testing (FOBT) over     a 13-year period, and an estimated 20–24 lives per 1000 would be     saved over the entire 25-year period. Based on this analysis, colon     cancer screening may actually save more women’s lives than does     mammography. However, the relative impact of FOBT (30% reduc-     tion in colon cancer death) is similar to the relative impact of mam-     mography (14–32% reduction in breast cancer death), emphasizing     the importance of both relative and absolute comparisons. 
-
 2. The number of subjects screened to prevent disease or death in one     individual. The inverse of the absolute difference in mortality is     the number of subjects who would need to be screened or receive     a preventive intervention to prevent one death. For example, 731     women aged 65–69 would need to be screened by dual-energy x-ray     absorptiometry (DEXA) (and treated appropriately) to prevent one     hip fracture from osteoporosis. 
-
 3. Increase in average life expectancy for a population. Predicted     increases in life expectancy for various screening and preventive     interventions are listed in **Table 6-3**. It should be noted, however, that     the increase in life expectancy is an average that applies to a popula-        tion, not to an individual. In reality, the vast majority of the popula-        tion does not derive any benefit from a screening test. A small subset        of patients, however, will benefit greatly. For example, Pap smears do        not benefit the 98% of women who never develop cancer of the cer-        vix. However, for the 2% who would have developed cervical cancer,        Pap smears may add as much as 25 years to their lives. Some studies        suggest that a 1-month gain of life expectancy is a reasonable goal for        a population-based screening or prevention strategy. 
-
 ---
 
 #### Screening and Prevention of Disease 
@@ -1738,33 +1277,19 @@ Just as with most aspects of medical care, screening and preventive intervention
 Abbreviations: DEXA, dual-energy x-ray absorptiometry; HCV, hepatitis C virus; HPV, human papillomavirus; PCR, polymerase chain reaction. Source: Adapted from the U.S. Preventive Services Task Force 2017. [http://www.uspreventiveservicestaskforce.org/Page/Name/uspstf-a-and-b-recommendations/.](http://www.uspreventiveservicestaskforce.org/Page/Name/uspstf-a-and-b-recommendations/.) 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  there are multiple advisory organizations providing recommendations for preventive services, the agreement among the organizations varies across the different services. For example, all advisory groups support screening for hyperlipidemia and colorectal cancer, whereas consensus is lower for breast cancer screening among women in their forties and for prostate cancer screening. Because the guidelines are only updated periodically, differences across advisory organizations may also reflect the data that were available when the guideline was issued. For many screening tests and preventive interventions, the balance of benefits and harms may be uncertain for the average-risk population but more favorable for individuals at higher risk for disease. Although age is the most commonly used risk factor for determining screening and prevention recommendations, the USPSTF also recommends some screening tests in populations based upon the presence of other risk factors for the disease. In addition, being at increased risk for the disease often supports initiating screening at an earlier age than that recommended for the average-risk population. For example, when there is a significant family history of colon cancer, it is prudent to initiate screening 10 years before the age at which the youngest family member was diagnosed with cancer. Although informed consent is important for all aspects of medical care, shared decision-making may be a particularly important approach to decisions about preventive services when the benefit-to-harm ratio is uncertain for a specific population. For example, many expert groups, including the American Cancer Society, recommend an individualized discussion about prostate cancer screening, because the decisionmaking process is complex and relies heavily on personal issues. Some men may decline screening, whereas others may be more willing to accept the risks of an early detection strategy. Recent analysis suggests that many men may be better off not screening for prostate cancer because watchful waiting was the preferred strategy when qualityadjusted life-years were considered. Another example of shared decisionmaking involves the choice of techniques for colon cancer screening (Chap. 70). In controlled studies, the use of annual FOBT reduces colon cancer deaths by 15–30%. Flexible sigmoidoscopy reduces colon cancer deaths by ~40–60%. Colonoscopy appears to offer a greater benefit than flexible sigmoidoscopy with a reduction in risk of ~70%, but its use incurs additional costs and risks. These screening procedures have not been compared directly in the same population, but models suggest that appropriate frequencies of each technique may be associated with similar numbers of lives saved and cost to society per life saved ($10,000– 25,000). Thus, although one patient may prefer the ease of preparation, less time disruption, and the lower risk of flexible sigmoidoscopy, others may prefer the sedation, thoroughness, and time interval of colonoscopy. 
-
 #### ■ COUNSELING ON HEALTHY BEHAVIORS 
-
  In considering the impact of preventive services, it is important to recognize that tobacco and alcohol use, diet, and exercise constitute the 
-
  vast majority of factors that influence preventable deaths in developed countries. Perhaps the single greatest preventive health care measure is to help patients quit smoking (Chap. 454). However, efforts in these areas frequently require behavior changes (e.g., weight loss, exercise) or the management of addictive conditions (e.g., tobacco and alcohol use) that are often recalcitrant to intervention. Although these are challenging problems, evidence strongly supports the role of counseling by health care providers (Table 6-6) in effecting health behavior change. Educational campaigns, public policy changes, and community-based interventions have also proven to be important parts of a strategy for addressing these factors in some settings. Although the USPSTF found that the evidence was conclusive to recommend a relatively small set of counseling activities, counseling in areas such as physical activity and injury prevention (including seat belts and bicycle and motorcycle helmets) has become a routine part of primary care practice. 
-
 #### ■ IMPLEMENTING DISEASE PREVENTION AND 
-
 #### SCREENING 
-
  The implementation of disease prevention and screening strategies in practice is challenging. A number of techniques can assist physicians with the delivery of these services. An appropriately configured electronic health record can provide reminder systems that make it easier for physicians to track and meet guidelines. Some systems give patients secure access to their medical records, providing an additional means to enhance adherence to routine screening. Systems that provide nurses and other staff with standing orders are effective for immunizations. The USPSTF has developed flow sheets and electronic tools to assist clinicians (https://www.uspreventiveservicestaskforce.org/uspstf/ information-health-professionals). Many of these tools use age categories to help guide implementation. Age-specific recommendations for screening and counseling are summarized in Table 6-7. Many patients see a physician for ongoing care of chronic illnesses, and this visit provides an opportunity to include a “measure of prevention” for other health problems. For example, a patient seen for management of hypertension or diabetes can have breast cancer 
-
  TABLE 6-5 Preventive Interventions Recommended for Average-Risk Adults INTERVENTION DISEASE POPULATION FREQUENCY CHAPTER Adult immunization 123, 124 Tetanus-diphtheria >18 Every 10 years Varicella Susceptibles only, >18 Two doses Measles-mumps-rubella Women, childbearing age One dose Pneumococcal >64 13 followed by 23 valent Influenza >18 Yearly Human papillomavirus Up to age 27 If not done prior Zoster >60 Once Chemoprevention Aspirin Cardiovascular disease Aged 50–59 years with a ≥10% 10-year cardiovascular disease risk (bleeding risk may = benefit for some groups) Folic acid Neural tube defects in baby Women planning or capable of pregnancy Tamoxifen/raloxifene Breast cancer Women at high risk for breast cancer Vitamin D Fracture/falls >64 at increased risk for falls 
-
  TABLE 6-6 Preventive Counseling Recommended by the U.S. Preventive Services Task Force (USPSTF) TOPIC CHAPTER REFERENCE Alcohol and drug use 453, 456, 457 Genetic counseling for BRCA1/2 testing among women at increased risk for deleterious mutations 
-
  79, 467 
-
  Nutrition and diet 332, 333 Sexually transmitted infections 136, 202 Sun exposure 61 Tobacco use 454 
-
 ---
 
 #### Screening and Prevention of Disease 
@@ -1842,47 +1367,26 @@ screening incorporated into one visit and a discussion about colon cancer screen
  prevention activities, although there are fewer data about when to “sunset” these services. For many screening tests, the benefit of screening does not accrue until 5–10 years of follow-up, and there are generally few data to support continuing screening for most diseases past age 75. In addition, for patients with advanced diseases and limited life 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  expectancy, there is considerable benefit from shifting the focus from screening procedures to the conditions and interventions more likely to affect quality and length of life. 
-
 #### ■ FURTHER READING 
-
  Bretthauer M et al: America, we are confused: The updated U.S. Preventive Services Task Force recommendation on colorectal cancer screening. Ann Intern Med 166:139, 2017. Hayes JH et al: Observation versus initial treatment for men with localized, low-risk prostate cancer: A cost-effectiveness analysis. Ann Intern Med 158:853, 2013. Hugosson J et al: Mortality results from the Goteborg randomized population-based prostate-cancer screening trial. Lancet Oncol 11:725, 2010. Oeffinger KC et al: Breast cancer screening for women at average risk 
-
 2015. Guideline update from the American Cancer Society. JAMA 314:1599, 2015. US Preventive Services Task Force: Screening for colorectal cancer. US Preventive Services Task Force recommendation state- ment. JAMA 315:2564, 2016. 
-
  Health care systems are highly complex organizations, with many interdependent components. In developed countries, health systems have traditionally been classified by their type of financing—i.e., either predominantly tax-funded (such as the National Health Service in England and publicly operated regional care systems in the four European Nordic countries) or predominantly statutory social health insurance (SHI)-funded (such as in Germany, the Netherlands, and France). Over the past several decades, however, there has been structural convergence in the technical characteristics of both funding arrangements and in the associated delivery systems, making analytic observations about differences across national systems more difficult. A second confounding factor has been that former Soviet Bloc countries in Central and Eastern Europe, including the Russian Federation, have, since 1991, replaced their former Soviet-style Semashko models (a top-down, national government–controlled funding and delivery structure with a parallel Communist Party administrative apparatus) with various hybrid arrangements built on national government–run SHI financing. Distinctions across developed country health systems, especially in Europe, have been further compressed by inadequate resources in many publicly funded systems in an era of rapid clinical and technological change, triggering increased private sector funding and provision. In middle-income developing countries, institutional structures in the health sector typically reflect the country’s preindependence administrative framework. Mexico, for example, has a Spanish-derived configuration with health insurance as part of social insurance for formally employed workers (via Instituto Mexicano del Seguro Social), supplemented by tax-funded health services (Seguro Popular) provided for those with informal employment and all other citizens, as well as a separate program (Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado) for public employees. Countries such as India and Egypt, reflecting British influence, have predominantly tax-funded and publicly operated health systems. China is an exception, with an internally generated system that is publicly funded and operated, although recent Communist Party policy has been to introduce SHI-based 
-
 # 7 
-
 ## Global Diversity of Health 
-
 ## System Financing and 
-
 ## Delivery 
-
  Richard B. Saltman 
-
  insurance with individual medical savings accounts (patterned after Singapore), promote private insurance, and expand private hospitals. In lower-income developing countries, health services are typically provided by tax-funded public institutions, often with considerable inadequacies and sometimes with substantial copayments. It is important to note that governmentally organized systems in nearly all developing countries, as well as in former Soviet bloc countries and, to a lesser degree, in tax-funded developed countries, are supplemented to varying extents by a mix of private and/or employer-paid insurers and providers. This chapter focuses on the individual patient care system: on the financing and delivery of individual clinical and preventive services. The individual patient care system is composed of the financing and delivery of necessary services to prevent death or serious harm (“rule of rescue”); to maintain quality of life; and to manage, reduce, and/or prevent the burden of illness on individual patients. While the technical dimensions of most clinical services are similar across countries, their organizational, social, and economic characteristics range widely. Health systems in both developed and developing countries exhibit substantial differences, for example, in access to care; in the design and reliance on quality assurance and provider payment mechanisms; in the relationship of primary care to hospital services; in the coordination of health care with home care and nursing home services; in the design and use of provider management strategies; in the way physicians work and are paid; in the decision-making roles of politically elected officials and of national, regional, and municipal governments; and in participation of both citizens and patients. These wide-ranging institutional and organizational characteristics reflect differing country contexts (geographical, social, economic, and political), differences in national culture (consisting of prioritized norms and values), and substantial variation in how health sector institutions are structured. 
-
 #### ■ FINANCING INDIVIDUAL PATIENT CARE 
-
 #### SERVICES IN DEVELOPED COUNTRIES 
-
  Funding for individual care services in developed countries comes from the particular national mix among four possible sources of revenue: national, regional, and/or municipal taxes; mandatory SHI; private health insurance (including employer-paid insurances); and out-of-pocket payments. Most countries have one preponderant payer, which then defines its funding arrangements and serves to frame the structure of its delivery system as well. 
-
 #### Total Health Expenditures The Organization for Economic 
-
  Co-operation and Development (OECD) data from 2017 (adjusted for purchasing power parities) show that total health care expenditures in developed countries vary across a considerable range, tied to health system structure as well as national history and culture (Table 7-1). Per capita health expenditure figures provide a different, specific measurement of available funds in a country’s health sector (Table 7-2). 
-
 #### Tax-Funded Systems In the United Kingdom, 79% of all health 
-
  care funding was furnished through general tax revenues allocated by the national government in its annual budget process (all figures from OECD for 2017). In Sweden, all public taxes combined raised 83.7% of total health care spending. Sweden’s 21 regional-level elected governments provide approximately 70% of that 83.7%, with the remaining 13.7% of total health spending raised by national and municipal taxes. In Canada, 71% of total health spending was raised by tax revenues, with 66% of that 71% coming from provincial or territorial taxes, while 5% came from national and local government taxes. In most tax-funded countries, a segment of the population also has individual-, company-, or union-purchased private complementary and/or supplemental insurance coverage. In Sweden, 2019 estimates are that about 600,000 individuals have private complementary policies in a total population of 9 million. In Denmark, 50% of the population purchase supplemental insurance, while 30% have complementary insurance (often purchased by employers) that pays for private sector services enabling them to bypass public sector queues. In Finland, many middle-class families purchase separate private health insurance for their children to enable them to bypass long waiting times 
-
 ---
 
 #### Global Diversity of Health System Financing and Delivery 
@@ -1914,27 +1418,16 @@ Abbreviations: SHI, social health insurance; UK, United Kingdom.
  and then redistributed back to their chosen fund on an individual risk-adjusted basis. Employers send 7.3% of each employee’s salary to the same national pool. Special arrangements exist for payments from self-employed, retired, and unemployed workers. Since 1995, there has been a separate mandatory social insurance fund for long-term care (LTC), with an annual premium of 1.95% of each adult’s gross monthly income, split 50%–50% with their employer. Pensioners since 2004 are required to pay the full 1.95% from their pensions. Childless SHI enrollees pay a surcharge of 0.25% of monthly gross income. Overall, 78% of all health care expenditures in Germany were paid from public and/or mandatory private SHI sources. In the Netherlands since 2006, all adult citizens pay a fixed premium (about 1453 euros in 2019) to their choice among 35 private health insurers (not-for-profit and for-profit), with four large insurance groups having over 1 million members each. In addition, employers pay 6.95% of salary below 51,400 euros for each employee into a national health insurance fund. Self-employed individuals pay 4.85% into the national fund for taxable income up to the same limit. Retired and unemployed individuals also make payments. In addition to the individual premiums paid to their choice of private insurance fund, payments from the national health insurance fund, adjusted by individual age, sex, and health characteristics, also are made to the individual’s chosen insurer. The Netherlands has a separate mandatory social insurance fund for LTC (the ABWZ, since 2015 the WLZ, and now only for residential nursing home care) to which each employee pays 9.5% of taxable income beneath 33,600 euros every year. Selfemployed, unemployed, and retired individuals also are required to pay premiums to the WLZ. Overall, including SHI revenues, public spending provided 87% of total health expenditures in 2014. In Estonia, a former Soviet Republic that re-established an SHI system in 1991 upon regaining its independence, there is one national SHI fund that is an arm of the national government. This fund collects mandatory payments of 13% from salaried workers and 20% from self-employed individuals, covering both health care and retirement pensions. Overall, including SHI revenues, public spending accounted for 74.5% of total health expenditures in 2017. Singapore, Japan, South Korea, and Taiwan have predominantly SHI systems of funding for individual care services. In these Asian countries (except Japan), there is one SHI fund that typically is operated as an arm of the national government. In Singapore, starting in 1983, all employees up to age 50 have been required to place 20% of their income (employers add 16% more) into a personal health savings account to pay for direct health care costs, 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  managed in their name by the Singapore government, called a Medisave account. Medisave accounts have a maximum amount, are tax-exempt, and receive interest payments (currently set at 4%). Consistent with a Confucian emphasis on family, the funds that accumulate in the Medisave account can be spent on health care for family members as well. If the accumulated funds are not spent on health care during the insured’s life, they become part of the individual’s personal estate and are distributed as a tax-free inheritance to his or her designated heirs. In addition, Singaporean citizens are also automatically enrolled into a second government-run health insurance plan called MediShield that pays for supplemental catastrophic, chronic, and long-term care. While citizens can opt out, 90% of citizens remain in the program. The Singapore government also operates a third, wholly tax-funded payer called Medifund that, with approval of a local neighborhood committee, will pay hospital costs for 3–4% of the population who are recognized as indigent. In part reflecting the high level of mandatory individual saving, public funding provided only 54.5% of total health expenditures in 2016. In South Korea, a state-run SHI system was established in 1977, which in 1990 covered 30.9% of total health care costs. This percentage paid by the SHI system rose to 40.5% of total costs in 2017, with national tax revenue covering 16.9%, leaving out-of-pocket expenses at a relatively high 34.4% of total costs. Although there are legal ceilings on total out-of-pocket copayments for each 6-month period, over 70% of Korean adults purchase an additional private Voluntary Health Insurance policy to cover these additional direct expenditures. In 2000, three types of public SHI funds were merged into a single national state-run fund. As of 2018, 6% of an employee’s salary must be paid as a social insurance contribution into this fund, with employees and employers each paying 50% of that amount. In 2008, an additional SHI fund was introduced to pay for LTC, operated by the main state-run SHI fund to reduce administrative costs. Contributions to the LTC fund are set at 6.55% of the individual’s regular SHI contribution, coupled with 20% copayments for institutional care and 15% copayments for home care services. 
-
 #### The United States There is no single preponderant source of 
-
  health care spending in the United States. The federal government’s CMS reported that, for 2017, private health insurance covered 34% of total health expenditures, Medicare (mandatory SHI program for all citizens over 65) covered 20%, Medicaid (a joint federal-state welfare program for low-income citizens) covered 17%, and out-of-pocket paid 10%. Sources of funds for these programs were 28% from the federal government, 17% from state and local governments, 28% from private households, and 20% from private business (e.g., employers). The World Bank set public funding in the United States at 50.2% of total health expenditures in 2017. In 2010, the passage of the Affordable Care Act (ACA) extended privately provided but heavily regulated and federally subsidized health insurance to many lowand middle-income uninsured individuals and families. Since the same act reduced the availability of existing individually purchased private health insurance, the total increase in the number of newly covered individuals was less than expected. Insurance premium increases for 2017 rose from 20% to over 100%, depending on the particular state, with additional increases in up-front deductible requirements, raising questions about the long-term sustainability of the ACA initiative. The recent Republican administration sought to repeal major financial and tax elements of the ACA and to replace existing subsidy arrangements with a system of refundable tax credits toward the establishment of individual health savings accounts and/or purchase of private health insurance on open cross-state markets (currently, private health insurance in the United States remains controlled at the separate 50-state level of government). 
-
 #### ■ DELIVERING INDIVIDUAL PATIENT CARE 
-
 #### SERVICES IN DEVELOPED COUNTRIES 
-
 #### Hospital Services In Europe, hospitals in both tax-funded and 
-
  SHI-funded health systems are mostly publicly owned and operated by regional or municipal governments. In tax-funded health systems, 
-
  most hospital-based physicians are civil servants, employed on a negotiated salary basis (often by a physician labor union), and subject to most of the usual advantages and disadvantages of being a public sector employee. There are somewhat more private hospitals in SHI-funded health systems. However, most larger hospitals are public institutions operated by local governments, and most hospital physicians (with the notable exception of the Netherlands, where they are private contractors organized in private group practices) are, like those in tax-funded systems, public sector employees. In most tax-funded European countries (but not continental SHI-funded countries), few specialist physicians have office-based practices, and in both taxand SHI-funded systems, office-based specialists do not have admitting privileges to publicly operated hospitals. Most public hospitals in both tax-funded and SHI-funded health systems are single free-standing institutions that can be classified into three broad categories by complexity of patients admitted and number of specialties available: (1) district hospitals (four specialties: internal medicine, general surgery, obstetrics, and psychiatry); (2) regional hospitals (20 specialties); and (3) university hospitals (>40 specialties). In addition, many countries have a number of small, 15to 20-bed, freestanding, private (typically for-profit) clinics. Recently, some taxfunded countries have begun to merge district and regional hospitals in an effort to improve the quality of care and create financial efficiencies (for example, Norway; planned for Denmark, also for Ireland; however, failed Parliamentary passage and brought down the coalition government, in Finland in 2019). Institutional mergers can be difficult to negotiate among publicly operated hospitals, due to the role that these large institutions play as important care providers and as large employers in smaller cities and towns, especially given political and union concerns about maintaining current employment levels. In the United States, financial and reimbursement pressures triggered by the implementation of the 2010 ACA have generated a number of private sector hospital mergers into larger hospital groups. In tax-funded health systems, publicly funded patients who are admitted for an elective procedure cannot choose their specialist physician (except private-pay patients in “pay beds” in National Health Service [NHS] hospitals in England). Specialists are assigned by the clinic to a patient based on availability, with both junior and senior doctors placed in rotation. Capital costs (buildings, large medical equipment) are publicly funded in all tax-funded systems and in most traditional SHI systems. For example, in Germany, capital costs for public hospitals are paid for by the regional governments. As a result, new capital investment is often allocated politically, according to location and political priorities. In Finland, local politicians in the 1980s would say that it “takes 10 years to build a hospital,” meaning that it took that long to become a political priority for the regional government that controlled capital expenditures. Local politicians would therefore regularly overbuild when they got their one opportunity to obtain new capital. Recently, efforts have been made to make public hospitals more responsible for their use of capital. In the Netherlands, public hospitals were shifted into private not-for-profit entities that are expected either to fund new capital from operating surplus or to borrow the funds from a bank based on a viable business plan. In England, more than 100 hospitals have been built using the Public Finance Initiative (PFI) program, in which private developers build turn-key facilities (thus taking capital costs off the public borrowing limit), and then rent these facilities back to the NHS and/or the relevant NHS Foundation Trust. In Sweden and Finland, while capital equipment is now a cost on hospital operating budgets, large new capital equipment and major building renovations remain politically driven processes often with extensive delays. In Stockholm County, the New Karolinska University Hospital opened in 2018 was built and is managed by a separate nonprofit public-private c omp any. In Singapore and South Korea, both of which are SHI funded, larger hospitals are publicly operated. However, there are a substantial number of smaller private clinics typically owned by specialist physicians. In the United States, the passage of the 2010 ACA has triggered the selling of many private specialist group practices to hospital groups, 
-
 ---
 
 #### Global Diversity of Health System Financing and Delivery 
@@ -1954,19 +1447,12 @@ health systems, and also in an increasing number of tax-funded health systems (e
  European health care systems have a gatekeeping system that requires referrals from primary care physicians in order to book hospital specialist visits (for publicly paid visits). In most tax-funded health systems (although not in most SHI systems), there are substantial waiting times, typically several months or more, for elective specialist appointments as well as for high-tech diagnostic and treatment procedures. Waiting times can be particularly long for cancer and other elective surgical or high-demand services. In Sweden, government figures from the 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  summer of 2017 showed that, nationally, only 5–10% of prostate cancer operations were performed within 60 days after diagnosis. In the English NHS, waiting lists for elective surgery in 2019 were often 6 months or longer. In August 2017, there were over 4,000,000 patients on NHS waiting lists. In January 2018, what administrators termed “a severe flu season,” during which hospital emergency rooms were overwhelmed with elderly patients requiring admission, led to a national-level NHS decision to cancel all elective operating room procedures in all hospitals in England (>50,000 procedures in 1200 hospitals) for the entire month of January, further lengthening waiting lists. Regarding quality of care, again in England, a March 2018 report from the national Office of Health Economics found that, in 2016 and 2017, up to three-quarters of patients who could have undergone keyhole procedures were forced to undergo open surgery, resulting in an estimated 1 million procedures each year that were more invasive than clinically necessary. Delays in some tax-funded systems also are procedural. In England, for example, a patient who requires a further consultation with a second specialist typically has to return to their primary care physician for a second referral and then has to wait in the regular patient queue for that second appointment. There is also substantial waiting time for radiologic imaging services in most tax-funded systems. In Malta, the tax-funded health system’s recent efforts to prioritize elective MRI investigations have succeeded in reducing waiting times from 18 months to 4 months. In both the Alberta and British Columbia Provinces in Canada, waiting times for a publicly funded nonemergency MRI can extend up to several months, whereas privately paid MRIs were available in both provinces within 1 week. This issue of waiting times for specialist services in tax-funded health systems reflects a combination of growing demand (increasing/ aging populations and changing clinical indications), financial constraints, and insufficient capacity, including inadequate physician working hours. For example, in the 1980s, when several surgical procedures for the elderly became more routine practice (e.g., hip replacement, coronary artery bypass graft, corneal lens implantation), the waiting list problem worsened. It had been mitigated somewhat through increased service capacity by the early 2000s, only to return as a growing policy challenge once public sector financial resources became constrained again after the 2008 global financial crisis. Timely cancer diagnosis and care continue to be a particularly sensitive issue, with tax-funded systems often taking several months for a patient to see an oncologist and then months more to begin treatment. In 2013 in Sweden, a newspaper journalist set off a political storm when he described women patients in one large county council (Malmo) who had to wait more than 40 days to receive the results from their breast cancer biopsy. In September 2019 in England, only 76.9% of patients with suspected cancer began treatment within 2 months of an urgent referral from a GP. In response to pressure from national patient associations, a number of tax-funded health care systems introduced maximum waiting times for elective hospital procedures in the early 2000s. (Most Western European SHI systems do not have long waiting times or treatment guarantees for hospital care.) These maximum waiting times typically include initial primary care visits as well as specialist evaluations and treatment. In Denmark, a patient has the right to go to a different Danish public hospital for care after waiting 30 days without treatment. In Sweden, under the 2005 “waiting time guarantee,” an untreated patient’s local county council is required to pay for care in another county’s hospital after 180 days. In a parallel process at the European Union (EU) level, beginning in 1997, the EU Court of Justice steadily expanded the right of all EU citizens to travel to another EU country in order to receive “timely” care, with their home country health system required to pay for that care. In private not-for-profit SHI-funded health systems such as in Germany and Switzerland, waiting times for specialist visits and hospital procedures are typically a few weeks to 1 month. In the SHI system in France, which is more centrally organized and funded (part of the Napoleonic tradition of public administration), ongoing disputes 
-
  about insufficient central government funding for public hospitals and staff salaries led in March 2019 to 9 months of hospital staff strikes, particularly in accident and emergency departments. In November 2019, the national government announced that it would take over 10 billion euros in public hospital debt as part of an effort to reverse staff cutbacks, bed and operating theater closures, and personnel flight to the private sector. 
-
 #### Long-Term Care Services LTC (consisting of residential and 
-
  home-based services) consumes a relatively small but increasing proportion of gross domestic product (GDP) in developed countries. In 2016, Norway (2.95% GDP), Sweden (2.87% GDP), and the Netherlands (2.64% GDP) all spent more than one-fourth of their total health expenditures on LTC (Eurostat and OECD figures). More than one-fifth of all health care expenditures went to LTC in Belgium (2.16% GDP), Ireland (1.55% GDP), and Denmark (2.5% GDP). Lower-spending countries included the United Kingdom (18% of health expenditures; 1.75% GDP), Germany (12% of expenditures; 1.33% GDP), and Spain (9% of expenditures; 0.81% GDP). In the United States, official figures put total LTC expenditures in 2016 at 4.9% of total health expenditures, or 0.9% of total GDP. (Note that these figures do not include emergency, inpatient, or outpatient hospital costs generated by elderly patients.) Since nursing home care is more expensive than home care (nursing home care requires the provision of housing, food, and around-theclock care providers), government policymakers seek to keep the elderly and the chronically ill out of nursing homes for as long as feasible. Moreover, in developed countries like Sweden, Norway, and the United States, some 70% of all home care services come from informal caregivers: spouses, children (typically daughters), neighbors, and nonprofit community groups. While some SHI systems (e.g., Germany) have separate public LTC insurance (funded by mandatory premiums paid by all adults) that make available cash payments for LTC that can be used to compensate informal caregivers, most policymakers work hard to not monetize what is a large amount of essentially free care. Indeed, policymakers actively seek to encourage those providing these services to continue to do so as long as possible, trying to postpone caregiver burnout by providing support services such as free respite care, special call-in lines for caregiving advice, pension points toward retirement for the informal caregiver (Nordic countries), and free daycare center services. In most tax-funded and SHI-funded European countries, home care services are organized at the municipal government level. In tax-funded systems, these services are also delivered mostly by municipal employees, working according to union-negotiated protocols. In some European SHI systems, and recently in tax-funded Sweden and Finland, private companies also provide home care services on contract to municipal governments. In combination with national legislation, these municipal systems also provide important support for informal caregivers, since the financial costs of caring for adults in their own home are substantially less than providing housing, food, and caregiver support in publicly funded homes for the aged or in nursing homes. A high proportion of nursing homes in European tax-funded and SHI-funded health systems are publicly owned facilities operated by municipal governments; in some instances, in SHI-funded systems (Israel, the Netherlands), they are operated by private not-for-profit organizations. Recently, in some tax-funded systems (e.g., Sweden), private for-profit chains have begun to open nursing homes that are funded on a contract basis with local municipal governments. Costs for nursing home care can be expensive: in Norway, the cost per patient is often over $100,000 per year in a publicly funded home, with the patient responsible for paying up to 80% depending on the family’s economic status. In Sweden, patients living in publicly funded nursing homes in Stockholm County pay a relatively small official fee, but they also pay room rent and up to 2706 Swedish krona (SEK) per month (about $270 U.S. dollars [USD]) for food out of their monthly public pension payments. In 2012, in an effort to reduce demand for expensive hospital and nursing home services, Norway and Denmark began elderly care reforms that shifted service delivery as well as funding responsibilities 
-
 ---
 
 #### Global Diversity of Health System Financing and Delivery 
@@ -1984,29 +1470,17 @@ to municipal governments. Among innovations in Norway, municipalities are requir
  Pharmaceutical expenditures in developed countries (inpatient and outpatient combined) vary widely across different health system types, as well as between different countries within each institutional type. OECD figures for 2018 show drug expenditures in tax-funded countries in Western Europe ranging from 6.3% of total health expenditures (THE) in Denmark to 11.9% of THE in the United Kingdom and 18.6% of THE in Spain. In SHI-funded Western European systems, pharmaceuticals absorbed 7.5% of THE in the Netherlands, while in Germany, that figure was 14.1%. In the hybrid tax-funded SHI systems of Central Europe, the pharmaceutical percentage of THE is higher: 18.2% of THE in Estonia to 27.9% of THE in Hungary. Similarly, in Asian SHI systems, pharmaceuticals consumed 20.7% of THE in South Korea and 18.6% of THE in Japan. The OECD’s 2018 figures for pharmaceutical spending in North America are 12.0% of THE in the United States and 16.7% in Canada. Contributing factors to this wide-ranging variation are (1) differences in national practice and prescription patterns reflecting differing cultural expectations; (2) the ratio problem (relatively fixed level of pharmaceutical costs due to international prices—the numerator— divided by a greatly varying per capita health expenditure cost in different developed country health systems); (3) the range and type of pharmaceutical price controls in each country; and (4) the degree of limitation placed on pharmaceutical supply, tied to formularies and/or explicit forms of drug rationing. Most European health systems have tight national controls on the cost and, in some tax-based countries, on the availability of pharmaceuticals. Most European countries also use a number of different regulatory measures to limit prices and/or availability of both inpatient and outpatient drugs, including mandatory generic prescribing, reference pricing, patient copays (sometimes with an annual ceiling, after which copayments are no longer required), and (particularly in tax-funded systems) national formularies tied to clinical effectiveness. Norway, for example, allows only about 2300 different preparations—including dosage, delivery method, and box size—to be stocked by pharmacies. Prices for drugs can vary considerably across different European countries, tied to economic development and domestic pricing patterns. One consequence of these differential national pricing controls has been the development of a parallel import market, in which drug wholesalers and pharmacists in the more expensive countries purchase supplies from a cheaper market elsewhere in Europe. Access to expensive drugs has also been intentionally limited in some tax-funded health systems in Europe. One basis for rationing has been rationing tied to quality-adjusted life-years (QALYs). Rationing also reflects a clash between strained public drug budgets and public pressure. For example, in the case of cancer drugs in England, the recommendation of the National Institute for Health and Care Excellence (NICE) against funding the breast cancer drug trastuzumab (Herceptin) was subsequently overturned by the Minister of Health. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  Expensive cancer drugs continue to be rationed in England where the NHS Cancer Drug Fund, established in 2011 to provide access to nonNHS-provided drugs on a case-by-case basis, ran out of funds in 2015, forcing it to drop 25 of 83 covered drugs and close down for 3 months to restructure its operations. As part of earlier medical patterns in Asian countries, office-based physicians traditionally filled prescriptions as well as prescribing drugs to patients. These sales also served to supplement their income in a setting of relatively low per-visit payments from state-run SHI funds. Concerned about cost and overuse, both Taiwan (in 1997, except for emergency cases or rural regions) and South Korea (for the whole country in 2003) implemented “separation reforms,” which ended these physician sales. In Japan, a series of fee and reimbursement reforms have trimmed the percentage of all prescriptions dispensed in 2016 by physicians to 26% of prescriptions filled. 
-
 #### ■ GOVERNANCE AND REGULATION 
-
  Health care services in developed countries are steered, constrained, monitored, and (to varying degrees) assessed by governments and governmentally established and/or empowered bodies. Although these measures apply particularly to the financial efficiency of governmentfunded services, they also seek to promote patient and community safety, equity of access, and high-quality clinical outcomes. This oversight is often strongly focused on privately operated and contracted providers and insurers, although in principle, it applies to publicly operated organizations as well. Governance consists of macro national-level policy, meso institutional-level management, and micro clinic-level care decisions. This complex mix of governance decisions is often shared among different national, regional, and local governments, depending on the degree of centralization, decentralization, or, recently, recentralization (e.g., Norway and Denmark). While most systems officially prioritize “good governance,” governance activities frequently comingle with political objectives as core policy concepts are developed and transformed into concrete organizational targets. In Sweden, health system governance is shared among national, regional (county), and local municipal governments. The national government has responsibility to pass “frame” legislation, which establishes the basic structure of the system. To cite one example, until recently, the national government had limited an adult patient’s total copayments for outpatient physician care (specialist and primary care) and pharmaceuticals to 2800 SEK (about $280 USD) for a 12-month period. The 20 regional governments, in turn, made policy decisions within that legislation, deciding how to apportion the specific copayments for each primary care and specialist outpatient visit. Since Swedes can self-refer to specialists, some counties double the copayment to hospital-based doctors to discourage unnecessary appointments. Similarly, fiscal policy normally is shared between the regional government, which raises about 70% of total health expenditures through its own county-set flat income tax, and the national government, which provides additional purpose-tied funds for national objectives such as consolidating openheart surgery across county lines as well as supplementing lower tax receipts in rural counties with smaller working populations. However, this normal funding relationship across governments can change. In the early 1990s, the national government placed a “stop” on raising county taxes prior to Sweden’s admission in 1995 to the EU. In 2016, each of the 20 counties could set their own ceilings, which were almost all at 3300 SEK (about $330 USD). In Spain’s tax-funded health system (71.1% publicly funded in 2015), 17 regional “autonomous communities” were given full managerial responsibility for the provision of health services in a 1990s decentralization process, along with ownership of all publicly operated hospitals. The national government generates a substantial proportion of health care resources, which are included in the broad block grants it allocates to the regional governments, which then add regional tax revenue to make up the full public sector budget. In a mechanism to steer regional government operating policies in this decentralized environment, the national Spanish government established a joint federal-regional council to review quality and performance data (through the 2003 Health 
-
  System Cohesion and Quality Act). Italy’s tax-funded health system (75.8% publicly funded in 2014) similarly shares governance responsibilities between national and regional governments. Health services are provided by local health authorities (Azienda Sanitaria Locale) supervised by 20 regional governments within a nationally established governance framework, financed through a complicated mix of national and nationally stipulated but regionally collected taxes. Again, like Spain, the national government established a federal-regional government council, seeking to better coordinate care standards and information among the regions and with national government agencies. In 2006, the national government imposed strict financial plans on 10 regions that were systematically in deficit. In Germany, where funding for its SHI-based health system is predominantly the responsibility of 120 private not-for-profit sickness funds, governance decisions are shared among these private sector sickness funds and public sector national, regional, and municipal governments. The sickness funds receive a risk-adjusted premium payment for each enrolled individual, according to a national government–determined formula, and from a national government– run health insurance pool. Most hospitals are owned and operated by municipal governments, while investment capital for structural renovations and new building comes from the 16 regional Länder taken from their tax revenues. Payment frameworks and amounts for public hospitals are negotiated between associations of these municipally owned hospitals and associations of the private sickness funds, without formal government participation. Regulation is an essential element of an effective health care system and a key component of overall health system governance. Regulation incorporates both broad standard requirements that affect all organizations that operate in a country (e.g., hiring, firing, and wage decisions) as well as specific health sector–related regulations (e.g., proper handling, use, and disposal of low-grade nuclear waste from radiation treatments). Recent examples of health sector regulation in England, for example, include the following: 
-
 1. Requiring all cancer drugs adopted for use in the NHS to cost no     more than $41,268/QALY; 
-
 2. Requiring in their employment contract that junior doctors in hos-     pitals work a specific number of Sundays; and 
-
 3. Requiring that all emergency department patients receive care     within 4 h of their arrival.     A powerful tool that has the force of law, regulation can have sub- stantial negative as well as positive effects. A well-known political science corollary of regulatory power is that “the right to regulate is also the right to destroy.” For example, in the United States, the federal Environmental Protection Agency, as part of its pursuit of cleaner air, issued wide-ranging regulatory orders setting performance standards that resulted in the closing of many West Virginia coal mines, with the loss of tens of millions of dollars of productive capacity and thousands of high-paying jobs, and likely contributing to social conditions that helped spawn that state’s high rates of opioid abuse among unem- ployed males. Similarly, in some tax-funded European systems, such as those in Sweden and England, there is growing pressure from public health advocates for national regulations to prohibit the making of a profit from publicly paid funds. In Sweden, the national government’s Reepalu report in 2016 honored a pledge made by the Social Demo- cratic government to its Left (socialist) Party ally by calling for a legis- lated ban on profit-making in the provision of publicly funded health care services. The report’s publication triggered substantial divestment of existing investor-owned primary care, nursing home, and home care companies. 
-
 #### ■ FUTURE CHALLENGES 
-
  Health systems in developed countries face continued challenges in the coming years. These include financial, organizational, and policy dilemmas for which institutionally viable, financially sustainable, and politically supportable solutions will be complicated to develop and difficult to implement. On the delivery side, a key question is whether 
-
 ---
 
 #### Global Diversity of Health System Financing and Delivery 
@@ -2036,35 +1510,20 @@ privately structured GP-based primary care is more efficient and effective than 
  TABLE 7-3 Middle-Income Developing Countries: Total Health Expenditure (% of gross domestic product) Middle-Income Developing Countries Kazakhstan 3.53% Thailand 3.71% Malaysia 3.80% Turkey 4.31% China 4.98% Botswana 5.46% Mexico 5.47% Colombia 5.91% 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  TABLE 7-4 Low-Income Developing Countries: Total Health Expenditure (% of gross domestic product) Low-Income Developing Countries Nigeria 3.65% India 3.66% Ethiopia 3.97% Nepal 6.29% Honduras 8.40% 
-
  TABLE 7-5 Middle-Income Developing Countries: Per Capita Health Expenditures Middle-Income Developing Countries Thailand $221 Kazakhstan $262 Colombia $340 Malaysia $361 Botswana $379 China $398 Mexico $461 Turkey $468 
-
  TABLE 7-6 Low-Income Developing Countries: Per Capital Health Expenditures Low-Income Developing Countries Ethiopia $27 Nepal $45 India $62 Nigeria $79 Honduras $199 
-
  a range of health expenditure rates as a percentage of GDP, including Kazakhstan at 3.53% of GDP, Thailand at 3.71%, Malaysia at 3.80%, Turkey at 4.31%, China at 4.98%, Botswana at 5.46%, Mexico at 5.47%, and Colombia at 5.91%. Total health spending in low-income developing countries (Table 7-4) ranges from 3.65% of GDP for Nigeria, 3.66% for India, 3.97% for Ethiopia, 6.29% for Nepal, to 8.40% for Honduras. Given lower aggregate GDP levels, per capita annual expenditures are considerably less than those found in developed countries. In middle-income developing countries (Table 7-5) , Thailand spent (2016 data in adjusted USD) $221 annually per person, Kazakhstan spent $262, Colombia spent $340, Malaysia spent $361, Botswana spent $379, China spent $398, Mexico spent $461, and Turkey spent $468. Among low-income developing countries (Table 7-6) , Ethiopia spent $27 per person annually, Nepal spent $45, India spent $62, and Nigeria spent $79, whereas Honduras spent $199. China provides an interesting example of financing and service delivery development in middle-income developing countries. Financing reforms replaced fully publicly funded services with three new arrangements tied to work status and residence: (1) Urban Employee Basic Medical Insurance in 1998 (incorporating privately funded medical savings accounts—a concept pioneered in Singapore); (2) Urban Resident Basic Medical Insurance in 2007; and (3) New Rural Cooperative Medical Scheme in 2007. The urban employee program is an SHI model reflecting the rapid rate of economic growth and increasing incomes for urban workers. Starting in 2013, the Chinese government increasingly emphasized the development of new private hospitals and promotion of private insurance in urban areas. These and other health sector reforms became possible as continued strong economic growth over 30 years raised an estimated 300 million Chinese into the middle class, generating the requisite private as well as public revenues to underpin major structural health sector change. Service delivery in developing countries varies widely in access, quality, and outcomes across and also within many developing countries. Medical services and tertiary institutions in urban areas of China, for example, operate at a substantially higher standard of service than those typically available in poorer rural regions. Similar disparities exist in wealthier parts of India such as Rajasthan, whereas in poorer states such as Bihar, primary care is mostly delivered by community “volunteers” with basic medical training, supervised by a GP. Two critical challenges for all developing country health systems are contingent on generating adequate future funding flows. First, the current push from United Nations agencies to achieve universal health coverage will require additional public and private sector funding to 
-
  pay for the necessary new providers and services. Second, available funding will need to be more effectively targeted on needed and appropriate services, with minimized managerial inefficiencies and substantially less political corruption. Both forms of expanded funding will be dependent on strong national and global economic growth, which in turn will require continued country-level economic and political reforms. Achieving both funding-related objectives will require considerable international as well as national effort. 
-
 #### ■ FURTHER READING 
-
  Barber SL et al: Price Setting and Price Regulation in Health Care: Lessons for Advancing Universal Health Coverage. Geneva, World Health Organization, Organization for Economic Co-operation and Development, 2019. https://apps.who.int/iris/bitstream/han dle/10665/325547/9789241515924-eng.pdf. Figueras J, McKee M (eds): Health Systems, Health, Wealth, and Societal Well-Being: Assessing the Case for Investing in Health Systems. Maidenhead, Open University Press/McGraw-Hill Education, 2011. http://www.euro.who.int/  data/assets/pdf file/0007/164383/e96159.pdf. Haseltine W: Affordable Excellence: The Singapore Health Story. Washington, Brookings Institution Press, 2013. http://www.brookings.edu/ wp-www.brookings.edu/wp-content/uploads/2016/07/AffordableExcellencePDF.pdf. Kuhlmann E et al (eds): The Palgrave International Handbook on Healthcare Policy and Governance. London, Palgrave MacMillan, 2015. Rice T et al: United States of America: Health System Review. Health in Transition (HiT) Series 15 (3). Brussels, European Observatory on Health Systems and Policies, 2013. http://www.euro.who.int/  data/assets/ pdf file/0019/215155/HiT-United-States-of-America.pdf. 
-
  Safety and quality are two of the central dimensions of health care. In recent years, it has become easier to measure safety and quality, and it is increasingly clear that performance in both dimensions could be much better. The public is—with good justification—demanding measurement and accountability, and payment for services will increasingly be based on performance in these areas. Thus, physicians must learn about these two domains, how they can be improved, and the relative strengths and limitations of the current ability to measure them. Safety and quality are closely related but do not completely overlap. The Institute of Medicine has suggested in a seminal series of reports that safety is the first part of quality and that the health care system must first and foremost guarantee that it will deliver safe care, although quality is also pivotal. In the end, it is likely that more net clinical 
-
 # 8 
-
 ## The Safety and Quality of 
-
 ## Health Care 
-
  David W. Bates 
-
 ---
 
 #### The Safety and Quality of Health Care 
@@ -2106,43 +1565,24 @@ out that individuals make errors all the time. Think of driving home from the ho
 ubiquitous in health care systems can increase the likelihood of errors, including fatigue, stress, interruptions, complexity, and transitions. The effects of fatigue in other industries are clear, but its effects in health care have been more controversial until recently. For example, the accident rate among truck drivers increases dramatically if they work over a certain number of hours in a week, especially with prolonged shifts. A recent study of house officers in the intensive care unit demonstrated that they were about one-third more likely to make errors when they were on a 24-h shift than when they were on a schedule that allowed them to sleep 8 h the previous night. The American College of Graduate Medical Education has moved to address this issue by putting in place the 80-h workweek. Although this stipulation is a step forward, it does not address the most important cause of fatigue-related errors: extended-duty shifts. High levels of stress and heavy workloads also can increase error rates. Thus, in extremely high-pressure situations, such as cardiac arrests, errors are more likely to occur. Strategies such as using protocols in these settings can be helpful, as can simple recognition that the situation is stressful. Interruptions also increase the likelihood of error and occur frequently in health care delivery. It is common to forget to complete an 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  settings, especially by using checklists. For ADEs, several strategies have been found to reduce the medication error rate, although it has been harder to demonstrate that they reduce the ADE rate overall, and no studies with adequate power to show a clinically meaningful reduction have been published. Implementation of checklists to ensure that specific actions are carried out has had a major impact on rates of catheter-associated bloodstream infection and ventilator-associated pneumonia, two of the most serious complications occurring in intensive care units. The checklist concept is based on the premise that several specific actions can reduce the frequency of these issues; when these actions are all taken for every patient, the result has been an extreme reduction in the frequency of the associated complication. These practices have been disseminated across wide areas in the state of Michigan. Computerized physician order entry (CPOE) linked with clinical decision support reduces the rate of serious medication errors, defined as those that harm someone or have the potential to do so. In one study, CPOE, even with limited decision support, decreased the serious medication error rate by 55%. CPOE can prevent medication errors by suggesting a default dose, ensuring that all orders are complete (e.g., that they include dose, route, and frequency), and checking orders for allergies, drug–drug interactions, and drug–laboratory issues. In addition, clinical decision support can suggest the right dose for a patient, tailoring it to the level of renal function and age. In one study, patients with renal insufficiency received the appropriate dose only one-third of the time without decision support, whereas that fraction increased to approximately two-thirds with decision support; moreover, with such support, patients with renal insufficiency were discharged from the hospital half a day earlier. As of 2019, over 95% of U.S. hospitals had implemented CPOE, although the decision support often is still limited. Another technology that can improve medication safety is bar coding linked with an electronic medication administration record. Bar coding can help ensure that the right patient gets the right medication at the right time. Electronic medication administration records can make it much easier to determine what medications a patient has received. Studies to assess the impact of bar coding on medication safety are under way, and the early results are promising. Another technology to improve medication safety is “smart pumps.” These pumps can be set according to which medication is being given and at what dose; the health care professional will receive a warning if too high a dose is about to be administered. 
-
 #### The National Safety Picture Several organizations, including 
-
  the National Quality Forum and The Joint Commission, have made recommendations for improving safety. The National Quality Forum has released recommendations to U.S. hospitals about what practices will most improve the safety of care, and all hospitals are expected to implement these recommendations. Many of these practices arise frequently in routine care. One example is “readback,” the practice of recording all verbal orders and immediately reading them back to the physician to verify the accuracy of what was heard. Another is the consistent use of standard abbreviations and dose designations; some abbreviations and dose designations are particularly prone to error (e.g., 7U may be read as 70). 
-
 #### Measurement of Safety Measuring the safety of care is difficult 
-
  and expensive, since adverse events are, fortunately, rare. Most hospitals rely on spontaneous reporting to identify errors and adverse events, but the sensitivity of this approach is very low, with only ~1 in 20 ADEs reported. Promising research techniques involve searching the electronic record for signals suggesting that an adverse event has occurred. These methods are not yet in wide use but will probably be used routinely in the future. Claims data have been used to identify the frequency of adverse events; this approach works much better for surgical care than for medical care and requires additional validation. The net result is that, except for a few specific types of events (e.g., falls and nosocomial infections), hospitals have little idea about the true frequency of safety issues. 
-
  Nonetheless, all providers have the responsibility to report problems with safety as they are identified. All hospitals have spontaneous reporting systems, and if providers report events as they occur, those events can serve as lessons for subsequent improvement. 
-
 #### Conclusions about Safety It is abundantly clear that the safety of 
-
  health care can be improved substantially. As more areas are studied closely, more problems are identified. Much more is known about the epidemiology of safety in the inpatient setting than in outpatient settings. A number of effective strategies for improving inpatient safety have been identified and are increasingly being applied. Some effective strategies are also available for the outpatient setting. Transitions appear to be especially risky. The solutions to improving care often entail the consistent use of systematic techniques such as checklists and often involve leveraging of information technology. Nevertheless, solutions will also include many other domains, such human factors techniques, team training, and a culture of safety. 
-
 #### ■ QUALITY IN HEALTH CARE 
-
  Assessment of quality of care has remained somewhat elusive, although the tools for this purpose have increasingly improved. Selection of health care and measurement of its quality are components of a complex process. 
-
 #### Quality Theory Donabedian has suggested that quality of care can 
-
  be categorized by type of measurement into structure, process, and outcome. Structure refers to whether a particular characteristic is applicable in a particular setting—e.g., whether a hospital has a catheterization laboratory or whether a clinic uses an electronic health record. Process refers to the way care is delivered; examples of process measures are whether a Pap smear was performed at the recommended interval or whether an aspirin was given to a patient with a suspected myocardial infarction. Outcome refers to what happens—e.g., the mortality rate in myocardial infarction. It is important to note that good structure and process do not always result in a good outcome. For instance, a patient may present with a suspected myocardial infarction to an institution with a catheterization laboratory and receive recommended care, including aspirin, but still die because of the infarction. Quality theory also suggests that overall quality will be improved more in the aggregate if the performance level of all providers is raised rather than if a few poor performers are identified and punished. This view suggests that systems changes are especially likely to be helpful in improving quality, since large numbers of providers may be affected simultaneously. The theory of continuous quality improvement suggests that organizations should be evaluating the care they deliver on an ongoing basis and continually making small changes to improve their individual processes. This approach can be very powerful if embraced over time. Several specific tools have been developed to help improve process performance. One of the most important is the Plan-Do-Check-Act cycle (Fig. 8-2). This approach can be used for “rapid cycle” improvement of a process—e.g., the time that elapses between a diagnosis of pneumonia and administration of antibiotics to the patient. Some statistical tools, such as control charts, are often used in conjunction to determine whether progress is being made. Because most medical care includes one or many processes, this tool is especially important for improvement. 
-
 #### Factors Relating to Quality Many factors can decrease the level 
-
  of quality, including stress to providers, high or low levels of production pressure, and poor systems. Stress can have an adverse effect on quality because it can lead providers to omit important steps, as can a high level of production pressure. Low levels of production pressure sometimes can result in worse quality, as providers may be bored or have little experience with a specific problem. Poor systems can have a tremendous impact on quality, and even extremely dedicated providers typically cannot achieve high levels of performance if they are operating within a poor system. 
-
 #### Data about the Current State of Quality A study published by 
-
  the RAND Corporation in 2006 provided the most complete picture of 
-
 ---
 
 #### The Safety and Quality of Health Care 
@@ -2206,39 +1646,22 @@ Measure effectiveness of strategies
  FIGURE 8-3 The Chronic Care Model, which focuses on improving care for chronic diseases, suggests that (1) delivery of high-quality care requires a range of strategies that must closely involve and engage the patient and (2) team care is essential. (From EH Wagner et al: Eff Clin Pract 1:2, 1998.) 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  Diagnosing patients’ illnesses is the essence of medicine. Patients present to doctors seeking an answer to the question, “What is wrong with me?” Ideally, no clinician would want to treat a patient without knowing the diagnosis or, worse yet, erroneously treat a misdiagnosed illness. From the earliest moments of medical school, the defining quest toward becoming a knowledgeable and proficient physician is learning how to put a diagnostic label on patients’ symptoms and physical findings, and clinicians pride themselves on being “good diagnosticians.” Yet the centuries-old paradigm of mastering a long list of diseases, understanding their pathophysiology, and knowing the cardinal ways they manifest themselves in signs and symptoms, while still of fundamental importance, is being challenged by new insights illuminated by the glaring spotlight of diagnostic errors. Basic internal medicine diseases, such as asthma, pulmonary embolism, congestive heart failure, seizures, strokes, ruptured aneurysms, depression, and cancer, are misdiagnosed at shockingly high rates, often with 20–50% of patients either being mislabeled as having these conditions (false-positive diagnoses) or having their diagnosis missed or delayed (false negatives). How and why do physicians so often get it wrong, and what can we do to both diagnose and treat the problem of delayed diagnosis or misdiagnosis? Diagnosis is both an ancient art and a modern science. The current science of diagnosis, however, goes far beyond what typically comes to clinicians’ and patients’ minds when they conjure up images of stateof-the-art molecular, genetic, or imaging technologies. Improvements in diagnosis are just as likely to come from other areas, many with origins outside of medicine, as they are from advanced diagnostic testing modalities. These diverse sciences that the field of diagnostic safety has, and must, draw from include systems and human factors 
-
 # 9 
-
 ## Diagnosis: Reducing 
-
 ## Errors and Improving 
-
 ## Quality 
-
  Gordon Schiff 
-
  these data can be accessed for a fee. Similarly, national data for hospitals are available. The evidence to date indicates that patients have not made much use of such data, but that the data have had an important effect on provider and organization behavior. Instead, patients have relied on provider reputation to make choices, partly because little information was available until very recently and the information that was available was not necessarily presented in ways that were easy for patients to access. Problems still exist with quality metrics; many can be “gamed,” and even though providers are now nearly universally using electronic health records (EHRs), most metrics come from claims that include many inaccuracies. More metrics that leverage EHRs are sorely needed. However, many authorities think that, as more information about quality becomes available, it will become increasingly central to patients’ choices about where to access care. 
-
 #### Pay-for-Performance Currently, providers in the United States 
-
  get paid the same amount for a specific service, regardless of the quality of care delivered. The pay-for-performance theory suggests that, if providers are paid more for higher-quality care, they will invest in strategies that enable them to deliver that care. The current key issues in the pay-for-performance debate relate to (1) how effective it is, (2) what levels of incentives are needed, and (3) what perverse consequences are produced. The evidence on effectiveness is limited, although a number of studies are ongoing. With respect to incentive levels, most quality-based performance incentives have accounted for merely 1–2% of total payment in the United States to date. In the United Kingdom, however, 40% of general practitioners’ salaries have been placed at risk according to performance across a wide array of parameters; this approach has been associated with substantial improvements in reported quality performance, although it is still unclear to what extent this change represents better performance versus better reporting. The potential for perverse consequences exists with any incentive scheme. One problem is that, if incentives are tied to outcomes, there may be a tendency to transfer the sickest patients to other providers and systems. Another concern is that providers will pay too much attention to quality measures with incentives and ignore the rest of the quality picture. The validity of these concerns remains to be determined. Nonetheless, it appears likely that, under health care reform, the use of various payfor-performance schemes is likely to increase. 
-
 #### ■ CONCLUSIONS 
-
  The safety and quality of care in the United States could be improved substantially. A number of available interventions have been shown to improve the safety of care and should be used more widely; others are undergoing evaluation or soon will be. Quality also could be dramatically better, and the science of quality improvement continues to mature. Implementation of value-based approaches such as accountable care that include pay-for-performance related to safety and quality should make it much easier for organizations to justify investments in improving safety and quality parameters, including health information technology. However, many improvements will also require changing the structure of care—e.g., moving to a more team-oriented approach and ensuring that patients are more involved in their own care. Payment reform focusing on value seems very likely to progress and will likely include both positive incentives and penalties related to safety and quality performance. Measures of safety are still relatively immature and could be made much more robust; it would be particularly useful if organizations had measures they could use in routine operations to assess safety at a reasonable cost, and substantial research is addressing this. Although the quality measures available are more robust than those for safety, they still cover a relatively small proportion of the entire domain of quality, and more measures need to be developed. The public and payers are demanding better information about safety and quality as well as better performance in these areas. The clear implication is that these domains will have to be addressed directly by providers. 
-
 #### ■ FURTHER READING 
-
  Bates DW et al: Effect of computerized physician order entry and a team intervention on prevention of serious medication errors. JAMA 280:1311, 1998. 
-
  Bates DW et al: Two decades since to err is human: An assessment of progress and emerging priorities in patient safety. Health Aff (Millwood) 37:1736, 2018. Berwick DM: Era 3 for medicine and health care. JAMA 315:1329, 2016. Brennan TA et al: Incidence of adverse events and negligence in hospitalized patients. Results of the Harvard Medical Practice Study I. N Engl J Med 324:370, 1991. Chertow GM et al: Guided medication dosing for inpatients with renal insufficiency. JAMA 286:2839, 2001. Institute of Medicine. Report: To err is human: Building a safer health system. 1999. https://www.nap.edu/resource/9728/To-Err-isHuman-1999--report-brief.pdf. Institute of Medicine. Crossing the quality chasm: A new health system for the 21st century. 2001. https://www.nap.edu/catalog/10027/ crossing-the-quality-chasm-a-new-health-system-for-the. Landrigan C et al: Effect of reducing interns’ work hours on serious medical errors in intensive care units. N Engl J Med 351:1838, 2004. McGlynn EA et al: The quality of health care delivered to adults in the United States. N Engl J Med 348:2635, 2003. Pronovost P et al: An intervention to decrease catheter-related bloodstream infections in the ICU. N Engl J Med 355:2725, 2006. Erratum in: N Engl J Med 356:2660, 2007. Starmer AJ et al: Rates of medical errors and preventable adverse events among hospitalized children following implementation of a resident handoff bundle. JAMA 310:2262, 2013. 
-
 ---
 
 #### Diagnosis: Reducing Errors and Improving Quality 
@@ -2310,47 +1733,26 @@ Medical textbooks have historically given attention to “clinician reasoning”
 9. Social/demographic/stereotype bias: biases from personal or cultural beliefs     about women, minorities, or other patient groups for whom prejudices may     distort diagnostic assessment 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  TABLE 9-3 New Models for Conceptualizing Diagnosis and Diagnosis Improvement TRADITIONAL WAYS OF THINKING ABOUT DIAGNOSIS AND DIAGNOSTIC ERROR NEW PARADIGMS/BETTER WAYS TO THINK ABOUT DIAGNOSIS AND IMPROVING DIAGNOSIS General A good diagnostician gets it right the first time, almost all of the time 
-
  Diagnosis is an inexact science with inherent uncertainties Goal is to minimize errors and delays via more reliable systems and follow-up Lore of masterful/skillful academic expert diagnostician who knows/recalls everything; need to look to them if seeking diagnostic excellence 
-
  Less reliance on (fallible) human memory Quality diagnosis is based on well-coordinated distributed network/team of people and reliable processes All patients entitled to receive quality diagnosis, regardless of where and from whom they receive care Diagnosis is the doctor’s job Co-production of diagnosis among clinicians (including lab, radiology, specialists, nurses, social workers) and, especially, the patient and family Patients often viewed as overly anxious, exaggerating, time-consuming, questioning, with sometimes unreasonable demands and expectations 
-
  Patients are key allies in diagnosis; hold key information Need to address understandable/legitimate fears, desires for explanations Leveraging patient questions and questioning of diagnosis to stimulate rethinking the diagnosis where needed Diagnosis and treatment as separate stages in patient care (i.e., make a diagnosis, then treat) 
-
  Prioritizing diagnostic efforts to target treatable conditions More integrated strategies and timing for testing and treatment depending on urgency for treatment Clinical practices Order lots of tests to avoid missing diagnoses Judicious ordering: targeted, well-organized data and testing Appreciation of test limitations (false positive or negative, incidental findings, overdiagnosis, test risks) and resulting harms More referrals to avoid missing rarer/specialized diagnoses; concomitant utilization barriers (copays, prior authorization) to minimize overuse 
-
  “Pull systems” to lower barriers and make it easier to pose questions, obtain real-time virtual consults Co-management approaches to enable collaborative watch-and-wait conservative strategies where appropriate Frequent empirical drug trials when uncertain of diagnosis Conservative use of drugs to avoid confusing clinical picture or labeling patients with diseases they may not have Physician attention/efforts to ensure disease screening Automating, delegating clerical functions; teamwork to free up physician cognitive time Diagnosis errors and challenges Diagnostic error viewed as a personal failing Errors classified as either “system” or “cognitive” 
-
  Many errors/delays rooted in processes and system design/failures Errors multifactorial with interwoven, interacting, and inseparable cognitive and system factors Errors are infrequent; hit-and-miss ways to learn about errors 
-
  Errors are common; systematic proactive follow-up is needed to recognize potential for errors Surveilling of high-risk situations and one’s own diagnostic performance and outcomes Clinicians’ reactions: denial, defensive, others to blame, pointing to others also making similar errors 
-
  Culture of actively and nondefensively seeking to uncover, dig deep to learn from, and share errors and lessons Dreading complex, frustrating diagnostic dilemmas Welcoming/enjoying intellectual/professional challenges Adequate support (time, help, consultations) for more complex patients Diagnoses as distinct labels, events Diagnoses can be indistinct, interacting comorbidities, socially constructed, multifactorial, evolving over time, or have overlapping genotype-phenotype expressions Documentation/communication Viewed as time-consuming, mindless, primarily to document for billing code and/or bulwark against malpractice claims 
-
  Documentation as useful tool for reflecting, crafting, sharing assessments, differential diagnosis, reflecting about unanswered questions Opportunities for decision support interacting with computer Notes open for patients to read to help understand and critique diagnosis Say and write as little as possible about uncertainties, lest it be used against you in malpractice allegation 
-
  Share uncertainties to maximize communication and engagement with other caregivers, patients 
-
  Don’t let patient know about errors so they don’t become angry, mistrustful, or sue 
-
  Patients have right to honest disclosure; often find out about errors anyway (e.g., cancer evolves); anticipate, engage their concerns Patients advised to call if not better; no news is good news (test results: “We’ll call if anything is abnormal.”) 
-
  Systematic proactive follow-up to close loop on tests and symptoms, to check how patient is doing, monitor outcomes Global remedies Knowing/memorizing more medical knowledge Knowing more about the patient (including psychosocial, past history, environmental contexts) Attention to the “objective” data (physical exam, tests) to reliably make diagnoses 
-
  Renewed emphasis on history, history-taking, listening Acknowledgement of ubiquitous subjective cognitive biases; efforts to anticipate, recognize, counteract Exhortations to have “high index of suspicion” of various diagnoses 
-
  Less reliance on memory recall of lectures/reading; more just-in-time info look-up Affordances, alerts to red flags engineered into workflow Delineation of “don’t miss” diagnoses with design of context-relevant decision support reminders Ensuring physician is copied on everything, thorough/ voluminous notes, widespread reminders/alerts 
-
  Biggest problem is no longer lack of access to information, but rather information overload; strategies to organize, minimize Continuing medical education (CME) courses to expand medical knowledge 
-
  Real-time, context-aware reminders of pitfalls, critical differential diagnoses, and key differentiating features. Ready access to medical references, second opinions (Continued) 
-
 ---
 
 #### Diagnosis: Reducing Errors and Improving Quality 
@@ -2412,67 +1814,36 @@ Uncertainty should not be a license for complacency. Particularly for diseases t
  Tumor lysis syndrome Hypo-/hypercalcemia 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  on physical examination probably needs more careful assessment proceeding all the way to invasive biopsy, if necessary. Diagnostic pitfalls can be classified into a number of generic scenarios (Table 9-5). We now have large databases that have the potential to track “diagnoses outcomes”—i.e., whether a new diagnosis emerges that suggests an initial diagnosis was incorrect or a diagnosis of a patient’s symptoms was suboptimally delayed. This should, in the future, allow us to more rigorously focus on these cases, to identify contributing factors and recurring patterns, and to help point the way for systemwide improvement strategies. 
-
 #### ■ DIAGNOSIS SAFETY CULTURE 
-
  Just as diagnosing bacterial infections relies on a proper culture medium to grow and identify etiologic organisms, good diagnosis also requires a healthy safety culture that will allow it to grow and flourish. While clinicians may be inclined to view “safety culture” as something too subjective to be important in their quest to make a definitive diagnosis, this view is misguided. Multiple studies have demonstrated adverse consequences resulting from organizational cultures that inhibit openness, learning, and sharing and create a climate where staff 
-
  and patients are afraid to speak up when they observe problems or have questions. Most importantly, patients need to be encouraged to question diagnoses and be heard, particularly when they are not responding to treatment as expected or developing symptoms that are either not consistent with the diagnosis or represent possible red flags for other diagnoses or complications. Studies examining “high-reliability organizations” outside of medicine and “learning health care organizations” have distilled a series of fundamental properties that are correlated with more reliable and safer outcomes. Just as a thermometer or recording of a pulse can suggest how ill a patient is, we now have instruments that can measure safety culture. These safety measurement tools typically are validated staff surveys that assess (1) communication about errors with staff willingness to report mistakes because they do not feel these mistakes are held against them; (2) openness and encouragement to talk about hospital/office problems; (3) existence of a learning culture that seeks to learn from errors and improve based on lessons learned; (4) leadership commitment to safety, prioritizing safety over production speed and the “bottom line” by providing adequate staffing and resources to operate safely; and (5) accountability and transparency for following up safety events and concerns. Each of these generic culture attributes translates into specific implications for diagnostic safety. These include the following: 
-
 - Making it “safe” for clinicians to admit and share diagnostic errors 
-
 - Proactive identification, ownership, and accountability regarding     error-prone diagnostic workflow processes (particularly around test     results, referrals, and patient follow-up) 
-
 - Leadership making diagnosis improvement a top priority based on     recognition that patients and malpractice insurers report that diag-     nostic errors are the leading patient safety problem 
-
 - Mutual trust and respect for challenges that clinicians often face in     making diagnoses and caution in applying the lens of hindsight bias     in judging what in retrospect might seem like an “obvious” diagnosis     that a clinician initially missed 
-
 #### ■ HEALTH INFORMATION TECHNOLOGY AND THE 
-
 #### FUTURE OF DIAGNOSIS 
-
  Clinicians now spend more time interacting with computers than they do interacting with patients. This is especially true for diagnosis and will likely be even more so in the future. Interactions with patients, consultants, and other staff are increasingly mediated through the computer. Key activities, such as collecting patients’ history (past and current), interpreting data to make a diagnosis, conveying diagnostic assessments (to others on the team and, increasingly, to the patient via open notes), and tracking diagnostic trajectories as they evolve over time, are now computer based. With the rise of telemedicine, even elements of the physical examination have been rerouted to electronic encounters. While many complain the computer has “gotten in the way” of good diagnosis, distracting clinicians from quality time listening to patients and miring doctors in reading and writing notes filled with copied/ pasted/templated information of questionable currency and accuracy, medicine needs to harness the computer’s capabilities to improve diagnosis (Table 9-6). Although these basic diagnosis-supporting capabilities should be the foundation of the design of health information technology and everyday workflow, electronic medical records have historically been largely designed around other needs, such as ordering medications and billing and malpractice documentation. They need to be radically redesigned to better support diagnostic processes, as well as save, rather than squander, clinicians’ time. 
-
 #### ■ DIAGNOSIS OF DIAGNOSIS ERRORS AND SAFETY: 
-
 #### PRACTICAL CONCLUSIONS 
-
  In practice, there are frequent and meaningful opportunities for improving diagnosis in each of the three NAM-defined areas to make it a) more reliable, b) timely, and c) to improve diagnosis-related communication with patients. Clinicians in training, practicing physicians, nurses, and others should develop the habit of regularly asking 
-
  TABLE 9-5 Generic Types of Diagnostic Pitfalls PITFALL EXAMPLES Disease A mistaken for disease B Diseases often mistaken/misdiagnosed with each other 
-
  *	Aortic dissection misdiagnosed as acute myocardial infarction *	Bipolar disorder misdiagnosed as depression Misinterpretation of test result(s) False-positive or false-negative results with failure to recognize test limitations 
-
  *	Breast lump dismissed after negative mammogram *	Negative COVID-19 test early or late in course Failure to recognize atypical presentation, signs, and symptoms 
-
  *	Apathetic hyperthyroidism *	Sepsis in elderly patient who is afebrile or hypothermic Failure to assess appropriately the urgency of diagnosis Urgency of the clinical situation was not appreciated and/or delays critical diagnoses 
-
  *	Compartment syndrome *	Pericardial tamponade *	Tension pneumothorax 
-
  Perils of intermittent symptoms or misleading evolution Intermittent symptoms dismissed due to normal findings (exam, lab, electrocardiogram) when initially seen 
-
  *	“Lucid interval” in traumatic epidural hematoma *	Paroxysmal arrhythmias *	Intermittent hydrocephalus (Bruns’ syndrome) Confusion arising from response/ masking by empiric treatment 
-
  *	Empiric treatment with steroids, proton pump inhibitors, antibiotics, pain medication erroneously masking serious diagnosis Chronic disease or comorbidity presumed to account for new symptoms Especially in medically complex patients 
-
  *	Septic joint signs misattributed to chronic rheumatoid arthritis *	Mental status change due to infection or medication misattributed to underlying dementia Rare diagnosis: failure to consider or know 
-
  *	Many; fortunately, by definition, rare, but still warrant consideration especially if urgent or treatable Drug or environmental factor not considered/overlooked Underlying etiology causing/ contributing to symptoms, or disease progression not sought, uncovered 
-
  *	Ventricular arrhythmia related to QT-prolonging drug *	Achilles tendon rupture related to quinolone drugs 
-
  Failure to appreciate risk factors for particular disease 
-
  *	Family history of breast, colorectal cancer not solicited and/or weighed in diagnostic evaluation or screening Failure to appreciate limitations of physical exam Now with ↑ telemedicine, missing physical exam entirely 
-
  *	Overweighing absence of tenderness, swelling in deep vein thrombosis *	Missing pill-rolling tremor during telemedicine visit 
-
 ---
 
 #### Racial and Ethnic Disparities in Health Care 
@@ -2540,83 +1911,44 @@ and to diagnose safely, each practitioner must recognize that he or she is worki
  Lenny López, Joseph R. Betancourt 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  race/ethnicity, education, and socioeconomic status have persisted. For example, at every level of education and income, African Americans have lower life expectancy at age 25 than whites and Hispanics/Latinos. Blacks with a college degree or more education have lower life expectancy than whites and Hispanics who graduated from high school. Blacks have had lower life expectancy compared to whites for as long as data have been collected. From 1975 to 2003, the largest difference in life expectancy between blacks and whites was substantial (6.3 years for males and 4.5 years for females) (Fig. 10-1). The gap in life expectancy between the black and white populations decreased by 2.3 years between 1999 and 2013 from 5.9 to 3.6 years (4.4 years for males and 3.0 years for women) (Fig. 10-2). The life expectancy gap is augmented by worse health and higher disease burden. Cardiovascular-related diseases remain the leading cause of black-white differences in life expectancy. If all cardiovascular causes and diabetes are considered together, they account for 35% and 52% of the gap for males and females, respectively. Finally, place matters for health. Analysis of data from 2010 to 2015 demonstrate large geographic life expectancy gap variation at the census tract level (Fig. 10-3). Socioeconomic and race/ethnicity factors, behavioral and metabolic risk factors (prevalence of obesity, leisure-time physical inactivity, cigarette smoking, hypertension, diabetes), and health care factors (percentage of the population younger than 65 years who are insured, primary care access and quality, number of physicians per capita) explained 60%, 74%, and 27% of county-level variation in life expectancy, respectively. Combined, these factors explained 74% of this variation. Most of the association between socioeconomic and race/ethnicity factors and life expectancy was mediated through behavioral and metabolic risk factors. In addition to racial and ethnic disparities in health, there are racial and ethnic disparities in the quality of care for persons with access to 
-
  White females 
-
  Life expectancy (years) 60 
-
  70 
-
  1985 1995 2005 
-
  80 
-
  65 
-
  75 
-
  85 
-
  Black females 
-
  1985 1995 2005 Year 
-
  White males 
-
  1985 1995 2005 
-
  Black males 
-
  1985 1995 2005 
-
  FIGURE 10-1 Life expectancy at birth among black and white males and females in the United States, 1975–2003. (Adapted from S Harper, J Lynch, S Burris, GD Smith: Trends in the black-white life expectancy gap in the United States, 1983-2003. JAMA 297:1224, 2007.) 
-
  White male 
-
  Black male 
-
  1999 
-
  0 
-
  65 
-
  70 
-
  75 
-
  80 
-
  85 
-
  2001 
-
  Age (years) 
-
  2003 2005 2007 200920112013 
-
  Black 
-
  Black female 
-
  White female White 
-
  FIGURE 10-2 Life expectancy, by race and sex: United States, 1999–2013. (From KD Kochanek et al: NCHS Data Brief 218:1, 2015.) 
-
  the health care system. Seminal studies over several decades have consistently documented disparities in health care. For instance, studies have documented disparities in the treatment of pneumonia and congestive heart failure, with blacks receiving less optimal care than whites when hospitalized for these conditions. Moreover, blacks with endstage renal disease are referred less often to the transplant list than are their white counterparts (Fig. 10-4). Disparities have been found, for example, in the use of cardiac diagnostic and therapeutic procedures (with blacks being referred less often than whites for cardiac catheterization and bypass grafting), prescription of analgesia for pain control (with blacks and Hispanics/Latinos receiving less pain medication than whites for long-bone fractures and cancer), and surgical treatment of lung cancer (with blacks receiving less curative surgery than whites for non-small-cell lung cancer). Again, many of these disparities have occurred even when variations in factors such as insurance status, income, age, comorbid conditions, and symptom expression are taken into account. Finally, disparities in the quality of care provided at the sites where minorities tend to receive care have been shown to be an important additional contributor to overall disparities. The 2019 National Healthcare Quality and Disparities Report, released by the Agency for Healthcare Research and Quality, tracks about 250 health care process, outcome, and access measures, across many diseases and settings. This annual report is particularly important because most studies of disparities have not been longitudinally repeated with the same methodology to document trends and changes in disparities over time. This report found that some disparities were getting smaller from 2000 through 2016–2018, but disparities persisted and some even worsened, especially for poor and uninsured populations. For about 40% of quality measures, blacks (82 of 202 measures) and American Indians and Alaska Natives (47 of 116 measures) received worse care than whites. For more than onethird of quality measures, Hispanics (61 of 177 measures) received worse care than whites. Asians and Native Hawaiians/Pacific Islanders received worse care than whites for about 30% of quality measures, but Asians also received better care for about 30% of quality measures (Fig. 10-5). Of note, for those quality measures that demonstrated disparities at baseline, >90% of these measures showed no improvement since 2000 (Fig. 10-6). 
-
 #### ■ ROOT CAUSES OF DISPARITIES 
-
 #### Race, Racism, and Health Race and racism are core elements of any 
-
  explanatory model on racial and ethnic disparities in health and health care. Our nation’s history of slavery, segregation, separate but “equal” health care, and medical experimentation, among a myriad of other ways in which racism has manifested in the United States, has played a key role in the existence and persistence of these disparities. It is now well accepted that race is a social category without biologic foundation and a product of historical racism. Nevertheless, it is clear that racism has a biologic impact as a form of psychosocial stress. It is now well established 
-
 ---
 
 #### Racial and Ethnic Disparities in Health Care 
@@ -2676,105 +2008,55 @@ and to diagnose safely, each practitioner must recognize that he or she is worki
 that psychosocial stress negatively impacts health through psychophysiologic reactivity causing hyperstimulation of the sympathetic-adrenalmedullary system and the hypothalamic-pituitary-adrenal axis, leading to vascular inflammation, endothelial dysfunction, and neurohormonal dysregulation causing an acceleration of cardiovascular disease. Behavioral changes occurring as adaptations or coping responses to stressors such as increased smoking, decreased exercise and sleep, and 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  Better 
-
  Black (n=202) Asian (n=185) AI/AN (n=116) NHPI (n=72) Hispanic, all races (n=177) 
-
  23 0% 
-
  20% 
-
  40% 
-
  60% 
-
  80% 
-
  100% 
-
  97 
-
  82 
-
  56 
-
  77 
-
  52 
-
  13 
-
  56 
-
  11 
-
  37 
-
  47 24 
-
  38 
-
  78 
-
  61 
-
  Same Worse 
-
  FIGURE 10-5 Number and percentage of quality measures for which members of selected groups experienced better, same, or worse quality of care compared with reference group (white) for the most recent data year, 2014, 2016, 2017, or 
-
 **2018.** AI/AN, American Indian or Alaska Native; NHPI, Native Hawaiian/Pacific Islander (From 2019 National Healthcare Quality and Disparities Report. Rockville, MD: Agency for Healthcare Research and Quality; December 2020. AHRQ Pub. No. 20(21)-0045-EF.) 
-
  Black (n=58) 
-
  3 
-
  Improving Not changing Worsening 
-
  Asian (n=37) 
-
  1 AI/AN (n=34) 
-
  2 NHPI (n=16) 
-
  1 Hispanic, all races (n=53) 
-
  5 
-
  55 35 32 15 48 
-
  0% 
-
  20% 
-
  40% 
-
  60% 
-
  80% 
-
  100% 
-
  FIGURE 10-6 Number and percentage of quality measures with disparity at baseline for which disparities related to race and ethnicity were improving, not changing, or worsening over time, 2000 through 2014, 2015, 2016, 2017, or 2018. AI/ AN, American Indian or Alaska Native; NHPI, Native Hawaiian/Pacific Islander. (From 2019 National Healthcare Quality and Disparities Report. Rockville, MD: Agency for Healthcare Research and Quality; December 2020. AHRQ Pub. No. 20(21)-0045-EF.) 
-
  kidney transplantation. It is also not clear how to apply the race factor when the patient’s race is unknown and/or ambiguous, as in those who are multiracial. This disparity-inducing scenario could be avoided through the use of cystatin C–based eGFR estimation, which has been demonstrated to be more accurate than the CKD-EPI equation and for which race is not required in estimation. The application of artificial intelligence (AI) analytics to large amounts of clinical electronic data—big data—holds the promise to better understand health care costs, utilization, resource allocation, and population health monitoring. Machine learning models can identify the statistical patterns in large amounts of historically collected data. These data naturally contain the patterning of preexisting health care disparities created by socially and historically structured inequities. This biased patterning can lead to incorrect predictions, withholding of resources, and worse outcomes for vulnerable populations. Recently, analysis of a commercial, national, proprietary prediction algorithm, affecting millions of patients, exhibited racial bias. Historical cost data were used to predict clinical risk and allocate additional clinical services for highcost patients. Algorithmic bias arose because black patients historically have less access to health care and thus less money is spent on their care compared to white patients. Thus, blacks, who tended to be sicker than white patients, received lower clinical risk scores and thus were less likely to receive additional clinical services. The observed allocation bias was remedied using direct measures of illness and illness severity. Thus, machine learning algorithms are not inherently free of bias and should be assessed for accuracy and fairness. In summary, there are many ways in which racism has contributed and does and will continue to contribute to racial and ethnic disparities in health and health care. 
-
 #### ■ SOCIAL DETERMINANTS 
-
 #### OF HEALTH 
-
  Minority Americans have poorer health outcomes than whites from preventable and treatable conditions such as cardiovascular disease, diabetes, asthma, cancer, and HIV/AIDS. Multiple factors contribute to these racial and ethnic disparities in health. The landmark 
-
  National Academy of Medicine (formerly, the Institute of Medicine [IOM]) report, Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care, published in 2002, summarized the scientific evidence on health disparities and provided an important framework for conceptualizing and defining racial/ ethnic disparities. Since the Unequal Treatment report, there has been a growing empiric evidence base on how racism and the SDOH, often working in synergy, create and sustain disparities. Mechanistically, the biopsychosocial model brings together the social and physical characteristics of the environment with individual physical and psychological attributes. These environmental and individual characteristics, in turn, influence health behaviors and stress-related physiologic pathways that directly impact health. The National Institute on Minority Health and Health Disparities SDOH model builds on prior models and adds the time element across the life course of the individual in recognition of the long-lasting health effects of socioeconomic exposures (Fig. 10-7). The resulting matrix has the domains of influence of health (biological, behavioral, physical and built environment, sociocultural environment, health care system) along the y-axis and the levels of influence on health (individual, interpersonal, community, societal) along the x-axis. Cells are not mutually exclusive, and examples of factors within each cell are illustrative and not comprehensive. This framework emphasizes the complex multidomain etiologies of disparities across the factors in the conceptual matrix thus highlighting the limitation of individual-level focused research and policy. In addition to race and racism, Unequal Treatment identified a set of root causes that included health system, provider-level, and patientlevel factors. 
-
 #### Health System Factors * HEALTH SYSTEM COMPLEXITY Even 
-
  among persons who are insured and educated and who have a high degree of health literacy, navigating the U.S. health care system can be complicated and confusing. Some individuals may be at higher risk for receiving substandard care because of their difficulty navigating the system’s complexities. These individuals may include those from cultures 
-
 ---
 
 #### Racial and Ethnic Disparities in Health Care 
@@ -2870,43 +2152,24 @@ Significant evidence highlights the impact of sociocultural factors, race, ethni
  Health outcomes FIGURE 10-8 The link between effective communication and patient satisfaction, adherence, and health outcomes. (Institute of Medicine. 2003. Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care. https://doi .org/10.17226/12875. Adapted and reproduced with permission from the National Academy of Sciences, Courtesy of the National Academies Press, Washington, D.C.) 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  In addition, in the setting of even a minimal language barrier, provider–patient communication without an interpreter is recognized as a major challenge to effective health care delivery. These communication barriers for patients with limited English proficiency lead to frequent misunderstanding of diagnosis, treatment, and follow-up plans; inappropriate use of medications; lack of informed consent for surgical procedures; high rates of adverse events with more serious clinical consequences; and a lower-quality health care experience than is provided to patients who speak fluent English. Physicians who have access to trained interpreters report a significantly higher quality of patient–physician communication than physicians who use other methods. Communication issues related to discordant language disproportionately affect minorities and likely contribute to racial/ethnic disparities in health care. CLINICAL DECISION-MAKING Theory and research suggest that variations in clinical decision-making may contribute to racial and ethnic disparities in health care. Two factors are central to this process: clinical uncertainty and stereotyping. First, a doctor’s decision-making process is nested in clinical uncertainty. Doctors depend on inferences about severity based on what they understand about illness and the information obtained from the patient. A doctor caring for a patient whose symptoms he or she has difficulty understanding and whose “signals”—the set of clues and indications that physicians rely on to make clinical decisions—are hard to read may make a decision different from the one that would be made for another patient who presents with exactly the same clinical condition. Given that the expression of symptoms may differ among cultural and racial groups, doctors—the overwhelming majority of whom are white—may understand symptoms best when expressed by patients of their own racial/ethnic groups. The consequence is that white patients may be treated differently from minority patients. Differences in clinical decisions can arise from this mechanism even when the doctor has the same regard for each patient (i.e., is not prejudiced). Second, the literature on social cognitive theory highlights how natural tendencies to stereotype may influence clinical decision-making. Stereotyping can be defined as the way in which people use social categories (e.g., race, gender, age) in acquiring, processing, and recalling information about others. Faced with enormous information loads and the need to make many decisions, people often subconsciously simplify the decision-making process and lessen cognitive effort by using “categories” or “stereotypes” that bundle information into groups or 
-
  types that can be processed more quickly. Although functional, stereotyping can be systematically biased, as people are automatically classified into social categories based on dimensions such as race, gender, and age. Many people may not be aware of their attitudes, may not consciously endorse specific stereotypes, and paradoxically may consider themselves egalitarian and not prejudiced. Stereotypes may be strongly influenced by the messages presented consciously and unconsciously in society. For instance, if the media and our social/professional contacts tend to present images of minorities as being less educated, more violent, and nonadherent to health care recommendations, these impressions may generate stereotypes that unnaturally and unjustly impact clinical decision-making. As signs of racism, classism, gender bias, and ageism are experienced (consciously or unconsciously) in our society, stereotypes may be created that impact the way doctors manage patients from these groups. On the basis of training or practice location, doctors may develop certain perceptions about race/ethnicity, culture, and class that may evolve into stereotypes. For example, many medical students and residents are trained—and minorities cared for—in academic health centers or public hospitals located in socioeconomically disadvantaged areas. As a result, doctors may begin to equate certain races and ethnicities with specific health beliefs and behaviors (e.g., “these patients” engage in risky behaviors, “those patients” tend to be noncompliant) that are more associated with the social environment (e.g., poverty) than with a patient’s racial/ethnic background or cultural traditions. This “conditioning” phenomenon may also be operative if doctors are faced with certain racial/ethnic patient groups who frequently do not choose aggressive forms of diagnostic or therapeutic intervention. The result over time may be that doctors begin to believe that “these patients” do not like invasive procedures; thus, they may not offer these procedures as options. A wide range of studies have documented the potential for provider biases to contribute to racial/ethnic disparities in health care. For example, one study measured physicians’ unconscious (or implicit) biases and showed that these were related to differences in decisions to provide thrombolysis for a hypothetical black or white patient with a myocardial infarction. It is important to differentiate stereotyping from prejudice and discrimination. Prejudice is a conscious prejudgment of individuals that may lead to disparate treatment, and discrimination is conscious and intentional disparate treatment. All individuals stereotype subconsciously, yet, if left unquestioned, these subconscious assumptions may lead to lower-quality care for certain groups because of differences in clinical decision-making or differences in communication and patientcenteredness. For example, one study tested physicians’ unconscious racial/ethnic biases and showed that patients perceived more biased physicians as being less patient-centered in their communication. What is particularly salient is that stereotypes tend to be activated most in environments where the individual is stressed, multitasking, and under time pressure—the hallmarks of the clinical encounter. In fact, in a survey of close to 16,000 physicians, 42% admitted that bias— including by race and ethnicity—impacted their clinical decisionmaking. Interestingly, emergency medicine physicians, who work in environments of stress, time pressure, risk, and where they are multitasking, topped the list by discipline at 62%. 
-
 #### Patient-Level Factors Lack of trust has become a major concern 
-
  for many health care institutions today. For example, an IOM report, To Err Is Human: Building a Safer Health System, documented alarming rates of medical errors that made patients feel vulnerable and less trustful of the U.S. health care system. The increased media and academic attention to problems related to quality of care (and of disparities themselves) has clearly diminished trust in doctors and nurses. Trust is a crucial element in the therapeutic alliance between patient and health care provider. It facilitates open communication and is directly correlated with adherence to the physician’s recommendations and the patient’s satisfaction. In other words, patients who mistrust their health care providers are less satisfied with the care they receive, and mistrust of the health care system greatly affects patients’ use of services. Mistrust can also result in inconsistent care, “doctor-shopping,” 
-
  0 
-
  20 
-
  40 
-
  To talWhite African American 
-
  Hispanic Asian American 
-
  19% 16% 
-
  23% 
-
  33% 
-
  27% 
-
  Percent of adults with one or more communication problems* 
-
  Base: Adults with health care visit in past two years *Problems include understanding doctor, feeling doctor listened, had questions but did not ask. 
-
  FIGURE 10-9 Communication difficulties with physicians, by race/ethnicity. The reference population consisted of 6722 Americans ≥18 years of age who had made a medical visit in the previous 2 years and were asked whether they had had trouble understanding their doctors, whether they felt that the doctors had not listened, and whether they had had medical questions they were afraid to ask. (Reproduced with permission from the Commonwealth Fund Health Care Quality Survey, 2001.) 
-
 ---
 
 #### Racial and Ethnic Disparities in Health Care 
@@ -2972,31 +2235,18 @@ systems to track and monitor racial and ethnic disparities in health care are la
 **FIGURE 10-10 Patient perspectives regarding unfair treatment (Tx) based on race/ ethnicity.** The reference population consisted of 3884 individuals surveyed about how fairly they had been treated in the health care system in the past and how fairly they felt they would be treated in the future on the basis of their race/ethnicity. (From Race, Ethnicity & Medical Care: A Survey of Public Perceptions and Experiences. Kaiser Family Foundation, 2005.) 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  ethnic disparities in health care by describing how clinicians—despite the existence of well-delineated practice guidelines—may offer (consciously or unconsciously) different diagnostic and therapeutic options to different patients on the basis of their race or ethnicity. Therefore, the widespread adoption and implementation of evidence-based guidelines is a key recommendation in eliminating disparities. For instance, evidence-based guidelines are now available for the management of diabetes, HIV/AIDS, cardiovascular diseases, cancer screening and management, and asthma—all areas where significant disparities exist. As part of ongoing quality-improvement efforts, particular attention should be paid to the implementation of evidence-based guidelines for all patients, regardless of their race and ethnicity. SUPPORT FOR THE USE OF LANGUAGE INTERPRETATION SERVICES IN THE CLINICAL SETTING As described previously, a lack of efficient and effective interpreter services in a health care system can lead to patient dissatisfaction, to poor comprehension and adherence, and thus to ineffective/lower-quality care for patients with limited English proficiency. Unequal Treatment’s recommendation to support the use of interpretation services has clear implications for delivery of quality health care by improving doctors’ ability to communicate effectively with these patients. INCREASES IN THE PROPORTION OF UNDERREPRESENTED MINORITIES IN THE HEALTH CARE WORKFORCE Data for 2018 from the Association of American Medical Colleges indicate that of active physicians, 56.2% identified as white, 5.8% identified as Hispanic, 5.0% identified as black or African American, and 0.3% identified as Native American or Alaskan Natives. Furthermore, U.S. national data show that only 3.6% of full-time faculty are black or African American, and 5.5% are Hispanic, Latino, or of Spanish origin (alone or in combination with another race/ethnicity), compared to 63.9% who identified as white. Longitudinal data demonstrate that minority faculty are more likely to be at or below the rank of assistant professor, while whites composed the highest proportion of full professors. Similarly, several studies have found that both Hispanic and black faculty were promoted at lower rates than their white counterparts. Despite representing ~30% of the U.S. population (a number projected to almost double by 2050), minority students are still underrepresented in medical schools. In 2018, matriculates to U.S. medical schools were 6.2% Latino, 7.1% African American, 0.1% Native Hawaiian or Other Pacific Islander, and 0.2% Native American or Alaskan Native. These percentages have decreased or remained nearly the same since 2007. It will be difficult to develop a diverse physician workforce that can meet the needs of an increasingly diverse population without dramatic changes in the racial and ethnic composition of medical student bodies. Long-term investment in pipeline programs and the nearly universal adoption of holistic admissions (a process by which schools consider each applicant individually to determine how they might contribute to the learning environment and the workforce instead of relying just on test scores and grades) have produced modest results. Institutional change in medical schools, focused on creating nurturing, inclusive, and equity-focused environments that dismantle the structural racism that has created the opportunity gap faced by many minority students, is needed to address this important workforce challenge. 
-
 #### Provider Interventions * INTEGRATION OF CROSS-CULTURAL EDU
-
 #### CATION INTO THE TRAINING OF ALL HEALTH CARE PROFESSIONALS 
-
  The goal of cross-cultural education is to improve providers’ ability to understand, communicate with, and care for patients from diverse backgrounds. Such education focuses on enhancing awareness of sociocultural influences on health beliefs and behaviors and on building skills to facilitate understanding and management of these factors in the medical encounter. Cross-cultural education includes curricula on health care disparities, use of interpreters, and effective communication and negotiation across cultures. These curricula can be incorporated into health professions training in medical schools, residency programs, nursing schools, and other health professions programs, and can be offered as a component of continuing education. Despite the importance of this area of education and the attention it has attracted from medical education accreditation bodies, a national survey of 
-
  senior resident physicians by Weissman and colleagues found that up to 28% felt unprepared to deal with cross-cultural issues, including caring for patients who have religious beliefs that may affect treatment, patients who use complementary medicine, patients who have health beliefs at odds with Western medicine, patients who mistrust the health care system, and new immigrants. In a study at one medical school, 70% of fourth-year students felt inadequately prepared to care for patients with limited English proficiency. Efforts to incorporate crosscultural education into medical education will contribute to improving communication and to providing a better quality of care for all patients. INCORPORATION OF TEACHING ON THE IMPACT OF RACE, ETHNICITY, AND CULTURE ON CLINICAL DECISION-MAKING Unequal Treatment and more recent studies found that stereotyping by health care providers can lead to disparate treatment based on a patient’s race or ethnicity. The Liaison Committee on Medical Education, which accredits medical schools, issued a directive that medical education should include instruction on how a patient’s race, ethnicity, and culture might unconsciously impact communication and clinical decision-making. 
-
 #### Patient Interventions Difficulty navigating the health care sys
-
  tem and obtaining access to care can be a hindrance to all populations, particularly to minorities. Similarly, lack of empowerment or involvement in the medical encounter by minorities can be a barrier to care. Patients need to be educated on how to navigate the health care system and how best to access care. Interventions should be used to increase patients’ participation in treatment decisions. 
-
 #### General Recommendations * INCREASE AWARENESS OF RACIAL/ 
-
 #### ETHNIC DISPARITIES IN HEALTH CARE Efforts to raise awareness of 
-
  racial/ethnic health care disparities have done little for the general public but have been fairly successful among physicians, according to a Kaiser Family Foundation report. In 2006, nearly 6 in 10 people surveyed believed that blacks received the same quality of care as whites, and 5 in 10 believed that Latinos received the same quality of care as whites. These estimates are similar to findings in a 1999 survey. Despite this lack of awareness, most people believed that all Americans deserve quality care, regardless of their background. In contrast, the level of awareness among physicians has risen sharply. In 2002, the majority (69%) of physicians said that the health care system “rarely or never” treated people unfairly on the basis of their racial/ethnic background. In 2005, less than one-quarter (24%) of physicians disagreed with the statement that “minority patients generally receive lower-quality care than white patients.” More recently, a survey by WebMD showed that 42% of 16,000 physicians admitted that their own personal biases impact their clinical decision-making, including on characteristics such as race and ethnicity. Increasing awareness of racial and ethnic health disparities, and their root causes, among health care professionals and the public is an important first step in addressing these disparities. The ultimate goals are to generate discourse and to mobilize action to address disparities at multiple levels, including health policymakers, health systems, and the community. CONDUCT FURTHER RESEARCH TO IDENTIFY SOURCES OF DISPARITIES AND PROMISING INTERVENTIONS While the literature that formed the basis for the findings reported and recommendations made in Unequal Treatment provided significant evidence for racial and ethnic disparities, additional research is needed in several areas. First, most of the literature on disparities focuses on black-versus-white differences; much less is known about the experiences of other minority groups. Improving the ability to collect racial and ethnic patient data should facilitate this process. However, in instances where the necessary systems are not yet in place, racial and ethnic patient data may be collected prospectively in the setting of clinical or health services research to more fully elucidate disparities for other populations. Second, much of the literature on disparities to date has focused on defining areas in which these disparities exist, but less has been done to identify the multiple factors that contribute to the disparities or to test interventions to address these factors. There is clearly a need for research that identifies promising practices and solutions to disparities. 
-
 ---
 
 #### Ethical Issues in Clinical Medicine 
@@ -3044,35 +2294,20 @@ and of health care providers impacts multiple facets of the medical encounter, w
  Christine Grady, Bernard Lo 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  encounter in their work. Physicians make ethical judgments about clinical situations every day. They should prepare for lifelong learning about ethical issues so they can respond appropriately. Traditional professional codes and ethical principles provide instructive guidance for physicians but need to be interpreted and applied to each situation. When facing or struggling with a challenging ethical issue, physicians may need to reevaluate their basic convictions, tolerate uncertainty, and maintain their integrity while respecting the opinions of others. Physicians should articulate their concerns and reasoning, discuss and listen to the views of others involved in the case, and utilize available resources, including other health care team members, palliative care, social work, and spiritual care. Moreover, ethics consultation services or a hospital ethics committee can help to clarify issues and identify strategies for resolution, including improving communication and dealing with strong or conflicting emotions. Through these efforts, physicians can gain deeper insight into the ethical issues they face and usually reach mutually acceptable resolutions to complex problems. 
-
 ## APPROACHES TO ETHICAL PROBLEMS 
-
  Several approaches are useful for resolving ethical issues, including approaches based on ethical principles, virtue ethics, professional oaths, and personal values. These various sources of guidance may seem to conflict in a particular case, leaving the physician in a quandary. In a diverse society, different individuals may turn to different sources of moral guidance. In addition, general moral precepts often need to be interpreted and applied to a particular clinical situation. 
-
 #### ■ ETHICAL PRINCIPLES 
-
  Ethical principles can serve as general guidelines to help physicians determine the right thing to do. 
-
 #### Respecting Patients Physicians should always treat patients with 
-
  respect, which entails understanding patients’ goals, providing information, communicating effectively, obtaining informed and voluntary consent, respecting informed refusals, and protecting confidentiality. Different clinical goals and approaches are often feasible, and interventions can result in both benefit and harm. Individuals differ in how they value health and medical care and how they weigh the benefits and risks of medical interventions. Generally, physicians should respect patients’ values and informed choices. Treating patients with respect is especially important when patients are responding to experiences of, or fears about, disrespect and discrimination. GOALS AND TREATMENT DECISIONS Physicians should provide relevant and accurate information for patients about diagnoses, current clinical circumstances, expected future course, prognosis, treatment options, and uncertainties, and discuss patients’ goals of care. Physicians may be tempted to withhold a serious diagnosis, misrepresent it by using ambiguous terms, or limit discussions of prognosis or risks for fear that patients will become anxious or depressed. Providing honest information about clinical situations promotes patients’ autonomy and trust as well as sound communication with patients and colleagues. When physicians have to share bad news with patients, they should adjust the pace of disclosure, offer empathy and hope, provide emotional support, and call on other resources such as spiritual care or social work to help patients cope. Some patients may choose not to receive such information or may ask surrogates to make decisions on their behalf, as is common with serious diagnoses in some traditional cultures. SHARED DECISION-MAKING AND OBTAINING INFORMED CONSENT Physicians should engage their patients in shared decision-making about their health and their care, whenever appropriate. Physicians should discuss with patients the nature, risks, and benefits of proposed care; any alternative; and the likely consequences of each option. Physicians promote shared decision-making by informing and educating patients, answering their questions, checking that they understand key issues, making recommendations, and helping them to deliberate. Medical jargon, needlessly complicated explanations, or the provision of too much information at once may overwhelm patients. Increasingly, decision aids can assist patients in playing a more active role in 
-
  decision-making, improving the accuracy of their perception of risk and benefit, and helping them feel better informed and clearer about their values. Informed consent is more than obtaining signatures on consent forms and involves disclosure of honest and understandable information to promote understanding and choice. Competent, informed patients may refuse recommended interventions and choose among reasonable alternatives. In an emergency, treatment can be given without informed consent if patients cannot give their own consent and delaying treatment while surrogates are contacted would jeopardize patients’ lives or health. People are presumed to want such emergency care unless they have previously indicated otherwise. Respect for patients does not entitle patients to insist on any care or treatment that they want. Physicians are not obligated to provide interventions that have no physiologic rationale, that have already failed, or that are contrary to evidence-based practice recommendations or good clinical judgment. Public policies and laws also dictate certain decisions—e.g., allocation of scarce medical resources during a public health crisis such as the COVID-19 pandemic, use of cadaveric organs for transplantation, and requests for physician aid in dying. 
-
  CARING FOR PATIENTS WHO LACK DECISION-MAKING CAPACITY Some patients are unable to make informed decisions because of unconsciousness, advanced dementia, delirium, or other medical conditions. Courts have the legal authority to determine that a patient is legally incompetent, but in practice, physicians usually determine when patients lack the capacity to make particular health care decisions and arrange for authorized surrogates to make decisions, without involving the courts. Patients with decision-making capacity can express a choice and appreciate their medical situation; the nature, risks, and benefits of proposed care; and the consequences of each alternative. Patient choices should be consistent with their values and not the result of delusions, hallucinations, or misinformation. Physicians should use available and validated assessment tools, resources such as psychiatry or ethics consultation, and clinical judgment to ascertain whether individuals have the capacity to make decisions for themselves. Patients should not be assumed to lack capacity if they disagree with recommendations or refuse treatment. Such decisions should be probed, however, to ensure the patient is not deciding based on misunderstandings and has the capacity to make an informed decision. When impairments are fluctuating or reversible, decisions should be postponed if possible until the patient recovers decision-making capacity. When a patient lacks decision-making capacity, physicians seek an appropriate surrogate. Patients may designate a health care proxy through an advance directive or on a Physician Orders for LifeSustaining Treatment form; such choices should be respected (see Chap. 12 ). For patients who lack decision-making capacity and have not previously designated a health care proxy, family members usually serve as surrogates. Statutes in most U.S. states delineate a prioritized list of relatives to make medical decisions. Patients’ values, goals, and previously expressed preferences guide surrogate decisions. However, the patient’s current best interests may sometimes justify overriding earlier preferences if an intervention is likely to provide significant benefit, previous statements do not fit the situation well, or the patient gave the surrogate leeway in decisions. 
-
  MAINTAINING CONFIDENTIALITY Maintaining confidentiality is essential to respecting patients’ autonomy and privacy; it encourages patients to seek treatment and to discuss problems candidly. However, confidentiality may be overridden to prevent serious harm to third parties or the patient. Exceptions to confidentiality are justified when the risk to others is serious and probable, no less restrictive measures can avert risk, and the adverse effects of overriding confidentiality are minimized and deemed acceptable by society. For example, laws require physicians to report cases of tuberculosis, sexually transmitted infection, elder or child abuse, and domestic violence. 
-
 #### Beneficence or Acting in Patients’ Best Interests The prin
-
  ciple of beneficence requires physicians to act for the patient’s benefit. Patients typically lack medical expertise, and illness may make them vulnerable. Patients rely on and trust physicians to treat them with 
-
 ---
 
 #### Ethical Issues in Clinical Medicine 
@@ -3094,49 +2329,27 @@ cians about how to ethically treat patients and make decisions about allocating 
  Virtue ethics focuses on physicians’ character and qualities, with the expectation that doctors will cultivate virtues such as compassion, trustworthiness, intellectual honesty, humility, and integrity. Proponents argue that, if such characteristics become ingrained, they help guide physicians in unforeseen situations. Moreover, following ethical precepts or principles without any of these virtues could lead to uncaring doctor–patient relationships. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
 #### ■ PROFESSIONAL OATHS AND CODES 
-
  Professional oaths and codes are useful guides for physicians. Most physicians take oaths during their medical training, and many are members of professional societies that have professional codes. Physicians pledge to the public and to their patients that they will be guided by the principles and values in these oaths or codes and commit to the spirit of the ethical ideals and precepts represented in oaths and professional codes of ethics. 
-
 #### ■ PERSONAL VALUES 
-
  Personal values, cultural traditions, and religious beliefs are important sources of personal morality that help physicians address ethical issues and cope with any moral distress they may experience in practice. While essential, personal morality alone is a limited ethical guide in clinical practice. Physicians have role-specific ethical obligations that go beyond their obligations as good people, including the duties to obtain informed consent and maintain confidentiality discussed earlier. Furthermore, in a culturally and religiously diverse world, physicians should expect that some patients and colleagues will have personal moral beliefs that differ from their own. 
-
 ## ETHICALLY COMPLEX PROFESSIONAL 
-
 ## ISSUES FOR PHYSICIANS 
-
 #### ■ CLAIMS OF CONSCIENCE 
-
  Some physicians, based on their personal values, have conscientious objections to providing, or referring patients for, certain treatments such as contraception or physician aid in dying. Although physicians should not be asked to violate deeply held moral beliefs or religious convictions, patients need medically appropriate, timely care and should always be treated with respect. Institutions such as clinics and hospitals have a collective ethical duty to provide care that patients need while making reasonable attempts to accommodate health care workers’ conscientious objections—for example, when possible by arranging for another professional to provide the service in question. Patients seeking a relationship with a doctor or health care institution should be notified in advance of any conscientious objections to the provision of specific interventions. Since insurance often constrains patients’ selection of physicians or health care facilities, switching providers can be burdensome. There are also important limits on claims of conscience. Health care workers may not insist that patients receive unwanted medical interventions. They also may not refuse to treat or discriminate against patients because of their race, ethnicity, disability, genetic information, or diagnosis. Such discrimination is illegal and violates physicians’ duties to respect patients. Refusal to treat patients for other reasons such as sexual orientation, gender identity, or other personal characteristics is legally more controversial, yet ethically inappropriate because it falls short of helping patients in need and respecting them as persons. 
-
 #### ■ PHYSICIAN AS GATEKEEPER 
-
  In some cases, patients may ask their physicians to facilitate access to services that the physician has ethical qualms about providing. For example, a patient might request a prescription for a cognitively enhancing medication to temporarily augment his cognitive abilities in order to take an exam or apply for employment. Patients may request more pain medication than the physician believes is warranted for the given situation or marijuana to facilitate sleep. Patients may ask their physician to sign a waiver to avoid vaccines for reasons that are not included in state exceptions (see Chap. 3 ). A physician may feel uncomfortable prescribing attention-deficit/hyperactivity disorder medications to a young child because she is not convinced that the possible benefit justifies the risks to the child despite the parent’s request. In these circumstances, the physician should work with the patient or parent to understand the reasons for their requests, some of which might be legitimate. In addition to considering possible risks and benefits to the patient, the physician should consider how meeting the request might affect other patients, societal values, and public trust in the medical profession. If the physician determines that fulfilling the request requires deception, is unfair, jeopardizes her professional 
-
  responsibilities, or is inconsistent with the patient’s best medical interests, the physician should decline and explain the reasons to the patient. 
-
 #### ■ MORAL DISTRESS 
-
  Health care providers, including residents, medical students, and experienced physicians, may experience moral distress when they feel that ethically appropriate action is hindered by institutional policies or culture, decision-making hierarchies, limited resources, or other reasons. Moral distress can lead to anger, anxiety, depression, frustration, fatigue, work dissatisfaction, and burnout. A physician’s health and well-being can affect how he or she cares for patients. Discussing complex or unfamiliar clinical situations with colleagues and seeking assistance with difficult decisions can help alleviate moral distress, as can a healthy work environment characterized by open communication, mutual respect, and emphasis on the common goal of good patient care. In addition, physicians should take good care of their own well-being and be aware of the personal and system factors associated with stress, burnout, and depression. Health care organizations should provide a supportive work environment, counseling, and other support services when needed. 
-
 #### ■ OCCUPATIONAL RISKS AND BURDENS 
-
  Physicians accept some physical risk in fulfilling their professional responsibilities, including exposure to infectious agents or toxic substances, violence in the workplace, and musculoskeletal injury. Nonetheless, most physicians, nurses, and other hospital staff willingly care for patients, despite personal risk and fear, grueling hours, and sometimes inadequate personal protective equipment or information. During the COVID-19 pandemic, many communities honored clinicians’ dedication to professional ideals, and some medical students who were relieved from in-person patient care responsibilities volunteered to support front-line workers in other ways. The burdens of navigating professional and personal responsibilities fall more heavily on women health care providers. Health care institutions are responsible for reducing occupational risk and burden by providing proper information, training and supervision, protective equipment, infrastructure and workflow modifications, and emotional and psychological support to physicians. Clinical leaders need to acknowledge fears about personal safety and take steps to mitigate the impact of work on family responsibilities, moral distress, and burnout. 
-
 #### ■ USE OF SOCIAL MEDIA AND PATIENT PORTALS 
-
  Increasingly, physicians use social and electronic media to share information and advice with patients and other providers. Social networking may be especially useful in reaching young or otherwise hard-to-access patients. Patients increasingly access their physicians’ notes through patient portals, which aim to transparently share information, promote patient engagement, and increase adherence. Physicians should be professional and respectful and consider patient confidentiality, professional boundaries, and therapeutic relationships when posting to social media or writing notes for the portal. Overall, appropriate use of these platforms can enhance communication and transparency while avoiding misunderstandings or harmful consequences for patients, physicians, or their colleagues. Unprofessional or careless posts that express frustration or anger over work incidents, disparage patients or colleagues, use offensive or discriminatory language, or reveal inappropriate personal information about the physician can have negative consequences. Physicians should separate professional from personal websites and accounts and follow institutional and professional society guidelines when communicating with patients. 
-
 ## CONFLICTS OF INTEREST 
-
  Acting in patients’ best interests may sometimes conflict with a physician’s self-interest or the interests of third parties such as insurers or hospitals. From an ethical viewpoint, patients’ interests are paramount. Transparency, appropriate disclosure, and management of conflicts of interest are essential to maintain the trust of colleagues and the public. Disclosure requirements vary for different purposes, and software has 
-
 ---
 
 #### Ethical Issues in Clinical Medicine 
@@ -3176,47 +2389,26 @@ Medical students’, residents’, and physicians’ interests in learning, whic
  Scientific advances in genome sequencing, gene editing (e.g., with CRISPR-Cas9), machine learning, artificial intelligence, computer– brain interfaces, and other technologies offer great promise for research and clinical care with the ultimate goal of improving the prediction, prevention, and treatment of disease. Groundbreaking innovations that have strong scientific plausibility need to be evaluated in rigorous clinical studies for efficacy and safety. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  Physicians should keep up to date on the status of novel and often complex technologies as research evolves, data emerge, and technologies are incorporated into clinical practice. They can help their patients understand research findings and the evidence for clinical use, correct any misunderstandings, facilitate shared decision-making, and advocate for fair access to such therapies. Further, physicians should engage in professional and public discussion related to allocation of resources and fair access to expensive new therapies and emerging technologies and their impact on overall health care affordability. Certain cell-based therapies, such as peripheral blood stem cell transplantation (Chap. 114) and chimeric antigen receptor (CAR)-T cell therapy (Chap. 69) , are approved for use in several serious hematologic cancers, and gene therapies have been approved as safe and effective for clinical use in certain serious inherited diseases and cancers. Patients may request these and other complex, highly technical, and expensive therapies for unproven indications. Yet, claims of cures through unproven stem cell or gene-based “therapies” pose significant health and financial risks to patients without evidence of benefit. Physicians should help patients distinguish approved therapies from unproven claims and refer interested patients to well-designed clinical trials. Medical applications of CRISPR-Cas9 are promising, and their safety and efficacy for particular clinical conditions are being carefully evaluated in clinical trials. Applications of CRISPR genome editing in somatic cells to modify or correct problematic genes could lay the foundation for treating a variety of serious diseases, including blood disorders, HIV, cancer, and hereditary blindness. Germline gene editing in blastocysts or embryos raises many ethical questions and is currently not permitted in the United States in clinical trials or clinical practice. In artificial intelligence (AI), computers carry out tasks typically done by humans. Machine learning (ML) is a type of AI that automatically learns and improves its performance without explicit programming. Clinical algorithms using AI and ML can make diagnoses from radiology images, retinal scans, or skin photographs and identify patients at increased risk for surgical complications, critical care, or hospital readmission. However, such algorithms can also pose risks. Bias may occur if an algorithm was derived or validated from a data set in which groups who suffer from health disparities or poor health outcomes are underrepresented or if the algorithm predicts outcomes that are not clinically meaningful. To address these ethical concerns, researchers should assess AI algorithms in well-designed randomized clinical trials with clinical endpoints. Institutions should integrate validated and unbiased algorithms into clinical workflow without unduly burdening physicians and nurses and should check effectiveness and safety in their particular settings and patient populations. Physicians should stay informed of emerging evidence about such technologies and the ethical challenges that accompany their use and always keep their patients’ best interests and preferences at the forefront. 
-
 ## GLOBAL CONSIDERATIONS 
-
 #### ■ INTERNATIONAL RESEARCH 
-
  Clinical research is often conducted across multiple sites and across national borders. Societal, legal, and cultural norms and perspectives about research may vary, and there are many ethical challenges. Physician-investigators involved in international research should be familiar with international guidelines, such as the Declaration of Helsinki, the Council for International Organizations of Medical Sciences (CIOMS) guidelines, and the International Council on Harmonisation Good Clinical Practice guidelines, as well as national and local laws where research is taking place. Partnering with local researchers and communities is essential not only to demonstrate respect but also to facilitate successful clinical research. 
-
 #### ■ INTERNATIONAL CLINICAL EXPERIENCES 
-
  Many physicians and trainees gain valuable experience providing patient care in international settings through international training opportunities or volunteering for humanitarian or other international 
-
  clinical work. Such arrangements, however, raise ethical challenges— for example, as a result of differences in beliefs about health and illness, expectations regarding health care and physicians’ roles, standards of clinical practice, resource limitations, and norms for disclosure of serious diagnoses. Additional dilemmas arise if visiting physicians and trainees take on responsibilities beyond their expertise or if donated drugs and equipment are not appropriate to local needs. Visiting physicians and trainees should prepare well for these experiences, receive training and mentoring, learn about cultural and clinical practices in the host community, respect local customs and values, collaborate closely with local professionals and staff, and be explicit and humble about their own skills, knowledge, and limits. Leaders of global health field experiences should ensure that participating physicians receive training on ethical and cultural issues, as well as mentoring, backup, and debriefing upon return home. 
-
 #### ■ CONCLUSION 
-
  Ethical issues are common in clinical medicine and occur in circumstances that may be foreseeable, novel, or unexpected. Physicians address these ethical issues by being prepared, informed, and thoughtful and using appropriate available resources. 
-
 #### ■ FURTHER READING 
-
  Beauchamp T, Childress J: Principles of Biomedical Ethics, 8th ed. New York, Oxford University Press, 2019. Dejong C et al: An ethical framework for allocating scarce medications for COVID-19 in the US. JAMA 323:2367, 2020. Matheny M et al (eds): Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril. NAM Special Publication. Washington, DC, National Academy of Medicine, 2019. Ulrich C, Grady C: Moral Distress in the Health Professions. Cham, Switzerland, Springer-Nature International, 2018. Wasserman J et al: Responding to unprofessional behavior by trainees: a “just culture” framework. N Engl J Med 382:773, 2020. Wicclair MR: Conscientious objection, moral integrity, and professional obligations. Perspect Biol Med 62:543, 2019. 
-
 ## EPIDEMIOLOGY 
-
 #### ■ CAUSES OF DEATH 
-
  In 2019, 2,854,838 individuals died in the United States (Table 12-1). Approximately 74% of these deaths occurred in those aged ≥65 years. The epidemiology of death has changed significantly since 1900 and even since 1980. In 1900, heart disease caused ~8% of all deaths, and cancer accounted for <4% of all deaths. In 1980, heart disease accounted for 38.2% of all deaths, cancer 20.9%, and cerebrovascular disease 8.6% of all deaths. By 2019, there had been a dramatic drop in deaths from cardiovascular and cerebrovascular diseases. In 2019, 23.1% of all deaths were from cardiovascular disease and just 5.3% from cerebrovascular disease. Deaths attributable to cancer, however, had increased slightly to 21.0%. The proportions of deaths due to chronic lower respiratory disease, diabetes, Alzheimer’s, and suicide have increased. Interestingly, in 2019, HIV/AIDS accounted for <0.18% of all U.S. deaths. While unlikely to continue being a leading cause of death in the future, COVID-19 was also the cause for >600,000 deaths in 2020–2021, and the official figure is almost certainly an undercount of the actual death toll. 
-
 # 12 
-
 ## Palliative and 
-
 ## End-of-Life Care 
-
  Ezekiel J. Emanuel 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3276,35 +2468,20 @@ This change in the epidemiology of death is also reflected in the costs of illne
 **FIGURE 12-1 Graph showing trends in cancer decedents’ site of death 1999–2019.** (Source: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death 1999-2019 on CDC WONDER Online Database. [http://wonder.cdc.gov.)](http://wonder.cdc.gov.)) 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  The shift in deaths out of the hospital has been accompanied by an increase in the use of hospice in the United States. In 2000, 21.6% of Medicare decedents used hospice at the time of death; by 2009, 42.2% were using hospice; and by 2018, 50.7% of Medicare decedents were enrolled in hospice at the time of death. Among cancer patients, ~60% were using hospice at the time of death. Hospice is also increasingly being used by noncancer patients. Today, cancer patients constitute ~20% of hospice users. But since 2014, the proportion of patients with other diagnoses using hospice has grown substantially, including those with circulatory/heart disease (17.4% in 2018 vs 13.8% in 2014), stroke (9.5% vs 6.2%), and respiratory disease (11.0% vs 9.4%). Of 2018 Medicare hospice decedents, 51.5% died at home, 17.4% in a nursing facility, 12.8% in a hospice inpatient facility, and 12.3% in assisted living. Unfortunately, significant racial disparities exist in end-of-life care and the use of hospice, especially for noncancer deaths. Racial and ethnic minorities are less likely to receive hospice services than white decedents and are more likely to receive invasive or aggressive care in end-of-life treatment. Of people who died of head and neck cancers between 1999 and 2017, African Americans and Asians/Pacific Islanders were less likely to die at home or in hospice. Among Medicare beneficiaries who had a pancreatectomy for pancreatic cancer and lived at least 30 days, racial and ethnic minority patients remained 22% less likely than white patients to initiate hospice before death. In 2008, for the first time, the American Board of Medical Specialties (ABMS) offered certification in hospice and palliative medicine. With the shortening of hospital stays, many serious conditions are now being treated at home or on an outpatient basis. Consequently, providing optimal palliative and end-of-life care requires ensuring that appropriate services are available in a variety of settings, including noninstitutional settings. 
-
 ## HOSPICE AND THE PALLIATIVE CARE 
-
 ## FRAMEWORK 
-
  Central to this type of care is an interdisciplinary team approach that typically encompasses pain and symptom management, spiritual and psychological care for the patient, and support for family caregivers during the patient’s illness and the bereavement period. One of the more important changes in this field is beginning palliative care many months before death in order to focus on symptom relief and then switching to hospice in the patient’s last few months. This approach avoids leaving hospice until the very end by introducing palliative care earlier, thereby allowing patients and families time to accommodate and transition. Phasing palliative care into end-of-life care means that patients will often receive palliative interventions long before they are formally diagnosed as terminally ill, or likely to die within 6 months. Fundamental to ensuring quality palliative and end-of-life care is a focus on four broad domains: (1) physical symptoms; (2) psychological symptoms; (3) social needs that include interpersonal relationships, caregiving, and economic concerns; and (4) existential or spiritual needs. 
-
 #### ■ ASSESSMENT AND CARE PLANNING 
-
 #### Comprehensive Assessment Standardized methods for con
-
  ducting a comprehensive assessment focus on evaluating the patient’s condition in all four domains affected by the illness: physical, psychological, social, and spiritual. A comprehensive assessment should follow a modified version of the traditional medical history and physical examination and should emphasize both physical and mental symptoms. Questions should aim to elucidate symptoms, discern sources of suffering, and gauge how much those symptoms interfere with the patient’s quality of life. Standardized and repeated assessments to evaluate the effectiveness of interventions are critical. Thus, clinicians should use shorter, validated instruments, such as (1) the revised Edmonton Symptom Assessment Scale; (2) Condensed Memorial Symptom Assessment Scale (MSAS); (3) MD Anderson Brief Symptom Inventory; (4) Rotterdam Symptom Checklist; (5) Symptom Distress Scale; (6) Patient-Reported Outcomes Measurement Information System; and (7) Interactive Symptom Assessment and Collection (ISAAC) tool. 
-
  MENTAL HEALTH With respect to mental health, many practices use the Patient Health Questionnaire-9 (PHQ-9) to screen for depression and the Generalized Anxiety Disorder-7 (GAD-7) to screen for anxiety. Using such tools ensures that the assessment is comprehensive and does not focus excessively on only pain. INVASIVE TESTS Invasive tests are best avoided in end-of-life care, and even minimally invasive tests should be evaluated carefully for their benefit-to-burden ratio for the patient. Aspects of the physical examination that are uncomfortable and unlikely to yield useful information that change patient management should be omitted. SOCIAL NEEDS Health care providers should also assess the status of important relationships, financial burdens, caregiving needs, and access to medical care. Relevant questions include the following: How often is there someone to feel close to? How has this illness been for your family? How has it affected your relationships? How much help do you need with things like getting meals and getting around? How much trouble do you have getting the medical care you need? EXISTENTIAL NEEDS To determine a patient’s existential needs, providers should assess distress, the patient’s sense of emotional and existential well-being, and whether the patient believes he or she has found purpose or meaning. Helpful assessment questions can include the following: How much are you able to find meaning since your illness began? What things are most important to you at this stage? PERCEPTION OF CARE In addition, it can be helpful to ask how the patient perceives his or her care: How much do you feel your doctors and nurses respect you? How clear is the information from us about what to expect regarding your illness? How much do you feel that the medical care you are getting fits with your goals? If concern is detected in any of these areas, deeper evaluative questions are warranted. 
-
 #### Communication Particularly when an illness is life-threatening, 
-
  there exists the potential for many emotionally charged and potentially conflict-creating moments—collectively called “bad news” situations— in which empathic and effective communication skills are essential. Those moments include the sharing of a terminal diagnosis with the patient and/or family, the discussion of the patient’s prognosis and any treatment failures, the consideration of deemphasizing efforts to cure and prolong life while focusing more on symptom management and palliation, advance care planning, and the patient’s actual death. Although these conversations can be difficult, research indicates that end-of-life discussions can lead to earlier hospice referrals, rather than overly aggressive treatment, ultimately benefiting quality of life for patients and improving the bereavement process for families. Just as surgeons prepare for major operations and investigators rehearse a presentation of research results, physicians and health care providers caring for patients with significant or advanced illnesses should develop a standardized approach for sharing important information and planning interventions. In addition, physicians must be aware that families often care not only about how prepared the physician was to deliver bad news, but also the setting in which it was delivered. For instance, one study found that 27% of families making critical decisions for patients in an ICU desired better and more private physical space to communicate with physicians. One structured seven-step procedure for communicating bad news goes by the acronym P-SPIKES: (1) p repare for the discussion, (2) s et up a suitable environment, (3) begin the discussion by finding out what the p atient and/or family understand, (4) determine how they will comprehend new i nformation best and how much they want to know, (5) provide needed new k nowledge accordingly, (6) allow for e motional responses, and (7) s hare plans for the next steps in care (Table 12-2). 
-
 #### Continuous Goal Assessment Major barriers to providing 
-
  high-quality palliative and end-of-life care include the difficulty in determining an accurate prognosis and the emotional resistance of patients and their families to accepting the implications of a poor prognosis. A practical solution to these barriers is to integrate palliative care interventions or home visits from a palliative care visiting nurse months before the estimated final 6 months of life. Under this 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3350,45 +2527,25 @@ approach, palliative care no longer conveys the message of failure, having no mo
  is the process of planning for future medical care in case the patient becomes incapable of making medical decisions. A 2010 study of adults aged ≥60 who died between 2000 and 2006 found that while 42% of adults were required to make treatment decisions in their final days of life, 70% lacked decision-making capacity. Among those lacking decision-making capacity, approximately one-third did not have advance planning directives. Ideally, such planning would occur before a health care crisis or the terminal phase of an illness. Unfortunately, diverse barriers prevent this. Approximately 80% of Americans endorse advance care planning and living wills. However, according to a 2013 Pew survey, only 35% of adults have written down their end-of-life wishes. Other studies report that even fewer Americans—with some estimates as low as 26% of adults—have filled out advance care directives. A review of studies suggests that the percentage of Americans who had written advance directives did not change between 2011 and 2016 and remains slightly over one-third of Americans. Larger numbers of adults, between 50 and 70%, claim to have talked with someone 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  about their treatment wishes. Americans aged 65 and older are more likely to complete an advance directive compared to younger adults (46% vs 32%). Effective advance care planning should follow six key steps: (1) introducing the topic, (2) structuring a discussion, (3) reviewing plans that have been discussed by the patient and family, (4) documenting the plans, (5) updating them periodically, and (6) implementing the advance care directives (Table 12-3). Two of the main barriers to advance care planning are problems in raising the topic and difficulty in structuring a succinct discussion. Raising the topic can be done efficiently as a routine matter, noting that it is recommended for all patients, analogous to purchasing insurance or estate planning. Many of the most difficult cases have involved unexpected, acute episodes of brain damage in young individuals. Structuring a focused discussion is an important communication skill. To do so, a provider must first identify the health care proxy and recommend his or her involvement in the advance care planning process. Next, a worksheet must be selected that has been demonstrated to produce reliable and valid expressions of patient preferences, and the patient and proxy must be oriented to it. Such worksheets exist for both general and disease-specific situations. The provider should then discuss with the patient and proxy one example scenario to demonstrate how to think about the issues. It is often helpful to begin with a scenario in which the patient is likely to have settled preferences for care, such as being in a persistent vegetative state. Once the patient’s preferences 
-
  for interventions in this scenario are determined, the provider should suggest that the patient and proxy discuss and complete the worksheet for each other. If appropriate, the patient and proxy should consider involving other family members in the discussion. During a subsequent return visit, the provider should go over the patient’s preferences, checking and resolving any inconsistencies. After having the patient and proxy sign the document, the provider should place the document in the patient’s medical chart and make sure that copies are provided to relevant family members and care sites. Since patients’ preferences can change, these documents must be reviewed periodically. 
-
  TYPES OF DOCUMENTS Advance care planning documents are of two broad types. The first includes living wills, also known as instructional directives; these are advisory documents that describe the types of decisions that should direct a patient’s care. Some are more specific, delineating different scenarios and interventions for the patient to choose from. Among these, some are for general use and others are designed for use by patients with a specific type of disease, such as cancer, renal failure, or HIV. Less specific directives can be general statements, such as not wanting life-sustaining interventions, or forms that describe the values that should guide specific discussions about terminal care. The second type of advance directive allows the designation of a health care proxy (sometimes also referred to as a durable attorney for health care), an individual selected by the patient to make decisions. The choice is not either/or; a combined directive that includes a living 
-
  TABLE 12-3 Steps in Advance Care Planning STEP GOALS TO BE ACHIEVED AND MEASURES TO COVER USEFUL PHRASES OR POINTS TO MAKE Introduce advance care planning 
-
  Ask the patient what he or she knows about advance care planning and if he or she has already completed an advance care directive. 
-
  I’d like to talk with you about something I try to discuss with all my patients. It’s called advance care planning. In fact, I feel that this is such an important topic that I have done this myself. Are you familiar with advance care planning or living wills? Indicate that you as a physician have completed advance care planning. 
-
  Have you thought about the type of care you would want if you ever became too sick to speak for yourself? That is the purpose of advance care planning. Indicate that you try to perform advance care planning with all patients regardless of prognosis. 
-
  There is no change in health that we have not discussed. I am bringing this up now because it is sensible for everyone, no matter how well or ill, old or young. Explain the goals of the process as empowering the patient and ensuring that you and the proxy understand the patient’s preferences. 
-
  Have many copies of advance care directives available, including in the waiting room, for patients and families. Provide the patient relevant literature, including the advance care directive that you prefer to use. 
-
  Know resources for state-specific forms (available at http://www.nhpco. org). Recommend the patient identify a proxy decision-maker who should attend the next meeting. Have a structured discussion of scenarios with the patient 
-
  Affirm that the goal of the process is to follow the patient’s wishes if the patient loses decision-making capacity. 
-
  Use a structured worksheet with typical scenarios. 
-
  Elicit the patient’s overall goals related to health care. Elicit the patient’s preferences for specific interventions in a few salient and common scenarios. Help the patient define the threshold for withdrawing and withholding interventions. Define the patient’s preference for the role of the proxy. 
-
  Begin the discussion with persistent vegetative state and consider other scenarios, such as recovery from an acute event with serious disability; then ask the patient about his or her preferences regarding specific interventions, such as ventilators, artificial nutrition, and CPR; finally, proceeding to less invasive interventions, such as blood transfusions and antibiotics. 
-
  Review the patient’s preferences 
-
  After the patient has made choices of interventions, review them to ensure they are consistent and the proxy is aware of them. Document the patient’s preferences 
-
  Formally complete the advance care directive and have a witness sign it. Provide a copy for the patient and the proxy. Insert a copy into the patient’s medical record and summarize it in a progress note. Update the directive Periodically, and with major changes in health status, review the directive with the patient and make any modifications. Apply the directive The directive goes into effect only when the patient becomes unable to make medical decisions for himself or herself. Reread the directive to be sure about its content. Discuss your proposed actions based on the directive with the proxy. Abbreviation: CPR, cardiopulmonary resuscitation. 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3416,43 +2573,24 @@ Great emphasis has been placed on addressing dying patients’ pain. In order to
  TABLE 12-4 Common Physical and Psychological Symptoms of Terminally Ill Patients PHYSICAL SYMPTOMS PSYCHOLOGICAL SYMPTOMS Pain Anxiety Fatigue and weakness Depression Dyspnea Hopelessness Insomnia Meaninglessness Dry mouth Irritability Anorexia Impaired concentration Nausea and vomiting Confusion Constipation Delirium Cough Loss of libido Swelling of arms or legs Itching Diarrhea Dysphagia Dizziness Fecal and urinary incontinence Numbness/tingling in hands/feet 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  disordered nerve signals. It is described by patients as burning, electrical, or shock-like pain. Classic examples are post-stroke pain, tumor invasion of the brachial plexus, and herpetic neuralgia. ASSESSMENT Pain is a subjective experience. Depending on the patient’s circumstances, perspective, and physiologic condition, the same physical lesion or disease state can produce different levels of reported pain and need for pain relief. Systematic assessment includes eliciting the following: (1) type: throbbing, cramping, burning, etc.; (2) periodicity: continuous, with or without exacerbations, or incident; (3) location; (4) intensity; (5) modifying factors; (6) effects of treatments; (7) functional impact; and (8) impact on patient. Several validated pain assessment measures may be used, including the Visual Analogue Scale (VAS), the Brief Pain Inventory (BPI), or the Numerical Pain Rating Scale (NRS-11). Other scales have been developed for neuropathic pain, such as the Neuropathic Pain Scale and the DN4 Questionnaire. Frequent reassessments on a consistent scale are essential to assess the impact of and need to readjust interventions. INTERVENTIONS Interventions for pain must be tailored to each individual, with the goal of preempting chronic pain and relieving breakthrough pain. At the end of life, there is rarely reason to doubt a patient’s report of pain. With the opioid crisis in the United States, there is more emphasis on making opioids one component of multimodal analgesia. Nevertheless, at the end of life, pain medications, especially opioids, remain the cornerstone of management (Fig. 12-2). If they are failing and nonpharmacologic interventions—including radiotherapy and anesthetic or neurosurgical procedures such as peripheral nerve blocks or epidural medications—are required, a pain consultation is appropriate. Pharmacologic interventions still largely follow the World Health Organization three-step, “analgesic ladder” approach, which involves nonopioid analgesics, “mild” opioids, and “strong” opioids, with or without adjuvants (Chap. 13). Nonopioid analgesics, especially nonsteroidal anti-inflammatory drugs (NSAIDs), are the initial treatments for mild pain. They work primarily by inhibiting peripheral prostaglandins 
-
  and reducing inflammation but may also have central nervous system (CNS) effects. Additionally, NSAIDs have a ceiling effect. Ibuprofen, up to 2400 mg/d qid, has a minimal risk of causing bleeding and renal impairment and is a good initial choice. In patients with a history of severe GI or other bleeding, however, ibuprofen should be avoided. In patients with a history of mild gastritis or gastroesophageal reflux disease (GERD), acid-lowering therapy, such as a proton pump inhibitor, should be used. Acetaminophen is an alternative in patients with a history of GI bleeding and can be used safely at up to 4 g/d qid. In patients with liver dysfunction due to metastases or other causes and in patients with heavy alcohol use, doses should be reduced. If nonopioid analgesics are insufficient, opioids should be introduced. Opioids primarily work by interacting with μ opioid receptors to activate pain-inhibitory neurons in the CNS, although they also interact variably with δ and κ receptors. Receptor agonists, such as morphine, codeine, and fentanyl, produce analgesia by activating pain-inhibitory neurons in the CNS. Partial agonists, such as buprenorphine, have a ceiling effect for analgesia and a lower potential for abuse. They are useful for postacute pain but should not be used for chronic pain in end-of-life care. Pure antagonists, such as naloxone and methylnaltrexone, are used for reversal of opioid effects. Traditionally, “weak” opioids such as codeine were used first. If they failed to relieve pain after dose escalation, “strong” opioids like morphine were used in doses of 5–10 mg every 4 h. However, this breakdown between “weak” and “strong” opioids is no longer commonly accepted, with smaller doses of “stronger” opioids frequently being preferred over similar or larger doses of “weaker” opioids, and different pain syndromes having different preferred therapies. Regardless, nonopioid analgesics should be combined with opioids, as they potentiate the effect of opioids. Importantly, the goal is to prevent patients from experiencing pain. Consequently, for continuous pain, opioids should be administered on a regular, around-the-clock basis consistent with their duration of analgesia, and the next dose should occur before the effect of the previous dose wears off. They should not be provided only when the patient 
-
  MILD PAIN Acetaminophen: 500 mg 2 tablets every 4–6 h Ibuprofen: 400 mg every 6 h; max 8 tablets per day (2400 mg/d qid) 
-
  MODERATE PAIN Codeine: 30–60 mg every 4–8 h; maximum daily dose for pain 240 mg Tramadol: 25 mg PO every 6 h; max 400 mg/d Add to acetaminophen, NSAIDs 
-
  SEVERE PAIN Morphine: 2.5–5 mg every 3–6 h orally Hydromorphone: 1–2 mg every 3–6 h orally Fentanyl transdermal: 1000-μg patch for 72 h Hydrocodone: 5–10 mg every 3–6 h orally Add to acetaminophen, NSAIDs 
-
  Pain persists or increases 
-
  Difficult to Control Pain 
-
  Specialist Consultation (Consideration of surgical procedures such as nerve blocks) 
-
  Pain persists or increases 
-
  NEUROPATHIC PAIN burning, electrical, shock-like 
-
  e.g., poststroke pain, tumor invasion of brachial plexus, herpetic neuralgia 
-
  Treatment Gabapentin: 100–300 mg bid or tid, with 50–100% dose increments every 3 days; 3600 mg/d in 2 or 3 days 
-
  NOCICEPTIVE PAIN cramping, throbbing, aching, sharp, prickling, stabbing, deep and constant, dull and gnawing 
-
  e.g., pancreatitis, bone metastases, tumor invasion, obstruction (of ureters, colon, gastric outlet, gallbladder, etc.) 
-
  Treatment NSAIDs or acetaminophen with opioids 
-
  FIGURE 12-2 Terminal pain management flow chart. NSAIDs, nonsteroidal anti-inflammatory drugs. 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3464,39 +2602,22 @@ experiences pain. Patients should also be provided rescue medication, such as li
  opioids if they are used as prescribed for pain relief; this fear should not prevent the patient from taking the medications around the clock. However, diversion of drugs for use by other family members or illicit sale may occur. It may be necessary to advise the patient and caregiver about secure storage of opioids. Contract writing with the patient and family can help. If that fails, transfer to a safe facility may be necessary. Tolerance describes the need to increase medication dosage for the same pain relief without a concurrent change in disease. In the case of patients with advanced disease, the need for increasing opioid dosage for pain relief usually is caused by disease progression rather than tolerance. Physical dependence is indicated by symptoms resulting from the abrupt withdrawal of opioids and should not be confused with addiction. In recent years, the potential dangers of opioid drugs have become increasingly apparent. To help mitigate the risk of these powerful drugs, several strategies should be used to reduce the risk of aberrant drug use. To start, all patients should be assessed for their individual levels of risk. While there are multiple surveys available, including the Opioid Risk Tool, none have gained widespread use or validation. In general, however, it is important to screen for prior substance abuse and major psychiatric disorders. For patients deemed to be high risk, a multidisciplinary effort should be pursued to reduce the risk of adverse consequences, such as addiction and diversion. Prescribing strategies include selecting opioids with longer durations of action and lower street values, such as methadone, and prescribing smaller quantities with more frequent follow-up. Monitoring options include periodic urine screening and referral to pain specialists. In some cases, it may also be reasonable to consider not offering short-acting opioids for breakthrough pain. In no situation, however, should adequate pain relief be withheld due to risk. Adjuvant analgesic medications are nonopioids that potentiate the analgesic effects of opioids. They are especially important in the management of neuropathic pain. Gabapentin, an anticonvulsant initially studied in the setting of herpetic neuralgia, is now the first-line treatment for neuropathic pain resulting from a variety of causes. It is begun at 100–300 mg bid or tid, with 50–100% dose increments every 3 days. Usually 900–3600 mg/d in two or three doses is effective. The combination of gabapentin and nortriptyline may be more effective than gabapentin alone. Two potential side effects of gabapentin to be aware of are confusion and drowsiness, especially in the elderly. Other effective adjuvant medications include pregabalin, which has the same mechanism of action as gabapentin but is absorbed more efficiently from the GI tract. Lamotrigine is a novel agent whose mechanism of action is unknown but has been shown to be effective. It is recommended to begin at 25–50 mg/d, increasing to 100 mg/d. Carbamazepine, a first-generation agent, has been proven effective in randomized trials for neuropathic pain. Other potentially effective anticonvulsant adjuvants include topiramate (25–50 mg qd or bid, rising to 100–300 mg/d) and oxcarbazepine (75–300 mg bid, rising to 1200 mg bid). Glucocorticoids, preferably dexamethasone given once a day, can be useful in reducing inflammation that causes pain, while also elevating mood, energy, and appetite. Its main side effects include confusion, sleep difficulties, and fluid retention. Glucocorticoids are especially effective for bone pain and abdominal pain from distention of the GI tract or liver. Other drugs, including clonidine and baclofen, can be effective in providing pain relief. These drugs are adjuvants and generally should be used in conjunction with—not instead of—opioids. Methadone, carefully dosed because of its unpredictable half-life in many patients, has activity at the N-methyl-D-aspartamate (NMDA) receptor and is useful for complex pain syndromes and neuropathic pain. It is generally reserved for cases in which first-line opioids (morphine, oxycodone, hydromorphone) are either ineffective or unavailable. Radiation therapy can treat bone pain from single metastatic lesions. Bone pain from multiple metastases can be amenable to radiopharmaceuticals such as strontium-89 and samarium-153. Bisphosphonates, such as pamidronate (90 mg every 4 weeks) and calcitonin (200 IU intranasally once or twice a day), also provide relief from bone pain but have multiday onsets of action. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
 #### Constipation * FREQUENCY Constipation is reported in up to 
-
  70–100% of patients requiring palliative care. ETIOLOGY Although hypercalcemia and other factors can cause constipation, it is most frequently a predictable consequence of the use of opioids for pain and dyspnea relief and of the anticholinergic effects of tricyclic antidepressants, as well as due to the inactivity and poor diets common among seriously ill patients. If left untreated, constipation can cause substantial pain and vomiting and also is associated with confusion and delirium. Whenever opioids and other medications known to cause constipation are used, preemptive treatment for constipation should be instituted. ASSESSMENT Assessing constipation can be difficult because people describe it differently. Four commonly used assessment scales are the Bristol Stool Form Scale, the Constipation Assessment Scale, the Constipation Visual Analogue Scale, and the Eton Scale Risk Assessment for Constipation. The Bowel Function Index can be used to quantify opioid-induced constipation. The physician should establish the patient’s previous bowel habits, as well as any changes in subjective and objective qualities such as bloating or decreased frequency. Abdominal and rectal examinations should be performed to exclude impaction or an acute abdomen. Radiographic assessments beyond a simple flat plate of the abdomen in cases in which obstruction is suspected are rarely necessary. INTERVENTION Any measure to address constipation during end-oflife care should include interventions to reestablish comfortable bowel habits and to relieve pain or discomfort. Although physical activity, adequate hydration, and dietary treatments with fiber can be helpful, each is limited in its effectiveness for most seriously ill patients, and fiber may exacerbate problems in the setting of dehydration or if impaired motility is the etiology. Fiber is contraindicated in the presence of opioid use. Stimulant and osmotic laxatives, stool softeners, fluids, and enemas are the mainstays of therapy (Table 12-5). To prevent constipation from opioids and other medications, a combination of a laxative and a stool softener (such as senna and docusate) should be used. If after several days of treatment a bowel movement has not occurred, a rectal examination to remove impacted stool and place a suppository is necessary. For patients with impending bowel 
-
  TABLE 12-5 Medications for the Management of Constipation INTERVENTION DOSE COMMENT Stimulant laxatives These agents directly stimulate peristalsis and may reduce colonic absorption of water. Prune juice 120–240 mL/d Work in 6–12 h. Senna (Senokot) 2–8 tablets PO bid Bisacodyl 5–15 mg/d PO, PR Osmotic laxatives These agents are not absorbed. They attract and retain water in the gastrointestinal tract. Lactulose 15–30 mL PO q4–8h 
-
  Lactulose may cause flatulence and bloating. Magnesium hydroxide (Milk of Magnesia) 
-
  15–30 mL/d PO Lactulose works in 1 day, magnesium products in 6 h. Magnesium citrate 125–250 mL/d PO Stool softeners These agents work by increasing water secretion and as detergents, increasing water penetration into the stool. Sodium docusate (Colace) 
-
  300–600 mg/d PO Work in 1–3 days. 
-
  Calcium docusate 300–600 mg/d PO Suppositories and enemas Bisacodyl 10–15 PR qd Sodium phosphate enema 
-
  PR qd Fixed dose, 4.5 oz, Fleet’s. 
-
  obstruction or gastric stasis, octreotide to reduce secretions can be helpful. For patients in whom the suspected mechanism is dysmotility, metoclopramide can be helpful. 
-
 #### Nausea * FREQUENCY Up to 70% of patients with advanced cancer 
-
  have nausea, defined as the subjective sensation of wanting to vomit. ETIOLOGY Nausea and vomiting are both caused by stimulation at one of four sites: the GI tract, the vestibular system, the chemoreceptor trigger zone (CTZ), and the cerebral cortex. Medical treatments for nausea are aimed at receptors at each of these sites: the GI tract contains mechanoreceptors, chemoreceptors, and 5-hydroxytryptamine type 3 (5-HT 3 ) receptors; the vestibular system probably contains histamine and acetylcholine receptors; and the CTZ contains chemoreceptors, dopamine type 2 receptors, and 5-HT3 receptors. An example of nausea that most likely is mediated by the cortex is anticipatory nausea before a dose of chemotherapy or other noxious stimuli. Specific causes of nausea include metabolic changes (liver failure, uremia from renal failure, hypercalcemia), bowel obstruction, constipation, infection, GERD, vestibular disease, brain metastases, medications (including antibiotics, NSAIDs, proton pump inhibitors, opioids, and chemotherapy), and radiation therapy. Anxiety can also contribute to nausea. 
-
  INTERVENTION Medical treatment of nausea is directed at the anatomic and receptor-mediated cause revealed by a careful history and physical examination. When no specific cause of nausea is identified, many advocate beginning treatment with metoclopramide; a serotonin type 3 (5-HT 3 ) receptor antagonist such as ondansetron, granisetron, palonosetron, dolasetron, tropisetron, or ramosetron; or a dopamine antagonist such as chlorpromazine, haloperidol, or prochlorperazine. When decreased motility is suspected, metoclopramide can be an effective treatment. When inflammation of the GI tract is suspected, glucocorticoids, such as dexamethasone, are an appropriate treatment. For nausea that follows chemotherapy and radiation therapy, one of the 5-HT 3 receptor antagonists or neurokinin-1 antagonists, such as aprepitant or fosaprepitant, is recommended. Clinicians should attempt prevention of postchemotherapy nausea, rather than simply providing treatment after the fact. Current clinical guidelines recommend tailoring the strength of treatments to the specific emetic risk posed by a specific chemotherapy drug. When a vestibular cause (such as “motion sickness” or labyrinthitis) is suspected, antihistamines, such as meclizine (whose primary side effect is drowsiness), or anticholinergics, such as scopolamine, can be effective. In anticipatory nausea, patients can benefit from nonpharmacologic interventions, such as biofeedback and hypnosis. The most common pharmacologic intervention for anticipatory nausea is a benzodiazepine, such as lorazepam. As with antihistamines, drowsiness and confusion are the main side effects. The use of medical marijuana or oral cannabinoids for palliative treatment of nausea is controversial, as there are no controlled trials showing its effectiveness for patients at the end of life. A 2015 meta-analysis showed “low-quality evidence suggesting that cannabinoids were associated with improvements in nausea and vomiting due to chemotherapy,” and such treatments are not as good as 5-HT 3 receptor antagonists and can sometimes even cause cannabis hyperemesis syndrome. Older patients, who compose the vast majority of dying patients, seem to tolerate cannabinoids poorly. 
-
 #### Dyspnea * FREQUENCY Dyspnea is the subjective experience of 
-
  being short of breath. Over 50%, and as many as 75%, of dying patients, especially those with lung cancer, metastases to the lung, CHF, and COPD, experience dyspnea at some point near the end of life. Dyspnea is among the most distressing of physical symptoms and can be even more distressing than pain. ASSESSMENT As with pain, dyspnea is a subjective experience that may not correlate with objective measures of PO 2 , PCO 2 , or respiratory rate. Consequently, measurements of oxygen saturation through pulse oximetry or blood gases are rarely helpful in guiding therapy. Despite the limitations of existing assessment methods, physicians should regularly assess and document patients’ experience of dyspnea 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3522,29 +2643,17 @@ and its intensity. Guidelines recommend visual analogue dyspnea scales to assess
 **INTERVENTIONS** When reversible or treatable etiologies are diagnosed, they should be treated as long as the side effects of treatment, such as repeated drainage of effusions or anticoagulants, are less burdensome than the dyspnea itself. More aggressive treatments such as stenting a bronchial lesion may be warranted if it is clear that the dyspnea is due to tumor invasion at that site and if the patient and family understand the risks of such a procedure. Usually, treatment will be symptomatic **(Table 12-6)**. Supplemental oxygen does not appear to be effective. “A systematic review of the literature failed to demonstrate a consistent beneficial effect of oxygen inhalation over air inhalation for study participants with dyspnea due to end-stage cancer or cardiac failure.” Therefore, oxygen may be no more than an expensive placebo. Low-dose opioids reduce the sensitivity of the central respiratory center and relieve the sensation of dyspnea. If patients are not receiving opioids, weak opioids can be initiated; if patients are already receiving opioids, morphine or other stronger opioids should be used. Controlled trials do not support the use of nebulized opioids for dyspnea at the end of life. Phenothiazines and chlorpromazine may be helpful when combined with opioids. Benzodiazepines can be helpful in treating dyspnea, but only if anxiety is present. Benzodiazepines should not be used as first-line therapy or if there is no anxiety. If the patient has a history of COPD or asthma, inhaled bronchodilators and glucocorticoids may be helpful. If the patient has pulmonary edema due to heart failure, diuresis with a medication such as furosemide is indicated. Excess secretions can be transdermally or intravenously dried with scopolamine. More general interventions that medical staff can perform include sitting the patient upright, removing smoke or other irritants like perfume, ensuring a supply of fresh air with sufficient humidity, and minimizing other factors that can increase anxiety. 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  to moderate cancer. Doses should be given in the morning and at noon to minimize the risk of counterproductive insomnia. Modafinil and armodafinil, developed for narcolepsy, have shown promise in the treatment of fatigue and have the advantage of once-daily dosing. Their precise role in fatigue at the end of life has not been documented but may be worth trying if other interventions are not beneficial. Anecdotal evidence suggests that L-carnitine may improve fatigue, depression, and sleep disruption. 
-
 #### ■ PALLIATIVE SEDATION 
-
  Palliative sedation is used in distressing situations that cannot be addressed in other ways. When patients experience severe symptoms, such as pain or dyspnea, that cannot be relieved by conventional interventions or experience acute catastrophic symptoms, such as uncontrolled seizures, then palliative sedation should be considered as an intervention of last resort. It can be abused if done to hasten death (which it usually does not), when done at the request of the family rather than according to the patient’s wishes, or when there are other interventions that could still be tried. The use of palliative sedation in cases of extreme existential or spiritual distress remains controversial. Typically, palliative sedation should be introduced only after the patient and family have been assured that all other interventions have been tried and after the patient and their loved ones have been able to “say goodbye.” Palliative sedation can be achieved by significantly increasing opioid doses until patients become unconscious and then putting them on a continuous infusion. Another commonly used medication for palliative sedation is midazolam at 1–5 mg IV every 5–15 min to calm the patient, followed by a continuous IV or subcutaneous infusion of 1 mg/h. In hospital settings, a continuous propofol infusion of 5 μg/kg per min can be used. There are also other, less commonly used medications for palliative sedation that include levomepromazine, chlorpromazine, and phenobarbital. 
-
 ## PSYCHOLOGICAL SYMPTOMS AND THEIR 
-
 ## MANAGEMENT 
-
 #### Depression * FREQUENCY AND IMPACT Depression at the end of 
-
  life presents an apparently paradoxical situation. Many people believe that depression is normal among seriously ill patients because they are dying. People frequently say, “Wouldn’t you be depressed?” Although sadness, anxiety, anger, and irritability are normal responses to a serious condition, they are typically of modest intensity and transient. Persistent sadness and anxiety and the physically disabling symptoms that they can lead to are abnormal and suggestive of major depression. The precise number of terminally ill patients who are depressed is uncertain, primarily due to a lack of consistent diagnostic criteria and screening. Careful follow-up of patients suggests that while as many as 75% of terminally ill patients experience depressive symptoms, ~25% of terminally ill patients have major depression. Depression at the end of life is concerning because it can decrease the quality of life, interfere with closure in relationships and other separation work, obstruct adherence to medical interventions, and amplify the suffering associated with pain and other symptoms. ETIOLOGY Previous history of depression, family history of depression or bipolar disorder, and prior suicide attempts are associated with increased risk for depression among terminally ill patients. Other symptoms, such as pain and fatigue, are associated with higher rates of depression; uncontrolled pain can exacerbate depression, and depression can cause patients to be more distressed by pain. Many medications used in the terminal stages, including glucocorticoids, and some anticancer agents, such as tamoxifen, interleukin 2, interferon α, and vincristine, also are associated with depression. Some terminal conditions, such as pancreatic cancer, certain strokes, and heart failure, have been reported to be associated with higher rates of depression, although this is controversial. Finally, depression may be attributable to grief over the loss of a role or function, social isolation, or loneliness. ASSESSMENT Unfortunately, many studies suggest that most depressed patients at the end of life are not diagnosed, or if they are diagnosed, 
-
  they are not properly treated. Diagnosing depression among seriously ill patients is complicated, as many of the vegetative symptoms in the DSM-V (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition) criteria for clinical depression—insomnia, anorexia and weight loss, fatigue, decreased libido, and difficulty concentrating—are associated with the process of dying itself. The assessment of depression in seriously ill patients therefore should focus on the dysphoric mood, helplessness, hopelessness, and lack of interest, enjoyment, and concentration in normal activities. It is now recommended that patients near the end of life should be screened with either the PHQ-9 or the PHQ-2, which asks “Over the past 2 weeks, how often have you been bothered by any of the following problems? (1) Little interest or pleasure in doing things and (2) feeling down, depressed or hopeless.” The answer categories are as follows: not at all, several days, more than half the days, nearly every day. Other possible diagnostic tools include the short form of the Beck Depression Index or a visual analogue scale. Certain conditions may be confused with depression. Endocrinopathies, such as hypothyroidism and Cushing’s syndrome, electrolyte abnormalities, such as hypercalcemia, and akathisia, especially from dopamine-blocking antiemetics such as metoclopramide and prochlorperazine, can mimic depression and should be excluded. 
-
  INTERVENTIONS Undertreatment of depressed, terminally ill patients is common. Physicians must treat any physical symptom, such as pain, that may be causing or exacerbating depression. Fostering adaptation to the many losses that the patient is experiencing can also be helpful. Unfortunately, there are few randomized trials to guide such interventions. Thus, treatment typically follows the treatment used for non–terminally ill depressed patients. In the absence of randomized controlled trials, nonpharmacologic interventions, including group or individual psychological counseling, and behavioral therapies such as relaxation and imagery can be helpful, especially in combination with drug therapy. Pharmacologic interventions remain at the core of therapy. The same medications are used to treat depression in terminally ill as in non–terminally ill patients. Psychostimulants may be preferred for patients with a poor prognosis or for those with fatigue or opioidinduced somnolence. Psychostimulants are comparatively fast-acting, working within a few days instead of the weeks required for selective serotonin reuptake inhibitors (SSRIs). Dextroamphetamine or methylphenidate should be started at 2.5–5.0 mg in the morning and at noon, the same starting doses used for treating fatigue. The doses can eventually be escalated up to 15 mg bid. Modafinil is started at 100 mg qd and can be increased to 200 mg if there is no effect at the lower dose. Pemoline is a nonamphetamine psychostimulant with minimal abuse potential. It is also effective as an antidepressant beginning at 18.75 mg in the morning and at noon. Because it can be absorbed through the buccal mucosa, it is preferred for patients with intestinal obstruction or dysphagia. If it is used for prolonged periods, liver function must be monitored. The psychostimulants can also be combined with more traditional antidepressants while waiting for the antidepressants to become effective, then tapered down after a few weeks if necessary. Psychostimulants have side effects, particularly initial anxiety, insomnia, and very rarely paranoia, which may necessitate lowering the dose or discontinuing treatment. Mirtazapine, an antagonist at the postsynaptic serotonin receptors, is a promising psychostimulant. It should be started at 7.5 mg before bed and titrated up no more than once every 1–2 weeks to a maximal dose of 45 mg/d. It has sedating, antiemetic, and anxiolytic properties, with few drug interactions. Its side effect of weight gain may be beneficial for seriously ill patients; it is available in orally disintegrating tablets. For patients with a prognosis of several months or longer, SSRIs, including fluoxetine, sertraline, paroxetine, escitalopram, and citalopram, and serotonin-noradrenaline reuptake inhibitors, such as venlafaxine and duloxetine, are the preferred treatments, due to their efficacy and comparatively few side effects. Because low doses of these medications may be effective for seriously ill patients, one should use half the usual starting dose as for healthy adults. The starting dose for 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3568,33 +2677,19 @@ before death, delirium is uncommon, although it may be significantly underdiagno
  TABLE 12-7 Medications for the Management of Delirium INTERVENTIONS DOSE Neuroleptics Haloperidol 0.5–5 mg q2–12h, PO/IV/SC/IM Thioridazine 10–75 mg q4–8h, PO Chlorpromazine 12.5–50 mg q4–12h, PO/IV/IM Atypical neuroleptics Olanzapine 2.5–5 mg qd or bid, PO Risperidone 1–3 mg q12h, PO Anxiolytics Lorazepam 0.5–2 mg q1–4h, PO/IV/IM Midazolam 1–5 mg/h continuous infusion, IV/SC Anesthetics Propofol 0.3–2.0 mg/h continuous infusion, IV 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  combined with lorazepam to reduce agitation when the delirium is the result of alcohol or sedative withdrawal. If no response to first-line therapy is observed, a specialty consultation should be obtained with a goal to change to a different medication. If the patient fails to improve after a second neuroleptic, sedation with either an anesthetic such as propofol or continuous-infusion midazolam may be necessary. By some estimates, as many as 25% of patients at the very end of life who experience delirium, especially restless delirium with myoclonus or convulsions, may require sedation. Physical restraints should be used with great reluctance and only when patients’ violence is threatening to themselves or others. If restraints are used, their appropriateness should be frequently reevaluated. 
-
 #### Insomnia * FREQUENCY Sleep disorders, defined as difficulty 
-
  initiating sleep or maintaining sleep, sleep difficulty at least 3 nights a week, or sleep difficulty that causes impairment of daytime functioning, occurs in 19–63% of patients with advanced cancer. Some 30–74% of patients with other end-stage conditions, including AIDS, heart disease, COPD, and renal disease, experience insomnia. ETIOLOGY Patients with cancer may experience changes in sleep efficiency, such as an increase in stage I sleep. Insomnia may also coexist with both physical illnesses, like thyroid disease, and psychological illnesses, like depression and anxiety. Medications, including antidepressants, psychostimulants, glucocorticoids, and β agonists, are significant contributors to sleep disorders, as are caffeine and alcohol. Multiple over-the-counter medications contain caffeine and antihistamines, which can contribute to sleep disorders. ASSESSMENT Assessments should include specific questions concerning sleep onset, sleep maintenance, and early-morning wakening, as these will provide clues to both the causative agents and management of insomnia. Patients should be asked about previous sleep problems, screened for depression and anxiety, and asked about symptoms of thyroid disease. Caffeine and alcohol are prominent causes of sleep problems, and a careful history of the use of these substances should be obtained. Both excessive use and withdrawal from alcohol can be causes of sleep problems. INTERVENTIONS The mainstays of any intervention include improvement of sleep hygiene (encouragement of regular time for sleep, decreased nighttime distractions, elimination of caffeine and other stimulants and alcohol), interventions to treat anxiety and depression, and treatment for the insomnia itself. For patients with depression who have insomnia and anxiety, a sedating antidepressant such as mirtazapine can be helpful. In the elderly, trazodone, beginning at 25 mg at nighttime, is an effective sleep aid at doses lower than those that cause its antidepressant effect. Zolpidem may have a decreased incidence of delirium in patients compared with traditional benzodiazepines, but this has not been clearly established. When benzodiazepines are prescribed, short-acting ones (such as lorazepam) are favored over longeracting ones (such as diazepam). Patients who receive these medications should be observed for signs of increased confusion and delirium. 
-
 #### ■ SOCIAL NEEDS AND THEIR MANAGEMENT 
-
 #### Financial Burdens * FREQUENCY Dying can impose substantial 
-
  economic strains on patients and families, potentially causing distress. This is known as financial toxicity. In the United States, which has the least comprehensive health insurance systems among wealthy countries, a quarter of families coping with end-stage cancer report that care was a major financial burden and a third used up most of their savings. Among Medicare beneficiaries, average out-of-pocket costs were >$8000. Between 10% and 30% of families are forced to sell assets, use savings, or take out a mortgage to pay for the patient’s health care costs. The patient is likely to reduce hours worked and eventually stop working altogether. In 20% of cases, a family member of the terminally ill patient also must stop working to provide care. The major underlying causes of economic burden are related to poor physical functioning and care needs, such as the need for housekeeping, nursing, and personal care. More debilitated patients and poor patients experience greater economic burdens. 
-
  INTERVENTION The economic burden of end-of-life care should not be ignored as a private matter. It has been associated with a number of adverse health outcomes, including preferring comfort care over life-prolonging care, as well as consideration of euthanasia or physician-assisted suicide (PAS). Economic burdens increase the psychological distress of the families and caregivers of terminally ill patients, and poverty is associated with many adverse health outcomes. Importantly, studies have found that “patients with advanced cancer who reported having end-of-life conversations with physicians had significantly lower health care costs in their final week of life. Higher costs were associated with worse quality of death.” Assistance from a social worker, early on if possible, to ensure access to all available benefits may be helpful. Many patients, families, and health care providers are unaware of options for long-term care insurance, respite care, the Family Medical Leave Act (FMLA), and other sources of assistance. Some of these options (such as respite care) may be part of a formal hospice program, but others (such as the FMLA) do not require enrollment in a hospice program. 
-
 #### Relationships * FREQUENCY Settling personal issues and closing 
-
  the narrative of lived relationships are universal needs. When asked if sudden death or death after an illness is preferable, respondents often initially select the former, but soon change to the latter as they reflect on the importance of saying goodbye. Bereaved family members who have not had the chance to say goodbye often have a more difficult grief process. INTERVENTIONS Care of seriously ill patients requires efforts to facilitate the types of encounters and time spent with family and friends that are necessary to meet those needs. Family and close friends may need to be accommodated in hospitals and other facilities with unrestricted visiting hours, which may include sleeping near the patient, even in otherwise regimented institutional settings. Physicians and other health care providers may be able to facilitate and resolve strained interactions between the patient and other family members. Assistance for patients and family members who are unsure about how to create or help preserve memories, whether by providing materials such as a scrapbook or memory box or by offering them suggestions and informational resources, can be deeply appreciated. Taking photographs and creating videos can be especially helpful to terminally ill patients who have younger children or grandchildren. 
-
 #### Family Caregivers * FREQUENCY Caring for seriously ill patients 
-
  places a heavy burden on families. Families are frequently required to provide transportation and homemaking, as well as other services. Typically, paid professionals, such as home health nurses and hospice workers, supplement family care; only about a quarter of all caregiving consists of exclusively paid professional assistance. Over the past 40 years, there has been a significant decline in the United States of deaths occurring in hospitals, with a simultaneous increase in deaths in other facilities and at home. Over a third of deaths occur in patients’ homes. This increase in out-of-hospital deaths increases reliance on families for end-of-life care. Increasingly, family members are being called upon to provide physical care (such as moving and bathing patients) and medical care (such as assessing symptoms and giving medications) in addition to emotional care and support. Three-quarters of family caregivers of terminally ill patients are women—wives, daughters, sisters, and even daughters-in-law. Since many are widowed, women tend to be able to rely less on family for caregiving assistance and may need more paid assistance. About 20% of terminally ill patients report substantial unmet needs for nursing and personal care. The impact of caregiving on family caregivers is substantial: both bereaved and current caregivers have a higher mortality rate than that of non-caregiving controls. INTERVENTIONS It is imperative to inquire about unmet needs and to try to ensure that those needs are met either through the family or by paid professional services when possible. Community assistance through houses of worship or other community groups often can be mobilized by telephone calls from the medical team to someone the patient or family identifies. Sources of support specifically for family 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3634,23 +2729,14 @@ Determining the best approach to providing palliative care to patients will depe
  hold or withdraw life-sustaining interventions. The current legal consensus in the United States and most wealthy countries is that patients have a moral as well as legal right to refuse medical interventions. American courts also have held that incompetent patients have a right to refuse medical interventions. For patients who are incompetent and terminally ill and who have not completed an advance care directive, next of kin can exercise that right, although this may be restricted in some states, depending on how clear and convincing the evidence is of the patient’s preferences. Courts have limited families’ ability to terminate life-sustaining treatments in patients who are conscious and incompetent but not terminally ill. In theory, patients’ right to refuse medical therapy can be limited by four countervailing interests: (1) preservation of life, (2) prevention of suicide, (3) protection of third parties such as children, and (4) preservation of the integrity of the 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  medical profession. In practice, these interests almost never override the right of competent patients and incompetent patients who have left explicit wishes or advance care directives. For incompetent patients who either appointed a proxy without specific indications of their wishes or never completed an advance care directive, three criteria have been suggested to guide the decision to terminate medical interventions. First, some commentators suggest that ordinary care should be administered but extraordinary care could be terminated. Because the ordinary/extraordinary distinction is too vague, courts and commentators widely agree that it should not be used to justify decisions about stopping treatment. Second, many courts have advocated the use of the substituted-judgment criterion, which holds that the proxy decision-makers should try to imagine what the incompetent patient would do if he or she were competent. However, multiple studies indicate that many proxies, even close family members, cannot accurately predict what the patient would have wanted. Therefore, substituted judgment becomes more of a guessing game than a way of fulfilling the patient’s wishes. Finally, the best-interests criterion holds that proxies should evaluate treatments by balancing their benefits and risks and select those treatments where the benefits maximally outweigh the burdens of treatment. Clinicians have a clear and crucial role in this by carefully and dispassionately explaining the known benefits and burdens of specific treatments. Yet even when that information is as clear as possible, different individuals can have very different views of what is in the patient’s best interests, and families may have disagreements or even overt conflicts. This criterion has been criticized because there is no single way to determine the balance between benefits and burdens; it depends on a patient’s personal values. For instance, for some people, being alive even if mentally incapacitated is a benefit, whereas for others, it may be the worst possible existence. As a matter of practice, physicians rely on family members to make decisions that they feel are best and object only if those decisions seem to demand treatments that the physicians consider not beneficial. 
-
 #### Practices Withholding and withdrawing acutely life-sustaining 
-
  medical interventions from terminally ill patients are now standard practice. More than 90% of American patients die without cardiopulmonary resuscitation (CPR), and just as many forgo other potentially life-sustaining interventions. For instance, in ICUs in the period of 1987–1988, CPR was performed 49% of the time, but it was performed only 10% of the time in 1992–1993 and on just 1.8% of admissions from 2001 to 2008. On average, 3.8 interventions, such as vasopressors and transfusions, were stopped for each dying ICU patient. However, up to 19% of decedents in hospitals received interventions such as extubation, ventilation, and surgery in the 48 h preceding death. There is wide variation in practices among hospitals and ICUs, suggesting an important element of physician preferences rather than consistent adherence to professional society recommendations. Mechanical ventilation may be the most challenging intervention to withdraw. The two approaches are terminal extubation, which is the removal of the endotracheal tube, and terminal weaning, which is the gradual reduction of the fraction of inspired oxygen (FIO 2 ) or ventilator rate. One-third of ICU physicians prefer to use the terminal weaning technique, and 13% extubate; the majority of physicians utilize both techniques. The American Thoracic Society’s 2008 clinical policy guidelines note that there is no single correct process of ventilator withdrawal and that physicians use and should be proficient in both methods but that the chosen approach should carefully balance benefits and burdens as well as patient and caregiver preferences. Some recommend terminal weaning because patients do not develop upper airway obstruction and the distress caused by secretions or stridor; however, terminal weaning can prolong the dying process and not allow a patient’s family to be with the patient unencumbered by an endotracheal tube. To ensure comfort for conscious or semiconscious patients before withdrawal of the ventilator, neuromuscular blocking agents should be terminated and sedatives and analgesics administered. Removing the neuromuscular blocking agents permits patients to show discomfort, facilitating the titration of sedatives and analgesics; it also permits interactions between patients and their families. A common 
-
  practice is to inject a bolus of midazolam (2–4 mg) or lorazepam (2–4 mg) before withdrawal, followed by a bolus of 5–10 mg of morphine and continuous infusion of morphine (50% of the bolus dose per hour) during weaning. In patients who have significant upper airway secretions, IV scopolamine at a rate of 100 μg/h can be administered. Additional boluses of morphine or increases in the infusion rate should be administered for respiratory distress or signs of pain. Higher doses will be needed for patients already receiving sedatives and opioids. The median time to death after stopping of the ventilator is 1 h. However, up to 10% of patients unexpectedly survive for 1 day or more after mechanical ventilation is stopped. Women and older patients tend to survive longer after extubation. Families need to be reassured about both the continuations of treatments for common symptoms, such as dyspnea and agitation, after withdrawal of ventilatory support and the uncertainty of length of survival after withdrawal of ventilatory support. 
-
 #### ■ FUTILE CARE 
-
  Beginning in the late 1980s, some commentators argued that physicians could terminate futile treatments demanded by the families of terminally ill patients. Although no objective definition or standard of futility exists, several categories have been proposed. Physiologic futility means that an intervention will have no physiologic effect. Some have defined qualitative futility as applying to procedures that “fail to end a patient’s total dependence on intensive medical care.” Quantitative futility occurs “when physicians conclude (through personal experience, experiences shared with colleagues, or consideration of reported empiric data) that in the last 100 cases, a medical treatment has been useless.” The term conceals subjective value judgments about when a treatment is “not beneficial.” Deciding whether a treatment that obtains an additional 6 weeks of life or a 1% survival advantage confers benefit depends on patients’ preferences and goals. Furthermore, physicians’ predictions of when treatments are futile deviate markedly from the quantitative definition. When residents thought CPR was quantitatively futile, more than one in five patients had a >10% chance of survival to hospital discharge. Most studies that purport to guide determinations of futility are based on insufficient data and therefore cannot provide statistical confidence for clinical decision-making. Quantitative futility rarely applies in ICU settings. Many commentators reject using futility as a criterion for withdrawing care, preferring instead to consider futility situations as ones that represent conflict that calls for careful negotiation between families and health care providers. The American Medical Association and other professional societies have developed process-based approaches to resolving cases clinicians feel are futile. These process-based measures mainly suggest involving consultants and/or ethics committees when there are seemingly irresolvable differences. Some hospitals have enacted “unilateral do-not-resuscitate” policies to allow clinicians to provide a do-not-resuscitate order in cases in which consensus cannot be reached with families and medical opinion is that resuscitation would be futile if attempted. This type of a policy is not a replacement for careful and patient communication and negotiation but recognizes that agreement cannot always be reached. In 1999, Texas enacted the so-called Futile Care Act. Other states, such as Virginia, Maryland, and California, have also enacted such laws that provide physicians a “safe harbor” from liability if they refuse a patient’s or family’s request for life-sustaining interventions. For instance, in Texas, when a disagreement about terminating interventions between the medical team and the family has not been resolved by an ethics consultation, the physician is tasked with trying to facilitate transfer of the patient to an institution willing to provide treatment. If this fails after 10 days, the hospital and physician may unilaterally withdraw treatments determined to be futile. The family may appeal to a state court. Early data suggest that the law increases futility consultations for the ethics committee and that, although most families concur with withdrawal, ~10–15% of families refuse to withdraw treatment. As of 2007, there had been 974 ethics committee consultations on medical futility cases and 65 in which committees ruled against families and gave notice that treatment would be terminated. In 2007, 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3696,71 +2782,38 @@ consider euthanasia and/or PAS for themselves. Use of euthanasia and PAS is incr
  lateral sclerosis. While the numbers are small, in the Netherlands, the numbers of euthanasia or PAS cases in patients with psychiatric disorders, dementia, and the accumulation of health issues are increasing. Pain is not the primary motivator for patients’ requests for or interest in euthanasia and/or PAS. Among the first patients to receive PAS in Oregon, only 1 of the 15 patients had inadequate pain control, compared with 15 of the 43 patients in a control group who experienced inadequate pain relief. About 33% of patients in Oregon seeking PAS currently cite pain or fear of pain as their main reason for doing so. Conversely, depression and hopelessness are strongly associated with patient interest in euthanasia and PAS. Concerns about loss of dignity or autonomy or being a burden on family members appear to be more important factors motivating a desire for euthanasia or PAS. Losing autonomy (87% Oregon [OR], 85% Washington [WA]), not being able to enjoy activities (90% OR, 84% WA), and fear of losing dignity (72% OR, 69% WA) are the most-cited end-of-life concerns in both states. A high percentage of patients seeking PAS note being a burden on family (59% OR, 51% WA). A study from the Netherlands showed that depressed terminally ill cancer patients were four times more likely to request euthanasia and confirmed that uncontrolled pain was not associated with greater interest in euthanasia. Euthanasia and PAS are no guarantee of a painless, quick death. Data from the Netherlands indicate that in as many as 20% of euthanasia and PAS cases technical and other problems arose, including patients waking from coma, not becoming comatose, regurgitating medications, and experiencing a prolonged time to death. Data from Oregon between 1998 and 2017 and Washington between 2009 and 2017 indicate that of patients who received PAS prescriptions, 81% died at home and prescribers were present in 9.7% of cases. The time between drug intake and coma ranged from 1 min to 11 h, and the time from drug intake to death ranged from 1 min to 104 h. The median time from ingestion to coma was 5 min and from ingestion to death was 25 min. In Oregon between 1998 and 2015, 53% of patients had no complications, 44% of patients had no data on complications, and 2.4% of patients had regurgitation after taking the prescribed medicine as the only complication. In addition, six patients awakened. In Washington State between 2014 and 2015, 1.4% of patients had regurgitation, one patient had a seizure, and the reported range of time to death extended to 30 h. In the Netherlands, problems were significantly more common in PAS, sometimes requiring the physician to intervene and provide euthanasia. Regardless of whether they practice in a setting where euthanasia is legal or not, many physicians over the course of their careers will receive a patient request for euthanasia or PAS. In the United States, 18% of physicians have received a request for PAS and 11% have received a request for euthanasia. Three percent complied with a request for PAS, while 5% complied with a request for euthanasia. In the Netherlands, where the practices are legal, 77% of physicians have received a request for PAS or euthanasia and 60% have performed these interventions. Competency in dealing with such a request is crucial. Although challenging, the request can also provide a chance to address intense suffering. After receiving a request for euthanasia and/or PAS, health care providers should carefully clarify the request with empathic, openended questions to help elucidate the underlying cause for the request, such as, “What makes you want to consider this option?” Endorsing either moral opposition or moral support for the act tends to be counterproductive, giving an impression of being judgmental or of endorsing the idea that the patient’s life is worthless. Health care providers must reassure the patient of continued care and commitment. The patient should be educated about alternative, less laden options, such as symptom management and withdrawing any unwanted treatments, and the reality of euthanasia and/or PAS, since the patient may have misconceptions about their effectiveness as well as the legal implications of the choice. Depression, hopelessness, and other symptoms of psychological distress, as well as physical suffering and economic burdens, are likely factors motivating the request, and such factors should be assessed and treated aggressively. After these interventions and clarification of options, most patients proceed with another approach, 
 
 ---
-
 #### PA RT 1 
-
 #### The Profession of Medicine 
-
  declining life-sustaining interventions, possibly including refusal of nutrition and hydration. 
-
 #### ■ CARE DURING THE LAST HOURS 
-
  Most laypersons have limited experiences with the actual dying process and death. They frequently do not know what to expect of the final hours and afterward. The family and other caregivers must be prepared, especially if the plan is for the patient to die at home. Patients in the last days of life typically experience extreme weakness and fatigue and become bedbound; this can lead to pressure sores. The issue of turning patients who are near the end of life, however, must be balanced against the potential discomfort that movement may cause. Patients stop eating and drinking with drying of mucosal membranes and dysphagia. Careful attention to oral swabbing, lubricants for lips, and use of artificial tears can provide a form of care to substitute for attempts at feeding the patient. With loss of the gag reflex and dysphagia, patients may also experience accumulation of oral secretions, producing noises during respiration sometimes called “the death rattle.” Scopolamine can reduce the secretions. Patients also experience changes in respiration with periods of apnea or Cheyne-Stokes 
-
  breathing. Decreased intravascular volume and cardiac output cause tachycardia, hypotension, peripheral coolness, and livedo reticularis (skin mottling). Patients can have urinary and, less frequently, fecal incontinence. Changes in consciousness and neurologic function generally lead to two different paths to death. Each of these terminal changes can cause patients and families distress, requiring reassurance and targeted interventions (Table 12-9). Informing families that these changes might occur and providing them with an information sheet can help preempt problems and minimize distress. Understanding that patients stop eating because they are dying, not dying because they have stopped eating, can reduce family and caregiver anxiety. Similarly, informing the family and caregivers that the “death rattle” may occur and that it is not indicative of suffocation, choking, or pain can reduce their worry from the breathing sounds. Families and caregivers may also feel guilty about stopping treatments, fearing that they are “killing” the patient. This may lead to demands for interventions, such as feeding tubes, that may be ineffective. In such cases, the physician should remind the family and caregivers about the inevitability of events and the palliative goals. 
-
  TABLE 12-9 Managing Changes in the Patient’s Condition during the Final Days and Hours CHANGES IN THE PATIENT’S CONDITION 
-
  POTENTIAL COMPLICATION 
-
  FAMILY’S POSSIBLE REACTION AND CONCERN ADVICE AND INTERVENTION Profound fatigue 
-
  Bedbound with development of pressure ulcers that are prone to infection, malodor, and pain, and joint pain 
-
  Patient is lazy and giving up. 
-
  Reassure family and caregivers that terminal fatigue will not respond to interventions and should not be resisted. Use an air mattress if necessary. 
-
  Anorexia None Patient is giving up; patient will suffer from hunger and will starve to death. 
-
  Reassure family and caregivers that the patient is not eating because he or she is dying; not eating at the end of life does not cause suffering or death. Forced feeding, whether oral, parenteral, or enteral, does not reduce symptoms or prolong life. 
-
  Dehydration Dry mucosal membranes (see below) 
-
  Patient will suffer from thirst and die of dehydration. 
-
  Reassure family and caregivers that dehydration at the end of life does not cause suffering because patients lose consciousness before any symptom distress. Intravenous hydration can worsen symptoms of dyspnea by pulmonary edema and peripheral edema as well as prolong the dying process. Dysphagia Inability to swallow oral medications needed for palliative care 
-
  Do not force oral intake. Discontinue unnecessary medications that may have been continued, including antibiotics, diuretics, antidepressants, and laxatives. If swallowing pills is difficult, convert essential medications (analgesics, antiemetics, anxiolytics, and psychotropics) to oral solutions, buccal, sublingual, or rectal administration. “Death rattle”—noisy breathing 
-
  Patient is choking and suffocating. 
-
  Reassure the family and caregivers that this is caused by secretions in the oropharynx and the patient is not choking. Reduce secretions with scopolamine (0.2–0.4 mg SC q4h or 1–3 patches q3d). Reposition patient to permit drainage of secretions. Do not suction. Suction can cause patient and family discomfort and is usually ineffective. Apnea, Cheyne-Stokes respirations, dyspnea 
-
  Patient is suffocating. 
-
  Reassure family and caregivers that unconscious patients do not experience suffocation or air hunger. Apneic episodes are frequently a premorbid change. Opioids or anxiolytics may be used for dyspnea. Oxygen is unlikely to relieve dyspneic symptoms and may prolong the dying process. Urinary or fecal incontinence 
-
  Skin breakdown if days until death Potential transmission of infectious agents to caregivers 
-
  Patient is dirty, malodorous, and physically repellent. 
-
  Remind family and caregivers to use universal precautions. Frequent changes of bedclothes and bedding. Use diapers, urinary catheter, or rectal tube if diarrhea or high urine output. 
-
  Agitation or delirium 
-
  Day/night reversal Hurt self or caregivers 
-
  Patient is in horrible pain and going to have a horrible death. 
-
  Reassure family and caregivers that agitation and delirium do not necessarily connote physical pain. Depending on the prognosis and goals of treatment, consider evaluating for causes of delirium and modifying medications. Manage symptoms with haloperidol, chlorpromazine, diazepam, or midazolam. Dry mucosal membranes 
-
  Cracked lips, mouth sores, and candidiasis can also cause pain. Odor 
-
  Patient may be malodorous, physically repellent. 
-
  Use baking soda mouthwash or saliva preparation q15–30 min. Use topical nystatin for candidiasis. Coat lips and nasal mucosa with petroleum jelly q60–90 min. Use ophthalmic lubricants q4h or artificial tears q30 min. 
-
 ---
 
 #### Palliative and End-of-Life Care 
@@ -3782,8 +2835,5 @@ Emanuel E et al: Attitudes and practices of euthanasia and physicianassisted sui
  American Academy of Hospice and Palliative Medicine: http://www. aahpm.org Center to Advance Palliative Care: http://www.capc.org Education in Palliative and End of Life Care (EPEC): http:// http://www.epec.net Family Caregiver Alliance: http://www.caregiver.org National Hospice and Palliative Care Organization (including state-specific advance directives): http://www.nhpco.org Nccn: The National Comprehensive Cancer Network palliative care guidelines: http://www.nccn.org Our Care Wishes Advance Care Planning Tool: https://www. ourcarewishes.org 
 
 ---
-
 Carlson FM pi-xiv.indd 4 25/10/21 1:18 PM 
-
 ### This page intentionally left blank 
-

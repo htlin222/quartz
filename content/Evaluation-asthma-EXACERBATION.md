@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Evaluation-asthma-EXACERBATION
-date: 2024-01-01
 ---
+
 # Evaluation-asthma-EXACERBATION
 
 * History: baseline PEF, steroid requirement, ED visits, hospital admissions, prior intubation

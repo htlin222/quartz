@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Physical exam-cirrhosis
-date: 2024-01-01
 ---
+
 # Physical exam-cirrhosis
 
 * Liver: initially enlarged, palpable (L lobe predom), firm; eventually shrunken, nodular

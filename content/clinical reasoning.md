@@ -1,8 +1,13 @@
 ---
+date: "2024-01-01"
+---
+
+---
+date: "2024-01-01"
 title: clinical reasoning
-date: 2024-01-01
 alias: ddx
 ---
+
 
 # clinical reasoning
 

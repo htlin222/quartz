@@ -24,13 +24,10 @@ enableToc: false
 - younger median age in Asia/Africa
 
 ---
-
 - (Ph) = t(9;22)
 - → BCR-ABLE1 **fusion**
 - → ↑ Able kinase activity
-
 > 如果其他的表現都一樣，但 Ph negative : myeloproliferative neoplasm
-
 ---
 
 [[BCR-ABLE1]] required for diagnosis (make via karyotyping or FISH; PCR)

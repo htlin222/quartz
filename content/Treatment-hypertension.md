@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-hypertension
-date: 2024-01-01
 ---
+
 # Treatment-hypertension
 
 * Every ↓ 5 mmHg → ~10% ↓ ischemic heart disease, stroke, and HF (Lancet 2021;397:1625)

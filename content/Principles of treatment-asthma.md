@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Principles of treatment-asthma
-date: 2024-01-01
 ---
+
 # Principles of treatment-asthma
 
 

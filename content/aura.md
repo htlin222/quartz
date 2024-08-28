@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: aura
-date: 2024-01-01
 ---
+
 # aura
 
 Aura is defined as transient focal neurological symptoms that usually precede, but sometimes accompany, the headache phase of a migraine attack. 

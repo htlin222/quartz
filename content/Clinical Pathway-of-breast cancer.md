@@ -28,9 +28,7 @@ tags:
 
 
 ---
-
 - [[Overview of side effects of chemotherapy for early-stage breast cancer]]
-
 - [[Cyclophosphamide]]
 - [[Anthracyclines]]
 - [[5FU]]

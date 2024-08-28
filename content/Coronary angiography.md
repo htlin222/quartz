@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Coronary angiography
-date: 2024-01-01
 ---
+
 # Coronary angiography
 * Immediate/urgent coronary angiography (w/in 2 h) if refractory/recurrent angina or hemodynamic or electrical instability
 

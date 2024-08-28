@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-adrenal insufficiency
-date: 2024-01-01
 ---
+
 # Diagnostic studies-adrenal insufficiency
  (JCEM 2016;101:364)
 > 參考➡️ [Diagnosis and treatment of primary adrenal insufficiency: an endocrine society clinical practice guideline](https://academic.oup.com/jcem/article-abstract/101/2/364/2810222)

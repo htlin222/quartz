@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Triage-pneumonia
-date: 2024-01-01
 ---
+
 
 # Triage-pneumonia
 

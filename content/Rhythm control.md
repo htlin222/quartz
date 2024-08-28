@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Rhythm control
-date: 2024-01-01
 ---
+
 
 # Rhythm control
 

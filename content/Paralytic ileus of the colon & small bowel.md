@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Paralytic ileus of the colon & small bowel
-date: 2024-01-01
 ---
+
 
 # Paralytic ileus of the colon & small bowel
 

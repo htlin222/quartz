@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: TAVI
-date: 2024-01-01
 ---
+
 # TAVI
 
 TAVI (transcatheter AoV implantation) (JAMA 2021;325:2480; Circ 2021;143:e72)

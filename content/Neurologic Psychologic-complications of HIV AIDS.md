@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Neurologic Psychologic-complications of HIV AIDS
-date: 2024-01-01
 ---
+
 # Neurologic Psychologic-complications of HIV AIDS
 
 * Meningitis: Crypto (dx w/ CSF; serum CrAg 90% Se), bacterial (inc. Listeria), viral (HSV, CMV, 1° HIV), TB, histo, Coccidio, lymphoma; neurosyphilis (cranial nerve palsies)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Screening of breast cancer
-date: 2024-01-01
 ---
+
 # Screening of breast cancer
 
 > (JAMA 2015;314:1599; Annals 2019;170:547)

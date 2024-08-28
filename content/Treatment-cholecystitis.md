@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-cholecystitis
-date: 2024-01-01
 ---
+
 # Treatment- [[cholecystitis]]
 
  (Ann Surg 2013;258:385; NEJM 2015;373:357)

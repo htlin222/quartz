@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-cholelithiasis
-date: 2024-01-01
 ---
+
 # Diagnostic studies-cholelithiasis
 
 * Labs normal in most

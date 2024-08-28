@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Eosinophilic esophagitis
-date: 2024-01-01
 ---
+
 # Eosinophilic esophagitis
 
 (JAMA 2021;326:1310): 

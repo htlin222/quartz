@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Thromboprophylaxis
-date: 2024-01-01
 ---
+
 # Thromboprophylaxis
 
 Blood Adv 2018;2:3198

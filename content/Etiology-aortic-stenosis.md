@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiology-aortic-stenosis
-date: 2024-01-01
 ---
+
 # Etiology-aortic-stenosis
  
 * Calcific: predominant cause in Pts >70 y; risk factors: HTN, ↑ LDL-C, ↑ Lp(a), ESRD

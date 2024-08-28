@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Device infection
-date: 2024-01-01
 ---
+
 # Device infection
 
 

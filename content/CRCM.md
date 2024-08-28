@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "CRCM"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # CRCM
-
 ### CRC, sigmoid colon cancer, ? cm AAV (M/D) adenocarcinoma, s/p ? on 2016/00/00, pT3N2b(9/26)M1 with liver mets, RAS wild type
-
 - Initial presentation: stool OB positive on 2014 but neglected, bloody stool since 2016/5~
 - Treatment plan: palliative chemotherapy
 - Follow up parameter: abdominal CT scan, and sigmoidoscope, CEA and CA199 if elevated
@@ -28,9 +24,7 @@ tags:
   @ Check RAS, HER2-neu, BRAF, and MSI status
   @ Check UGT1A1 (3ml in EDTA) for irinotecan.
   @ vascular assessment, nutritional assessment, dental assessment before chemotherapy, pharmacist education
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -91,4 +85,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

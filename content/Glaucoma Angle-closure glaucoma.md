@@ -1,21 +1,16 @@
----
+date: "2023-12-06---
 title: "Glaucoma Angle-closure glaucoma"
 date: "2023-12-06 17:33:57"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[checklist]]
-
 # Glaucoma Angle-closure glaucoma
-
 <!-- ✖ 無量空處 ✖ -->
-
 ### Siblings
-
 - [[Abdominal compartment syndrome checklist]]
 - [[Acute appendicitis checklist]]
 - [[Acute asthma exacerbation checklist]]
@@ -156,4 +151,3 @@ tags:
 - [[checklist for thyroid storm]]
 - [[checklist for unstable bradycardia]]
 - [[checklist for fractures]]
-

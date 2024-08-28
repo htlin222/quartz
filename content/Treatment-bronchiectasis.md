@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-bronchiectasis
-date: 2024-01-01
 ---
+
 # Treatment-bronchiectasis
 
 * Acute exacerbations: antibiotics directed against prior pathogens; if no prior Cx data → FQ

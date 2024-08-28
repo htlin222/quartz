@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Spot urine
-date: 2024-01-01
 ---
+
 # Spot urine
 
 protein (mg/dL)/creatinine (mg/dL) ≈ g/d of proteinuria (NEJM 1983;309:1543) unlike urine dipstick, will accurately measure myeloma light chains

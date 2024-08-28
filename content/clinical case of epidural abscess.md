@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: clinical case of epidural abscess
-date: 2024-01-01
 ---
+
 # clinical case of epidural abscess
 
 A 50-year-old woman with end-stage kidney disease from hypertensive nephrosclerosis presents for her regularly scheduled hemodialysis session. Her chronic low back pain has become more severe in the past 3 days, and she has felt feverish at home. She denies bowel or bladder incontinence.
@@ -14,8 +15,6 @@ Laboratory testing reveals a leukocyte count of 11,300 per mm? (reference range,
 她否認腸或膀胱失禁。 
 
 ---
-
 她的體溫是 38.6°C，她的血壓是 100/55 mm Hg，她的心率是每分鐘 110 次，當她呼吸周圍空氣時，她的氧飽和度是 94%。
 她的鎖骨下靜脈隧道式血管通路裝置在導管出口部位有紅斑和輕微的膿性引流。腰椎觸診疼痛，但上覆皮膚無紅斑。她在手臂和腿部的主要肌肉群中都有充分的力量。
-
 實驗室測試顯示每毫米白細胞計數為 11,300（參考範圍，4500-11,000）和 70.00 mg/L (0.08-3.10) 的 C 反應蛋白水平。

@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: neurology
-date: 2024-01-01
 alias: neuro
 ---
+
 
 # neurology
 

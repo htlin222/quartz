@@ -13,7 +13,6 @@ at: [[inbox]]
 - Part 3: [[Pharmacology]]
  
 ---
-
 - Part 4: [[Oncology and Hematology]]
 - Part 5: [[Infectious Diseases]]
 - Part 6: [[Disorders of the Cardiovascular System]]
@@ -24,7 +23,6 @@ at: [[inbox]]
 - Part 11: [[Immune-Mediated, Inflammatory, and Rheumatologic Disorders]]
 - Part 12: [[Endocrinology and Metabolism]]
 - Part 13: [[Neurologic Disorders]]
-
 ---
 
 - Part 14: [[Poisoning, Drug Overdose, and Envenomation]]

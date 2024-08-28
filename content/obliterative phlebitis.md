@@ -14,9 +14,7 @@ tags:
 # obliterative phlebitis
 
 ---
-
 ![Figure: ](https://i.imgur.com/VFWNVxu.png)
-
 ---
 
 - A 34-year-old man presented with a mediastinal mass that raised concern for a malignancy, but upon biopsy was found to have IgG4-RD.

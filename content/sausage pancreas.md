@@ -15,9 +15,7 @@ tags:
 # sausage pancreas
 
 ---
-
 ![Figure: ](https://i.imgur.com/oFPMNGX.png)
-
 ---
 
 - 胰腺瀰漫性腫大，胰裂消失，即所謂的 → “香腸樣外觀”。

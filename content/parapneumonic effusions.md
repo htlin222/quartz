@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: parapneumonic effusions
-date: 2024-01-01
 ---
+
 # parapneumonic effusions
 
 * parapneumonic積液是在與肺炎相鄰的胸膜空間中形成的胸腔積液。

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Managing migraine in special populations
-date: 2024-01-01
 ---
+
 # Managing migraine in special populations
 
 ## Older people

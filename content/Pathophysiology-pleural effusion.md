@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathophysiology-pleural effusion
-date: 2024-01-01
 ---
+
 
 # Pathophysiology-pleural effusion
 

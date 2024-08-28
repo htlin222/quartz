@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Serum parathyroid hormone  PTH  concentrations in hypercalcemia and hypocalcemia
-date: 2024-01-01
 ---
+
 # Serum parathyroid hormone (PTH) concentrations in hypercalcemia and hypocalcemia
 
 > raise plasma calcium via bone **resorption** and renal calcium **reabsorption**

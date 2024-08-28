@@ -1,25 +1,18 @@
----
+date: "2024-01-03---
 title: "Treatment principles-of-renal-cell-carcinoma"
 date: "2024-01-03 11:11:04"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自：[[renal-cell-carcinoma]]
-
 # Treatment principles-of-renal-cell-carcinoma
-
 - [[mgmt of localized or locally advanced rcc.md|Mgmt of Localized or locally advanced RCC]]
-
-
 - [[adjuvant therapy of rcc.md|Adjuvant therapy of RCC]]
 - [[cytoreductive nephrectomy in metastatic rcc.md|Cytoreductive nephrectomy in metastatic RCC]]
-
 ### Siblings
-
 - [[Epidemiology-of-renal-cell-carcinoma]]
 - [[Histology and molecular biology-of-renal-cell-carcinoma]]
 - [[Hereditary RCC and germline testing-of-renal-cell-carcinoma]]

@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: Test results noninvasive evaluation of CAD
-date: 2024-01-01
 aliases: [Test results noninvasive evaluation of CAD]
 linter-yaml-title-alias: Test results noninvasive evaluation of CAD
 ---
+
 
 # [[Test-results-noninvasive evaluation of CAD]]
 

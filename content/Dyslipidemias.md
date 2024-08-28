@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Dyslipidemias
-date: 2024-01-01
 ---
+
 # Dyslipidemias
 
 * 1° (inherited causes): familial hyperchol. (1:250): defective LDL receptor; ↑↑ chol; ↑ CAD; familial hyperTG: ↑ TG & pancreatitis; familial combined hyperlipid.: ↑ chol & TG; etc.

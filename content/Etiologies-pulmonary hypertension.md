@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-pulmonary hypertension
-date: 2024-01-01
 ---
+
 # Etiologies-pulmonary hypertension
 
 ## Primary pulmonary arterial HTN (PAH) (group 1)

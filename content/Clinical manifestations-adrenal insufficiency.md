@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-adrenal insufficiency
-date: 2024-01-01
 ---
+
 # Clinical manifestations-adrenal insufficiency
 
 (Lancet 2021;397:613)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition-nephrotic syndrome
-date: 2024-01-01
 ---
+
 # Definition-nephrotic syndrome
 
 ([JASN 2014;25:2393](https://jasn.asnjournals.org/content/25/11/2393?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Kidney360_TrendMD_0))

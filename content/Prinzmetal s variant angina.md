@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: Prinzmetal's variant angina
-date: 2024-01-01
 aliases: ["Prinzmetal's variant angina"]
 linter-yaml-title-alias: "Prinzmetal's variant angina"
 ---
+
 
 # Prinzmetal's variant angina
 
@@ -13,7 +14,6 @@ linter-yaml-title-alias: "Prinzmetal's variant angina"
 - 吸煙、高胰島素血症、胰島素抵抗 是:其重要危險因素(Prinzmetal angina is 󰶻 a syndrome typically consisting of chest pain at rest that occurs in cycles. It is 󰶻 caused by vasospasm. It occurs more in younger women)
 
 ---
-
 - Coronary spasm →
   - transient STE usually w/o MI
   - (but MI, AVB, VT can occur)

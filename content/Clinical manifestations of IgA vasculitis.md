@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations of IgA vasculitis
-date: 2024-01-01
 ---
+
 # Clinical manifestations of IgA vasculitis
 
 關節、肚子、腎、皮

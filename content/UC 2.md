@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: ulcerative colitis
-date: 2024-01-01
 alias: UC
 ---
+
 
 # ulcerative colitis
 

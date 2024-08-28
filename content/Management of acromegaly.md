@@ -14,9 +14,7 @@ tags:
 # Management of acromegaly
 
 ---
-
 ![Figure: ](https://i.imgur.com/K5qi20J.png)
-
 ---
 
 

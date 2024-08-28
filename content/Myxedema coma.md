@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Myxedema coma
-date: 2024-01-01
 ---
+
 # Myxedema coma
 
 * Presentation: hypothermia, hypotension, hypoventilation, Δ MS (coma rare), hyponatremia, hypoglycemia; often precipitated by infxn or major cardiopulmonary or neurologic illness

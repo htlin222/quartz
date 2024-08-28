@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic evaluation-hypopituitary syndromes
-date: 2024-01-01
 ---
+
 
 # Diagnostic evaluation-hypopituitary syndromes
 

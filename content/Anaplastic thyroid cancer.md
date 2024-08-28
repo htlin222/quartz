@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Anaplastic thyroid cancer
-date: 2024-01-01
 ---
+
 # Anaplastic thyroid cancer
 
 * ♀:♂ 1.5–2:1; poorly differentiated, extremely aggressive, mortality 90% at 5 y

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic approach-fever syndromes
-date: 2024-01-01
 ---
+
 # Diagnostic approach-fever syndromes
 
 * Thorough history including ROS, PMH/PSH, immunizations, including from childhood

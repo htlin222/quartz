@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: CHA2DS2-VASc
-date: 2024-01-01
 ---
+
 # CHA2DS2-VASc
 
 1. CHF (1 point); 

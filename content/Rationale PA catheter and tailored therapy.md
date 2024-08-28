@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Rationale PA catheter and tailored therapy
-date: 2024-01-01
 ---
+
 # Rationale PA catheter and tailored therapy
 
 * Cardiac output (CO) = SV × HR; optimize SV (and thereby CO) by manipulating preload/ LVEDV (w/ IVF, diuretics), contractility (w/ inotropes), & afterload (w/ vasodilators)

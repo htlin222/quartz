@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: ACC AHA Classification for Office-Based BP
-date: 2024-01-01
 ---
+
 
 # ACC AHA Classification for Office-Based BP
 
@@ -24,9 +25,7 @@ SPRINT 研究 2015 年底，發表在 NEJM 的 Systolic Blood Pressure Intervent
   - 急性腎衰竭等問題
 
 ---
-
 ![Figure](https://i.imgur.com/sGakxw8.png)
-
 ---
 
 | 血壓（mmHg） | 病情             | 備註 |

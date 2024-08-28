@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Epidemiology-HIV AIDS
-date: 2024-01-01
 ---
+
 # Epidemiology-HIV AIDS
 * ~1.2 million Americans living w/ HIV (13% unaware); ~37 million worldwide
 * High risk groups: MSM, transgender women, IVDU, sex worker, partners of high-risk Pts

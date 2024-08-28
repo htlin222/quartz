@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Antituberculous Medications
-date: 2024-01-01
 ---
+
 
 # Antituberculous Medications
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiology-acute liver failure
-date: 2024-01-01
 ---
+
 # Etiology-acute liver failure
 
  (J Hepatol 2015;62:S112)

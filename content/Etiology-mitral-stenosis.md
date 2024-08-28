@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiology-mitral-stenosis
-date: 2024-01-01
 ---
+
 # Etiology-mitral-stenosis
 
 

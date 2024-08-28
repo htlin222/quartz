@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-pancytopenia
-date: 2024-01-01
 ---
+
 # Etiologies-pancytopenia
 
 * Hypocellular bone marrow (nl cellularity ~100 – age): aplastic anemia, hypoplastic MDS

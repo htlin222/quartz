@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Long-term anticoagulation options-venous thromboembolism
-date: 2024-01-01
 ---
+
 # Long-term anticoagulation options-venous thromboembolism
 
 * For nonpregnant Pt without severe renal dysfunction or active cancer → DOAC

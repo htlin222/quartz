@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-nephrolithiasis
-date: 2024-01-01
 ---
+
 # Clinical manifestations-nephrolithiasis
 
 * Hematuria (absence does not exclude diagnosis), flank pain, N/V, dysuria, frequency

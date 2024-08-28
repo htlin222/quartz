@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Sequential management of bacterial meningitis
-date: 2024-01-01
 ---
+
 # Sequential management of bacterial meningitis
 
 1. Blood cx, initiate empiric antibiotics, consider corticosteroids (vide infra)

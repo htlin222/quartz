@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition and causes-acute mesenteric ischemia
-date: 2024-01-01
 ---
+
 # Definition and causes-acute mesenteric ischemia
 
 

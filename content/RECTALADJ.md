@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "RECTALADJ"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # RECTALADJ
-
 ### Rectal cancer, 6 cm from anal verge, S/P CCRT(?) s/p laparoscopic proctectomy and ileostomy on 2017/00/00 ypT2N0(0/16)
-
 - Initial presentation:
 - 2017/00/00 explained the concept of adjuvant chemotherapy, the goal is to decrease recurrence/metastasis as possible, not guarantee cure!! Thus regular follow up is still needed. CEA need F/U. Adjuvant chemotherapy will be started post op 4~6 weeks
 - for N+(1) status, there is HIGH risk of recurrence or metastasis, adjuvant chemotherapy is suggested, offered options included
@@ -29,9 +25,7 @@ tags:
   Oxaliplatin:
   **peripheral sensory neuropathy, nausea/vomting, diarrhea, myelosuppression, anaphylaxis
   \*\*Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -92,4 +86,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

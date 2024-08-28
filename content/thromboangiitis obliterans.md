@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: thromboangiitis obliterans
-date: 2024-01-01
 ---
+
 # thromboangiitis obliterans
 
 # Buerger disease

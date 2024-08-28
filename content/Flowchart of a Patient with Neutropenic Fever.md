@@ -14,9 +14,7 @@ tags:
 # Flowchart of a Patient with Neutropenic Fever
 
 ---
-
 ![Figure: ](https://i.imgur.com/SwCjnvT.png)
-
 ---
 
 - High risk MASCC score < 21
@@ -31,7 +29,6 @@ tags:
   - _Meropenem_ (if history of ESBL)
 
 ---
-
 - Low risk MASCC score > 21
   - Solid tumor
   - Anticipated neutropenia ≤ 7 days

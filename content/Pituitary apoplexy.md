@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pituitary apoplexy
-date: 2024-01-01
 ---
+
 # Pituitary apoplexy
 
 * Rapid expansion of pituitary tumor (typically adenoma) due to hemorrhage or infarction

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: infections of the nervous system
-date: 2024-01-01
 ---
+
 # infections of the nervous system
 
 >> [[cerebrospinal fluid lab results]]

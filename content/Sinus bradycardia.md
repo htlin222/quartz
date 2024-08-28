@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Sinus bradycardia
-date: 2024-01-01
 ---
+
 
 # Sinus bradycardia
 

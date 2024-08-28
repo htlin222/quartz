@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Refractory ascites
-date: 2024-01-01
 ---
+
 # Refractory ascites
 
 seen in 5–10% of Pts; 2-y survival 25%

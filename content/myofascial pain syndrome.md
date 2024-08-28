@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: myofascial pain syndrome
-date: 2024-01-01
 ---
+
 # myofascial pain syndrome
 
 ## ✨重點:

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: new note
-date: 2024-01-01
 ---
+
 AM/AMP
 Ampicillin
 Aminopenicillin

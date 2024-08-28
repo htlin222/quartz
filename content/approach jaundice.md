@@ -15,8 +15,6 @@ tags:
 
 
 ---
-
 ![Figure:Evaluation of the patient with jaundice. ](https://i.imgur.com/47M8ErF.png)
-
 ---
 

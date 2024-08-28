@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Subclinical hypothyroidism
-date: 2024-01-01
 ---
+
 # Subclinical hypothyroidism
 
 * Mild ↑ TSH and 

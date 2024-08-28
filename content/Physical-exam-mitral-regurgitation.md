@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Physical-exam-mitral-regurgitation
-date: 2024-01-01
 ---
+
 # Physical-exam-mitral-regurgitation
 
 * Early diastolic decrescendo murmur at LSB (RSB if dilated Ao root); ↑ w/ sitting forward, expir, handgrip; severity of AR ∝ duration of murmur (except in acute and severe late); Austin Flint murmur: mid-to-late diastolic rumble at apex (AR jet interfering w/ mitral inflow)

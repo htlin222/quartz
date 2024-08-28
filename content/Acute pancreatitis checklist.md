@@ -1,17 +1,14 @@
----
+date: "2023-12-06---
 title: "Acute pancreatitis checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[checklist]]
-
 # Acute pancreatitis checklist
-
 - Start oxygen therapy if hypoxic.
 - Establish IV access with two large-bore cannulas.
   - Send laboratory studies.

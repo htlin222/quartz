@@ -29,13 +29,10 @@ tags:
 - ↓ w/ obesity
 
 ---
-
 - Se ≥95%, Sp: ~50%,
 - PPV ~65%, NPV ≥ 94% for HF in Pts p/w SOB (BMJ 2015;350:h910)
 -
-
 ### KEY TAKEAWAYS 關鍵要點
-
 - BNP a vasoactive peptide, has a shorter half life than NT-proBNP an inactive peptide which tends to circulate longer and can detect earlier forms of Heart Failure
   - BNP是一種血管活性肽，其半衰期比NT-proBNP短，NT-proBNP是一種 ✖ 無活性肽，循環時間更長，可以 ✔ 檢測早期形式的 → 心衰竭(HF)
 - ARNi drugs effects the level of BNP but not NT-proBNP. With more data, value of NT-proBNP is → higher than BNP for treatment monitoring and managing Heart Failure patients

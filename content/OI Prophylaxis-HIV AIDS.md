@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: OI Prophylaxis-HIV AIDS
-date: 2024-01-01
 ---
+
 # OI Prophylaxis-HIV AIDS
 
  (https://aidsinfo.nih.gov/guidelines & JAMA 2018;320:379, HIV.gov:2020)

@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: At client
-date: 2024-01-01
 aliases: [At client]
 linter-yaml-title-alias: At client
 ---
+
 [教學][NAS] Synology NAS SSH 免密碼登入 | Gary's ...Lasamia (garynil.tw)
 
 # At client

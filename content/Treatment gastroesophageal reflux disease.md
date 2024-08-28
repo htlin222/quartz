@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment gastroesophageal reflux disease
-date: 2024-01-01
 ---
+
 
 # Treatment [[gastroesophageal reflux disease]]
 

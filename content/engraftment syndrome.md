@@ -17,7 +17,5 @@ enableToc: false
 * wt gain
 
 ---
-
 * r/o **infection, GVHD**
 * 1 mg/kg steroids : rapid taper over 3–4 d.
-

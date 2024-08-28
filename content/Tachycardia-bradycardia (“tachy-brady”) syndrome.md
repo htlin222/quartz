@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Tachycardia-bradycardia  “tachy-brady”  syndrome
-date: 2024-01-01
 ---
+
 
 # Tachycardia-bradycardia (“tachy-brady”) syndrome
 

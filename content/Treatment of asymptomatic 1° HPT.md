@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of asymptomatic 1° HPT
-date: 2024-01-01
 ---
+
 # Treatment of asymptomatic 1° HPT
 
 * Surgery if: age <50 y; serum Ca >1 mg/dL >ULN; CrCl <60 mL/min, DEXA T score <–2.5

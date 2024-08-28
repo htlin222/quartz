@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of Granulomatosis with polyangiitis
-date: 2024-01-01
 ---
+
 # Treatment of Granulomatosis with polyangiitis
 
 assess severity w/ BVAS/GPA score (Arth Rheum Dis 2009;68:1827)

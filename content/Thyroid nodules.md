@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Thyroid nodules
-date: 2024-01-01
 ---
+
 # Thyroid nodules
 
 * Prevalence 5–10% (50–60% if screen with U/S), ♀ > ♂, ~7–15% malignant

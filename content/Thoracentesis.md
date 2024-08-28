@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Thoracentesis
-date: 2024-01-01
 ---
+
 # Thoracentesis
 
  (ideally U/S guided) (NEJM 2006;355:e16)

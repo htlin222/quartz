@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Broad categories-interstitial lung disease
-date: 2024-01-01
 ---
+
 # Broad categories-interstitial lung disease
 
 * (1) Sarcoid; (2) Exposures (eg, drugs, XRT, organic & inorganic dusts, vaping);

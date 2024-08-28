@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hepatic hydrothorax
-date: 2024-01-01
 ---
+
 # Hepatic hydrothorax
 
 

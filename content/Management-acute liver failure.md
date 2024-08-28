@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Management-acute liver failure
-date: 2024-01-01
 ---
+
 # Management-acute liver failure
 
 (J Clin Exp Hepatol 2015;5:S104; Gastro 2017;152:644)

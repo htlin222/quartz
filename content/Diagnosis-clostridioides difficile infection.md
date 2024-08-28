@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis-clostridioides difficile infection
-date: 2024-01-01
 ---
+
 # Diagnosis-clostridioides difficile infection
 
  (Ann Intern Med 2018;169:49)

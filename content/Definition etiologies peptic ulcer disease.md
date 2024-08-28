@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition etiologies peptic ulcer disease 
-date: 2024-01-01
 ---
+
 # Definition etiologies peptic ulcer disease 
 
 * Ulcers (break in mucosal lining >5 mm) & erosions (<5 mm) in stomach and duodenum

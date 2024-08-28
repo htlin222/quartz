@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations of Giant cell arteritis
-date: 2024-01-01
 ---
+
 # Clinical manifestations of Giant cell arteritis
 
 (NEJM 2014;371:50): constitutional sx: fevers, fatigue, wt loss

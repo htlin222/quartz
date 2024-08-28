@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "CCC"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # CCC
-
 ### Cholangiocarcinoma, with liver mets and malignant ascites, cytology on 2017/1/11 negative, biopsy on 2017/1/20, GYN check negative, Colonscopy and EGD negative s/p gemcis (2017/1/24~2/21), clinically disease progression, suggest 2nd line FOLFOX or immunotherapy
-
 - Initial presentation:
 - Treatment plan:
 - Follow up parameter: CT scan, CA-199, CEA
@@ -23,9 +19,7 @@ tags:
   @ Vascular assessment, nutritional assessment, dental check before chemotherapy, pharmacist education
   @ Check viral marker before treatment
   @ 申請重大傷病
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -86,4 +80,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

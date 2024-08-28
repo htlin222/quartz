@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: cardiac risk assessment for noncardiac surgery
-date: 2024-01-01
 ---
+
 # cardiac risk assessment for noncardiac surgery
 
 [[Preoperative evaluation]]

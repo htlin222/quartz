@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: mechanical ventilation
-date: 2024-01-01
 ---
+
 # mechanical ventilation
 [[indications-mechanical ventilation]]
 

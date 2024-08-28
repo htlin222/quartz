@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: bacteremia and endocarditis
-date: 2024-01-01
 alias: infective endocarditis
 ---
+
 # bacteremia and endocarditis
 
 * [[bacteremia]]

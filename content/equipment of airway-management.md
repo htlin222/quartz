@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: equipment of airway-management
-date: 2024-01-01
 ---
+
 # equipment of airway-management
 
 ## ✨重點:

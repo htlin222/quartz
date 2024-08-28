@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Common biases in clinical reasoning
-date: 2024-01-01
 ---
+
 # Common biases in clinical reasoning
 
 ## Availability

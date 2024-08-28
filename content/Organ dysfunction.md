@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Organ dysfunction
-date: 2024-01-01
 ---
+
 # Organ dysfunction
 
 - Liver (esp. cirrhosis): 

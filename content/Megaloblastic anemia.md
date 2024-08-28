@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Megaloblastic anemia
-date: 2024-01-01
 ---
+
 # Megaloblastic anemia
 
 * Impaired DNA synthesis → cytoplasm matures faster than nucleus → ineffective erythropoiesis and macrocytosis; due to folate or B12 deficiency; also in MDS

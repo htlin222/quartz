@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis of migraine
-date: 2024-01-01
 ---
+
 # Diagnosis of migraine
 
 * Record medical history

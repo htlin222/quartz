@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications-cholelithiasis
-date: 2024-01-01
 ---
+
 # Complications-cholelithiasis
 
 * Cholecystitis: 20% of Pts with symptomatic biliary pain progress to cholecystitis w/in 2 y

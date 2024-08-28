@@ -19,19 +19,15 @@ tags:
 * [[myelophthisis]]
 
 ---
-
 **Hypoproliferative anemia** is a cardinal feature of these disorders,
-
 ---
 
 [[differential diagnosis of pancytopenia]]
 
 ---
-
 * frequent is pancytopenia: anemia, leukopenia, and thrombocytopenia.
 * Low blood counts in marrow failure result from deficient hematopoiesis, as distinguished from blood count depression due to peripheral destruction of red cells (hemolytic anemias), platelets (idiopathic thrombocytopenic purpura [ITP] or due to splenomegaly), and granulocytes (as in the immune leukopenias).
 * secondary: infection, inflammation, or cancer.
-
 ---
 
 * Separation between aplastic anemia and hypocellular MDS can be particularly difficult.

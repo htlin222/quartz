@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: pituitary disorders
-date: 2024-01-01
 ---
+
 
 - from: [[endocrinology]] 󰒖
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Erosive gastropathy
-date: 2024-01-01
 ---
+
 # Erosive gastropathy
 
 (4–30%)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Managing complications-acute kidney injury  AKI 
-date: 2024-01-01
 ---
+
 # Managing complications-acute kidney injury (AKI)
 
 * May take 1–3 wk to recover from ATN; anticipate volume overload, ↑ K, ↑ PO4, acidosis

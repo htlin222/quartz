@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: heart failure
-date: 2024-01-01
 alias: HF
 ---
+
 
 # heart failure
 
@@ -22,7 +23,5 @@ alias: HF
 - [[Treatment of Chronic HF with Reduced EF]]
 - [[Heart failure with preserved EF]]
 ---
-
 ![Figure: ](https://i.imgur.com/3gnqXPU.png)
-
 ---

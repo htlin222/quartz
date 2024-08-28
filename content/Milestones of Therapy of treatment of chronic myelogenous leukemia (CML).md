@@ -29,10 +29,6 @@ tags:
 
 
 ---
-
 ## BCR-ABL1 ratio
-
 **BCR-ABL1 mRNA**: **ABL mRNA** in peripheral blood.
-
 International Scale (IS) standardizes across labs by normalizing to BCR-ABL1:ABL1 ratio in a cohort of unRx’d patients.
-

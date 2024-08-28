@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Screening and Diagnosis-HIV AIDS
-date: 2024-01-01
 ---
+
 # Screening and Diagnosis-HIV AIDS
 
 (JAMA 2018;320:379)

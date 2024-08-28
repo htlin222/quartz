@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies of Acute Pericarditis
-date: 2024-01-01
 ---
+
 
 # Etiologies of Acute Pericarditis
 
@@ -33,34 +34,21 @@ date: 2024-01-01
   - Histo, Coccidio, Candida; Parasite: Entamoeba, Echino
 
 ---
-
 ## Non-infectious
-
 ## Neoplastic (<10%)
-
 - Common: metastatic (lung, breast, lymphoma, leukemia, RCC)
 - Rare: primary cardiac & serosal tumors (mesothelioma)
 - 常見：轉移性（肺、乳腺、淋巴瘤、白血病、腎細胞癌）
 - 罕見：原發性心臟和漿膜腫瘤（間皮瘤）
-
 ## Autoimmune
-
 - Connective tissue diseases: SLE, RA, scleroderma, Sjögren’s
 - Vasculitides: PAN, ANCA ⊕ (EGPA, GPA)
 - Drug-induced: procainamide, hydralazine, inh, CsA
-
 ## Uremia
-
 ~5–13% of Pts prior to HD; ~20% occurrence in chronic HD Pts
-
 ## Cardiovascular
-
 STEMI, late post-MI (Dressler’s syndrome), but rare in modern era; prox AoD; chest trauma/postpericardiotomy; PCI or EP complication
-
 ## Radiation
-
 > 40 Gy to mediastinum; acute or delayed; may be transudative
-
 ## Effusion w/o pericarditis
-
 HF (particularly R-sided as pericardial fluid drains into RA), cirrhosis, nephrotic syndrome, hypothyroidism, amyloidosis. Transudative.

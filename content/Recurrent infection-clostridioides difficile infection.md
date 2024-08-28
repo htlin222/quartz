@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Recurrent infection-clostridioides difficile infection
-date: 2024-01-01
 ---
+
 # Recurrent infection-clostridioides difficile infection
 
 (15–30% risk after d/c of abx, most w/in 2 wk of stopping abx)

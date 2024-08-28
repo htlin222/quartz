@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Epidemiology  pathogenesis-cholelithiasis
-date: 2024-01-01
 ---
+
 # Epidemiology  pathogenesis-cholelithiasis
 
 (J Hepatol 2016;65:146; Gastro 2016;151:351)

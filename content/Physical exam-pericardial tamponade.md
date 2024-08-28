@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Physical exam-pericardial tamponade
-date: 2024-01-01
 ---
+
 # Physical exam-pericardial tamponade
 
 * Beck’s triad (present in minority of cases): distant heart sounds (28%), ↑ JVP (76%) w/ blunted y descent, hypotension (26%); ± pericardial friction rub (30%)

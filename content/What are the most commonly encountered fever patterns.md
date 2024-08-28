@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: What are the most commonly encountered fever patterns
-date: 2024-01-01
 ---
+
 # What are the most commonly encountered fever patterns
 
 - Sustained or continued (little variability from day to day): this used to be the pattern of lobar pneumonia , steady until abruptly resolving by either crisis or death. Nowadays, a sustained pattern is mostly seen in gram-negative sepsis , but also in central nervous system (CNS) diseases.

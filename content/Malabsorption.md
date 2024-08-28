@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Malabsorption
-date: 2024-01-01
 ---
+
 # Malabsorption
 
 (fatty; ↑ fecal fat, ↑ osmotic gap, ↓ diarrhea w/ fasting)

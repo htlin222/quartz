@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Antiarrhythmic Drugs  AAD  for AF
-date: 2024-01-01
 ---
+
 # Antiarrhythmic Drugs (AAD) for AF
 
 ![Antiarrhythmic Drugs (AAD) for AF](https://i.imgur.com/DUFlNrk.png)
@@ -21,7 +22,6 @@ date: 2024-01-01
 * [[Procainamidel]]
 
 ---
-
 * Underlying disease & maintenance AAD of choice:
 * None or minimal (incl HTN wlo LVH): class IC (“pill in pocket"). sotalol, dronedarone;
 * HTN w/ LVH: amio; CAD: sotalol, dofetilide, amio, dronedarone; HF: amio. dofetilide

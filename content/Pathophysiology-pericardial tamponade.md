@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathophysiology-pericardial tamponade
-date: 2024-01-01
 ---
+
 
 # Pathophysiology-pericardial tamponade
 

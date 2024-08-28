@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: culture negative-bacterial endocarditis
-date: 2024-01-01
 ---
+
 
 # culture negative-bacterial endocarditis
 

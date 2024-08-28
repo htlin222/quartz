@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Early Goal-Directed Therapy  EGDT
-date: 2024-01-01
 ---
+
 
 # Early Goal-Directed Therapy (EGDT)
 

@@ -24,12 +24,9 @@ tags:
 - Cholangiocarcinoma
 
 ---
-
 ## SHIP ⛵
-
 - Smokers
 - Inflammatory bowel disease
 - Pancreatitis
 - Hepatitis
-
 [[Tumor markers]]

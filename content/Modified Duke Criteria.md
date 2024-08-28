@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Modified Duke Criteria
-date: 2024-01-01
 alias: Duke
 ---
+
 
 # Modified Duke Criteria
 

@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: irAE 
-date: 2024-01-01
 aliases: [irAE ]
 linter-yaml-title-alias: irAE 
 ---
+
 # irAE 
 [[my report about irAE]]
 [[oncology]]

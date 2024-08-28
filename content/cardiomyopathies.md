@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: cardiomyopathies
-date: 2024-01-01
 ---
+
 
 # cardiomyopathies
 

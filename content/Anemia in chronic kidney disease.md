@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Anemia in chronic kidney disease
-date: 2024-01-01
 ---
+
 # Anemia in chronic kidney disease
 
 > goal Hb 10–11.5 g/dL, worse outcomes if target higher (NEJM 2009;361:2019)

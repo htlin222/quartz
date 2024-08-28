@@ -19,7 +19,6 @@ tags:
 - More prevalent among Caucasians, incidence ↑ w/ age, equal incidence between men & women
 
 ---
-
 - Represents ∼10-12% of lymphomas,
 - ∼8-9K cases annually in United States,
 - ∼1,000 deaths

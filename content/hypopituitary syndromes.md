@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hypopituitary syndromes
-date: 2024-01-01
 ---
+
 
 # hypopituitary syndromes
 
@@ -28,6 +29,5 @@ date: 2024-01-01
 - [[Pituitary apoplexy]]
  
 ---
-
 - [[Diagnostic evaluation-hypopituitary syndromes]]
 - [[Treatment-hypopituitary syndromes]]

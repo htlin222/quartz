@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: mitral-valve-prolapse
-date: 2024-01-01
 ---
+
 # mitral-valve-prolapse
 Definition and Etiology
 * Billowing of MV leaflet ≥2 mm above mitral annulus in parasternal long axis echo view

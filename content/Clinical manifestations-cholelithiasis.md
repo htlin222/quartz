@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-cholelithiasis
-date: 2024-01-01
 ---
+
 # Clinical manifestations-cholelithiasis
 
 * Asx in ~80%. Biliary pain develops in 1–4%/y. Once sx, rate of complications ~1–3%/y.

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hypotension
-date: 2024-01-01
 ---
+
 # hypotension
 
 > 評估一個低血壓的病人
@@ -13,18 +14,14 @@ date: 2024-01-01
 * Other: Andrenal, Arteriovenous shunts
 
 ---
-
 ## Cardiogenic
 ### 牆Cardiomyopathic
 * MI, dilated cardiomyopathy, Myocarditis, Drug-induced (eg, beta blockers)
-
 ### 電路Arrhythmogenic
 * Tachyarrhythmia – Atrial, ventricular
 * Brady - atrioventricular block, Mobiz type 2
-
 ### 水路Mechanical
 * valvular, [[myxoma]]
-
 ---
 
 ## Hypovolemic
@@ -34,13 +31,11 @@ date: 2024-01-01
 * 上吐下瀉、中暑、renal loss(salt wasting)、3rd space loss
 
 ---
-
 ## Obstructive
 ### Pulmonary vascular
 * pulmonary embolism, pulmonary hypertension
 ### Mechanical
 *
-
 ---
 
 ## Mixed/unknown

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hypertrophic pulm osteoarthropathy
-date: 2024-01-01
 ---
+
 # hypertrophic pulm osteoarthropathy
 
 HPOA是一組可能影響器官，肺，骨骼和關節的症狀。這是一種罕見的綜合症，因此沒有太多信息。它也被稱為Bamberger-Marie

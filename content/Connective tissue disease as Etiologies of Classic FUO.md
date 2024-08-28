@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Connective tissue disease as Etiologies of Classic FUO
-date: 2024-01-01
 ---
+
 # Connective tissue disease as Etiologies of Classic FUO
 
 

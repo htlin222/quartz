@@ -1,17 +1,14 @@
----
+date: "2023-12-05---
 title: "CRCFU"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # CRCFU
-
 CRC follow up strategy:
 PE Q6M for 5 years
 CEA Q3M for 2 years and then Q6M for 3 years and then Qyear
@@ -20,9 +17,7 @@ Whole abdominal CT Qyr for 5 yr
 Sono of liver 6 month post op once and then Qyear
 Colonscopy Qyear for 2 years and then Q3year
 Chest CT for resected lung mets Qyear
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -83,4 +78,3 @@ Chest CT for resected lung mets Qyear
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

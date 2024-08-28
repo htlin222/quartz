@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "BCADJH"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # BCADJH
-
 ### Left breast cancer, IDC, s/p left SM+ALND on 2020/00/00, pT2(3.3cm)N1mi(1/9, 1.5mm)M0, NG3, LVI-, ER0, PR0, HER2-neu 3+
-
 - Menopause, premenopause
 - Adjuvant chemotherapy: AC X 4--> T X 4/8, Herceptin for 1 yr
 - Consult RT
@@ -23,9 +19,7 @@ tags:
   @ Vascular assessment, nutritional assessment (high protein diet), consult rehabilitation, dental check and pharmacist education before chemotherapy
   @ Olanzepine HS self-paid, akyenzo, dexam, and primperan for emeis.
   @ f/u 2-D echo Q4~5M under herceptin (2020/00/00 EF:%)
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -86,4 +80,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

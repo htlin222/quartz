@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Echocardiogram for Constrictive vs Restrictive Pericarditis
-date: 2024-01-01
 ---
+
 # Echocardiogram for Constrictive vs Restrictive Pericarditis
 
 

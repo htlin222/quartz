@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Additional Diabetes Treatment Options
-date: 2024-01-01
 ---
+
 # Additional Diabetes Treatment Options
 
 ## DPP-4 inhibitors (~0.5–1%)

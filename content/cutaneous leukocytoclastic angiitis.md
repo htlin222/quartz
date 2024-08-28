@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: cutaneous leukocytoclastic angiitis
-date: 2024-01-01
 ---
+
 # cutaneous leukocytoclastic angiitis
 
 * Occurs 7–10 days after certain medications 

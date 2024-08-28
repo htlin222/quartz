@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Placement PA catheter and tailored therapy
-date: 2024-01-01
 ---
+
 # Placement PA catheter and tailored therapy
 
 * Insertion site: R IJ or L subclavian veins preferred for “anatomic” flotation into PA

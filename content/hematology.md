@@ -1,10 +1,11 @@
 ---
+date: "2024-01-01"
 title: hematology
-date: 2024-01-01
 slug: "hema"
 alias: hema
 tags: index
 ---
+
 
 lizard
 
@@ -38,9 +39,7 @@ qv [[oncology]]
 - [[deck/hematopathology/index.md]]
 
 ---
-
 ## [[benign hematology]]
-
 - [[anemia]]
 - [[laboratory hematology.md|laboratory hematology]]
 - [[disorders of hemostasis]]
@@ -53,11 +52,8 @@ qv [[oncology]]
 - [[Procedure of hematology]]
 - [[Peripheral Smear Findings]]
   - [[Evaluation of a Peripheral Blood Smear]]
-
 ## Pediatric
-
 - [[chronic granulomatous disease.md|chronic granulomatous disease]]
-
 ---
 
 ## Other reference

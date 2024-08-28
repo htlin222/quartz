@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of Cushing’s syndrome
-date: 2024-01-01
 ---
+
 
 # Treatment of Cushing’s syndrome
 

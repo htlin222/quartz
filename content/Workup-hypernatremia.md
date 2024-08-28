@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-hypernatremia
-date: 2024-01-01
 ---
+
 # Workup-hypernatremia
 
 ✓

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pancoast’s syndrome
-date: 2024-01-01
 ---
+
 # Pancoast’s syndrome
 
 - apical tumor → brachial plexus involvement (C8, T1, T2) → [[Horner’s syndrome]], shoulder pain, rib destruction, atrophy of hand muscles

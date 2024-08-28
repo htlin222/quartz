@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment for acute HBV
-date: 2024-01-01
 ---
+
 # Treatment for acute HBV
 
 * [[When to treat chronic HBV with anti-virals]]

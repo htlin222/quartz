@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathophysiology-hypernatremia
-date: 2024-01-01
 ---
+
 
 # Pathophysiology-hypernatremia
 

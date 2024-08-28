@@ -20,7 +20,6 @@ tags:
   - Lab: 1-{Bone Marrow, 血球低下}, 2-{Ferritin, Fibrinoten}, 3-{Tg, AST}
 
 ---
-
 - Known underlying immunosuppression
   - HIV positive or receiving long-term
   - immunosuppressive therapy (i.e., glucocorticoids, cycloSPORINE, azaTHIOprine)
@@ -33,5 +32,4 @@ tags:
 - Fibrinogen, mg/dL (g/L)
 - AST, U/L
 - Hemophagocytosis features on bone marrow aspirate
-
 → 161-170 40-54%

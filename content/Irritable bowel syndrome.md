@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Irritable bowel syndrome
-date: 2024-01-01
 ---
+
 # Irritable bowel syndrome
 
 (JAMA 2015;313:949; Gastro 2015;149:1399 & 2018;154:1140)

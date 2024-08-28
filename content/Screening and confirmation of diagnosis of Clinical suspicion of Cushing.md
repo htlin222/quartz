@@ -20,6 +20,5 @@ tags:
 - Midnight salivary cortisol >5 nmol/L (22x)
 
 ---
-
 - If further confirmation needed ldesired:
   - Low dose DEX test (Plasma cortisol >50 nmolL afer 0.5 mg DEX q6h for 2 days or a single dose of 8 mg overnight)

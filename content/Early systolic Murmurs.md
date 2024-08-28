@@ -20,16 +20,12 @@ tags:
   - Acute MR
 
 ---
-
 - VSD : 左大於右， ∴ 所以左邊一個壓力擠到右心去
-
 ---
 
 - Muscular
   - Nonrestrictive with pulmonary hypertension
 
 ---
-
 - Tricuspid
-
 - TR with normal pulmonary artery pressure

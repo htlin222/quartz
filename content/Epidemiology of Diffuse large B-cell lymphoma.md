@@ -22,9 +22,7 @@ tags:
 - Clinicopathologic Subtypes Clinical and Pathologic Subtypes
 
 ---
-
 ## Many different subtypes (refer to updated 2016 WHO classification, Blood 2016;127:2375)
-
 - Many different subtypes including 1° mediastinal (PMBL),
   - 1° CNS (PCNSL),
   - testicular,

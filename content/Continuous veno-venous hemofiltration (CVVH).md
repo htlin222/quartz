@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Continuous veno-venous hemofiltration  CVVH 
-date: 2024-01-01
 ---
+
 # Continuous veno-venous hemofiltration (CVVH)
 
 * Hemofiltration rather than dialysis. 

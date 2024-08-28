@@ -1,26 +1,21 @@
----
+date: "2023-12-05---
 title: "BREASTPE"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # BREASTPE
-
 Breast physical exam:
 Right
-
 > right breast : "palpable mass, over OUQ 10\*8 cm"
 > right axilla : no palpable mass
 > right subclavian : no palpable lesion
 > right nipple : no discharge , no depression
 > Operation scar : Nil
-
 ---
 
 Left

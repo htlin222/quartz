@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Medical Therapy of Ulcerative Colitis
-date: 2024-01-01
 ---
+
 
 # Medical Therapy of Ulcerative Colitis
 

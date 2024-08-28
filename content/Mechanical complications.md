@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Mechanical complications
-date: 2024-01-01
 ---
+
 # Mechanical complications
 Mechanical complications (incid. <1% for each; typically occur a few days post-MI)
 * Free wall rupture: ↑ risk w/ lysis, large MI, ↑ age, ♀, HTN; p/w PEA or hypoTN, pericardial sx, tamponade; Rx: volume resusc., ? pericardiocentesis, inotropes, surgery

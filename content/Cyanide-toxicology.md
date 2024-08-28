@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cyanide-toxicology
-date: 2024-01-01
 ---
+
 # Cyanide-toxicology
 
 

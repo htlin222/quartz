@@ -1,10 +1,11 @@
 ---
+date: "2024-01-01"
 title: colorectal cancer
-date: 2024-01-01
 alias: CRC
 tags:
   - building
 ---
+
 
 # colorectal cancer
 
@@ -20,12 +21,10 @@ tags:
 - [[Staging and treatment of colorectal cancer]]
 
 ---
-
 - Other: [[Role of Circulating Tumor DNA in Guiding Adjuvant Therapy in Colon Cancer]]
 - [[familial adenomatous polyposis]], FAP
 - [[Gardner]]
 - [[Heritable Gastrointestinal Neoplasia Syndromes]]
 - [[Metastatic Colon Cancer]]
 - [[ASCO-of-CRC]]
-
 - from [[oncology]]

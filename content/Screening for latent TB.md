@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Screening for latent TB
-date: 2024-01-01
 ---
+
 
 # Screening for latent TB
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Post-exacerb care of COPDAE
-date: 2024-01-01
 ---
+
 
 # Post-exacerb care of COPDAE
 

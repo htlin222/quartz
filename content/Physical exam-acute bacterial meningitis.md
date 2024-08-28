@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Physical exam-acute bacterial meningitis
-date: 2024-01-01
 ---
+
 # Physical exam-acute bacterial meningitis
 - Brudzinski and Kernig signs of meningeal irritation appear unreliable for diagnosis or ruling out of meningitis.
 - 低sensitvity aka 有病的只有少數有陽

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Systemic thrombolysis
-date: 2024-01-01
 ---
+
 # Systemic thrombolysis
 
  (EHJ 2020;41:543; Chest 2021;160:e545)

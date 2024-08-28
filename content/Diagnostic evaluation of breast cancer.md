@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic evaluation of breast cancer
-date: 2024-01-01
 ---
+
 # Diagnostic evaluation of breast cancer
 
 * Palpable breast mass: age <30 y → observe for resolution over 1–2 menstrual cycles; age <30 y, unchanging mass → U/S → aspiration if mass not simple cyst;

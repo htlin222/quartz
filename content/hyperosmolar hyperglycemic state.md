@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hyperosmolar hyperglycemic state
-date: 2024-01-01
 ---
+
 # hyperosmolar hyperglycemic state
 
 [[Definition, precipitants, pathophysiology-hyperosmolar hyperglycemic state]]

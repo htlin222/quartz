@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: delta-delta
-date: 2024-01-01
 ---
+
 
 # delta-delta
 

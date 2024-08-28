@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Portal vein thrombosis  PVT  
-date: 2024-01-01
 ---
+
 # Portal vein thrombosis (PVT) 
 
  (Clin Liver Dis 2017;10:152; Gastro 2019;156:1582)

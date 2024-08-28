@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Staging and prognosis-chronic obstructive pulmonary disease
-date: 2024-01-01
 ---
+
 # Staging and prognosis-chronic obstructive pulmonary disease
 
 * Assess breathlessness, cough, sputum, exercise capacity & energy (tools such as CAT and mMRC may be used as part of assessment)

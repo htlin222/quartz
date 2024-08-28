@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: fever of unknown origin
-date: 2024-01-01
 ---
+
 # fever of unknown origin
 
 - (continuous or recurrent) and duration, previous medical history, present and recent **drug use**, family history, **sexual history**, country of origin, recent and **remote travel**, unusual environmental exposures associated with travel or hobbies, and animal contacts.

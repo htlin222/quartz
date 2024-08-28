@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical features-cystic fibrosis
-date: 2024-01-01
 ---
+
 # Clinical features-cystic fibrosis
 * Recurrent PNA, sinus infections
 

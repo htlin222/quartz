@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: IgA vasculitis
-date: 2024-01-01
 ---
+
 # IgA vasculitis
 
 (formerly Henoch-Schönlein purpura [HSP]) (Rheumatol 2019;58:1607)
@@ -26,5 +27,4 @@ and C3 deposition in vessel wall;
 	* steroids ± DMARDs for renal or severe disease
 
 ---
-
 [Henoch-Schonlein purpura | Circulatory System and Disease | NCLEX-RN | Khan Academy - YouTube](https://www.youtube.com/watch?v=pZcNmGtp5SA&ab channel=khanacademymedicine)

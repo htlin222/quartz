@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup of chronic diarrhea
-date: 2024-01-01
 ---
+
 # Workup of chronic diarrhea
 
 ![image 22-09-06 10 12 53](https://i.imgur.com/pHyzb60.png)

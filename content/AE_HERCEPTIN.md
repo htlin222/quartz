@@ -1,23 +1,18 @@
----
+date: "2023-12-01---
 title: "AE_HERCEPTIN"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_HERCEPTIN
-
 \**explain AEs of herceptin, such as severe infusion reaction which occurred in 40~50% of patients, myelosuppression, cardiotoxicity and etc
 .AEIO
 *Explain possible immuno related AEs such as skin rash and diarrhea, severe AEs such as pneumonitis, hepatitis, gastroenteritis, and hypophysitis but rare (~1%)
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -54,4 +49,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

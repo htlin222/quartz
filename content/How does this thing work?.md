@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: How does this thing work?
-date: 2024-01-01
 ---
+
 Always begin typing in the
 
 When you select one of the found notes (e.g., using the up/down keys) NV displays its body in the lower text area (what you're reading now).

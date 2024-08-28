@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Initial evaluation-solitary pulmonary nodule
-date: 2024-01-01
 ---
+
 # Initial evaluation-solitary pulmonary nodule
 
 

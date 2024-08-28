@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Lactic acidosis
-date: 2024-01-01
 ---
+
 # Lactic acidosis
 
 Type A: hypoxic (eg, shock, mesenteric ischemia, CO poisoning, cyanide)

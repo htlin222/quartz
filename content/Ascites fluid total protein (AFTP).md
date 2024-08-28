@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Ascites fluid total protein  AFTP
-date: 2024-01-01
 alias: AFTP
 ---
+
 
 - from: [[Evaluation-ascites]] 󰒖
 
@@ -12,7 +13,6 @@ alias: AFTP
 - ≥2.5 (Post-hepatic)
 
 ---
-
 - useful when SAAG ≥1.1 to →
   - distinguish cirrhosis (AFTP <2.5 g/dL) ← from
     - Ascitic protein <2.5 g/dL

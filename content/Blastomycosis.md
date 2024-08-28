@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Blastomycosis
-date: 2024-01-01
 ---
+
 
 # Blastomycosis
 

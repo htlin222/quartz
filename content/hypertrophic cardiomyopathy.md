@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: hypertrophic cardiomyopathy
-date: 2024-01-01
 alias: HCM
 ---
+
 
 # hypertrophic cardiomyopathy
 

@@ -1,21 +1,16 @@
----
+date: "2023-12-01---
 title: "AE_VEMURAFENIB"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_VEMURAFENIB
-
 Side effects of vemurafenib include but not limited to skin rash, especially photosensitivity, diarrhea, hepatic dysfunction, fatigue, squamous cell carcinoma of skin but rare.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -52,4 +47,3 @@ Side effects of vemurafenib include but not limited to skin rash, especially pho
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

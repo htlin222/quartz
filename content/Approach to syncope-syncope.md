@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Approach to syncope-syncope
-date: 2024-01-01
 ---
+
 # Approach to syncope-syncope
 
 (Adapted from JACC 2017;70:e39)

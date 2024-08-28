@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-hypertensive crises
-date: 2024-01-01
 ---
+
 # Treatment-hypertensive crises
  (Circ 2018;138:e426)
 * AoD, eclampsia/severe preeclampsia, pheo: target SBP <140 (<120 for AoD) in 1 hour

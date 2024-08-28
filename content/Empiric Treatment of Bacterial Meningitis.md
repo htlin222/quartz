@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Empiric Treatment of Bacterial Meningitis
-date: 2024-01-01
 ---
+
 # Empiric Treatment of Bacterial Meningitis
  (Lancet 2012;380:1693)
 * Adults <50 y: Ceftriaxone + vancomycin (trough 15–20), consider acyclovir IV

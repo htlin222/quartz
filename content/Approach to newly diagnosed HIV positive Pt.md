@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Approach to newly diagnosed HIV positive Pt
-date: 2024-01-01
 ---
+
 # Approach to newly diagnosed HIV positive Pt
 
 (CID 2020;73:e3572)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-Acetaminophen hepatotoxicity
-date: 2024-01-01
 ---
+
 # Treatment-Acetaminophen hepatotoxicity
 
 NG lavage, activated charcoal if w/in 4 h. Consider early transfer to transplant ctr

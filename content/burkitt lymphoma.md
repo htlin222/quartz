@@ -23,12 +23,10 @@ tags:
 - [[etiologies of burkitt lymphoma| Etiologies:]] 󰒖
 
 ---
-
 - [[clinical manifestations of burkitt lymphoma| Clinical manifestations:]] 󰒖
 - [[diagnosis of burkitt lymphoma| Diagnosis:]] 󰒖
 - [[management of burkitt lymphoma| Management:]] 󰒖
 - [[treatment of burkitt lymphoma| Treatment:]] 󰒖
-
 ---
 
 - [[tldr of burkitt lymphoma| TLDR:]] 󰒖

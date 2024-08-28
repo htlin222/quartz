@@ -1,26 +1,21 @@
----
+date: "2023-12-01---
 title: "AE_RECTAL"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_RECTAL
-
 Explain AEs of mFOLFOX6/XELODA:
 5FU/XELODA:
 **diarrhea (55%), hand-foot syndrome (15-20%), nausea/vomiting, elevations in LFT, and myelosuppression
 Oxaliplatin:
 **peripheral sensory neuropathy, nausea/vomting, diarrhea, myelosuppression
 \*\*Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -57,4 +52,3 @@ Oxaliplatin:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

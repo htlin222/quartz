@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Initial treatment details of asthma
-date: 2024-01-01
 ---
+
 # Initial treatment details of asthma
 
 * Oxygen to keep SaO2 ≥93–95%

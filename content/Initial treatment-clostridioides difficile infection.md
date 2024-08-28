@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Initial treatment-clostridioides difficile infection
-date: 2024-01-01
 ---
+
 # Initial treatment-clostridioides difficile infection
 
 (CID 2021;73:5; Am J Gastro 2021;116:1124)

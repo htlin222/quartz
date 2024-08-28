@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Zygomycetes
-date: 2024-01-01
 ---
+
 
 # Zygomycetes
 

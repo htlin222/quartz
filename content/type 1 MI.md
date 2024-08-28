@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: type 1 MI
-date: 2024-01-01
 ---
+
 # type 1 MI
 
 1. includes detection of a rise and/or fall of cTn with at least one value above the 99th percentile and with at least one of the following:

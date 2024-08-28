@@ -20,13 +20,11 @@ also look at [[Pharmacogenetics]]
 - SNPs: Single-nucleotide polymorphisms that may cause an amino acid exchange in the encoded protein, account for >90% of genetic variation in the human genome
 
 ---
-
 - [[Phase I drug-metabolizing enzymes]]
 - [[Non-P450 phase I metabolizing enzymes]]
 - [[Phase II drug-metabolizing enzymes]]
 - [[Drug transporters]]
 - [[Drug targets]]
-
 ---
 
 

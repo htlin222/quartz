@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of SIADH
-date: 2024-01-01
 ---
+
 # Treatment of SIADH
 
 (NEJM 2007;356:2064; AJKD 2020;76:203): fluid restrict + treat underlying cause

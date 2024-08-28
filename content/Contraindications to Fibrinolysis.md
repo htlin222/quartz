@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Contraindications to Fibrinolysis
-date: 2024-01-01
 ---
+
 # Contraindications to Fibrinolysis
 
 ## Absolute Contraindications

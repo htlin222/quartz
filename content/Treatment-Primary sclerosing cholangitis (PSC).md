@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-Primary sclerosing cholangitis  PSC
-date: 2024-01-01
 ---
+
 
 # Treatment-Primary sclerosing cholangitis (PSC)
 

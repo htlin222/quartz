@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-chronic obstructive pulmonary disease
-date: 2024-01-01
 ---
+
 # Diagnostic studies-chronic obstructive pulmonary disease
 
 * [[CXR of Diagnostic studies-chronic obstructive pulmonary disease]]

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup of acute hypoxemia
-date: 2024-01-01
 ---
+
 # Workup of acute hypoxemia
 
 ![Figure 2-6 Workup of acute hypoxemia](https://i.imgur.com/16LVuul.png)

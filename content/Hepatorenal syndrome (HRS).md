@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hepatorenal syndrome  HRS 
-date: 2024-01-01
 ---
+
 # Hepatorenal syndrome (HRS)
 ## Reference
 * Hepatology 2021;74:1014 

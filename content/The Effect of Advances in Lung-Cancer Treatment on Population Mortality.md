@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: The Effect of Advances in Lung-Cancer Treatment on Population Mortality
-date: 2024-01-01
 ---
+
 # The Effect of Advances in Lung-Cancer Treatment on Population Mortality
 
 * NSCLC的正常性比該亞型的發生率更快，並且這種降低與隨著時間的流逝的生存率顯著提高，這與靶向治療的批准時間相對應。

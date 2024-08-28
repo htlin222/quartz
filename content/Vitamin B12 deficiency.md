@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Vitamin B12 deficiency
-date: 2024-01-01
 ---
+
 # Vitamin B12 deficiency
 
 (NEJM 2013;368:149)

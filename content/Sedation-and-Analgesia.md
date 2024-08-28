@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Sedation-and-Analgesia
-date: 2024-01-01
 ---
+
 # Sedation-and-Analgesia
 
 [[Context sensitive half time]]

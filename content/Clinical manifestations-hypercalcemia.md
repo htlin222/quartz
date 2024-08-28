@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-hypercalcemia
-date: 2024-01-01
 ---
+
 # Clinical manifestations-hypercalcemia
 (“bones, stones, abdominal groans, and psychic moans”)
 

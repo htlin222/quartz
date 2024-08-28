@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment peptic ulcer disease 
-date: 2024-01-01
 ---
+
 # Treatment peptic ulcer disease 
 
 (Lancet 2016;388:2355; Gastro 2016;151:51; Gut 2017;66:6; AJG 2017;112:212)

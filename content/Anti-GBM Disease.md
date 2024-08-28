@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Anti-GBM Disease
-date: 2024-01-01
 ---
+
 
 # Anti-GBM Disease
 

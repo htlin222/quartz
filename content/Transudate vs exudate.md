@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Transudate vs exudate
-date: 2024-01-01
 ---
+
 # Transudate vs exudate
 
 (JAMA 2014;311:2422)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: premedication of airway-management
-date: 2024-01-01
 ---
+
 # premedication of airway-management
 
 A: Atopine 1mg
@@ -13,7 +14,6 @@ S: Sedation:
 	* [[ketamine]] 100mg (2cc)
 
 	---
-
 S:
 P:
 P:

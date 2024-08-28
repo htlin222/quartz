@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Erythema nodosum
-date: 2024-01-01
 ---
+
 # Erythema nodosum
 
 tender erythematous or violaceous nodules usually symmetric on LE

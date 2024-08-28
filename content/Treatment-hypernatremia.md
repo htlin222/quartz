@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-hypernatremia
-date: 2024-01-01
 ---
+
 # Treatment-hypernatremia
 
 * Restore access to H2O or supply daily requirement of H2O (≥1 L/d)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of UTIs
-date: 2024-01-01
 ---
+
 # Treatment of UTIs
 
 Scenario Empiric Treatment Guidelines (narrow based on UCx)

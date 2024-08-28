@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition-Antiphospholipid syndrome
-date: 2024-01-01
 ---
+
 # Definition-Antiphospholipid syndrome
 
 dx requires ≥1 clinical & ≥1 laboratory criteria

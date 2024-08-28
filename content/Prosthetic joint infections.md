@@ -20,7 +20,6 @@ tags:
   - polymicrobial in 10-20%
 
 ---
-
 - Early (<3 mo s/p surgery) or delayed (3-24 mo) onset of sx from microbe typically acquired during implantation;
   - early w/ virulent (eg, MRSA) and delayed w/ less virulent organisms (eg, P. acnes, coag negative Staph) & more indolent presentation
 - Late (>24 mo) onset typically related to secondary hematogenous seeding

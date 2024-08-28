@@ -18,7 +18,6 @@ tags:
 
 
 ---
-
 * Ability to tolerate 7+3 regimen key determinant in subsequent Rx received
 * Obtain BM bx : 何時？
 	**14–21 days** after start of induction chemo to assess response

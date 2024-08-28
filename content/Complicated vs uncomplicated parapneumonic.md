@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complicated vs uncomplicated parapneumonic
-date: 2024-01-01
 ---
+
 # Complicated vs uncomplicated parapneumonic
 
 ## complicated

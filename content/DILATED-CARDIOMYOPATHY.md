@@ -1,6 +1,7 @@
 ---
+date: "2024-01-01"
 title: DILATED-CARDIOMYOPATHY
-date: 2024-01-01
 ---
+
 # DILATED-CARDIOMYOPATHY
 

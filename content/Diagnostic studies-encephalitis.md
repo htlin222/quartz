@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-encephalitis
-date: 2024-01-01
 ---
+
 # Diagnostic studies-encephalitis
 
  (CID 2013;57:1114)

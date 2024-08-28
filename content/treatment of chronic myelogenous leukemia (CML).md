@@ -20,9 +20,7 @@ enableToc: false
 > ❌ abl kinase activity.
 
 ---
-
 ![🔍](https://i.imgur.com/JAWSrLm.png)
-
 ---
 
 * 1st gen:
@@ -43,11 +41,9 @@ enableToc: false
 [[ascend-cml.md|ASCEND-CML]]
 
 ---
-
 * Imatinib, dasatinib, nilotinib, & bosutinib approved for 1st line Rx.
 * Nilotinib, dasatinib, bosutinib, ponatinib, & asciminib approved for resistant disease;
 * only ponatinib & asciminib effective on T315I mutation (NEJM 2012;367:2075, Blood 2021;138:2031).
-
 ---
 
 * STAMP (allosteric inhibitor): asciminib (NEJM 2019;381:2315); after ≥2 prior TKIs

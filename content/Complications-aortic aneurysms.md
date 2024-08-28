@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications-aortic aneurysms
-date: 2024-01-01
 ---
+
 # Complications-aortic aneurysms
 
 (Circ 2010;121:e266; Nat Rev Cardiol 2011;8:92)

@@ -1,17 +1,14 @@
----
+date: "2023-12-05---
 title: "KARNOFSKYPS"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # KARNOFSKYPS
-
 100% Healthy, no symptoms or signs of disease
 90% Capable of normal activity, few symptoms or signs of disease
 80% Normal activity with some difficulty, some symptoms or signs
@@ -21,9 +18,7 @@ tags:
 40% Disabled, requires special care and help
 30% Severely disabled, hospital admission indicated but no risk of death
 20% Very ill, urgently requiring admission, requires supportive measures or treatment
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -84,4 +79,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

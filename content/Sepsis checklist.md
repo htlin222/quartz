@@ -1,17 +1,14 @@
----
+date: "2023-12-06---
 title: "Sepsis checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[checklist]]
-
 # Sepsis checklist
-
 - Use a sepsis screening tool (e.g., SIRS criteria) in at-risk patients.
 - Obtain IV access and blood samples including 2 sets of blood cultures and serum lactate.
 - Begin continuous cardiac and respiratory monitoring.

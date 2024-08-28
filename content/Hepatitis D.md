@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hepatitis D
-date: 2024-01-01
 ---
+
 # Hepatitis D
 
 (RNA; Gastro 2019:156;461)

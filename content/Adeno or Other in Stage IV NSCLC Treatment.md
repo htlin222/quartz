@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Adeno or Other in Stage IV NSCLC Treatment
-date: 2024-01-01
 ---
+
 # Adeno or Other in Stage IV NSCLC Treatment
 
 | Genetics                 | %    | Treatment                                                                                                      |

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Evaluation acute diarrhea
-date: 2024-01-01
 ---
+
 # Evaluation acute diarrhea
 
 (NEJM 2014;370:1532; Digestion 2017;95:293; PLOS One 2017;12:11)

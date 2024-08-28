@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Drug Therapy of Pulseless Arrest
-date: 2024-01-01
 ---
+
 # Drug Therapy of Pulseless Arrest
 
 * Establish IV/O access (do not interrupt CPR)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-nephrolithiasis
-date: 2024-01-01
 ---
+
 # Workup-nephrolithiasis
 
 * Non-contrast CT 97% Se, 96% Sp (ureteral dilation w/o stone suggests recent passage); U/S (Se 57%, Sp 98%) may serve as initial test in stable patient (NEJM 2014;371:1100)

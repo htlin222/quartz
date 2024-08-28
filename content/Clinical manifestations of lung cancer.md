@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations of lung cancer
-date: 2024-01-01
 ---
+
 # Clinical manifestations of lung cancer
 
 * ~10% asymptomatic at dx, detected incidentally (only 16% w/ localized dis. at presentation)

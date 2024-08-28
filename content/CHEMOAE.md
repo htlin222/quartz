@@ -1,17 +1,14 @@
----
+date: "2023-12-05---
 title: "CHEMOAE"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # CHEMOAE
-
 side effects of chemotherapy
 nausea, Gr. 0
 vomiting, Gr.0
@@ -20,9 +17,7 @@ diarrhea, Gr. 0
 alopecia, Gr.0
 fever: (-)
 numbness:Gr.0
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -83,4 +78,3 @@ numbness:Gr.0
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

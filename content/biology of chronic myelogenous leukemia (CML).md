@@ -24,9 +24,6 @@ tags:
 3. p190: Also rare (<1%); (common breakpoint in Ph+ ALL, 70%)
 
 ---
-
 - 摘要：在少數患者（<5％）中，可能存在變異的易位（例如，t(9;14;22)），因此，如果BCR-ABL1陰性，應進行細胞遺傳學和分子（PCR）檢測。
-
 - 原文：It is important to note that a minority of patients (<5%) may have a variant translocation (e.g., t(9;14;22)). Therefore, if the BCR-ABL1 test is negative, cytogenetic and molecular (PCR) testing should be performed.
-
 注意：這裡提到的PCR是指聚合酶鏈反應（polymerase chain reaction），用於檢測特定基因序列的技術。

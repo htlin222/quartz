@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: cerebrospinal fluid lab results
-date: 2024-01-01
 ---
+
 # cerebrospinal fluid lab results
 
 ![Typical CSF Findings in Meningitis](https://i.imgur.com/tbH3fnx.png)

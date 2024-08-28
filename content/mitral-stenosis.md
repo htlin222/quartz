@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: mitral-stenosis
-date: 2024-01-01
 ---
+
 # mitral-stenosis
 
 ## [[Etiology-mitral-stenosis]] (Lancet 2012;379:953)

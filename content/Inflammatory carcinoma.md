@@ -22,8 +22,6 @@ tags:
 - Inflammatory carcinoma is a clinical-pathologic entity characterized by diffuse erythema and edema (peau d'orange) involving a third or more of the skin of the breast. These skin changes are due to lymphedema caused by tumor emboli within dermal lymphatics. Although dermal lymphatic involvement supports the diagnosis of inflammatory breast cancer, it is neither necessary nor sufficient, in the absence of classical clinical findings, for the diagnosis of inflammatory breast cancer.
 
 ---
-
 - 橘子皮
 - [[peau d orange]] poo-dow-Holdge
-
 ![Figure: height:450px](https://i.imgur.com/OjqVCT4.png)

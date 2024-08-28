@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-sexually transmitted infections
-date: 2024-01-01
 ---
+
 # Treatment-sexually transmitted infections
 
 (MMWR 2021;70:1; JAMA 2022;327:161)

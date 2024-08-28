@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: chest pain
-date: 2024-01-01
 ---
+
 
 > [[Typical Characteristics and Diagnostic Studies of Chest Pain]] > [[Chest Pain form CPS]]
 

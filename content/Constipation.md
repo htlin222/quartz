@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Constipation
-date: 2024-01-01
 ---
+
 # Constipation
 
 (Annals 2015;162:ITC1, Nat Rev Dis Primers 2017;3:17095; JAMA 2019;322:2239)

@@ -28,7 +28,5 @@ tags:
 * 而UCB則只要HLA ≥4/6就可考慮使用，UCB常用在兒童。
 
 ---
-
 * 接受alloHSCT前之調理療法 ([[conditioning regimen]]) 或稱為預備療法([[conditioning regimen|preparative regimen]])
-
 * 半吻合造血幹細胞移植 ([[Haplo]])

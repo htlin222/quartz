@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Packed red blood cells
-date: 2024-01-01
 ---
+
 # Packed red blood cells
 
 * For acute blood loss
@@ -9,7 +10,6 @@ date: 2024-01-01
 	* if end organ ischemia.
 
 ---
-
 * 1 U PRBC
 	* → ↑ Hb by ~1 g/dL.
 * Hb goal >7 g/dL

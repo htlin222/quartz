@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Implantable cardiac defibrillator  ICD 
-date: 2024-01-01
 ---
+
 # Implantable cardiac defibrillator (ICD)
 
  (Circ 2019;140:e382)

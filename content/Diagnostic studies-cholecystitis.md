@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-cholecystitis
-date: 2024-01-01
 ---
+
 # Diagnostic studies- [cholecystitis](cholecystitis.md)
 
 * RUQ U/S: high Se & Sp for stones, but need specific signs of cholecystitis:

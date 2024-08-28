@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Neuromuscular dysphagia
-date: 2024-01-01
 ---
+
 
 # Neuromuscular dysphagia
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of Hypervolemic hyponatremia
-date: 2024-01-01
 ---
+
 # Treatment of Hypervolemic hyponatremia
 
 free water restrict (1st line), diurese w/ loop diuretics (avoid thiazides) & ↑ EAV (vasodilators to ↑ CO in CHF, colloid infusion in cirrhosis)

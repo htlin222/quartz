@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-hyperosmolar hyperglycemic state
-date: 2024-01-01
 ---
+
 # Treatment-hyperosmolar hyperglycemic state
 
 * Rule-out possible precipitants; ~15% mortality due to precipitating factors

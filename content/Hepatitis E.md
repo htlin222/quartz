@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hepatitis E
-date: 2024-01-01
 ---
+
 # Hepatitis E
 
 (ssRNA; World J Gastro 2016;22:7030; Gastro Clin N Am 2017;46:393)

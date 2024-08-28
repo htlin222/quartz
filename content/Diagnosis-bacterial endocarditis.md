@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis-bacterial endocarditis
-date: 2024-01-01
 ---
+
 # Diagnosis-bacterial endocarditis
 
 [[Modified Duke Criteria]]

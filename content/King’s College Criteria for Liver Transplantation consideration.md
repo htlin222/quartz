@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: King’s College Criteria for Liver Transplantation consideration
-date: 2024-01-01
 ---
+
 # King’s College Criteria for Liver Transplantation consideration
 
 Acetaminophen ALF: arterial pH <7.30 or Grade III/IV enceph + INR >6.5 + Cr >3.4

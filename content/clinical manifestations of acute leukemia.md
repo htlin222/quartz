@@ -21,11 +21,8 @@ enableToc: false
 * TIA/CVA
 
 ---
-
 *  **Tumor lysis syndrome** (TLS) from rapid turnover of cells
-
 *  **Disseminated intravascular coagulation** (**DIC**; especially with APL)
-
 * leukemic infiltration of skin
 * gingiva
 	(esp. with monocytic subtypes);
@@ -39,5 +36,3 @@ enableToc: false
 * CNS
 	(~10% of ALL; also in monocytic >myeloid leukemias)
 	: cranial neuropathies, headache
-
-

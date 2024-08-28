@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: config
-date: 2024-01-01
 ---
+
 echo -e "site name:MyDocs\ntheme:\n\tname:material" >> /volume1/docker/mkdocs/mkdocs.yml
 
 docker run --rm -i -v /volume1/docker/mkdocs:/docs squidfunk/mkdocs-material new .

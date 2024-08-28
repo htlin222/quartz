@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition-cirrhosis
-date: 2024-01-01
 ---
+
 # Definition-cirrhosis
 
 (Dig Dis 2016;34:374; NEJM 2016;375:767; J Hep 2016;64:717)

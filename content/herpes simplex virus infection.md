@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: herpes simplex virus infection
-date: 2024-01-01
 ---
+
 # herpes simplex virus infection
 
 * 通常引起急性腦炎，伴有快速發熱、頭痛、癲癇發作、

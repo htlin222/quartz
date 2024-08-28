@@ -22,5 +22,4 @@ tags:
 	* 34 looks like MA
 
 ---
-
 ![🆒](https://i.imgur.com/0wWGB6C.png)

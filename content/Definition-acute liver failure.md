@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition-acute liver failure
-date: 2024-01-01
 ---
+
 # Definition-acute liver failure
 
 * Acute liver injury + coagulopathy + encephalopathy w/o preexisting liver dis. (<26 wks)

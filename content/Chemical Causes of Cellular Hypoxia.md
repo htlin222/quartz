@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Chemical Causes of Cellular Hypoxia
-date: 2024-01-01
 ---
+
 # Chemical Causes of Cellular Hypoxia
 
 ![Chemical Causes of Cellular Hypoxia](https://i.imgur.com/JHQhtIG.png)

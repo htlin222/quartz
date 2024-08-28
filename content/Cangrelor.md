@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cangrelor
-date: 2024-01-01
 ---
+
 # Cangrelor
 Only IV P2Y12 inhibitor
 Rapid onset/offset; t½ 3–5 min

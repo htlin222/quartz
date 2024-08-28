@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pseudoinfarct
-date: 2024-01-01
 ---
+
 # Pseudoinfarct
 
 1. In left ventricular hypertrophy, there is often a QS deflection or poor R wave progression in the right precordial leads that suggests anterior myocardial infarction. The secondary ST-segment elevation in these leads may be mistaken as a current of injury.

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Left-ventricular-hypertrophy
-date: 2024-01-01
 ---
+
 
 
 # Left-ventricular-hypertrophy

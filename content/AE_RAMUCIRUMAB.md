@@ -1,21 +1,16 @@
----
+date: "2023-12-01---
 title: "AE_RAMUCIRUMAB"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_RAMUCIRUMAB
-
 \*\*Ramucirumab AEs: risk of GI perforations and wound healing complications, bleeding complications (serious life-threateing intracranial and pulmonary hemorrhage/hemoptysis occur in rare cases), increased risk of of arterial thromboembolic events, including MI, angina, and stroke, slighly risk of DVT or PE, hypertension (20%), infusion-related reactions, and proteinuria (<5%)
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -52,4 +47,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

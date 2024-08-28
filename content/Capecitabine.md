@@ -34,15 +34,12 @@ tags:
 [[Three-step metabolic conversion of capecitabine to fluorouracil]]
 
 ---
-
 - Used alone as adjuvant therapy following the complete resection of primary tumor in patients with stage III (Dukes’ C) colon cancer when treatment with fluoropyrimidine therapy alone is → preferred. [ref]
 - Combined therapy with IV oxaliplatin
 - is → a reasonable choice (accepted, treatment option) as adjuvant therapy following complete resection of primary tumor in patients with stage III colon cancer. [ref]
 - Initial (first-line) treatment of metastatic colorectal cancer when fluoropyrimidine therapy alone is → preferred.
 - Potential inhibition of CYP2C9.
-
 ## Contraindications
-
 - Severe renal impairment (Clcr <30 mL/minute). [ref]
 - Warnings/Precautions
   - Coagulopathy
@@ -51,26 +48,20 @@ tags:
   - Age >60 years and diagnosis of cancer are independent variables predisposing patients to an increased risk of coagulopathy. [ref]
   - Monitor anticoagulant response (PT or INR) frequently, and adjust the anticoagulant dose accordingly in patients receiving concomitant therapy. [ref](See Specific Drugs under Interactions.)
 [[fluoropyrimidine]]
-
 ## 第三代 fluoropyrimidine 藥物 Capecitabine 在結腸直腸癌治療中的 → 應用 🩺
-
 - Capecitabine 是屬於第三代的 fluoropyrimidine 藥物，在2001年被美國 FDA 核准用於結腸直腸癌的 → 治療。
 - Capecitabine 會在肝臟中經由 carboxylesterase 水解，再經由 cytidine deaminase 轉換成 5'-deoxy-5-fluorouridine，最後在腫瘤細胞內由 thymidine phosphorylase 形成5-FU。
 - 這種選擇性的 → 代謝過程能讓腫瘤細胞內聚集高濃度的 → 5-FU，提高抗癌效果，同時減少 ↓ 其他正常細胞的 → 危險暴露， ∴ 因此副作用相對較小。
 - Capecitabine 的 → 反應率約為24-35%，整體存活時間約為11-20個月
   - 併用 LV 效果並 ✖ 不會更好， ∴ 因此標準療程中 ✖ 不建議加入 LV。 🩺
-
 ## Capecitabine 的 → 作用機制 🧬
-
 - Capecitabine 是一種 5-FU 前藥，能夠迅速地被完整地吸收，並經過三步代謝作用變成 5-FU。
   - 它在肝臟中被酯水解酶轉換為 5'-deoxy-5-fluorocytidine，
   - 然後在腫瘤和肝細胞中被胞嘧啶脫氨酶轉換為 5'-deoxy-5-fluorouridine，
   - 最後由胸腺嘧啶磷酸化酶轉換為 5-FU。
 - 相比正常組織，腫瘤細胞中的 → [[Thymidine phosphorylase]] 胸腺嘧啶磷酸化酶含量更高，
   - ∴ 因此 Capecitabine 能夠在腫瘤細胞中產生 ↪ 更高的 5-FU 濃度，提高治療效果，同時降低 ↓ 對正常組織的 → 毒副作用。
-
 ## Capecitabine 在轉移性結直腸癌治療中的 → 療效評估 🩺
-
 - [Oral capecitabine vs intravenous 5-fluorouracil and leucovorin: integrated efficacy data and novel analyses from two large, randomised, phase III trials | British Journal of Cancer](https://www.nature.com/articles/6601676)
 - 本研究利用來自兩個相同設計的 III 期研究中大量、具有良好特徵的 → 轉移性結直腸癌 (mCRC) 患者數據，評估了口服 Capecitabine 的 → 療效。
 - 總計有1207名未接受過治療的 mCRC 患者被隨機分配到口服 Capecitabine (每21天兩次1250 mg m-2，第1-14天；n=603) 或靜脈 bolus 5-氟尿嘧啶/葉酸鈉 (5-FU/LV；Mayo Clinic 方案；n=604) 治療。

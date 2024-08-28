@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Oxygen for chronic obstructive pulmonary disease
-date: 2024-01-01
 ---
+
 # Oxygen for chronic obstructive pulmonary disease
 
 * if PaO2 ≤55 mmHg or SaO2 ≤89% (during rest, exercise, or sleep) to prevent cor pulmonale;

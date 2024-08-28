@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Initial evaluation  diagnostic studies-acute aortic syndromes
-date: 2024-01-01
 ---
+
 
 # Initial evaluation diagnostic studies-acute aortic syndromes
 

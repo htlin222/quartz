@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Adrenal crisis in adrenal insufficiency
-date: 2024-01-01
 ---
+
 # Adrenal crisis in adrenal insufficiency
 
 (NEJM 2019;381;852)

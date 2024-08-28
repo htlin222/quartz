@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Tests of hepatic function
-date: 2024-01-01
 ---
+
 # Tests of hepatic function
 
 * Albumin: marker for liver protein synthesis, can help differentiate acute vs. chronic liver failure, may be normal in acute hepatocellular injury (t1/2 ~15–18 d)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: excursion
-date: 2024-01-01
 ---
+
 # excursion
 
 1. Wandering from the usual course.

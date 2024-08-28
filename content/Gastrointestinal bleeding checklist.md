@@ -1,19 +1,15 @@
----
+date: "2023-12-06---
 title: "Gastrointestinal bleeding checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[checklist]]
-
 # Gastrointestinal bleeding checklist
-
 ## All inpatients
-
 - NPO
 - ABCDE survey
 - Consider continuous cardiac monitoring.
@@ -27,9 +23,7 @@ tags:
 - Evaluate and treat the underlying condition.
 - Clinical monitoring, serial CBC and coagulation panel
 - Admit to ward or critical care unit based on pre- and post-endoscopy risk stratification (See “High-risk features of GI bleeding”)
-
 ## Suspected UGIB
-
 - consider intubation if risk of airway compromise.
 - start empiric pharmacological treatment if indicated.
 - PPI infusion for suspected PUD
@@ -37,9 +31,7 @@ tags:
 - Refer for EGD and endoscopic hemostasis.
 - Patient unstable despite resuscitation: Consider angioembolization or surgery.
 - See “Glasgow-Blatchford score” to help guide disposition.
-
 ## Suspected LGIB
-
 - Stable patients: Refer for colonoscopy
 - Perform EGD first for unstable patients with hematochezia and any of the following:
 - High PTP of UGIB

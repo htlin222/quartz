@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-mitral-stenosis
-date: 2024-01-01
 ---
+
 # Treatment-mitral-stenosis
 
 

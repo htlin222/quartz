@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: acute coronary syndromes
-date: 2024-01-01
 ---
+
 
 # acute coronary syndromes
 
@@ -19,7 +20,6 @@ date: 2024-01-01
 - [[Other early adjunctive therapy of acute coronary syndromes]] 󰒖
 
 ---
-
 - ![Figure 1-2 Approach to UA/NSTEMI](https://i.imgur.com/mUqhAnv.png)
 - [[NSTE-ACS]] (Circ 2014;130:e344; EHJ 2021;42:1289)
 - [[STEMI]] (Circ 2013;127:529; EHJ 2018;39:119)

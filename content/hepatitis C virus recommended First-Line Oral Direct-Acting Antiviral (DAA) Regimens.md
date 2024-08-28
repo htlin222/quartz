@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral  DAA  Regimens
-date: 2024-01-01
 ---
+
 
 # hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens
 
@@ -32,9 +33,7 @@ date: 2024-01-01
   - NS3/4A protease inhibitor (“…previr”).
 
 ---
-
 ![Figure: ](https://i.imgur.com/eBA9L0Q.png)
-
 ---
 
 #### 換句話說

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Acute Anti Ischemic and Analgesic Treatment
-date: 2024-01-01
 ---
+
 
 # Acute Anti Ischemic and Analgesic Treatment
 

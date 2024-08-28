@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-nephrotic syndrome
-date: 2024-01-01
 ---
+
 # Workup-nephrotic syndrome
 
 (BMJ 2008;336:1185)

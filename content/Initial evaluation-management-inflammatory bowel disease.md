@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Initial evaluation-management-inflammatory bowel disease
-date: 2024-01-01
 ---
+
 # Initial evaluation-management-inflammatory bowel disease
 
 * H&P (✓ for intestinal & extraintestinal manifestations) and dx studies as above

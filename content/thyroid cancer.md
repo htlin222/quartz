@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: thyroid cancer
-date: 2024-01-01
 ---
+
 
 # thyroid cancer
 

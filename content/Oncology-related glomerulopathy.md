@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Oncology-related glomerulopathy
-date: 2024-01-01
 ---
+
 # Oncology-related glomerulopathy
  (CJASN 2016;11:1681)
 

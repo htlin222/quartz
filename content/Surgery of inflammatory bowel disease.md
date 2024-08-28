@@ -1,8 +1,13 @@
 ---
+date: "2024-01-01"
+---
+
+---
+date: "2024-01-01"
 title: Surgery of inflammatory bowel disease
-date: 2024-01-01
 alias: op-IBD
 ---
+
 
 # Surgery of inflammatory bowel disease
 

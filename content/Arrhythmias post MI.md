@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Arrhythmias post MI
-date: 2024-01-01
 ---
+
 # Arrhythmias post MI
 
 Arrhythmias post-MI (treat all per ACLS protocols if unstable or symptomatic)

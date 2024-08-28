@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis-necrotizing soft-tissue infections
-date: 2024-01-01
 ---
+
 # Diagnosis-necrotizing soft-tissue infections
 
 * Clinical dx is sufficient to initiate urgent surgical exploration

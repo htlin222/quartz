@@ -1,21 +1,16 @@
----
+date: "2023-12-01---
 title: "AE_UFT"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_UFT
-
 \*\*Explain AEs of UFT/LV such as diarrhea (55%), hand-foot syndrome (15-20%), nausea/vomiting, elevations in LFT, and myelosuppression
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -52,4 +47,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

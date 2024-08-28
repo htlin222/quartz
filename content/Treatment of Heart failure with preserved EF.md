@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of Heart failure with preserved EF
-date: 2024-01-01
 ---
+
 # Treatment of Heart failure with preserved EF
 
 diuresis, Rx HTN, tachycardia, and ischemia

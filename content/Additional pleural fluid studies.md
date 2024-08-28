@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Additional pleural fluid studies
-date: 2024-01-01
 ---
+
 # Additional pleural fluid studies
 
 (NEJM 2002;346:1971)

@@ -26,18 +26,14 @@ tags:
 > (Lancet Oncol 2015;16:284)
 
 ---
-
 ## RFs for adverse outcome post relapse
 - Remission **duration <12 mos**
 - B-sx
 - Extranodal disease
-
 ### Rx In these pts,
 - maintenance Brentuximab q3w × 12 mos improves PFS
-
 > (Blood 2001;97:616)
 > (AETHERA, Lancet Oncol 2015)
-
 ---
 
 ## In pts relapsing after autologous SCT,

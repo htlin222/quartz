@@ -41,11 +41,9 @@ tags:
   = hypodiploidy, **del. 17p13** (~10% of Pts), **t(4;14)** & **t(4;16).**
 
 ---
-
 - Skeletal survey (plain X-rays)
   : to identify lytic bone lesions and areas at ↣ risk for pathologic fracture.
 - Whole-body PET-CT (scalp to toe) or MRI often used to detect bone lesions.
-
 ---
 
 ![🦀](https://i.imgur.com/uiOrDBl.png)

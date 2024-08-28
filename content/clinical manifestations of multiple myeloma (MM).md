@@ -24,7 +24,6 @@ enableToc: false
 	due to ↑ osteoclast activity → pathologic fx
 
 ---
-
 - Recurrent infxns 
 	due to relative hypogammaglob. (clonal plasma cells suppress nl Ig)
 - Neurologic: 
@@ -34,7 +33,4 @@ enableToc: false
 - Coagulopathy: 
 	seen in amyloid due to binding & depletion of Factor X
 - AL amyloidosis (see “Amyloidosis”)
- 
 (Lancet Onc 2014;15:e538)
-
-

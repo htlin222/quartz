@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Drug Treatment-lipid disorders
-date: 2024-01-01
 slug: "drug-treatment-lipid-disorders"
 ---
+
 
 # Drug Treatment-lipid disorders
 
@@ -18,15 +19,11 @@ Well tolerated
 Hyperuricemia/gout; ↓ eGFR. CVOT under way.
 
 ---
-
 ## PCSK9i 50–60% 15–25%
 mAb inj SC q2-4w or siRNA inj SC q6mo
-
 ## Fibrates 5–15% 35–50%
 Myopathy risk ↑ w/ statin. ↑ Cr; ✓ renal fxn q6mo.
-
 ## Ω-3 FA 5% ↑ 25–50%
 EPA & DHA at doses of up to 4 g/d
 No benefit to low-dose supplementation
-
 >Resins ↓ LDL-C by ~20%, but not well tolerated; niacin ↑ HDL-C and ↓ TG & LDL-C; no effect on CV outcomes.

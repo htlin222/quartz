@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: fever in oncology - duty note
-date: 2024-01-01
 ---
+
 # fever in oncology - duty note
 
 ECOG 0–1, age <60 y, solid tumor, no sx, no major comorbidities, no h/o fungal infection, [[MASCC Risk Index]] ≥21 (Support Care Cancer 2013;21:1487)

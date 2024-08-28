@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Microbiology in Bacterial Meningitis
-date: 2024-01-01
 ---
+
 # Microbiology in Bacterial Meningitis
 
 六隻：S.N.H.L.E.S

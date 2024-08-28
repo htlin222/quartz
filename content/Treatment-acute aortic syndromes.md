@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-acute aortic syndromes
-date: 2024-01-01
 ---
+
 # Treatment-acute aortic syndromes
 
 (Circ 2010;121:1544; EHJ 2018;39:739; JACC 2019;74:1494 & 2020;76:1703)

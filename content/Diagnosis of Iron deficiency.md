@@ -25,7 +25,6 @@ tags:
 - Cytogenetics & molecular testing as indicated (eg, MDS, leukemia).
 
 ---
-
 - 低鐵，高總鐵結合力，低鐵蛋白，尤其是<15，低運鐵蛋白飽和度（Fe/TIBC;尤其是<15%），高可溶性運鐵蛋白受體;
 - **高 plt**
 - 除非與其他病因相符的病史，否則開始進行 **GIB** 的工作，包括 H. pylori 血清學檢查。

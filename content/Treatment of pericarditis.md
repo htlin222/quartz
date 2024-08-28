@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of pericarditis
-date: 2024-01-01
 ---
+
 # Treatment of pericarditis
 
 ![Algorithm to select drainage procedure for pericardial effusion](https://i.imgur.com/esXzlV1.png)

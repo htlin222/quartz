@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: pheochromocytoma and paraganglioma
-date: 2024-01-01
 ---
+
 # pheochromocytoma and paraganglioma
 
 [[Clinical manifestations-pheochromocytoma and paraganglioma]]

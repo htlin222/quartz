@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hectic fever
-date: 2024-01-01
 ---
+
 # hectic fever
 
 ## ✨重點:

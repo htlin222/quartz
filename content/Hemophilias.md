@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hemophilias
-date: 2024-01-01
 ---
+
 # Hemophilias
 
 (Lancet 2016;388:187)

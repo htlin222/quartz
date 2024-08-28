@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-fever of unknown origin
-date: 2024-01-01
 ---
+
 # Treatment-fever of unknown origin
 
 * Empiric abx not indicated (unless Pt neutropenic or critically ill)

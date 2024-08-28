@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Nonmegaloblastic macrocytic anemias
-date: 2024-01-01
 ---
+
 # Nonmegaloblastic macrocytic anemias
 
 > 非巨紅幼細胞性貧血

@@ -1,17 +1,14 @@
----
+date: "2023-12-01---
 title: "AE_FOLFOX"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_FOLFOX
-
 5FU:
 **GI upset(nausea/vomiting/diarrhea), elevations in LFT, myelosuppression, hyperammoninemia, and rare but possible ischemic heart disease
 Oxaliplatin:
@@ -22,9 +19,7 @@ explain AEs of TKI such as folliculitis, acnes, paronychia, elevated LFT, and po
 .AEGEM
 **explain AEs such as myelosuppression (leukopenia more common thanthrombocytopenia, dose-limiting), nausea/vomiting, flu-like syndrome, transient hepatic dysfunction, and pulmonary toxicity
 \*\*Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -61,4 +56,3 @@ explain AEs of TKI such as folliculitis, acnes, paronychia, elevated LFT, and po
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

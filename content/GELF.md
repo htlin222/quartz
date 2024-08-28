@@ -17,14 +17,11 @@ tags:
 	* When to Consider Initiating Therapy?
 
 ---
-
 ## 抽血四項
-
 * Less than 5 x 10^9/L **circulating tumor cells**
 * Hemoglobin > 10 g/dL
 * absolute neutrophil count > 1500
 * platelets > 100k
-
 ---
 
 ## 淋巴結大小
@@ -35,9 +32,6 @@ tags:
 * Spleen ≤ 16 cm by CT scan
 
 ---
-
 ## 沒有extranodal
-
 * No significant serous effusions
 * No risk of organ compression or compromise
-

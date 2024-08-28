@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: physiology of pulmary
-date: 2024-01-01
 ---
+
 # physiology of pulmary
 
 ![Lung vol detected by spirometry](https://i.imgur.com/Aiq4c9I.png)

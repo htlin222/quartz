@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definitions-aortic aneurysms
-date: 2024-01-01
 ---
+
 # Definitions-aortic aneurysms
 
 * True (≥50% dilation of all 3 layers; <50% = ectasia) vs. false (rupture w/in adventitia)

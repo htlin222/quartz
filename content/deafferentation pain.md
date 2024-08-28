@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: deafferentation pain
-date: 2024-01-01
 ---
+
 # deafferentation pain
 
 - 傳入神經痛是神經性疼痛的一個分支，它可能使幾乎任何類型的軀體感覺系統損傷在其過程中的任何時候都複雜化。

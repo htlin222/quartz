@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: ACLS Tachycardia Algorithm
-date: 2024-01-01
 ---
+
 # ACLS Tachycardia Algorithm
 
 * [[electrocardiography]]
@@ -9,10 +10,8 @@ date: 2024-01-01
 * unstable = hypotension, change of MS, s/s shock, chest pain, heart failure
 
 ---
-
 r/o sinus tach
 Synch cardioversion (rarely needed for HR <150)
-
 ---
 
 * [[narrow complex]] (QRS <120 msec)

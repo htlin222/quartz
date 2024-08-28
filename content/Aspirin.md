@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Aspirin
-date: 2024-01-01
 ---
+
 # Aspirin
 
 162–325 mg × 1, then 81 mg qd

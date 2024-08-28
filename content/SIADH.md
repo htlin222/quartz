@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: SIADH
-date: 2024-01-01
 ---
+
 # SIADH
 
 (euvolemia or mild hypervolemia, typically inapprop Uosm >100, UNa >20 mEq/L )

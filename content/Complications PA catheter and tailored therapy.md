@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications PA catheter and tailored therapy
-date: 2024-01-01
 ---
+
 # Complications PA catheter and tailored therapy
 
 * Central venous access: pneumo/hemothorax (~1%), arterial puncture (if inadvertent cannulation w/ dilation → surgical/endovasc eval), air embolism, thoracic duct injury

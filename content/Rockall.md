@@ -36,7 +36,6 @@ tags:
 - Bleeding (0, 2)
 
 ---
-
 - Age
 - Blood pressure (and heart rate)
 - Comorbidity

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-mitral-regurgitation
-date: 2024-01-01
 ---
+
 # Treatment-mitral-regurgitation
 
 Treatment (Lancet 2016;387:1312; Circ 2021;143:e72)

@@ -25,9 +25,7 @@ tags:
 - [[causes of delayed clearance of HD-MTX containing regimen]]
 
 ---
-
 ## overview of adverse effects of HD-MTX containing regimen
-
 - [[hepatotoxicity of HD-MTX containing regimen]]
 - [[nausea, vomiting, and stomatitis of HD-MTX containing regimen]]
 - [[renal toxicity of HD-MTX containing regimen]]
@@ -36,7 +34,6 @@ tags:
 - [[neurological toxicity of HD-MTX containing regimen]]
 - [[dermatologic toxicity of HD-MTX containing regimen]]
 - [[hypersensitivity of HD-MTX containing regimen]]
-
 ---
 
 ## specific issues

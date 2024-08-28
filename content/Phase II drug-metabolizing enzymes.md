@@ -21,5 +21,4 @@ tags:
 - Tests for TPMT genotype & phenotype are commercially available
 
 ---
-
 - Uridine diphosphate glucuronosyltransferase 1A1 ([[UGT1A1]])

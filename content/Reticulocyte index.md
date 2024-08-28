@@ -1,11 +1,12 @@
 ---
-date: 2023-05-17
+date: "2024-01-01"
 enableToc: false
 slug: reticulocyte-index
 tags:
   - building
 title: Reticulocyte index
 ---
+
 
 > [!info]
 >

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hemothroax
-date: 2024-01-01
 ---
+
 # Hemothroax
 
 * Hemothorax is an accumulation of blood within the pleural space.

@@ -22,8 +22,5 @@ enableToc: false
 [[neovim]]
 
 ---
-
 ## [[vim buffer]]
-
-
 vim_side.html

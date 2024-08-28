@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Classic tachycardias of WPW accessory pathways
-date: 2024-01-01
 ---
+
 # Classic tachycardias of WPW accessory pathways
 
 * Orthodromic AVRT: narrow-complex SVT (typically), conducting ↓ AVN & ↑ accessory pathway; requires retrograde conduction and ∴ can occur w/ concealed bypass tracts

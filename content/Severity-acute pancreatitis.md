@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Severity-acute pancreatitis
-date: 2024-01-01
 ---
+
 # Severity-acute pancreatitis
 
  (Gut 2013;62:102; Gastro 2018;154:1096)

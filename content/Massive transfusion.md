@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Massive transfusion
-date: 2024-01-01
 ---
+
 
 - from: [[Blood Products and Indications]] 󰒖
 

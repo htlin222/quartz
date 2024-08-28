@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: CAR-T-Toxicity
-date: 2024-01-01
 ---
+
 # CAR-T-Toxicity
 ## Toxicities
 * Cytokine release syndrome (CRS): fever, HoTN, shock secondary to overwhelming cytokine release from proliferating T cells

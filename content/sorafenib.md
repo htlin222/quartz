@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: sorafenib
-date: 2024-01-01
 draft: false
 ---
+
 
 # sorafenib
 
@@ -15,9 +16,7 @@ RAS->B-RAF-MEK-MAPK-Nuclear Transcription-Tumor cell prolifertaion
 [[RAS]]
 
 ---
-
 ### Backlink
-
 - [[Treatment of hepatocellular carcinoma]]
 - [[Small Molecule Pathway Inhibitors]]
 - [[Oncology - Treatment Toxicities - Fast Facts  NEJM Resident 360]]

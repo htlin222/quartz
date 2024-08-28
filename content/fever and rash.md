@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: fever and rash
-date: 2024-01-01
 ---
+
 # fever and rash
 
 Approach to diagnostic workup

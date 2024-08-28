@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Acinetobacter sp
-date: 2024-01-01
 ---
+
 # Acinetobacter sp
 
 aerobic non-fermentative coccobacilary gram negative bacilli

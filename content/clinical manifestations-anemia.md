@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: clinical manifestations-anemia
-date: 2024-01-01
 ---
+
 
 # clinical manifestations-anemia
 

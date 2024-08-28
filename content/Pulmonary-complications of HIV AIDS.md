@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pulmonary-complications of HIV AIDS
-date: 2024-01-01
 ---
+
 # Pulmonary-complications of HIV AIDS
 Radiographic Pattern Common Causes
 ## Normal

@@ -48,7 +48,6 @@ tags:
 In this phase 3 trial, the addition of midostaurin, a multitargeted kinase inhibitor, to standard chemotherapy significantly prolonged overall and event-free survival in patients with acute myeloid leukemia (AML) and a FLT3 mutation. The benefit of midostaurin was consistent across all FLT3 subtypes, and the rate of severe adverse events was similar in both groups.
 
 ---
-
 - 兩組常見的 → 副作用皆 為：
   - 貧血、
   - 嗜中性白血球低下、

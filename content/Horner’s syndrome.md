@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Horner’s syndrome
-date: 2024-01-01
 ---
+
 # Horner’s syndrome
 
 是一種影響身體一側的面部和眼睛的疾病。

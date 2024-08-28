@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations of breast cancer
-date: 2024-01-01
 ---
+
 # Clinical manifestations of breast cancer
 
 * Breast mass (hard, irregular, fixed, nontender), nipple discharge (higher risk if unilateral, limited to 1 duct, bloody, associated with mass)

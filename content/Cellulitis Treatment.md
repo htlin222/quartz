@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cellulitis Treatment
-date: 2024-01-01
 ---
+
 # Cellulitis Treatment
 
 (NEJM 2014;370:2238; CID 2014;59:e10; JAMA 2016;316:325 & 2017;317:2088)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Antiplatelet Therapy
-date: 2024-01-01
 ---
+
 # Antiplatelet Therapy
 
 ## [[Aspirin]]

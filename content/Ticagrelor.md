@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Ticagrelor
-date: 2024-01-01
 ---
+
 # Ticagrelor
 
 180 mg × 1 → 90 mg bid

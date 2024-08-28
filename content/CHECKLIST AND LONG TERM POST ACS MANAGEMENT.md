@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: CHECKLIST AND LONG TERM POST ACS MANAGEMENT
-date: 2024-01-01
 ---
+
 # CHECKLIST AND LONG TERM POST ACS MANAGEMENT
 
 ## Risk stratification

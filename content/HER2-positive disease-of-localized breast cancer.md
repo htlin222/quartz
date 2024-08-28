@@ -1,17 +1,14 @@
----
+date: "2023-12-06---
 title: "HER2-positive disease-of-localized breast cancer"
 date: "2023-12-06 14:52:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[localized breast cancer]]
-
 # HER2-positive disease-of-localized breast cancer
-
 Anti-HER2 agents approved in (neo) adj. setting
 Trastuzumab (Herceptin, H): Recombinant, humanized mAb binds to extracellular HER2 domain
 Pertuzumab (P): MAb, inhibits HER2 dimerization
@@ -26,13 +23,10 @@ pCR ∼ 60% w/ HP + anthra & T, no ↑ cardiotox (TRYPHAENA, Ann Oncol 2013;24:2
 Anthracycline-free regimen: TCbHP every 3 wks × 9 cycles. pCR rate & 3 y EFS of TCbHP ≈ FEC - TCbHP (TRAIN2, JAMA Onc 2021;7:978-984)
 If non-PCR: T-DM1 for 14 cycles (KATHERINE, NEJM 2019;380:617-628)
 pStage II-III: After surgery → adj. AC-THP (APHINITY, NEJM 2017;377:122-131)
-
 ### Siblings
-
 - [[Local management with surgery and radiation-of-localized breast cancer]]
 - [[Chemotherapy regimens for NAV or ADJ use in HR positive and TNBC-of-localized breast cancer]]
 - [[Hormone positive disease-adjuvant endocrine treatment]]
 - [[Hormone-positive disease-neoadjuvant therapy-of-localized breast cancer]]
 - [[HER2-positive disease-of-localized breast cancer]]
 - [[Considerations for young patients-of-localized breast cancer]]
-

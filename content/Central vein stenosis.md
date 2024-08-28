@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Central vein stenosis
-date: 2024-01-01
 ---
+
 # Central vein stenosis
 
 assoc. with longer HD duration, tunneled catheters. HeRO grafts bypass subclavian stenosis with flow into central vein (J Vasc Access 2016;17:138).

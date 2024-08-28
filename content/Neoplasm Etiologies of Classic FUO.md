@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Neoplasm Etiologies of Classic FUO
-date: 2024-01-01
 ---
+
 # Neoplasm Etiologies of Classic FUO
 
 

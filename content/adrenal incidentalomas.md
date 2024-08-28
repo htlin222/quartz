@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: adrenal incidentalomas
-date: 2024-01-01
 alias: adrenal incidentaloma
 ---
+
 
 # adrenal incidentalomas
 
@@ -47,7 +48,6 @@ alias: adrenal incidentaloma
 - but controversial (Annals 2019;171:107)
 
 ---
-
 - biochemical testing to detect [[pheochromocytoma]] and excess cortisol secretion, and those who also have high blood pressure should undergo biochemical testing to detect [[primary hyperaldosteronism]]
 - Patients with pheochromocytoma should undergo adrenalectomy after adequate presurgical alpha-blockade and beta-blockade, if necessary.
 - Patients with mild autonomous cortisol excess and primary hyperaldosteronism may benefit from adrenalectomy, but treatment should be individualized.

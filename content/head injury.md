@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: head injury
-date: 2024-01-01
 ---
+
 # head injury
 
 ## 高風險標準（根據需要神經外科干預的終點得出）：

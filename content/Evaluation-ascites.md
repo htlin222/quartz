@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Evaluation-ascites
-date: 2024-01-01
 ---
+
 
 ## Evaluation-ascites
 
@@ -15,9 +16,7 @@ Figure: ![Differential diagnosis of ascites](https://i.imgur.com/1e0JJkq.png)
 - Paracentesis: perform in all Pts w/ new ascites, suggested in all hosp. Pts w/ cirrhosis + ascites. Low complic. rate (~1% hematoma formation). Prophylactic FFP or plts does not ↓ bleeding complic. Most useful tests: cell count, alb, total protein (for SAAG), & culture
 
 ---
-
 ![Figure: Algorithm for the diagnosis of ascites according to → the serum-ascites albumin gradient (SAAG).](https://i.imgur.com/mYJMxP6.png)
-
 ---
 
 - [[Serum-ascites albumin gradient (SAAG)]]:
@@ -26,9 +25,7 @@ Figure: ![Differential diagnosis of ascites](https://i.imgur.com/1e0JJkq.png)
 - [[Cell count of ascites]]
 
 ---
-
 ![Figure: Table of SAAG and AFTP](https://i.imgur.com/fT1IAYH.png)
-
 ---
 
 ## Other tests

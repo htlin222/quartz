@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: TIMI Risk Score
-date: 2024-01-01
 ---
+
 # TIMI Risk Score
 > TIMI Score
 

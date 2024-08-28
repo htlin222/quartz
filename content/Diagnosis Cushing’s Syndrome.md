@@ -53,5 +53,4 @@ enableToc: false
 - Adrenal tumor
 
 ---
-
 - O/N HD DST = 8 mg at 11 p.m.; ✓ 9 a.m. serum cortisol (suppression if <50% from day prior)

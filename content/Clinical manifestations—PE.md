@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations—PE
-date: 2024-01-01
 ---
+
 # Clinical manifestations—PE
 
 * Dyspnea (~50%),

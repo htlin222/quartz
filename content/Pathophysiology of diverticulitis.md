@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathophysiology of diverticulitis
-date: 2024-01-01
 ---
+
 # Pathophysiology of diverticulitis
 
 (NEJM 2007;357:2057; Gastro 2015;149:1944)

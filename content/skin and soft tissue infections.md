@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: skin and soft tissue infections
-date: 2024-01-01
 ---
+
 # skin and soft tissue infections
 
 * [[Definitions-skin and soft tissue infections]]

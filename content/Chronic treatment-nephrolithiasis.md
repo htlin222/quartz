@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Chronic treatment-nephrolithiasis
-date: 2024-01-01
 ---
+
 # Chronic treatment-nephrolithiasis
 
 (CJASN 2016;11:1305 & 2017;12:1699)
@@ -17,9 +18,6 @@ Meds: thiazides (↓ urine Ca), K-citrate if low urine citrate, allopurinol if h
 Avoid low dietary Ca as ↑ oxalate absorp (NEJM 2002;346:77), unclear role of Ca suppl.
 
 ---
-
 * Uric acid: fluid intake, urine alkalinization (K-citrate) to pH 6.5–7, allopurinol
-
 * Magnesium ammonium phosphate (struvite): antibiotics for UTI; urologic intervention; acetohydroxamic acid; urease inhibitor reserved for experienced clinician, poorly tolerated
-
 * Cystine: fluid, urine alkaliniz (K-citrate) to 7–8, d-penicillamine, tiopronin (KI 2006;69:1041)

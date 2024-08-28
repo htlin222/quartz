@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Methotrexate
-date: 2024-01-01
 alias: MTX
 ---
+
 
 qv: [[HD-MTX containing regimen]]
 

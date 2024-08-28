@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic clues that favor VT
-date: 2024-01-01
 ---
+
 
 # Diagnostic clues that favor VT
 

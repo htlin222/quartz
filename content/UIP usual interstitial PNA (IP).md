@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: UIP usual interstitial PNA  IP 
-date: 2024-01-01
 ---
+
 # UIP usual interstitial PNA (IP)
 
 UIP imaging pattern: reticular opacities, honeycombing, traction bronchiectasis; peripheral, subpleural, & basal

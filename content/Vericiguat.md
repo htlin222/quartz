@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Vericiguat
-date: 2024-01-01
 ---
+
 # Vericiguat
 
 

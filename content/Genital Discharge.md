@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Genital Discharge
-date: 2024-01-01
 ---
+
 # Genital Discharge
 
 ## Gonorrhea (N. gonorrhoeae)

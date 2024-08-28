@@ -28,12 +28,9 @@ enableToc: false
 - Risk of prog. 10%/y, depends on [M protein], subtype, FLC ratio. No defined role for Rx yet though trials ongoing (NEJM 2013;369:438; Blood 2019;134:781; JCO 2020;38:1126).
 
 ---
-
 ## No myeloma defining events
-
 - monoclonal gammopathy of uncertain significance
 - Smoldering multiple myeloma
-
 ---
 
 ## multiple myeloma

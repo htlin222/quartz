@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Secondary hyperPTH
-date: 2024-01-01
 ---
+
 # Secondary hyperPTH
 
 > ↑ PO4, ↑ FGF-23, ↓ calcitriol, & ↓ Ca → ↑ PTH → renal osteodystrophy

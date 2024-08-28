@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Appearance of cerebrospinal fluid
-date: 2024-01-01
 ---
+
 # Appearance of cerebrospinal fluid
 
 * Clear and colorless：正常CSF

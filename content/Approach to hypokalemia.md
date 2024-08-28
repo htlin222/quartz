@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Approach to hypokalemia
-date: 2024-01-01
 tgas: one
 ---
+
 
 # Approach to hypokalemia
 
@@ -13,9 +14,7 @@ tgas: one
 - TLDR: 如果是豪莫/豪克 → x 11 
 
 ---
-
 ![🖼️ Figure: 教你怎麼做單位換算](https://i.imgur.com/joJ7EKU.png)
-
 ---
 
 ## 吃不好、transcellular shift? : Urine K
@@ -26,12 +25,9 @@ tgas: one
 - 分 renal or [[extrarenal potassium loss]]
 
 ---
-
 ## renal potassium loss : TTKG 重要的都是 TTKG 大的，即 K 都到尿裡了
-
 - 看一下血壓
   - [[hypertension in hypokalemia]]
-
 ---
 
 ![The diagnostic approach to hyperkalemia](https://i.imgur.com/rmbiwzc.png)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Names for vasculitides
-date: 2024-01-01
 ---
+
 # Names for vasculitides
 [[other names for vasculitides]]
 

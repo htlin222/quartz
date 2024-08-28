@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Paraneoplastic syndromes
-date: 2024-01-01
 ---
+
 # Paraneoplastic syndromes
 
 內分泌、肌肉、神經、血液

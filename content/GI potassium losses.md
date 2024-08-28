@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: GI potassium losses
-date: 2024-01-01
 ---
+
 # GI potassium losses
 
 * GI losses plus metabolic acidosis: diarrhea, laxative abuse, [[villous adenoma]]

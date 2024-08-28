@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic and staging evaluation of lung cancer
-date: 2024-01-01
 ---
+
 # Diagnostic and staging evaluation of lung cancer
 
 * [[Staging of lung cancer]]  

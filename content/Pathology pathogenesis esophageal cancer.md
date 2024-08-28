@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathology pathogenesis esophageal cancer
-date: 2024-01-01
 ---
+
 # Pathology pathogenesis esophageal cancer
 ## Squamous cell carcinoma
 Squamous cell carcinomas (SCCs) are usually located in the proximal or mid third of the esophagus.

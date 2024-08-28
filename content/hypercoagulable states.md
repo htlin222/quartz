@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hypercoagulable states
-date: 2024-01-01
 ---
+
 
 # hypercoagulable states
 > Suspect in Pts with venous or arterial thrombosis at young age or unusual locations, recurrent thromboses or pregnancy loss, or ⊕ FHx

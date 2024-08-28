@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "MYELOMA"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # MYELOMA
-
 ### Symptomatic multiple myeloma, Ig? lambda/kappa, ISS I-III, Durie-Salmon I-IIIAB
-
 - Initial presentation:
 - WOrk up: check LDH, Ca, Alb, B2-microglobulin, sPEP, sIFE, uPEP, uIFE, serum FLC, IgG, IgA, IgM, urine 24hr total protein, skeletal survey, bone marrow study, flowcytometry, cytogenetics, FISH if possible
 - Other workup if clinically indicated: MRI, CT scan (avoid contrast), PET/CT, tissue diagnosis if plasmacytoma, staining of marrow and fat pad for amyloid, serum viscosity, HLA typing
@@ -23,9 +19,7 @@ tags:
   @ myeloma work up: check lab and arrange bone marrow study to send for flowcytometry and chromosome
   @ apply velcade
   \*\*explain AEs of treatment, such as peripheral sensory neuropathy, fatigue, emesis, diarrhea, myelosuppression, fever (40%), constipation, increased infection risk, osteoporosis
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -86,4 +80,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

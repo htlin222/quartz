@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Early intravenous administration of glucocorticoids in central nervous system infection
-date: 2024-01-01
 ---
+
 # Early intravenous administration of glucocorticoids in central nervous system infection
 
 ## Developed regions

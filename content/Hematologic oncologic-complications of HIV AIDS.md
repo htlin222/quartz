@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hematologic oncologic-complications of HIV AIDS
-date: 2024-01-01
 ---
+
 # Hematologic oncologic-complications of HIV AIDS
 
 (NEJM 2018;378:1029)

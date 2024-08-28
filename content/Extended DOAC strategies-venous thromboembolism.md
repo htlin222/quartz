@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Extended DOAC strategies-venous thromboembolism
-date: 2024-01-01
 ---
+
 
 # Extended DOAC strategies-venous thromboembolism
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hemodialysis  HD 
-date: 2024-01-01
 ---
+
 # Hemodialysis (HD)
 
 * Solute removal across semipermeable membrane, countercurrent blood & dialysate flow

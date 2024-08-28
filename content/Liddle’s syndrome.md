@@ -17,7 +17,6 @@ Liddle syndrome is an inherited form of high blood pressure (hypertension).
 - TLDR: 做不出 ENaC，所以不能排鈉
 
 ---
-
 - Mutations in the SCNN1B or SCNN1G gene change the structure of the respective ENaC subunit.
 - The changes alter a region of the subunit that is involved in signaling for its breakdown (degradation) when it is no longer needed.
 - As a result of the mutations, the subunit proteins are not degraded, and more ENaC channels remain at the cell surface.

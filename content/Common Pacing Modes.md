@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Common Pacing Modes
-date: 2024-01-01
 ---
+
 # Common Pacing Modes
 ## VVI
 Ventricular pacing on demand w/ single lead in RV. Sensed ventricular beat inhibits V pacing. Used in chronic AF with symptomatic bradycardia.

@@ -18,12 +18,10 @@ tags:
   - Accumulation of genetic muts (APC → TP53, KRAS, SMAD4, etc.) leads to tumorigenesis; usu a/w chromosomal instability (CIN); risk of CRC ↑ w/ adenoma size, number, & histology (villous > tubular)
 
 ---
-
 - Serrated polyp pathway:
   - Alternative route for CRC development through serrated adenomas;
   - BRAF mut & [[CpG Island Methylation Phenotype]] (CIMP);
   - hypermethylation of promoters of MMR genes such as MLH1 & tumor suppressors → gene silencing
-
 ---
 
 - [[Lynch]]

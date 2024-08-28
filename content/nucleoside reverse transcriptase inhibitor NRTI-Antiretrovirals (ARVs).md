@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: nucleoside reverse transcriptase inhibitor NRTI-Antiretrovirals  ARVs 
-date: 2024-01-01
 ---
+
 # nucleoside reverse transcriptase inhibitor NRTI-Antiretrovirals (ARVs)
 
 

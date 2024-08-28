@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Anticoagulation  antiplatelet therapy-prosthetic-heart-valves
-date: 2024-01-01
 ---
+
 # Anticoagulation  antiplatelet therapy-prosthetic-heart-valves
 
  (Circ 2021;143:e72)

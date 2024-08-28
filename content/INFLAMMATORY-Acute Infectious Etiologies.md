@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: INFLAMMATORY-Acute Infectious Etiologies
-date: 2024-01-01
 ---
+
 # INFLAMMATORY-Acute Infectious Etiologies
 
 Predom. colonic invasion. Small-vol diarrhea. LLQ cramps, tenesmus, fever, typically ⊕ fecal WBC or FOB.

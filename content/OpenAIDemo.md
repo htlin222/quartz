@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: OpenAIDemo
-date: 2024-01-01
 ---
+
 What are the treatment of lung cancer
 
 Lung cancer is the leading cause of cancer death in both men and women in the United States. Each year, more people die of lung cancer than of breast cancer, colon cancer, and prostate cancer combined.

@@ -16,9 +16,7 @@ tags:
 Required criteria: ANA titer ≥1:80 AND ≥10 points (at least one clinical):
 
 ---
-
 ![Figure: ](https://i.imgur.com/k9QBBKZ.png)
-
 ---
 
 

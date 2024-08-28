@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-cirrhosis
-date: 2024-01-01
 ---
+
 # Workup-cirrhosis
 
  (Am J Gastro 2017;112:18; Lancet 2021;398:1359)

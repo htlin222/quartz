@@ -35,11 +35,8 @@ enableToc: false
 * and/or extramedullary leukemia
 
 ---
-
 * Most asx or may have mild constitutional s/s related to splenomegaly.
-
 ## disease progression
 * worsening constitutional sx
 * bone pain
 * ↑ spleen size
-

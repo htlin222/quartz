@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Serologic and virologic tests
-date: 2024-01-01
 ---
+
 
 # Serologic and virologic tests
 
@@ -20,10 +21,8 @@ date: 2024-01-01
 see also 👉 [[Laboratory Abnormalities of HBV Clinical Presentation]]
 
 ---
-
 ![Figure: Course of serum markers in acute resolving hepatitis B virus infection](https://i.imgur.com/Ykwq0xc.png)
 → 急性感染後恢復者: 感染 B 型肝炎病毒約半年後：HBsAg 消失、Anti-HBs 出現
-
 ---
 
 - HBsAg + : 1.好肝帶原者; 2.壞肝 cHBV

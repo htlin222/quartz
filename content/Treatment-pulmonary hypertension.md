@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-pulmonary hypertension
-date: 2024-01-01
 ---
+
 # Treatment-pulmonary hypertension
 
 * Principles: 1) prevent & reverse vasoactive substance imbalance and vascular remodeling 2) prevent RV failure: ↓ wall stress (↓ PVR, PAP, RV diam); ensure adeq systemic DBP

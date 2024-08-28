@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Fibromuscular dysplasia
-date: 2024-01-01
 ---
+
 # Fibromuscular dysplasia
 
 - 纖維肌發育不良（FMD）是腎動脈狹窄的重要原因，尤其是在年輕女性中。

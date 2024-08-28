@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-cholelithiasis
-date: 2024-01-01
 ---
+
 # Treatment-cholelithiasis
 
  (Am Fam Physician 2014;89:795; J Hepatol 2016;65:146)

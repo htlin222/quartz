@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Direct Oral Anticoagulants  DOACs  for NVAF
-date: 2024-01-01
 alias: DOAC
 ---
+
 
 # Direct Oral Anticoagulants (DOACs) for NVAF
 
@@ -36,5 +37,4 @@ alias: DOAC
 > %
 
 ---
-
 ## Backlink: [[Oral anticoagulation-atrial fibrillation]]

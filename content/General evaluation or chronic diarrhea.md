@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: General evaluation or chronic diarrhea
-date: 2024-01-01
 ---
+
 # General evaluation or chronic diarrhea
 
 (JAMA 2016;315:2712; Gastro 2019;157:3)

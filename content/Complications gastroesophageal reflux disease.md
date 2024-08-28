@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications gastroesophageal reflux disease
-date: 2024-01-01
 ---
+
 
 # Complications gastroesophageal reflux disease
 

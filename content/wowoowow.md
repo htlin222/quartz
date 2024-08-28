@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: wowoowow
-date: 2024-01-01
 ---
+
 # wowoowow
 
 - Thromboembolism is a book of writing is

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Budd-Chiari syndrome
-date: 2024-01-01
 ---
+
 
 # Budd-Chiari syndrome
 
@@ -27,8 +28,6 @@ date: 2024-01-01
 - idiopathic
 
 ---
-
 - hepatomegaly, RUQ pain, [[ascites]], dilated venous collaterals, acute liver failure
 - [[diagnostic test of Budd-Chiari syndrome]]:
-
 - Treatment: Rx underlying condition, anticoag (LMWH → warfarin); consider thrombolysis if acute; angioplasty & stent if short stenosis; consider TIPS or DIPS (U/S-guided direct intrahepatic portosystemic shunt) (if other methods fail to treat sx of portal HTN); liver transplant if ALF or failed other options

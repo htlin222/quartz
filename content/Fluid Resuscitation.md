@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Fluid Resuscitation
-date: 2024-01-01
 ---
+
 # Fluid Resuscitation
 
 * [[sensible and insensible fluid losses]]

@@ -1,17 +1,14 @@
----
+date: "2023-12-06---
 title: "Chemotherapy regimens for NAV or ADJ use in HR positive and TNBC-of-localized breast cancer"
 date: "2023-12-06 14:52:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[localized breast cancer]]
-
 # Chemotherapy regimens for NAV or ADJ use in HR positive and TNBC-of-localized breast cancer
-
 - 3 most common regimens:
   - [[CMF]] (cyclophosphamide, MTX, 5-FU),
   - [[CAF]]
@@ -25,15 +22,11 @@ tags:
 - CMF:
   - ↑ OS at 30-y follow-up (RR of death = 0.79) vs. no chemo after surgery (BMJ 2005;330:217);
   - not rec for high-risk dz
-
 ## Highlight
-
 - ↑ DFS & OS w/ anthra containing tx > CMF ([[EBCTCG]], Lancet 2005;365:1687)
 - ↑ DFS w/ anthra & T-containing tx > TC × 6 for HER2(−) high-risk pts ([[ABC trial]], JCO 2016;34:1000)
 - ↑ DFS & OS when taxane added to anthra-based regimens (EBCTCG Lancet 2012;379:432; NSABP B-28, JCO 2005;23:3686)
-
 ### Siblings
-
 - [[Local management with surgery and radiation-of-localized breast cancer]]
 - [[Hormone positive disease-adjuvant endocrine treatment]]
 - [[Hormone-positive disease-neoadjuvant therapy-of-localized breast cancer]]

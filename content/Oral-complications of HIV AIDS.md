@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Oral-complications of HIV AIDS
-date: 2024-01-01
 ---
+
 # Oral-complications of HIV AIDS
 
  Aphthous ulcers; KS; thrush/oral candidiasis (curd-like patches, often painless)

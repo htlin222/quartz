@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Mechanisms and Etiologies of Platelet Function Abnormalities
-date: 2024-01-01
 ---
+
 
 # Mechanisms and Etiologies of Platelet Function Abnormalities
 

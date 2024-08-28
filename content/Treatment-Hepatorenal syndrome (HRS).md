@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-Hepatorenal syndrome  HRS 
-date: 2024-01-01
 ---
+
 # Treatment-Hepatorenal syndrome (HRS)
 
 * if critically ill → vasopressor (eg, norepinephrine or vasopressin) + albumin (1 g/kg, max 100 g, bolus daily) to ↑ MAP 10 mmHg. 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: interpretation of serum calcium
-date: 2024-01-01
 ---
+
 # interpretation of serum calcium
 
 ![image 22-10-12 16 34 00](https://i.imgur.com/wEwrVxr.png)

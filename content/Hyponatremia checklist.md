@@ -1,17 +1,14 @@
----
+date: "2023-12-06---
 title: "Hyponatremia checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[checklist]]
-
 # Hyponatremia checklist
-
 - Repeat BMP to verify hyponatremia.
 - Check serum glucose to exclude hyperglycemia.
 - Calculate corrected sodium for hyperglycemia.

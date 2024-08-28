@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Anemia of chronic inflammation
-date: 2024-01-01
 ---
+
 # Anemia of chronic inflammation
 
 (ACI; NEJM 2012;366:4)

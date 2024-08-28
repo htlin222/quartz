@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: positive and negative predictive values of tests
-date: 2024-01-01
 ---
+
 # positive and negative predictive values of tests
 
 ![image 22-10-16 02 51 15](https://i.imgur.com/Iz0zNLA.png)

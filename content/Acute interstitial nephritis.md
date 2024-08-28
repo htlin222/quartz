@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Acute interstitial nephritis
-date: 2024-01-01
 ---
+
 # Acute interstitial nephritis
 
 ## etiology

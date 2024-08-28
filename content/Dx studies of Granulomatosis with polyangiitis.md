@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Dx studies of Granulomatosis with polyangiitis
-date: 2024-01-01
 ---
+
 # Dx studies of Granulomatosis with polyangiitis
 
 90% ⊕ ANCA (80% PR3, 20% MPO), less Se in limited upper-airway disease

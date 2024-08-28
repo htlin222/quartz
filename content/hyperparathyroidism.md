@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hyperparathyroidism
-date: 2024-01-01
 ---
+
 # hyperparathyroidism
 
 - 甲狀旁腺功能亢進症是甲狀旁腺（在頸部，靠近甲狀腺）產生過多的甲狀旁腺激素。

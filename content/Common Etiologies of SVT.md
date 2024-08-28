@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Common Etiologies of SVT
-date: 2024-01-01
 ---
+
 # Common Etiologies of SVT
 
 
@@ -18,7 +19,6 @@ Clockwise or counterclockwise macroreentry, usually w/in right atrium
 Chaotic atrial activation with rapid, irregular AVN bombardment; often from pulmonary veins
 
 ---
-
 ## AV Jxn
 ### AV nodal reentrant tach (AVNRT)
 Reentrant circuit using dual pathways w/in AVN

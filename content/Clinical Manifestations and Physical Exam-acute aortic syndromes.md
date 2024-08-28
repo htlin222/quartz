@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical Manifestations and Physical Exam-acute aortic syndromes
-date: 2024-01-01
 ---
+
 # Clinical Manifestations and Physical Exam-acute aortic syndromes
 
  (JAMA 2000;283:897)

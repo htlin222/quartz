@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup for effusion
-date: 2024-01-01
 ---
+
 # Workup for effusion
 
 * r/o infxn: usually apparent from Hx & CXR; ? value of ✓ acute and convalescent serologies

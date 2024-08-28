@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: model for clinical reasoning
-date: 2024-01-01
 ---
+
 # model for clinical reasoning
 
 Step 1: Identify the Problem

@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Membranous nephropathy
-date: 2024-01-01
 alias: MN
 ---
+
 
 # Membranous nephropathy
 

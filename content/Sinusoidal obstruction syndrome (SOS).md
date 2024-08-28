@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Sinusoidal obstruction syndrome  SOS
-date: 2024-01-01
 ---
+
 # Sinusoidal obstruction syndrome (SOS)
 
 (Bone Marrow Transplant 2020:55:485)
@@ -43,15 +44,11 @@ date: 2024-01-01
 incidence ~10%, mortality ~30%
 
 ---
-
 * Previously known as veno-occlusive disease (VOD) (BBMT 2016;22:400).
 * Mechanism: direct cytotoxic injury to hepatic venules → in situ thrombosis.
 * Symptoms: tender hepatomegaly, ascites, jaundice, fluid retention with severe disease → liver failure, encephalopathy, hepatorenal syndrome
 * Diagnosis: ↑ ALT/AST, ↑ bilirubin; ↑ PT with severe disease; Doppler U/S may show reversal of portal vein flow; ↑ hepatic wedge pressure; abnl liver bx
 * Treatment: supportive; prophylaxis with ursodiol; treat w/ defibrotide (Blood 2016;127:1656)
-
-
 ### Backlink：
-
 - [[complications of hematopoietic stem cell transplantation]]
 - [[hepatic vascular disease]]

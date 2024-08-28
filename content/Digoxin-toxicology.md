@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Digoxin-toxicology
-date: 2024-01-01
 ---
+
 # Digoxin-toxicology
 
 N/V, bradycardia, AV block, delirium, xanthopsia

@@ -25,11 +25,8 @@ tags:
   @ Explain treatment options, after
 
 ---
-
 ## AMPULLA
-
 ### Ampulla of Vater adenocarcinoma,(W/D), pT3N1(3/15)M0, stage IIB (AJCC 7th), invade duodenal wall and pancreas, negative washing cytology s/p Whipple and feeding jejunostomy on 2015/6/29, LVI+, perineural invasion -, post op complicated with gastroparesis, UGIB
-
 - LNs (3/15 totally): positive for metastasis [3/15 (peri-tumoral LN: 2/5, peripancreatic LN: 1/3, perigastric LN: 0/3, CBD LN: 0/1, SMA LN: 0/1, LN8+9: 0/1, LN12P: 0/1, LN12A: 0/0)] with extracapsular spread.
 - Initial presentation: obstructive jaundice at CGMH on 2015/4 s/p stenting
 - Treatment plan: adjuvant chemotherapy will be started post op 4~6 weeks:
@@ -38,11 +35,8 @@ tags:
 - 2015/8/14: the purpose of adjuvant chemotherapy is to prolong disease free survival and overall survival and decrease risk of recurrence and distant mets but not 100%. Explain adjuvant chemotherapy regimen of 5FU D1-D5 (425mg/m2) IV, LV (20mg/m2) Q4W for 6 cycles or self-paid gemcitabine 1000mg/m2 IVF 30 min QW for 3week on 1week off for 6 cycles to reduce risk of mortality by 30%
   @ Consider start treatment, arrange admission for 5FU D1-D5 (425mg/m2) IV, LV (20mg/m2), check lab and tumor marker
   @ vascular assessment, nutritional assessment before chemotherapy, pharmacist education
-
 ## ANAL
-
 ### Anal cancer, SqCC, cTxNxM0, dx on 2010/00/00
-
 - Initial presentation:
 - Treatment plan: definitive CCRT and longterm observation
 - 2010/00/00: Explain the purpose of neoadjuvant CCRT, the goal is to decrease recurrence/metastasis as possible, not guarantee cure!! Thus regular follow up is still needed.
@@ -57,15 +51,10 @@ tags:
   MMC:
   ** myelosuppression, nausea/vomting, mucositis, potent vesicant (extravasation can lead to tissue necrosis and chemical thrombophlebitis at the site of injection), anorexia, fatigue, HUS in rare events, intestinal pneumonitis, hepatoveno occlusive disease, and chemical cystitis and bladder contraction.
   \*\*Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ## APTT
-
 ## Comfirmed COVID on ?
-
 \*COVID-19 Vaccination history?
-
 ### APTT prolongation, nature?
-
 - LMP on 2022/11/26, no menorrhgia
   @ Operation is okay
   @ APTT prolong, do further survey as uptodate suggested below.
@@ -73,29 +62,21 @@ tags:
   @ Survey for autoimmune disease and lupus anticoagulants (APTT prolong with lupus anticoagulant+, do confirmatory test with anti-cardiolipin (aCL) and anti-B2-GP1 IgG and IgM test.). Check VWF antigen and activity (need to send to 榮總)
   @ Follow up 1 month with APTT.
   @ Do upper abdominal sono to rule out splenomegaly
-
 ## APTTPT
-
 ### Mild PT and severe APTT prolong, etiology to be determined, mild easily ecchymosis recently, no but menorrahgia, suspected asymptomatic lupus anticoagulant, rule out factor deficiency, rule out super wafarin intoxicification but not likely
-
 - No chinese medicine or other drug exposure except drinking some collagen fiber
 - Previous APTT/PT data if available
   @ do mixing test
   @ check for factors IVVV, IX, or XI, and lupus anticoagulant activity
   @ Check PT/APTT again on ?
   \*\*If the aPTT is prolonged and the PT is normal, we do a mixing study. If the mixing study corrects, then we perform assays for factors XII, XI, IX, and VIII. Even though factor XII deficiency is not associated with bleeding, it may explain a prolonged aPTT that corrects with mixing. If the mixing study fails to correct, we test for the presence of a lupus anticoagulant and factor VIII activity (the latter to detect a rare patient with acquired hemophilia A).
-
 ## Adrenal
-
 Dear doctor:
 This is a patient of esophageal cancer under Pembrolizumab and PF since 2020/12/15. Cortisol level on 12/17 was 1.74ug/dl. However, the patient did not have symptoms suggestive of adrenal insufficiency until days ago when he suffered from shock. He had better appetite today.
 My opinion is check AM Cortisol and ACTH tomorrow (before 10AM). If cortisol level is still low, you may give him Solu-Cortef 50mg iv stat, than observe the response of blood pressure. If his blood pressure becomes normalized after Solu-Cortef, physical dose supplement of cortisone acetate (25/12.5mg bid) may be necessary.
 Please contact with me for further management.
-
 ## BCADJ
-
 ### Left breast cancer, IDC, s/p MRM, WE+SLNB, SM+SLNB on 2010/00/00, pT2(2cm)SLN0(0/3)M0, NG2, LVI, ER/PR/Her2-neu: 8/8/0, FISH: ,Ki-67 %
-
 - Menopause, Premenopause
 - Adjuvant chemotherapy: CAF X 6, AC X 4 --> T X 4, Herceptin for 1 yr
 - Consult RT
@@ -106,11 +87,8 @@ Please contact with me for further management.
   @ Olanzepine HS self-paid, akyenzo, dexam, and primperan for emeis.
   @ Do cardiac echo if has risk factor
   @ Vascular assessment, rehabilitation, nutritional assessment, dental check before chemotherapy
-
 ## BCADJH
-
 ### Left breast cancer, IDC, s/p left SM+ALND on 2020/00/00, pT2(3.3cm)N1mi(1/9, 1.5mm)M0, NG3, LVI-, ER0, PR0, HER2-neu 3+
-
 - Menopause, premenopause
 - Adjuvant chemotherapy: AC X 4--> T X 4/8, Herceptin for 1 yr
 - Consult RT
@@ -120,9 +98,7 @@ Please contact with me for further management.
   @ Vascular assessment, nutritional assessment (high protein diet), consult rehabilitation, dental check and pharmacist education before chemotherapy
   @ Olanzepine HS self-paid, akyenzo, dexam, and primperan for emeis.
   @ f/u 2-D echo Q4~5M under herceptin (2020/00/00 EF:%)
-
 ## BCFU
-
 BC follow up strategy:
 PE Q3M for 1 years then Q6M for 4 years then Qyear
 Annual exam Qyear and mammo/breast sono in between for 5 years and then alternatively**
@@ -130,11 +106,8 @@ Annual exam Qyear and mammo/breast sono in between for 5 years and then alternat
 *For BCS patient, if radiation therapy was given, the 1Y mammogram should be postponed to at least 6 months after finish of radiation therapy
 \*No breast sonogram is indicated for those patients whose mammogram showed to be fatty or scattered fibroglandular. For those mammogram showed to be heterogeneous or extremely dense, do sonogram of breast at 1.5Y, 2.5Y, 3.5Y, 4.5Y
 **For those mammogram showed to be heterogeneous or extremely dense, do sonogram of breast alternatively with mammogram at yearly interval. For those patients whose mammogram showed to be fatty or scattered fibroglandular, do yearly mammogram.
-
 ## BCMET
-
 ### Right breast cancer, IDC, NG?, ER/PR/HER2-neu: ///, DISH?, ki67?%, diagnosed on 2010/00/00, cT4bN3cM1, with skin carcinomatosis, liver, lung, and bony mets, complicated with ? s/p ?
-
 - menopause, premenopause
 - Initial presentation: palpable right breast mass since 2014/3
 - Follow up parameter: CT scan, bone scan, CXR, liver sonography, breast sonography, CEA/CA153 if elevated
@@ -149,22 +122,16 @@ Annual exam Qyear and mammo/breast sono in between for 5 years and then alternat
   @ Arrange #1 ? on , RTC on ? and check lab for prechemotherapy evaluation
   @ Vascular assessment, rehabilitation, nutritional assessment (high protein diet), dental check, and pharmacist education before treatment
   @ Follow up 2-D echo Q4~5M if under herceptin (2016/00/00 EF:%)
-
 ## BMD
-
 BMD (2021/4): Lumbar spine: T-score: -2.0 (LOW BONE DENSITY); Right hip: T-score: -2.9 (OSTEOPOROSIS)
-
 ## BREASTPE
-
 Breast physical exam:
 Right
-
 > right breast : "palpable mass, over OUQ 10\*8 cm"
 > right axilla : no palpable mass
 > right subclavian : no palpable lesion
 > right nipple : no discharge , no depression
 > Operation scar : Nil
-
 ---
 
 Left

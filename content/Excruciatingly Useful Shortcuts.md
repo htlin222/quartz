@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Excruciatingly Useful Shortcuts
-date: 2024-01-01
 ---
+
 In the order of most to least useful:
 
 ⌘ L     Place insertion point in search/title area

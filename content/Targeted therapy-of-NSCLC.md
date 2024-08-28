@@ -20,9 +20,7 @@ tags:
 [[On-target resistance and Off-target resistance]]
 
 ---
-
 - ERBB2/HER2 mt: Trastuzumab deruxtecan-nxki (T-DXd, ORR 55%, PFS 8.2 mos), trasuzumab emtansine (T-DM1, ORR 44%) (JCO 2018;36:2532)
-
 ---
 
 - KRAS G12C mt: 2L+ sotorasib (ORR 37%, PFS 6.8 mos), adagrasib

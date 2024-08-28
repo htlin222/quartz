@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-hyperaldosteronism
-date: 2024-01-01
 ---
+
 # Treatment-hyperaldosteronism
 
 (SCNA 2014;94:643)

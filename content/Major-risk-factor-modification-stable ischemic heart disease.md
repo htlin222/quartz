@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Major-risk-factor-modification-stable ischemic heart disease
-date: 2024-01-01
 ---
+
 
 - from: [[stable ischemic heart disease]] 󰒖
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: mitral-regurgitation
-date: 2024-01-01
 ---
+
 # mitral-regurgitation
 
 * [[Etiology-mitral-regurgitation]] (NEJM 2010;363:156 & 2020;383:1458)

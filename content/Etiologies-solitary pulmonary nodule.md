@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-solitary pulmonary nodule
-date: 2024-01-01
 ---
+
 # Etiologies-solitary pulmonary nodule
 
 ## Benign (70%)

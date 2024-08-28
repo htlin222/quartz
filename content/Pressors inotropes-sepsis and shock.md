@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pressors inotropes-sepsis and shock
-date: 2024-01-01
 ---
+
 # Pressors inotropes-sepsis and shock
 
 

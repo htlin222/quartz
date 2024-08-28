@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: CPR人力配置
-date: 2024-01-01
 ---
+
 # CPR人力配置
 
 Figure: ![🏞️](https://i.imgur.com/nUZ1l6A.png)

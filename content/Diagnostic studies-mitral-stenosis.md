@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-mitral-stenosis
-date: 2024-01-01
 ---
+
 # Diagnostic studies-mitral-stenosis
 
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Duration of therapy of fever and neutropenia
-date: 2024-01-01
 ---
+
 # Duration of therapy of fever and neutropenia
 
 - Known source: complete standard course (eg, 14 d for bacteremia)

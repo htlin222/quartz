@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Properties and Antidotes for Anticoagulants Fibrinolytics
-date: 2024-01-01
 ---
+
 # Properties and Antidotes for Anticoagulants Fibrinolytics
 ![image 22-10-02 09 34 21](https://i.imgur.com/8vIwASO.png)
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiology-pericardial tamponade
-date: 2024-01-01
 ---
+
 # Etiology-pericardial tamponade
 
 * Any cause of pericarditis but espec malignancy, infectious, uremia, ascending AoD, myocardial rupture, periprocedural complication, trauma, post-cardiotomy

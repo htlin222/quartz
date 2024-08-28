@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition Clinical Manifestations-HIV AIDS
-date: 2024-01-01
 ---
+
 # Definition Clinical Manifestations-HIV AIDS
 
 * Acute HIV: rash, lymphadenopathy, fever, oral ulcers, pharyngitis, myalgias, diarrhea Presents ~2–6 wk after exposure; not all HIV infections result in symptoms of acute HIV

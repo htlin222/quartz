@@ -1,15 +1,15 @@
 ---
+date: "2024-01-01"
 title: sexually transmitted infections
-date: 2024-01-01
 alias: STI
 ---
+
 
 # sexually transmitted infections
 
 - [[Risk Factors and Screening]] (MMWR 2021;70:1)
 
 ---
-
 - [[Genital Lesions]] (MMWR 2021; 70:1)
 - [[Genital Discharge]]
 - [[Diagnosis-sexually transmitted infections]]

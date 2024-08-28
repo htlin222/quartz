@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: jupyter
-date: 2024-01-01
 ---
+
 docker run -i --rm \
     --user root \
     -p 8888:8888 \

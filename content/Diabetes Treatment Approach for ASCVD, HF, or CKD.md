@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diabetes Treatment Approach for ASCVD, HF, or CKD
-date: 2024-01-01
 ---
+
 
 # Diabetes Treatment Approach for ASCVD, HF, or CKD
 Med (↓ HbA1C) Comments

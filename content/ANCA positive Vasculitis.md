@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: ANCA positive Vasculitis
-date: 2024-01-01
 ---
+
 # ANCA positive Vasculitis
 
 * ![ANCA positive Vasculitis table 小麻圖](https://i.imgur.com/S1MblCd.png)

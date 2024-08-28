@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-wide-complex tachycardias  WCTS 
-date: 2024-01-01
 ---
+
 # Etiologies-wide-complex tachycardias (WCTS)
 
 (Lancet 2012;380:1520)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Papillary thyroid cancer
-date: 2024-01-01
 ---
+
 # Papillary thyroid cancer
 
 * Most common form (85% of differentiated thyroid cancers); peak incidence 30 to 50 y

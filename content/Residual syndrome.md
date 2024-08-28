@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Residual syndrome
-date: 2024-01-01
 ---
+
 # Residual syndrome
 
 Inadequate removal of uremic toxins through conventional dialysis may result in a phenomenon known as residual syndrome. Patients with this syndrome may experience subtle signs of malnutrition, mild lethargy, infection, and serositis

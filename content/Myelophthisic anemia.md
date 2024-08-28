@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Myelophthisic anemia
-date: 2024-01-01
 ---
+
 # Myelophthisic anemia
 
 (see also “Primary Myelofibrosis”)

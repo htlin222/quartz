@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-aortic aneurysms
-date: 2024-01-01
 ---
+
 # Treatment-aortic aneurysms
 
  (Circ 2010;121:e266 & 2016;133:680; JACC 2020;76:201; NEJM 2021;385:1690)

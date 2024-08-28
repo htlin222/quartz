@@ -14,9 +14,7 @@ tags:
 # Light micrograph showing mesangial proliferative glomerulonephritis
 
 ---
-
 ![Figure: ](https://i.imgur.com/3mcCHxu.png)
-
 ---
 
 - mesangial glomerulonephritis showing segmental areas of increased mesangial matrix and cellularity (arrows). This finding alone can be seen in many diseases, including lupus nephritis and IgA nephropathy.

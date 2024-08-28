@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Renal tubular acidoses
-date: 2024-01-01
 alias: RTA
 ---
+
 
 # Renal tubular acidoses
 
@@ -44,11 +45,9 @@ alias: RTA
 rarely discussed or clinically relevant, also called juvenile RTA, has distal & proximal features, can be due to carbonic anhydrase II deficiency
 
 ---
-
 - Urine pH will rise above 5.3 in the setting of HCO3 load
 - FeHCO3 should be checked after an HCO3 load
 - See above for causes of distal RTA (Type I) associated with hyperkalemia
-
 ---
 
 - from: [[Types of stones and risk factors]]

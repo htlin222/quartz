@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: esophageal and gastric disorders
-date: 2024-01-01
 aliases: [esophageal and gastric disorders]
 linter-yaml-title-alias: esophageal and gastric disorders
 ---
+
 # esophageal and gastric disorders
 [[Dysphagia]]
 [[Etiologies of and approach to dysphagia]]

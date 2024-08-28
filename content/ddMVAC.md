@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: ddMVAC
-date: 2024-01-01
 ---
+
 ## Dose-dense MVAC chemotherapy for urothelial carcinoma
 Keyword: ddMVAC
 [Dose-dense MVAC chemotherapy for urothelial carcinoma - UpToDate](https://www.uptodate.com/contents/image?imageKey=ONC%2F111814&topicKey=ONC%2F3000&source=see link)

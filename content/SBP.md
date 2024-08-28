@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Spontaneous bacterial peritonitis
-date: 2024-01-01
 alias: SBP
 ---
+
 
 - 👉 von [[Symptoms of HBV Clinical Presentation]]
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Growth hormone deficiency
-date: 2024-01-01
 ---
+
 # Growth hormone deficiency
 
 ↓ GH

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Barrett’s esophagitis
-date: 2024-01-01
 ---
+
 # Barrett’s esophagitis
 
 * (BE): metaplastic columnar mucosa above GE jxn replaces squam epithel.

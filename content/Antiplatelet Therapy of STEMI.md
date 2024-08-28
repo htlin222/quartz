@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Antiplatelet Therapy of STEMI
-date: 2024-01-01
 ---
+
 # Antiplatelet Therapy of STEMI
 
 ## Aspirin 162–325 mg × 1 (crushed/chewed) then 81 mg qd

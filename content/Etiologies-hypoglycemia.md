@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-hypoglycemia
-date: 2024-01-01
 ---
+
 # Etiologies-hypoglycemia
 
 * Pts w/ diabetes: excess insulin, oral hypoglycemics, missed meals, renal failure (↓ insulin & SU clearance); β-blockers can mask adrenergic symptoms of hypoglycemia

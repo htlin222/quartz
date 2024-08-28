@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Risk Factors and Screening
-date: 2024-01-01
 ---
+
 # Risk Factors and Screening
 
 * High risk: >10 lifetime sexual partners, prior STI, MSM, sex workers

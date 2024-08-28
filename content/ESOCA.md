@@ -1,21 +1,16 @@
----
+date: "2023-12-05---
 title: "ESOCA"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # ESOCA
-
 A+B+C
-
 ### Esophageal ca, M/D SqCC, dx on, middle third, ?cm from incisor, cT3N2MX, stage IIIAB (LN: )
-
 - Initial presentation:
 - PET CT:
 - EGD:
@@ -29,9 +24,7 @@ A+B+C
   @ Arrange W1 PF on the day of RT
   @ Arrange G-tube feeding on the day of admission
   @ Vascular assessment, nutritional assessment (consult nutritionist after G-tube setpup for feeding education), dental check, pharmacist education before chemotherapy.
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -92,4 +85,3 @@ A+B+C
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

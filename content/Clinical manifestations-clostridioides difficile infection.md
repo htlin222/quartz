@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-clostridioides difficile infection
-date: 2024-01-01
 ---
+
 # Clinical manifestations-clostridioides difficile infection
 
 * Asx colonization: <3% healthy adults; ~20% in hospitalized patients on antibiotics

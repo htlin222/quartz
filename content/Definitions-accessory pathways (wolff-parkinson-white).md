@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definitions-accessory pathways  wolff-parkinson-white 
-date: 2024-01-01
 ---
+
 # Definitions-accessory pathways (wolff-parkinson-white)
 
 * Accessory pathway (bypass tract) of conducting myocardium connecting atria & ventricles, allowing impulses to bypass normal AVN delay

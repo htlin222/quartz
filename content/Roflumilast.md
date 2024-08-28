@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Roflumilast
-date: 2024-01-01
 ---
+
 # Roflumilast
 
 (PDE-4 inhib) + bronchodil: ↑ FEV1, ↓ exacerb in Pts with severe COPD, chronic bronchitis, 

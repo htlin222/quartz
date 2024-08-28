@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: nephrology
-date: 2024-01-01
 aliases: [nephrology]
 linter-yaml-title-alias: nephrology
 ---
+
 # nephrology
 * [[acid-base disturbances]]
 * [[sodium and water homeostasis]]
@@ -14,16 +15,13 @@ linter-yaml-title-alias: nephrology
 * [[nephrolithiasis]]
 
 ---
- 
 * Acute Kidney Injury (AKI)
 Chronic Kidney Disease (CKD) and End-Stage Kidney Disease (ESKD)
 * Glomerular Diseases
 * Disorders of Sodium Homeostasis
 * Kidney Transplant Immunosuppression
 * Kidney Stones
-
 Additional topics are covered in the following rotation guides:
-
 ---
  
 * Acid/Base Disorders (Critical Care)

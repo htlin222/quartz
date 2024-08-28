@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: levamisole
-date: 2024-01-01
 ---
+
 # levamisole
 
 適應症

@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "FL"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # FL
-
 ### NHL, follicular lymphoma, low-grade, Ann Arbor stage IV XEA with bone marrow involvement dx on 2010/00/00, IPI 1 (low), FLIPI-2 (intermediate)
-
 - Initial presentatin:
 - CT scan on 2010/00:
 - PET-CT on 2010/00/00:
@@ -27,9 +23,7 @@ tags:
   @ Arrange bone marrow study
   @ 開立重大傷病
   @ discuss patient in hematology tumor board meeting
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -90,4 +84,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

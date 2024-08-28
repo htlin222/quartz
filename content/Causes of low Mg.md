@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Causes of low Mg
-date: 2024-01-01
 ---
+
 
 # Causes nf low Mg
 

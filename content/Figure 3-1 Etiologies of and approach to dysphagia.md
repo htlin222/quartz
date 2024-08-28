@@ -14,7 +14,5 @@ tags:
 # Figure 3-1 Etiologies of and approach to dysphagia
 
 ---
-
 ![🖼️ Figure: _](https://i.imgur.com/a5h1dYo.png)
-
 ---

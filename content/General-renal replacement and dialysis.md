@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: General-renal replacement and dialysis
-date: 2024-01-01
 ---
+
 
 # General-renal replacement and dialysis
 

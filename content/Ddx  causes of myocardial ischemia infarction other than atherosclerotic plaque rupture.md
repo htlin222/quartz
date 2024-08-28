@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Ddx  causes of myocardial ischemia infarction other than atherosclerotic plaque rupture
-date: 2024-01-01
 ---
+
 
 # Ddx causes of myocardial ischemia infarction other than atherosclerotic plaque rupture
 

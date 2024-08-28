@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: disease-specific management of kidney disease
-date: 2024-01-01
 aliases: [disease-specific management of kidney disease]
 linter-yaml-title-alias: disease-specific management of kidney disease
 ---
+
 # disease-specific management of kidney disease
 * [[Acute interstitial nephritis]]
 * [[Cardiorenal syndrome]]

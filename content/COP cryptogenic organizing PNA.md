@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: COP cryptogenic organizing PNA
-date: 2024-01-01
 ---
+
 # COP cryptogenic organizing PNA
 
 

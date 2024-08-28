@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: abdominal pain
-date: '2023-09-01'
 ---
+
 
 # abdominal pain
 

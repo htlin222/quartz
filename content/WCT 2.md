@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: wide-complex tachycardias  WCTS
-date: 2024-01-01
 alias: WCT
 ---
+
 
 # wide-complex tachycardias (WCTS)
 

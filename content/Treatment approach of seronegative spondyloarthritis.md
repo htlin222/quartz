@@ -18,7 +18,6 @@ tags:
 - Tight control of inflammation may improve outcomes (eg, in PsA; Lancet 2015;386:2489)
 
 ---
-
 - _NSAIDs_: 1st line; rapidly ↓ stiffness and pain; prolonged, continuous administration may modify disease course but associated w/ GI and CV toxicity (Cochrane Database Syst Rev 2015;17:CD010952); may exacerbate IBD
 - Intra-articular corticosteroids in mono- or oligoarthritis; limited role for systemic steroids, esp. for axial disease
 - _Conventional DMARDs_ (eg, MTX, SSZ, leflunomide):

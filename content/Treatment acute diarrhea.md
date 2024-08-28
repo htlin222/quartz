@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment acute diarrhea
-date: 2024-01-01
 ---
+
 # Treatment acute diarrhea
 
 (Am J Gastro 2016;111:602; Clin Infect Dis 2017;65:e45)

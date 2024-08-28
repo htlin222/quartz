@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Normal hepatic vasculature
-date: 2024-01-01
 ---
+
 # Normal hepatic vasculature
 
 (Modified from The Nature of Disease Pathology for the Health Professions, 2007. Hepatology 2009;49:1729.)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-osteomyelitis
-date: 2024-01-01
 ---
+
 # Treatment-osteomyelitis
 
 * Antibiotics: based on cx data.

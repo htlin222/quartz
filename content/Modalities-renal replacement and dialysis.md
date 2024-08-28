@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Modalities-renal replacement and dialysis
-date: 2024-01-01
 ---
+
 # Modalities-renal replacement and dialysis
 
 ## [[Hemodialysis (HD)]]

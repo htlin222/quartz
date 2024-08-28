@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: pancytopenia
-date: 2024-01-01
 ---
+
 # pancytopenia
 
 * [[Etiologies-pancytopenia]]
@@ -10,11 +11,9 @@ date: 2024-01-01
 >
 
 ---
-
 * Anemia → fatigue;
 * neutropenia → recurrent infections;
 * thrombocytopenia → mucosal bleeding & easy bruisability
-
 ---
 
 * [[Aplastic anemia]] (stem cell failure)

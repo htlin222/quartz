@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: oncology
-date: 2024-01-01
 alias: onco
 ---
+
 
 # oncology
 
@@ -30,9 +31,7 @@ alias: onco
 - [[principles of surgery and interventional oncology]]
 
 ---
-
 ## Solid Tumor
-
 - [[breast cancer]] 🌟
 - [[thoracic malignancies]]
 - [[gastrointestinal malignancies]]
@@ -52,7 +51,6 @@ alias: onco
 - [[pediatric cancers]]
 - [[pain and palliative care]]
 - [[infectious disease]]
-
 ---
 
 - Harrisons [[Neoplastic Disorders]]

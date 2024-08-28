@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Glasgow-Blatchford
-date: 2024-01-01
 ---
+
 # Glasgow-Blatchford
 
 Glasgow-Blatchford scores range from 0 to 23, with higher scores indicating higher risk. Positive predictive values were calculated in a study by Laursen et al.0 Among 2305 patients presenting to a hospital with upper gastrointestinal bleeding, 313 (14%) had a score of O (positive predictive value, 99.0%), 562 (24%) had a score of O or 1 (positive predictive value, 98.8%)， and 588 (26%） had a score of O to 2 and were younger than 70 years of age (positive predictive value, 99.0%). To convert the values for blood urea nitrogen to millimoles per liter, multiply by 0.357.

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies of and approach to dysphagia
-date: 2024-01-01
 ---
+
 # Etiologies of and approach to dysphagia
 
 

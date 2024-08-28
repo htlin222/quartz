@@ -37,6 +37,4 @@ enableToc: false
 
 
 ---
-
 * low/high: FLT3-ITD variant allele frequency (VAF); reflects burden of mut. leukemic cells
-

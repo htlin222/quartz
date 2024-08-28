@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Whom to treat-venous thromboembolism
-date: 2024-01-01
 ---
+
 # Whom to treat-venous thromboembolism
 
 (JAMA 2020;324:1765; Chest 2021;160:e545)

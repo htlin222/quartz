@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: bronchiectasis
-date: 2024-01-01
 ---
+
 # bronchiectasis
 
 * [[Definition and epidemiology-bronchiectasis]]

@@ -1,24 +1,19 @@
----
+date: "2023-12-01---
 title: "AE_SUNITINIB"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_SUNITINIB
-
 **explain AEs such as hypertension (30%), yellowish discoloration of skin, dryness, thickness, and/or cracking of skin, depigmentation of hair and/or skin, bleeding complications with epistaxis, fatigue, diarrhea, stomatitis, myelosuppression, CHF, and adrenal insufficiency and hypothyroidism
 .AETAM
 **explain the risk of tamoxifen, such as menopausal syndrome of hot flush, arthragia, possible infertility, abnormal LFTs, increased risk of thrombosis, dyslipidemia (f/u Qyear, if TG>500, consider treatment, if 200~500 diet control) and endometrial hyperplasia and possible endometrial cancer but rare
 \*\*Suggest closely follow-up clinical discomfort s/s and return to clinics if s/s progressed or any suspicious.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -55,4 +50,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

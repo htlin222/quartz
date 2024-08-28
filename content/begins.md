@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: begins
-date: 2024-01-01
 ---
+
 # begins
 
 [[zettle]]

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of hypertrophic cardiomyopathy
-date: 2024-01-01
 ---
+
 
 # Treatment of hypertrophic cardiomyopathy
 
@@ -23,10 +24,8 @@ date: 2024-01-01
     - If refractory to drug therapy and there is nonobstructive pathophysiology: transplant
 
 ---
-
 - Acute HF: can be precip. by dehydration or tachycardia; Rx w/ fluids, βB, phenylephrine
 - AF: rate control w/ βB, maintain SR w/ disopyramide or amio; low threshold to anticoag
-
 - ICD if VT/VF. Reasonable for 1° prevention if ≥1 risk factor:
 - ⊕ FHx SCD, unexplained syncope, LV wall ≥30 mm, LV aneurysm or EF <50%; consider if NSVT, failure of SBP to ↑ or fall from peak ≥20 mmHg w/ exercise, ? extensive MRI delayed enhancement. EPS not useful. HCM Risk-SCD Score (<https://doc2do.com/hcm/webHCM.html>).
 - Counsel to avoid dehydration, extreme exertion

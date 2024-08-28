@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis of heparin-induced thrombocytopenia
-date: 2024-01-01
 ---
+
 
 # Diagnosis of heparin-induced thrombocytopenia
 

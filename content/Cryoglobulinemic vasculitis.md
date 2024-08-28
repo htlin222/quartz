@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cryoglobulinemic vasculitis
-date: 2024-01-01
 ---
+
 # Cryoglobulinemic vasculitis
 
 (Lancet 2012;379:348; Nat Rev Dis Primers 2018;4:11)

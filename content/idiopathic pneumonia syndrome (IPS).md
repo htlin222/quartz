@@ -15,9 +15,7 @@ enableToc: false
 * Alveolar injury 2/2 direct toxicity
 
 ---
-
 * fever,
 * hypoxia,
 * diffuse infiltrates
 * occult infxn frequent
-

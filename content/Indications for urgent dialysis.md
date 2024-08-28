@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Indications for urgent dialysis
-date: 2024-01-01
 ---
+
 # Indications for urgent dialysis
 
 * Acid-base disturbance: refractory acidemia

@@ -1,22 +1,17 @@
----
+date: "2023-12-01---
 title: "AE_TOPOTECAN"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_TOPOTECAN
-
 **myelosuppression, nausea/vomting, headache, malaise, microsopic hematuria (10%), alopecia, and transient abnormal LFTs
 **Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -53,4 +48,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

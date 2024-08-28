@@ -14,9 +14,7 @@ tags:
 # Light micrograph showing lupus membranous nephropathy
 
 ---
-
 ![Figure: ](https://i.imgur.com/cYACFco.png)
-
 ---
 
 Light micrograph of lupus membranous nephropathy. The changes are similar to those in any form of membranous nephropathy with diffuse thickening of the glomerular capillary wall being the major abnormality (short arrows). Focal areas of mesangial expansion and hypercellularity (long arrows) are the only findings suggestive of an underlying disease such as lupus, although they can also be seen in idiopathic membranous nephropathy.

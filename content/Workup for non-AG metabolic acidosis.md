@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup for non-AG metabolic acidosis
-date: 2024-01-01
 ---
+
 # Workup for non-AG metabolic acidosis
 
 * Evaluate history for causes (see above)

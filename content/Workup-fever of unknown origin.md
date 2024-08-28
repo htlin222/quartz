@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-fever of unknown origin
-date: 2024-01-01
 ---
+
 # Workup-fever of unknown origin
 
 > search for potentially diagnostic clues (PDCs)
@@ -15,5 +16,4 @@ date: 2024-01-01
 	* 在中樞神經系統結核病中，CSF 通常具有升高的蛋白質和降低的葡萄糖濃度，伴有單核細胞增多。
 
 ---
-
 ![Structured Approach to pt with fever of unknown origin](https://i.imgur.com/Yd1iwYf.png)

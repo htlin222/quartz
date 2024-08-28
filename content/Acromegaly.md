@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: Acromegaly
-date: 2024-01-01
 tags:
 - building
 ---
+
 
 > from: [[hyperpituitary syndromes]] 󰒖
 

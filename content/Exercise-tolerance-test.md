@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Exercise-tolerance-test
-date: 2024-01-01
 ---
+
 # Exercise-tolerance-test
 
 * Generally preferred if Pt can meaningfully exercise; ECG ∆s w/ Se ~65%, Sp ~80%

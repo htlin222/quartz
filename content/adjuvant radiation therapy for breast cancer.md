@@ -20,7 +20,6 @@ tags:
 - Margin positive or close
 
 ---
-
 - N1 with ONE of following risk factors: T2, ER (-), age ≦ 40, and prominent LVI
 - T2N0 with TWO of following risk factors: ER (-), age≦40, and prominent LVI (optional)
 - Gross multifocal disease with ONE of following risk factors: T2, ER (-), age ≦40, and prominent LVI

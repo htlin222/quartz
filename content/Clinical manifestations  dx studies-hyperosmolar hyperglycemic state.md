@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations  dx studies-hyperosmolar hyperglycemic state
-date: 2024-01-01
 ---
+
 # Clinical manifestations  dx studies-hyperosmolar hyperglycemic state
 
 (Diabetes Care 2014;37:3124)

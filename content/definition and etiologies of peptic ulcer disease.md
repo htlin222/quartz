@@ -1,8 +1,13 @@
 ---
+date: "2024-01-01"
+---
+
+---
+date: "2024-01-01"
 title: definition and etiologies of peptic ulcer disease
-date: 2024-01-01
 alias: eti-PUD
 ---
+
 
 # definition and etiologies of peptic ulcer disease
 

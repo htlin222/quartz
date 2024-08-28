@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-diabetic foot infections
-date: 2024-01-01
 ---
+
 # Treatment-diabetic foot infections
 
 (CID 2012;54:e132)

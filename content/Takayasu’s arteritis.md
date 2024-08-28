@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Takayasu’s arteritis
-date: 2024-01-01
 ---
+
 # Takayasu’s arteritis
 
 > TL;DR 

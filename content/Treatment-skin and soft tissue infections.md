@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-skin and soft tissue infections
-date: 2024-01-01
 ---
+
 # Treatment-skin and soft tissue infections
 
  (CID 2014;60:169)

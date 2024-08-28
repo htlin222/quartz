@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Fever workup in patient with HIV AIDS
-date: 2024-01-01
 ---
+
 # Fever workup in patient with HIV AIDS
 * Etiologies (Infect Dis Clin North Am 2007;21:1013)
 infxn (82–90%): MAC, TB, CMV, early PCP, Histo, Crypto, Coccidio, Toxo, endocarditis

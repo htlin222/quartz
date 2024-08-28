@@ -32,27 +32,16 @@ enableToc: false
 ## D. [[medications of fatigue]]
 
 ---
-
 ## E.  Hematologic or oncologic
 1.  Anemia
 2.  Cancer
-
 ## F.  Renal: chronic kidney disease
-
 ## G.  Liver disease
-
 ## H.  Cardiovascular: chronic heart disease
-
 ## I.  Pulmonary: chronic lung disease
-
 ## J.  Neuromuscular: myositis, multiple sclerosis
-
 ## K.  Infectious: chronic infections
-
 ## L.  Rheumatologic: autoimmune diseases
-
 ## M.  Fatigue of unknown etiology
-
 1.  Chronic fatigue syndrome
 2.  Idiopathic chronic fatigue: fatigue for which no medical, psychiatric, or sleep pattern explanation can be found
-

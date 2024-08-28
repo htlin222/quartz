@@ -21,7 +21,6 @@ tags:
 - Rituximab maintenance improves PFS & OS after R-DHAP → HDT/ASCR (LyMa trial, ASH 2016, #145)
 
 ---
-
 - Design: Phase II clinical trial, multi-center, randomized, open-label
 - Number of patients: 85
 - Patients characteristics: Newly diagnosed mantle cell lymphoma (MCL) patients
@@ -29,10 +28,8 @@ tags:
 - Treatment line: Frontline therapy in MCL patients
 - Trial Acronym: LYMA-101 (NCT02896582)
 - Compare efficacy:
-
 | Outcome | Obinutuzumab Group | Rituximab Group |
 | ------- | ------------------ | --------------- |
 | PFS     | 82.8%              | 66.6%           |
 | OS      | 86.4%              | 71.4%           |
-
 - One line summarize: Obinutuzumab provides better disease control and enhances progression-free survival (PFS) and overall survival (OS) compared to Rituximab in transplant-eligible mantle cell lymphoma patients.

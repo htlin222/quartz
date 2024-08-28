@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis-skin and soft tissue infections
-date: 2024-01-01
 ---
+
 # Diagnosis-skin and soft tissue infections
 
 ## [[Differential Diagnosis of Cellulitis]]

@@ -21,7 +21,6 @@ tags:
 | IBD-associated arthritis    | ♂ = ♀; seen in 20% of IBD Pts; Crohn’s >UC                                      |
 
 ---
-
 | Disease                     | Key Features                                                                                                      |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Ankylosing spondylitis (AS) | Progressive limitation of spinal motion, a.m. stiffness, buttock pain, "bamboo spine," ⊕ Schober test             |

@@ -1,17 +1,14 @@
----
+date: "2023-12-06---
 title: "Hormone-positive disease-neoadjuvant therapy-of-localized breast cancer"
 date: "2023-12-06 14:52:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[localized breast cancer]]
-
 # Hormone-positive disease-neoadjuvant therapy-of-localized breast cancer
-
 Chemo: Consider for downstaging breast &/or axillary nodes for BCS & to spare ALND in inoperable or cN1 pts. ddACT preferred in this instance. Chances of pCR ∼20%, but pCR not strongly assoc w/ survival outcome
 Neoadj endocrine therapy (NET): Preferred regimen: AI for at least 6 mos. NET may have equal BCS rates & clinical response as combination chemo (JAMA Oncol 2016;2:1477). pCR rate: NET < NAC
 All AIs equal (JCO 2011;29:2342) & AI > tam (Lancet Oncol, 13:345-352)
@@ -24,13 +21,10 @@ Adding carbo to NAC ↑ pCR, independent of BRCA status, but conflicting data on
 Addition of ICI: Remains under investigation
 After NAC: If pCR → observation. If nonpCR → capecitabine (cape) for 6-8 cycles (recurrence & survival benefit) (CREATEX, NEJM 2017;376:2147-2159)
 Pathologic stage II-III: Adj. chemo is rec (anthra & taxane-based regimens as above. CMF or TC if anthra contraindicated)
-
 ### Siblings
-
 - [[Local management with surgery and radiation-of-localized breast cancer]]
 - [[Chemotherapy regimens for NAV or ADJ use in HR positive and TNBC-of-localized breast cancer]]
 - [[Hormone positive disease-adjuvant endocrine treatment]]
 - [[Hormone-positive disease-neoadjuvant therapy-of-localized breast cancer]]
 - [[HER2-positive disease-of-localized breast cancer]]
 - [[Considerations for young patients-of-localized breast cancer]]
-

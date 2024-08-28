@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Giant cell arteritis
-date: 2024-01-01
 ---
+
 # Giant cell arteritis
 - In many cases, FUO in the elderly results from an atypical manifestation of a common disease, among which giant cell arteritis and polymyalgia rheumatica are most frequently involved.
 
@@ -15,7 +16,6 @@ date: 2024-01-01
 * Treat with high-dose glucocorticoids prior to temporal artery biopsy to prevent blindness.
 
 ---
-
 * Granulomatous arteritis typically involving aorta/branches; predilection for extracranial branches of carotid a., particularly temporal a. (thus also called temporal arteritis).
 * Epidemiology: 90% >60 y, peak incidence at 70–80 y, extremely rare <50 y; ♀:♂ = 3:1. Prev 2/1000 of those age ≥50 (Semin Arthritis Rheum 2017;47:253).
 * [[Clinical manifestations of Giant cell arteritis]] 

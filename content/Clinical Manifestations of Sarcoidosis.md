@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical Manifestations of Sarcoidosis
-date: 2024-01-01
 ---
+
 # Clinical Manifestations of Sarcoidosis
 
 Pulmonary

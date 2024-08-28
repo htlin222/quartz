@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis-crohn’s disease
-date: 2024-01-01
 ---
+
 # Diagnosis-crohn’s disease
 
 * Ileocolonoscopy + bx along w/ small bowel assessment (eg, MR-enterography)

@@ -18,9 +18,7 @@ enableToc: false
 - Correlates w/ OS & evolution to AML (Blood 1997;89:2079)
 
 ---
-
 ![🖼️ Figure: _](https://i.imgur.com/KyAgcG5.png)
-
 ---
 
 - Revised IPSS (IPSS-R) score:

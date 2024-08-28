@@ -24,13 +24,10 @@ LN regions on both sides of the diaphragm
 Disseminated involvement of one or more extralymphatic organs
 
 ---
-
 Modifiers of Ann Arbor Staging System
-
 1. A 👉 no symptoms 🌞
 2. B 👉 fever, night sweats or weight loss 🔥
 3. X 👉 ”bulky” mediastinal disease or mass >10 cm 🥊
 4. E 👉 single contiguous extranodal site 1⃣
 5. H 👉 hepatic 🚩
 6. S 👉 splenic 🛎
-

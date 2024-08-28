@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hemochromatosis & iron overload syndromes
-date: 2024-01-01
 ---
+
 # Hemochromatosis & iron overload syndromes
 
 (Am J Gastro 2019;114:1202)

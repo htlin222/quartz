@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications-prosthetic-heart-valves
-date: 2024-01-01
 ---
+
 # Complications-prosthetic-heart-valves
 
 * Structural failure (r/o endocarditis); mechanical valves: rare except for Bjork-Shiley; bioprosth: up to 30% rate w/in 10–15 y, mitral >aortic; consider TAVR (JACC 2017; 69:2253)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Vascular Beds Affected by Inherited and Acquired Hypercoagulable States
-date: 2024-01-01
 ---
+
 # Vascular Beds Affected by Inherited and Acquired Hypercoagulable States
 
 ## Inher.
@@ -15,15 +16,12 @@ date: 2024-01-01
 * Dysfibrinogenemia
 
 ---
-
 ## Acquired
-
 ### Venous
 * Stasis: immobilization, surgery, CHF
 * Malignancy
 * Hormonal: OCPs, HRT, tamoxifen, pregnancy
 * Nephrotic syndrome## Venous
-
 ### Venous and Arterial
 * Platelet defects: myeloproliferative disorders, HIT, PNH (although venous >arterial)
 * Hyperviscosity: polycythemia vera, Waldenström’s -macroglobulinemia, sickle cell, acute leukemia

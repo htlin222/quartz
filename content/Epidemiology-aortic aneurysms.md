@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Epidemiology-aortic aneurysms
-date: 2024-01-01
 ---
+
 # Epidemiology-aortic aneurysms
 
  (Circ 2010;121:e266, 2011;124:2020; Nat Rev Cardiol 2011;8:92)

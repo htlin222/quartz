@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: The Confusion Assessment Method
-date: 2024-01-01
 ---
+
 # The Confusion Assessment Method
 (CAM) Diagnostic Algorithm
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications-diabetes mellitus
-date: 2024-01-01
 ---
+
 # Complications-diabetes mellitus
 
 (NEJM 2004;350:48; 2016;374:1455; CJASN 2017;12:1366)

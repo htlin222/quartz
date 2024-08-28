@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Dysphagia
-date: 2024-01-01
 ---
+
 # Dysphagia
 
 * Oropharyngeal: inability to propel food from mouth through UES into esophagus

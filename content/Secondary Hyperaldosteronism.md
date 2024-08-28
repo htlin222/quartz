@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Secondary Hyperaldosteronism
-date: 2024-01-01
 ---
+
 # Secondary Hyperaldosteronism
 
 (extra-adrenal disorders, ↑ aldosterone is renin-dependent)

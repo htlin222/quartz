@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Eosinophilic gran with polyangiitis
-date: 2024-01-01
 ---
+
 
 # Eosinophilic gran with polyangiitis
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: clinical characteristics of bleeding disorders
-date: 2024-01-01
 ---
+
 
 # clinical characteristics of bleeding disorders
 

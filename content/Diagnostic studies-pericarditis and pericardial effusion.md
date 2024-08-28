@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-pericarditis and pericardial effusion
-date: 2024-01-01
 ---
+
 # Diagnostic studies-pericarditis and pericardial effusion
 
 * Need ≥2 of the following: chest pain (as noted above), friction rub, ECG findings, effusion

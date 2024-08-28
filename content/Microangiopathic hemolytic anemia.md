@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Microangiopathic hemolytic anemia
-date: 2024-01-01
 ---
+
 
 # Microangiopathic hemolytic anemia
 

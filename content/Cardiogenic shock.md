@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cardiogenic shock
-date: 2024-01-01
 ---
+
 # Cardiogenic shock
 
 Myocardial infarction

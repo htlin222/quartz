@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Select clinical manifestations-fever in a returned traveler
-date: 2024-01-01
 ---
+
 # Select clinical manifestations-fever in a returned traveler
 
 * Ebola: fever in traveler from area with active transmission of Ebola w/in 21 d

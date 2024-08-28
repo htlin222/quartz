@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Serum-ascites albumin gradient  SAAG
-date: 2024-01-01
 alias: SAAG
 ---
+
 
 # Serum-ascites albumin gradient (SAAG)
 
@@ -26,7 +27,6 @@ TLDR: 小 SAAG，非 portal hypertension (沒有壓力差) : 腎病、感染、P
 - Tuberculosis
 
 ---
-
 - see also: [[Evaluation-ascites]] 󰒖
 - 👉 [[Ascites fluid total protein (AFTP)]]
 - see also: [[pleural effusion]] 󰒖

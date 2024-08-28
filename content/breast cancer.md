@@ -27,13 +27,10 @@ enableToc: false
     - [[metastatic breast cancer]]
 
 ---
-
 - [[Chart template-of-breast cancer]]
 - [[abbr-of-breast cancer]]
 - [[adolescent_and_young_adult_breast_cancer.md|Adolescent and young adult_breast_cancer]]
-
 ## Ref
-
 - [[ASCO guideline-of-breast cancer]]
 - [[tos_2024.md|TOS 2024]]
 - [[image of breast]]

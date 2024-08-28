@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "BCMET"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # BCMET
-
 ### Right breast cancer, IDC, NG?, ER/PR/HER2-neu: ///, DISH?, ki67?%, diagnosed on 2010/00/00, cT4bN3cM1, with skin carcinomatosis, liver, lung, and bony mets, complicated with ? s/p ?
-
 - menopause, premenopause
 - Initial presentation: palpable right breast mass since 2014/3
 - Follow up parameter: CT scan, bone scan, CXR, liver sonography, breast sonography, CEA/CA153 if elevated
@@ -28,9 +24,7 @@ tags:
   @ Arrange #1 ? on , RTC on ? and check lab for prechemotherapy evaluation
   @ Vascular assessment, rehabilitation, nutritional assessment (high protein diet), dental check, and pharmacist education before treatment
   @ Follow up 2-D echo Q4~5M if under herceptin (2016/00/00 EF:%)
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -91,4 +85,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

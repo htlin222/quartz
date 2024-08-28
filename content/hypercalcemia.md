@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hypercalcemia
-date: 2024-01-01
 ---
+
 # hypercalcemia
 * [[Etiologies of Hypercalcemia]]
 * [[Clinical manifestations-hypercalcemia]] (“bones, stones, abdominal groans, and psychic moans”)

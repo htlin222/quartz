@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Causes of Shock Classified by Mechanism and Hemodynamics
-date: 2024-01-01
 ---
+
 # Causes of Shock Classified by Mechanism and Hemodynamics
 ![(Source: Circulatory Shock. N Engl J Med 2013.)](https://i.imgur.com/x3fwWJT.jpg)
 

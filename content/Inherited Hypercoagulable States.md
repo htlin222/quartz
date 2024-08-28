@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Inherited Hypercoagulable States
-date: 2024-01-01
 ---
+
 # Inherited Hypercoagulable States
 
 ## Factor V Leiden

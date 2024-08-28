@@ -14,9 +14,7 @@ tags:
 # Cell cycle specificity of drugs used in the treatment of cancer
 
 ---
-
 ![Figure: ](https://i.imgur.com/myEuoPk.png)
-
 ---
 
 ## G, to S PHASE

@@ -199,7 +199,5 @@ iv) synthesis of functional proteins: Calcium Transporter (Ionophore), Ca-Bindin
 © Dr. Noel Sturm 2019
 
 ---
-
 Disclaimer: The views and opinions expressed on unofficial pages of California State University, Dominguez Hills faculty, staff or students are strictly those of the page authors. The content of these pages has not been reviewed or approved by California State University, Dominguez Hills.
-
 [[inbox]]

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: surgical critical care
-date: 2024-01-01
 ---
+
 # surgical critical care
 
 

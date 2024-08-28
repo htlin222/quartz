@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Anticoagulation-Treatment of Chronic HF with Reduced EF
-date: 2024-01-01
 ---
+
 # Anticoagulation-Treatment of Chronic HF with Reduced EF
 
 [[antiplatelet Therapy of STEMI]]

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Granulomatosis with polyangiitis
-date: 2024-01-01
 ---
+
 # Granulomatosis with polyangiitis
 
 * GPA, formerly Wegener’s granulomatosis

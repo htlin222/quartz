@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: three-component friction rub
-date: 2024-01-01
 ---
+
 # three-component friction rub
 
 ## ✨ 學習重點 🦎

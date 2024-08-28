@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications-treatment-chronic kidney disease  CKD 
-date: 2024-01-01
 ---
+
 # Complications-treatment-chronic kidney disease (CKD)
 
 (JAMA 2019;322:1294; KI 2021;99:S1)

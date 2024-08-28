@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Approach to suspected PE
-date: 2024-01-01
 ---
+
 # Approach to suspected PE
 
 ![Approach to suspected PE](https://i.imgur.com/cJDix4z.png)

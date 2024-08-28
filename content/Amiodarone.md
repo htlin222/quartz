@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Amiodarone
-date: 2024-01-01
 ---
+
 # Amiodarone
 
 300 mg over 1 h then 10-50 mg/h X 24h

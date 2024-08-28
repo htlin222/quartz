@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: vagal maneuvers
-date: 2024-01-01
 ---
+
 # [vagal maneuvers](https://www.ncbi.nlm.nih.gov/books/NBK551575/)
 
 10s

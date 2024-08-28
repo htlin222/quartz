@@ -1,21 +1,16 @@
----
+date: "2023-12-05---
 title: "Comfirmed COVID on ?"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # Comfirmed COVID on ?
-
 \*COVID-19 Vaccination history?
-
 ### APTT prolongation, nature?
-
 - LMP on 2022/11/26, no menorrhgia
   @ Operation is okay
   @ APTT prolong, do further survey as uptodate suggested below.
@@ -23,9 +18,7 @@ tags:
   @ Survey for autoimmune disease and lupus anticoagulants (APTT prolong with lupus anticoagulant+, do confirmatory test with anti-cardiolipin (aCL) and anti-B2-GP1 IgG and IgM test.). Check VWF antigen and activity (need to send to 榮總)
   @ Follow up 1 month with APTT.
   @ Do upper abdominal sono to rule out splenomegaly
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -86,4 +79,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

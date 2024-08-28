@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Ddx-of-dominant-R-wave-in-V1-or-V2
-date: 2024-01-01
 ---
+
 
 # Ddx-of-dominant-R-wave-in-V1-or-V2
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: 5-y survival of lung cancer
-date: 2024-01-01
 ---
+
 # 5-y survival of lung cancer
 
 * ~70–90% for stage I,

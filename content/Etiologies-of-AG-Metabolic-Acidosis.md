@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-of-AG-Metabolic-Acidosis
-date: 2024-01-01
 ---
+
 # Etiologies-of-AG-Metabolic-Acidosis
 
 “GOLD MARK” = Glycols, Oxoproline, Lactic, D-Lactic, Methanol, ASA, Renal, Ketoacidosis

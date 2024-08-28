@@ -26,10 +26,8 @@ t(8;21) or inv(16): 7+3 ± [[gemtuzumab ozogamicin|GO是CD多少的inhitbitor?]]
 - CPX-351 (liposomal Ara-C & daunorubicin)
 
 ---
-
 - <60 y: 7+3 (high-dose daunorubicin 90 mg/m2);
 - > 60 y: dauno 60 mg/m2
-
 ---
 
 ## Regimens for **unfit**

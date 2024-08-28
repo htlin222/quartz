@@ -1,21 +1,16 @@
----
+date: "2023-12-01---
 title: "AE_PAZOPANIB"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_PAZOPANIB
-
 AEs such as hypertension (50%) within 1st 18 weeks, diarrhea, n/v, abdominal pain, lipase elevated (30%), risk of GI situlas and/or perforations, fatigue, depigmentation, bleeding complications with hematuria, epistaxis, and hemoptysis, increased risk of arterial thrombolic envents (MI, angina, TIA and stroke), proteinuria (8%), and etc
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -52,4 +47,3 @@ AEs such as hypertension (50%) within 1st 18 weeks, diarrhea, n/v, abdominal pai
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

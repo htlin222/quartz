@@ -1,23 +1,18 @@
----
+date: "2023-12-05---
 title: "HNSCCAE"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # HNSCCAE
-
 **explain risk of airway obstruction due to tumor
 **explain need for NG insertion or PG insertion if mucositis and tumor compromised basic nutritional needs
 \*\*explain risk of tumor bleeding and high mortality and might need to refer to teaching hospital for emergent angiography
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -78,4 +73,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

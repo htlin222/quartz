@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-acute liver failure
-date: 2024-01-01
 ---
+
 # Workup-acute liver failure
 
 (Clin Liver Dis 2017;21:769)

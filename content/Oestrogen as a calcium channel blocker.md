@@ -20,5 +20,4 @@ tags:
 - 這 是: 雌激素 為: 女性 (包括 ≡ 患有心血管疾病的 → 女性) 提供心血管益處的 → 另一種機制
 
 ---
-
 qv:[Oestrogen as a calcium channel blocker - PubMed](https://pubmed-ncbi-nlm-nih-gov.autorpa.kfsyscc.org/8869879/)

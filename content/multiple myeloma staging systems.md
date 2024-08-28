@@ -28,9 +28,7 @@ and
 albumin >3.5 g/dL
 
 ---
-
 All: Hb >10 g/dL; Ca ≤12 mg/dL; 0–1 lytic bone lesions; IgG <5 g/dL or IgA <3 g/dL or urine light chain <4 g/24 h
-
 ---
 
 62 mo

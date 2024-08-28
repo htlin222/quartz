@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Cushing’s Syndrome
-date: 2024-01-01
 alias: Cushing
 ---
+
 
 # Cushing’s Syndrome
 

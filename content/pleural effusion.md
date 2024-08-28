@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: pleural effusion
-date: 2024-01-01
 ---
+
 
 from [[pulmonology]] 🫁
 
@@ -15,6 +16,5 @@ from [[pulmonology]] 🫁
 - [[Treatment-pleural effusion]]
 
 ---
-
 - [[Hemothroax]]
 - cf: [[SAAG]]

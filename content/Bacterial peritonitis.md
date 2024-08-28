@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Bacterial peritonitis
-date: 2024-01-01
 ---
+
 
 # Bacterial peritonitis
 
@@ -19,13 +20,9 @@ date: 2024-01-01
 - [[Nonneutrocytic bacterascites (NNBA)]]
 
 ---
-
 ## ⊖ Ascites Culture
-
 ### Ascites PMN≥250/µL
-
 - [[Culture-negative neutrocytic ascites (CNNA)]]
-
 ---
 
 ## [[Peritoneal dialysis-associated-Bacterial peritonitis]]

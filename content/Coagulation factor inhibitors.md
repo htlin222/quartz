@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Coagulation factor inhibitors
-date: 2024-01-01
 ---
+
 # Coagulation factor inhibitors
 
 (anti-factor antibodies; anti-factor VIII most common)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pure red cell aplasia
-date: 2024-01-01
 ---
+
 # Pure red cell aplasia
 
 > PRCA

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Risk factors-venous thromboembolism
-date: 2024-01-01
 ---
+
 # Risk factors-venous thromboembolism
 
 * [[Virchow’s triad]] for thrombogenesis.

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Role of Circulating Tumor DNA in Guiding Adjuvant Therapy in Colon Cancer
-date: 2024-01-01
 ---
+
 # Role of Circulating Tumor DNA in Guiding Adjuvant Therapy in Colon Cancer
 
 Adjuvant chemotherapy after resection of stage III colon cancer appears to improve outcomes, but many patients are treated to benefit a few. The data in patients with stage II disease are controversial, and efforts to select those with clinical features that increase the risk of recurrence have not led to definitive answers about who should and who should not receive adjuvant therapy.

@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Aplastic anemia
-date: 2024-01-01
 alias: AA
 ---
+
 
 # Aplastic anemia
 

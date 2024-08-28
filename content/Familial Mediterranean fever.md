@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Familial Mediterranean fever
-date: 2024-01-01
 alias: FMF
 ---
+
 
 # Familial Mediterranean fever
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup-hyperkalemia
-date: 2024-01-01
 ---
+
 # Workup-hyperkalemia
 
 (Crit Care Med 2008;36:3246)

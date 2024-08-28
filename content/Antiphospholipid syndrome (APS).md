@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Antiphospholipid syndrome  APS
-date: 2024-01-01
 ---
+
 # Antiphospholipid syndrome (APS)
 
 ## [[Definition-Antiphospholipid syndrome]] (APS)

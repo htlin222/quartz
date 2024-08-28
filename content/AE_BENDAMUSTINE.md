@@ -1,22 +1,17 @@
----
+date: "2023-12-01---
 title: "AE_BENDAMUSTINE"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_BENDAMUSTINE
-
 AEs such as myelosuppression (dose-limiting), mild emesis, hypersensitivity reactions, pyrexia, fatigue, tumor lysis in 1st cycle in high-risk patients, skin rash, and bullous exanthema (<10%), and etc
 \*\*Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -53,4 +48,3 @@ AEs such as myelosuppression (dose-limiting), mild emesis, hypersensitivity reac
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

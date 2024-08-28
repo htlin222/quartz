@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Tension-type headache
-date: 2024-01-01
 ---
+
 # Tension-type headache
 
 * bilateral, pressure-like pain of mild–mod intensity, 

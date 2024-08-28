@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: bevacizumab
-date: 2024-01-01
 ---
+
 
 # bevacizumab
 

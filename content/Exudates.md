@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Exudates
-date: 2024-01-01
 ---
+
 
 # Exudates
 

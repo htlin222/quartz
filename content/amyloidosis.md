@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: amyloidosis
-date: 2024-01-01
 ---
+
 
 # amyloidosis
 
@@ -16,9 +17,7 @@ date: 2024-01-01
 - 最常見的四種系統性分別是 AL、AA、Ab2M、和遺傳與老年相關的（ATTR）
 
 ---
-
 ![🖼️ Figure: _](https://i.imgur.com/m7pkAYA.png)
-
 ---
 
 - [[clinical manifestations of amyloidosis]]

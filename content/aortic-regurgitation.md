@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: aortic-regurgitation
-date: 2024-01-01
 ---
+
 # aortic-regurgitation
 
 * [[Etiology-aortic-regurgitation]] (Circ 2006;114:422)

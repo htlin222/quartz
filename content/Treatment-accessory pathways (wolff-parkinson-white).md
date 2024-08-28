@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-accessory pathways  wolff-parkinson-white
-date: 2024-01-01
 ---
+
 
 # Treatment-accessory pathways (wolff-parkinson-white)
 

@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: acute liver failure
-date: 2024-01-01
 alias: ALF
 ---
+
 
 # acute liver failure
 

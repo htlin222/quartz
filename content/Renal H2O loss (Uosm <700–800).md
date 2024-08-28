@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Renal H2O loss  Uosm <700–800 
-date: 2024-01-01
 ---
+
 # Renal H2O loss (Uosm <700–800)
 
 * Diuresis: osmotic (glucose, mannitol, urea), loop diuretics

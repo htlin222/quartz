@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: venous thromboembolism
-date: 2024-01-01
 ---
+
 # venous thromboembolism
 ![Flow Chart](https://i.imgur.com/Rf14Zgk.png)
 

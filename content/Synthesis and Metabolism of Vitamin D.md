@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Synthesis and Metabolism of Vitamin D
-date: 2024-01-01
 ---
+
 # Synthesis and Metabolism of Vitamin D
 
 - 維生素 D 最初是在皮膚中通過維生素 D3 到維生素 D3 的非酶轉化產生的。

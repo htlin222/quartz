@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: pulmonology
-date: 2024-01-01
 alias: pulm
 slug: "pulmonology"
 ---
+
 
 > 肺臟疾病，氣管病變，
 > 病症多端，需高明。
@@ -37,24 +38,18 @@ slug: "pulmonology"
 - [[cough]]
 
 ---
-
 - [[pulmonology anatomy and physiology]]
 - [[pulmonology diagnostics]]
 - [[pulmonology approaches and chief complaints]]
 - [[pulmonology diseases and pathophysiology]]
 - [[pulmonology key medications and interventions]]
 - [[pulmonology key clinical trials and publications]]
-
 ## [[pulmonary reading list]]
-
 ### Section 1: [[Diagnosis of Respiratory Disorders]]
-
 - Chapter 284:  [[Approach to the Patient with Disease of the Respiratory System]]
 - Chapter 285:  [[Disturbances of Respiratory Function]]
 - Chapter 286:  [[Diagnostic Procedures in Respiratory Disease]]
-
 ### Section 2: [[Diseases of the Respiratory System]]
-
 - Chapter 287:  [[Asthma]]
 - Chapter 288:  [[Hypersensitivity Pneumonitis and Pulmonary Infiltrates with Eosinophilia]]
 - Chapter 289:  [[Occupational and Environmental Lung Disease]]
@@ -68,7 +63,6 @@ slug: "pulmonology"
 - Chapter 297:  [[Sleep Apnea]]
 - Chapter 298:  [[Lung Transplantation]]
 - Chapter 299:  [[Interventional Pulmonary Medicine]]
-
 - [[Pulmonology - Cystic Fibrosis - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:41
 - [[Pulmonology - Bronchiectasis - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:41
 - [[Pulmonology - Pleural Effusion - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:41

@@ -14,9 +14,7 @@ tags:
 # KDIGO 2012
 
 ---
-
 ![Figure: eGFR 與 urine ACR](https://i.imgur.com/S31k4ct.png)
-
 ---
 
 ## 易混 → 部分，考試考組別

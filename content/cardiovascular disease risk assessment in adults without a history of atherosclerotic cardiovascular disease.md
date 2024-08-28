@@ -19,7 +19,6 @@ tags:
 4. If not, then consider age:
 
 ---
-
 1. 20-39 years
 2. 40-75 years
 3. > 75 years

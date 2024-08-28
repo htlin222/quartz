@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Types of gallstones-cholelithiasis
-date: 2024-01-01
 ---
+
 # Types of gallstones-cholelithiasis
 
 (J Hepatol 2016;65:146)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Prognosis-syncope
-date: 2024-01-01
 ---
+
 # Prognosis-syncope
 
 

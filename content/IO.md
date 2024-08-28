@@ -1,24 +1,19 @@
----
+date: "2023-12-05---
 title: "IO"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # IO
-
 - Immunotherapy for metastatic melanoma
   **nivolumab 3 mg/kg iv once every 2 weeks
   ** pembrolimumab 2 mg/kg once every 3 weeks
   \*\* nivolumab 1 mg/kg & ipilimumab 3 mg/kg every 3 weeks for 4 dosese , followed by nivolumab 3 mg/kg once every 2 weeks
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -79,4 +74,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

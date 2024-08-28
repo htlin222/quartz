@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: CAPT-resistant GNB
-date: 2024-01-01
 ---
+
 # CAPT-resistant GNB
 
 * Gram-negative bacteria (GNB) co-resistant to carbapanems, aminoglycosides, polymyxins and tigecycline (CAPT-resistant)

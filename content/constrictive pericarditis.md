@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: constrictive pericarditis
-date: 2024-01-01
 ---
+
 
 # constrictive pericarditis
 

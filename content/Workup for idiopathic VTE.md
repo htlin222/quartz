@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Workup for idiopathic VTE
-date: 2024-01-01
 ---
+
 # Workup for idiopathic VTE
 
  (NEJM 2015;373:697)

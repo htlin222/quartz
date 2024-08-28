@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-adrenal insufficiency
-date: 2024-01-01
 ---
+
 # Treatment-adrenal insufficiency
 
 * Acute insufficiency: **volume resusc. w/ normal saline + hydrocortisone IV (see below)**

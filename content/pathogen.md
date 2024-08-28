@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: pathogen
-date: 2024-01-01
 ---
+
 # pathogen
 
 * [[Acinetobacter sp]]

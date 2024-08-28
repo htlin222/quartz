@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Wolff-Chaikoff effect
-date: 2024-01-01
 ---
+
 
 # Wolff-Chaikoff effect
 

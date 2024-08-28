@@ -14,9 +14,7 @@ tags:
 # Light micrograph showing proliferative lupus nephritis
 
 ---
-
 ![Figure: ](https://i.imgur.com/BUrV5hf.png)
-
 ---
 
 Light micrograph showing a proliferative pattern in lupus nephritis, characterized by areas of cellular proliferation (arrows) and by thickening of the glomerular capillary wall (due to immune deposits) that may be prominent enough to form a "wire loop" (arrowheads). Although proliferative changes can be focal (affecting less than 50% of glomeruli), disease of this severity is → usually diffuse.

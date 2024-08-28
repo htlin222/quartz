@@ -16,9 +16,7 @@ tags:
 [Sgarbossa Criteria • LITFL • ECG Library Diagnosis](https://litfl.com/sgarbossa-criteria-ecg-library/)
 
 ---
-
 ![🖼️ Figure: example](https://i.imgur.com/brxoRfB.jpg)
-
 ---
 
 ## LBBB  和  肌鈣蛋白陽性 MI 患者的 Sgarbossa 陽性標準

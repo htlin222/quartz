@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Weaning from Mechanical Ventilation
-date: 2024-01-01
 ---
+
 # Weaning from Mechanical Ventilation
 
 - 肺損傷穩定或消退

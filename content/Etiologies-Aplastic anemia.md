@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-Aplastic anemia
-date: 2024-01-01
 ---
+
 
 back to [[Aplastic anemia]]
 
@@ -25,7 +26,6 @@ back to [[Aplastic anemia]]
   - [Paroxysmal nocturnal hemoglobinuria clones in severe aplastic anemia patients treated with horse anti-thymocyte globulin plus cyclosporine | Haematologica](https://www.haematologica.org/article/view/5648)
 
 ---
-
 - [[Pure red cell aplasia]] (PRCA)
 - [[Diamond-Blackfan anemia]] (DBA)
 - [[B19 parvovirus-mediated transient aplastic crisis]] (TAC)

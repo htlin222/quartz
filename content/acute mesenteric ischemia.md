@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: acute mesenteric ischemia
-date: 2024-01-01
 ---
+
 
 # acute mesenteric ischemia
 

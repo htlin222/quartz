@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pseudo-hypoparathyroidism
-date: 2024-01-01
 ---
+
 # Pseudo-hypoparathyroidism
 
 (Endo Metab Clin North Am 2018;47:865)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition-necrotizing soft-tissue infections
-date: 2024-01-01
 ---
+
 # Definition-necrotizing soft-tissue infections
 
 * Fulminant tissue destruction, systemic toxicity & high mortality. Surgical emergency.

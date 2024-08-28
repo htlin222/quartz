@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pulmonary-Renal Syndromes
-date: 2024-01-01
 ---
+
 # Pulmonary-Renal Syndromes
 
 ## differential diagnosis:

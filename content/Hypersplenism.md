@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hypersplenism
-date: 2024-01-01
 ---
+
 # Hypersplenism
 
 Stasis/trapping in spleen → Mϕ attack/remodel RBCs → spherocytosis → hemolysis

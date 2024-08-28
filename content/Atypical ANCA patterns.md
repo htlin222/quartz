@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Atypical ANCA patterns
-date: 2024-01-01
 ---
+
 # Atypical ANCA patterns
 
 * drug-induced vasculitis, 

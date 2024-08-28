@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications-crohn’s disease
-date: 2024-01-01
 ---
+
 # Complications-crohn’s disease
 
 * Perianal disease: fissures, fistulas, skin tags, perirectal abscesses (in 24% of Pts; perianal disease precedes intestinal symptoms)

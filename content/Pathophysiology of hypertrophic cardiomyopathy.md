@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pathophysiology of hypertrophic cardiomyopathy
-date: 2024-01-01
 ---
+
 # Pathophysiology of hypertrophic cardiomyopathy
 
 * LV outflow tract obstruction (LVOTO) in ≥70%: narrowed tract 2° hypertrophied septum + systolic anterior motion (SAM) of ant. MV leaflet (may be fixed, variable, or nonexistent) and papillary muscle displacement. Gradient (∇) worse w/ ↑ contractility (digoxin, β- agonists, exercise, PVCs), ↓ preload (eg, Valsalva maneuver) or ↓ afterload.

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: tension pneumocephalus
-date: 2024-01-01
 ---
+
 # tension pneumocephalus
 
 Tension pneumocephalus is a neurosurgical emergency that occurs when subdural air causes a mass-effect over the underlying brain parenchyma, often from a ball-valve mechanism causing one-way entry of air into the subdural space 1.

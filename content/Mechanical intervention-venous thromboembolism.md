@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Mechanical intervention-venous thromboembolism
-date: 2024-01-01
 ---
+
 # Mechanical intervention-venous thromboembolism
 
 

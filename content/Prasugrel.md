@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Prasugrel
-date: 2024-01-01
 ---
+
 # Prasugrel
 
 60 mg × 1 at PCI → 10 mg qd (consider 5 mg/d if <60 kg)

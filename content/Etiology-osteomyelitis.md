@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiology-osteomyelitis
-date: 2024-01-01
 ---
+
 # Etiology-osteomyelitis
 
 (Lancet 2004;364:369)

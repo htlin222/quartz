@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cell count of ascites
-date: 2024-01-01
 ---
+
 # Cell count of ascites
 
 normal limit of PMNs in ascitic fluid up to 250 PMNs/mm3. 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: 常見主訴的apporach
-date: 2024-01-01
 ---
+
 # 常見主訴的apporach
 
 

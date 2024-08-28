@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Polycystic kidney disease
-date: 2024-01-01
 ---
+
 # Polycystic kidney disease
 
  (NEJM 2008;359:1477; 2017;377:1988)

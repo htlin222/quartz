@@ -18,16 +18,13 @@ Isa**TU**ximab
 [Isatuximab, Bortezomib, Lenalidomide, and Dexamethasone for Multiple Myeloma | New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2400712)
 
 ---
-
 - Design: Phase III randomized trial
 - Number of patients: 446
 - Patients characteristics: Not specified
 - Agent: Isatuximab-VRd group (isatuximab with bortezomib, lenalidomide, and dexamethasone) vs VRd group (bortezomib, lenalidomide, and dexamethasone). Specific doses not provided.
 - Treatment line: Not specified
 - Trial Acronym IMROZ
-
 > 賽諾菲安萬特的 IMROZ 第 3 期研究顯示 Sarclisa 與 VRd 聯用，可將新診斷的無法移植多發性骨髓瘤患者的疾病進展或死亡風險降低 40％，這是全球首個用 VRd 聯合抗 CD38 的第 3 期研究，以改善 PFS
-
 ---
 
 - Comparison of efficacy:

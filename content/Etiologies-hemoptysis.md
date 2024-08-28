@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-hemoptysis
-date: '2023-01-25'
 ---
+
 # Etiologies-hemoptysis
 (Crit Care Med 2000;28:1642)
 

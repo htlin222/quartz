@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: lenvatinib
-date: 2024-01-01
 ---
+
 
 # Lenvatinib
 
@@ -12,11 +13,8 @@ date: 2024-01-01
 - 雖然 lenvatinib 目前尚未取得在肝癌的臨床適應症，此藥在肝癌的效果已有第三期臨床試驗資料可參考。
 
 ---
-
 [藥物介紹：Lenvatinib （Lenvima®,樂衛瑪）-財團法人台灣癌症臨床研究發展基金會](http://web.tccf.org.tw/lib/addon.php?act=post&id=4305)
-
 ### Backlink
-
 - [[Treatment of hepatocellular carcinoma]]
 - [[sorafenib]]
 - [[Small Molecule Pathway Inhibitors]]

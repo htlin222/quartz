@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Initial antibiotic therapy of fever and neutropenia
-date: 2024-01-01
 ---
+
 # Initial antibiotic therapy of fever and neutropenia
 
 * Empiric regimens should include antipseudomonal activity; consider VRE coverage if ⊕

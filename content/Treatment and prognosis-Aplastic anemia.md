@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment and prognosis-Aplastic anemia
-date: 2024-01-01
 ---
+
 
 # Treatment and prognosis-Aplastic anemia
 

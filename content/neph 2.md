@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: nephrology
-date: 2024-01-01
 alias: neph
 ---
+
 
 - > 尿毒症，腎衰竭，
 - > 病症多端，需高明。
@@ -32,11 +33,9 @@ alias: neph
 - [[replenishers and regulators of water and electrolytes]]
 
 ---
-
 Acid/Base Disorders (Critical Care)
 Hypertension (Ambulatory Care)
 Urinary Tract Infection, Opportunistic Infections in Transplant (Infectious Diseases)
-
 ---
 
 - [[abdominopelvic emergencies]] (Emergency Medicine)
@@ -46,7 +45,6 @@ Urinary Tract Infection, Opportunistic Infections in Transplant (Infectious Dise
 - [[nephrology key clinical trials and publications]]
 
 ---
-
 - [[Nephrology - Kidney Stones - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:39
 - [[Nephrology - Kidney Transplant Immunosuppression - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:39
 - [[Nephrology - Disorders of Sodium Homeostasis - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:39

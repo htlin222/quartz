@@ -1,9 +1,10 @@
 ---
+date: "2024-01-01"
 title: Physical Examination
-date: 2024-01-01
 aliases: [Physical Examination]
 linter-yaml-title-alias: Physical Examination
 ---
+
 # Physical Examination
 
 * Wheezing and prolonged expiratory phase

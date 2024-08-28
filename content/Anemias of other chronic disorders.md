@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Anemias of other chronic disorders
-date: 2024-01-01
 ---
+
 # Anemias of other chronic disorders
 
 * Anemia of CKD: ↓ Epo; treat w/ Epo & iron (see “Chronic Kidney Disease”)

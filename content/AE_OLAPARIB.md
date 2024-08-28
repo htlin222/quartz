@@ -1,22 +1,17 @@
----
+date: "2023-12-01---
 title: "AE_OLAPARIB"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_OLAPARIB
-
 *AEs such as anemia (44%), emesis (76%), diarrhea (33%), mucositis (20%), URI s/s (36%), fatigue (66%), anorexia (22%), myalgia (30%), and headache (26%)
 *Dose adjustment if CCR < 31-50 to 200mg BID
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -53,4 +48,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

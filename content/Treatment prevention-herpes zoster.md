@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment prevention-herpes zoster
-date: 2024-01-01
 ---
+
 # Treatment prevention-herpes zoster
 
 * Uncomplicated: acyclovir, valacyclovir, or famciclovir x 7 d; initiate w/in 72 h of onset for greatest benefit; consider after 72 h if new lesions present; minimal benefit after crusting

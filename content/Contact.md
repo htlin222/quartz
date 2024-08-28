@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Contact
-date: 2024-01-01
 ---
+
 Site officiel:
     http://www.notational.net/fr/
 

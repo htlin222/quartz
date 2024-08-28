@@ -21,7 +21,6 @@ tags:
 | Troponin/CK-MB      | ㊀                                                                   | ㊉            | ㊉㊉             |
 
 ---
-
 Age ≥ 65 years
 ≥3 CAD risk factors
 Prior stenosis > 50%

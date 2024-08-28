@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Physical exam-bacterial endocarditis
-date: 2024-01-01
 ---
+
 # Physical exam-bacterial endocarditis
 
 * Cardiac murmur (85%), s/s of new HF (pulmonary edema, JVP elevation, edema)

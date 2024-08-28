@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Ibutilide
-date: 2024-01-01
 ---
+
 
 # Ibutilide
 
@@ -12,5 +13,4 @@ Contraindic. if J K or 1 QT (3-8% risk of TdP) give wl IV Mg
 %
 
 ---
-
 ## Backlink: [[Antiarrhythmic Drugs (AAD) for AF]]

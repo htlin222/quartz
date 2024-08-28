@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Primary immune thrombocytopenic purpura  ITP
-date: 2024-01-01
 alias: ITP
 ---
+
 
 # Primary immune thrombocytopenic purpura (ITP)
 

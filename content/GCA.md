@@ -1,21 +1,16 @@
----
+date: "2023-12-05---
 title: "GCA"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # GCA
-
 Smoking, quite for 8 weeks
-
 ### Gastric cancer, PW/high body (<3cm from EGJ) (P/D) adenocarcinoma, pT4aN1(2/38)M0 (AJCC 7th), LVI+, perineural invasion, stage IIIa, no ascites, no peritoneal carcinomatosis, negative washed cytology s/p robotic radical total gastrectomy with D2 LN dissection on 2010/00/00, HER2:0
-
 - Initial presentation:
 - Treatment plan: adjuvant chemotherapy will be started post op 4~6 weeks
 - Follow up parameter: abdominal CT scan, EGD annualy for partial gastrectomy, not necessary for total gastrectomy unless s/s, and tumor marker if elevated: follow up interval: 3~6 month for 1-2 yr then 6~12 month for 3-5 yr then annually
@@ -28,9 +23,7 @@ Smoking, quite for 8 weeks
   **diarrhea (55%), hand-foot syndrome (15-20%), nausea/vomiting, elevations in LFT, and myelosuppression
   Oxaliplatin:
   \*\*peripheral sensory neuropathy, nausea/vomting, diarrhea, myelosuppression
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -91,4 +84,3 @@ Smoking, quite for 8 weeks
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Etiologies-syncope
-date: 2024-01-01
 ---
+
 
 # Etiologies-syncope
 
@@ -34,7 +35,6 @@ date: 2024-01-01
     - Vascular: PE (in ~25% w/o alt dx; NEJM 2016;375:1524), PHT, AoD, ruptured AAA
 
 ---
-
 - Neurologic (~10%):
   - vertebrobasil insuff, cerebrovasc dissection, SAH, TIA/CVA
 - Misc. causes of LOC (but not syncope):

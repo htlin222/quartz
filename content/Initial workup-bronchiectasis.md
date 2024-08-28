@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Initial workup-bronchiectasis
-date: 2024-01-01
 ---
+
 # Initial workup-bronchiectasis
 
 

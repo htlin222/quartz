@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Bioprosthetic
-date: 2024-01-01
 ---
+
 # Bioprosthetic
 
 * Bovine pericardial or porcine heterograft (eg, Carpentier-Edwards), homograft

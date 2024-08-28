@@ -1,8 +1,13 @@
 ---
+date: "2024-01-01"
+---
+
+---
+date: "2024-01-01"
 title: hyperpituitary syndromes
-date: 2024-01-01
 alias: hyperpituitary
 ---
+
 
 # hyperpituitary syndromes
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: pericardial tamponade
-date: 2024-01-01
 ---
+
 
 # pericardial tamponade
 

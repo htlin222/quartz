@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Endocarditis Prophylaxis
-date: 2024-01-01
 ---
+
 
 # Endocarditis Prophylaxis
 

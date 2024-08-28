@@ -1,4 +1,4 @@
----
+date: "2023-12-06---
 title: "Hyperglycemic crises checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false
@@ -7,13 +7,10 @@ tags:
   - building
   - checklist
 ---
-
 > [!info]
 >
 > 🌱來自: [[checklist]]
-
 # Hyperglycemic crises checklist
-
 - ABCDE survey `___`
 - Establish IV access with two large-bore peripheral IV lines. `___`
 - Confirm diagnosis with:

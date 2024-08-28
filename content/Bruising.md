@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "Bruising"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # Bruising
-
 ### Easy bruising for how long
-
 - Ask about present complain: how long how freqeutnly has easy brusing occurred? Is it ecchymoses or purpura? How extensive are bruises? Are they located in areas subject to trauma (limbs) or pressure (waist band)? Do petechiae occur? Are bruises painful? How long to resolution? How many currently?
 - Associated symptoms: gum bleeding? prolonged bleeding after skin trauma, dental extraction, childbirth, or surgery? Epistaxis? Menorrhagia? Joint or soft tissue hematoma, hematemesis, melaena, hemoptysis, or hematuria? Is there a history of poor wound healing?
 - Family history:
@@ -25,9 +21,7 @@ tags:
   -Common diagnosis: simple easy bruising; trauma; senile purpura
   -Hemostatic defects: thrombocytopenia; plt function defects; coagulopathy (rarely)
   -Vascular defects: corticosteroid excess; collagen disease; uremia; dkysproteinemia; anaphylactoid purpura; Ehlers-Danlos syndrome; scurvey; vasculitis
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -88,4 +82,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

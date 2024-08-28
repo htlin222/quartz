@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Peritoneal dialysis  PD
-date: 2024-01-01
 ---
+
 # Peritoneal dialysis (PD)
 
  (JAMA 2017;317:1864)

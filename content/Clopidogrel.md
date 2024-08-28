@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clopidogrel
-date: 2024-01-01
 ---
+
 # Clopidogrel
 
 300–600 mg × 1 → 75 mg qd

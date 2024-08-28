@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "INDUCTIONBC"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # INDUCTIONBC
-
 ### Left breast cancer, IDC, dx on on 2020/00/00, cT3(xcm)N1(f)M0, NG3, ER/PR/HER2-neu: 8/8/3+, DISH?, Ki-67: ?%, liver sono, CXR, and bone scan negative
-
 - Initial presentation: palpable left/right breast masss since ?
 - Menopause, Premenopause
 - Induction chemotherapy: Docetaxel + cisplatin (60/60mg/m2, escate to 75/75 if no grade 3/4 AEs) for 6 cycles and reevaluate for operation, herceptin NHI reimbursed, +- pertuzumab (self-paid) to improve pCR rate but not 100%
@@ -24,9 +20,7 @@ tags:
   @ Vascular assessment (refer to NS), nutritional assessment during admission, dental check during admission, and pharmacist education before chemotherapy
   @ Arrange 2-D echo under herceptin, F/u Q4-5M (2023/00/00: EF?%)
   @ Consider clip deployment if breast conservation surgery is considered.
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -87,4 +81,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

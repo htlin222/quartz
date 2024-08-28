@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: cystic fibrosis
-date: 2024-01-01
 ---
+
 # cystic fibrosis
 * [[Definition and pathophysiology-cystic fibrosis]]
 * [[Clinical features-cystic fibrosis]]

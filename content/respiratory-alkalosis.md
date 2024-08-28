@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: respiratory-alkalosis
-date: 2024-01-01
 ---
+
 # respiratory-alkalosis
 
 Etiologies (NEJM 2002;347:43; Crit Care 2010;14:220)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Obscure GIB
-date: 2024-01-01
 ---
+
 # Obscure GIB
 
 (Am J Gastro 2015;110:1265; Gastro 2017;152:497)

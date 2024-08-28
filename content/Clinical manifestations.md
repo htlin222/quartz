@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations
-date: 2024-01-01
 ---
+
 # Clinical manifestations
 
 * Classic triad = wheezing, cough, dyspnea; others include chest tightness, sputum; symptoms typically chronic with episodic exacerbation
@@ -15,4 +16,9 @@ infections (URI, bronchitis, sinusitis)
 drugs (eg, ASA & NSAIDs via [[leukotrienes]], βB via bronchospasm, MSO4 via histamine)
 
 emotional stress, cold air, exercise (increase in ventilation dries out airways)
-
+
+
+
+
+
+

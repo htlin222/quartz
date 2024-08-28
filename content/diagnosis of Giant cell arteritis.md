@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: diagnosis of Giant cell arteritis
-date: 2024-01-01
 ---
+
 # diagnosis of Giant cell arteritis
 
 * ↑ ESR (Se 84%, Sp 30%), ↑ CRP (Se 86%, Sp 30%), anemia.

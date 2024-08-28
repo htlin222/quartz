@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Won’t Breathe as Etiologies of High elevated PaCO2
-date: 2024-01-01
 ---
+
 # Won’t Breathe as Etiologies of High elevated PaCO2
 
 * decreae RR

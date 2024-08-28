@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Portal HTN gastropathy
-date: 2024-01-01
 ---
+
 
 # Portal HTN gastropathy
 

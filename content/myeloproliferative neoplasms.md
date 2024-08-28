@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: myeloproliferative neoplasms
-date: 2024-01-01
 alias: "MPN"
 ---
+
 
 > from [[hematology]]
 

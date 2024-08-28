@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition-diabetes mellitus
-date: 2024-01-01
 ---
+
 # Definition-diabetes mellitus
 
 (Diabetes Care 2022;45:S256)

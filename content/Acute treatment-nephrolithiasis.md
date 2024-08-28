@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Acute treatment-nephrolithiasis
-date: 2024-01-01
 ---
+
 # Acute treatment-nephrolithiasis
 
 (JAMA 2020;323:1961)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: C5-9 deficiency
-date: 2024-01-01
 ---
+
 # C5-9 deficiency
 
 - Terminal complement pathway deficiency is a genetic condition affecting the complement membrane attack complex (MAC)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Chronic migraine
-date: 2024-01-01
 ---
+
 # Chronic migraine
 
 Chronic migraine is defined as

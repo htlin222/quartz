@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: general approach to treatment of breast cancer
-date: 2024-01-01
 ---
+
 # general approach to treatment of breast cancer
 
 (JAMA 2019;321:288 & 1716)

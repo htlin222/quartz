@@ -16,7 +16,6 @@ enableToc: false
 * Hematochezia = bloody or maroon-colored stools (LGIB or rapid UGIB)
  
 ---
-
 * Hematemesis refers to blood in vomit, which is commonly caused by upper gastrointestinal bleeding (UGIB).
 * Coffee-ground emesis is the vomiting of blood that has been exposed to gastric acid, which is also a symptom of UGIB.
 * Melena refers to black, tarry stools that result from digested blood, which can be a symptom of UGIB, lower gastrointestinal bleeding (LGIB), or bleeding from the right colon.

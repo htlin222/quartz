@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Categories-diabetes mellitus
-date: 2024-01-01
 ---
+
 # Categories-diabetes mellitus
 
 * [[type 1 diabetes mellitus]] 

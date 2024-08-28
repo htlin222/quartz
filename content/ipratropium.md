@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: ipratropium
-date: 2024-01-01
 ---
+
 # ipratropium
 
 Atrovent，屬於一種支氣管擴張藥。

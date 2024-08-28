@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: back pain
-date: 2024-01-01
 ---
+
 # Back pain
 
 ## [[differential diagnosis of back pain]]

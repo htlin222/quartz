@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Washington Manual Thyroid Disorders
-date: 2024-01-01
 ---
+
 # Washington Manual Thyroid Disorders
 ## Hyperthyroidism4,5
 GENERAL PRINCIPLES

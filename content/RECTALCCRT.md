@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "RECTALCCRT"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # RECTALCCRT
-
 ### Rectal cancer, 0 cm from anal verge, cTxNxM0, dx on 2010/00/00 (W/D) adenocarcinoma, 2010/00/00, under preop short course RT (2500cGy/5fr, 2010/00/00~00/00) to pelvis and bil inguinal areas, consolidatin chemotherapy (pending)
-
 - Initial presentation: bloody stool, tenesmus, decreased stool caliber and bowel habit change from once/day to several times/day
 - Treatment plan: preop induction short course RT follow by consolidation chemotherapy and then LAR or APR
 - 2010/00/00: Explain the purpose of neoadjuvant CCRT, the goal is to decrease recurrence/metastasis as possible, not guarantee cure!! Thus regular follow up is still needed.
@@ -24,9 +20,7 @@ tags:
   @ Patient decided mFOLFOX6, explain self-paid oxaliplatin
   @ Arrange admission for #1 mFOLFOX-6 on 2010/00/00 and check lab, and arrange admission
   @ Vascular assessment, nutritional assessment, dental check, pharmacist education before chemotherapy.
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -87,4 +81,3 @@ tags:
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

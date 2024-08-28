@@ -30,7 +30,6 @@ Neurotoxicity, [[pancreatitis]] (rare), progressive multifocal leukoencephalopat
 - Targeted chemotherapy (monomethyl auristatin E linked to [[CD30]] monoclonal antibody)
 
 ---
-
 - Hodgkin lymphoma (HL) and systemic anaplastic large cell lymphoma (sALCL) are uncommon types of cancer
 - They are highly curable with initial treatment
 - However, some patients are refractory to or relapse after first- and second-line therapies

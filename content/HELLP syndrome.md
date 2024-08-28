@@ -36,9 +36,7 @@ Laboratory criteria for diagnosis — We require the presence of all of the foll
 - Low platelets: <100,000 cells/microL
 
 ---
-
 ![img](https://i.imgur.com/KF2FMgs.png)
-
 - 微血管溶血性貧血患者的外周血塗片
 - 顯著的紅細胞碎裂
 - 多個頭盔狀細胞（箭頭）

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-pheochromocytoma and paraganglioma
-date: 2024-01-01
 ---
+
 # Clinical manifestations-pheochromocytoma and paraganglioma
  (NEJM 2019;381:552)
 * Neuroendocrine neoplasm leads to inappropriate and paroxysmal release of adrenergic agents including epinephrine, norepinephrine, and rarely dopamine

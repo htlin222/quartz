@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Complications & prognosis-venous thromboembolism
-date: 2024-01-01
 ---
+
 # Complications & prognosis-venous thromboembolism
 
 * [[postthrombotic syndrome]] (23–60%)

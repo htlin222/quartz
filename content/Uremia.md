@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Uremia
-date: 2024-01-01
 ---
+
 # Uremia
 
 ## hemodialysis indication:

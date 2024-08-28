@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: tuberculosis
-date: 2024-01-01
 alias: TB
 ---
+
 
 # tuberculosis
 

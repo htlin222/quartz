@@ -51,7 +51,6 @@ tags:
   - [[BRiTE]] BRiTE observational cohort study
 
 ---
-
 - 3rd line: Irinotecan ± panitumumab/cetuximab ([[BOND]], NEJM 2004;351:337) or single-agent panitumumab/cetuximab, or single-agent [[regorafenib]] or [[TAS-102]]; overall benefits of regorafenib or TAS-102 are modest w/ significant s/e
   - [[CORRECT]] 160mg/day for three week in 28d cycle ♻︎
   - [[RECOURSE]] 35/BSA 1-5 8-15 in 28d cycle ♻︎
@@ -62,10 +61,7 @@ tags:
 - Do not use concurrent anti-EGFR + anti-VEGF Rx (CAIRO2, NEJM 2009;360:563)
 - Do not use anti-EGFR Rx in RAS/BRAF mut or any R sided CRC (JCO 2016;34(suppl, abstr 3504, 3505, 3506; JAMA Oncol 2017;3:211)
 - For pts progressing on anti-EGFR, use of anti-EGFR is → not rec in subsequent lines
-
 ## [[UpToDate Links of Metastatic Colon Cancer|UpToDate Links]] 󰒖
-
-
 ---
 
 - 2024-07-14: TOS 2024 ASCO

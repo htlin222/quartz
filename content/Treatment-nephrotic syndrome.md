@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-nephrotic syndrome
-date: 2024-01-01
 ---
+
 # Treatment-nephrotic syndrome
 
 (NEJM 2013;368:10)

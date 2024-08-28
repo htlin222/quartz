@@ -33,7 +33,6 @@ tags:
 - Future perspectives: molecular clustering, ctDNA, next generation immunotherapy (CAR T-cell therapy,...)
 
 ---
-
 - [[robust.md|ROBUST]] : A Phase III Study of Lenalidomide Plus R-CHOP Versus Placebo Plus R-CHOP in Previously Untreated Patients With ABC-Type Diffuse Large B-Cell Lymphoma
 - [[phoenix.md|Phoenix]]: Randomized Phase III Trial of Ibrutinib and Rituximab Plus Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone in Non-Germinal Center B-Cell Diffuse Large B-Cell Lymphoma: 看起來是 OS 好像沒什麼差😂
 - [[polarix.md|POLARIX]]: 看起來是 OS 好像沒什麼差😂

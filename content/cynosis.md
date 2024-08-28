@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: cynosis
-date: 2024-01-01
 ---
+
 # cynosis
 
 central cyanosis can be detected reliably when the SaO2 has fallen to 85%; in others, particularly in dark-skinned persons, it may not be detected until it has declined to 75%

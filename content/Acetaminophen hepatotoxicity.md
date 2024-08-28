@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Acetaminophen hepatotoxicity
-date: 2024-01-01
 ---
+
 # Acetaminophen hepatotoxicity
 
 (Clin J Transl Hepatol 2016;4:131; BMJ 2016;353:i2579)

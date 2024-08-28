@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-hypokalemia
-date: 2024-01-01
 ---
+
 # Clinical manifestations-hypokalemia
 
 * Nausea, vomiting, ileus, weakness, muscle cramps, rhabdomyolysis, ↓ insulin secretion

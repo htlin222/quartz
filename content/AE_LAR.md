@@ -1,23 +1,18 @@
----
+date: "2023-12-01---
 title: "AE_LAR"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_LAR
-
 **Explain AEs of santostatin LAR, including injection site reaction, GB stones, anorexia, nausea/vomiting, abdominal cramps, abdominal boating, faltulence, skin rash, hot flush, poor diabetes control, esp PC sugar, abnormal LFTs
 .AELENVATINIB
 **AEs such as hypertension, fatigue, headache, dizziness, HFS, alopecia, hypothyroidism, diarrhea, anorexia, n/v, proteinuria, and hemorrhage.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -54,4 +49,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

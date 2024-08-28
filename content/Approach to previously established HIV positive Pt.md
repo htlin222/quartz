@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Approach to previously established HIV positive Pt
-date: 2024-01-01
 ---
+
 # Approach to previously established HIV positive Pt
 * H&P (mucocutaneous, neurocognitive, OIs, malignancies, STDs); meds and adherence
 * Review ARVs (past and current); if hospitalized typically continue ARVs, if any must be held, stop all to ↓ risk of resistance

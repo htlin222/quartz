@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Atrial flutter
-date: 2024-01-01
 ---
+
 
 # Atrial flutter
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations of Granulomatosis with polyangiitis
-date: 2024-01-01
 ---
+
 # Clinical manifestations of Granulomatosis with polyangiitis
 
 ## Upper respiratory tract:
@@ -12,9 +13,7 @@ date: 2024-01-01
 	hematuria, red cell casts.
 
 ---
-
 Constitutional: fever, fatigue, malaise, anorexia, weight loss
-
 ## Respiratory (90%):
 ### Upper:
 recurrent sinusitis, rhinitis, oral/nasal ulcers, nasal crusting, saddle-nose deformity, otitis, hearing loss, subglottic stenosis
@@ -22,7 +21,6 @@ recurrent sinusitis, rhinitis, oral/nasal ulcers, nasal crusting, saddle-nose de
 infiltrates, nodules, & hemorrhage → cough, dyspnea, hemoptysis, pleurisy
 ## Skin (50%):
 palpable purpura, livedo reticularis
-
 ---
 
 ## Renal (80%):

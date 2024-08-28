@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestation-bacterial endocarditis
-date: 2024-01-01
 ---
+
 # Clinical manifestation-bacterial endocarditis
 
 

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Grading-of-Mitral-Stenosis
-date: 2024-01-01
 ---
+
 # Grading-of-Mitral-Stenosis
 
 | Grading of Mitral Stenosis Stage | Mean V (mmHg) | Pressure ½ Time | MVA (cm-) | PA sys (mmHg) |

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of Constipation
-date: 2024-01-01
 ---
+
 # Treatment of Constipation
 
 ## 1st line

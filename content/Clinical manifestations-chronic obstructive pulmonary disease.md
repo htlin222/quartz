@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations-chronic obstructive pulmonary disease
-date: 2024-01-01
 ---
+
 # Clinical manifestations-chronic obstructive pulmonary disease
 
 * Chronic cough, sputum production, dyspnea; later stages → freq exacerb, AM headache, wt loss

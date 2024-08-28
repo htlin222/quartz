@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Precipitants-diabetic ketoacidosis
-date: 2024-01-01
 ---
+
 # Precipitants-diabetic ketoacidosis
 
 1+2+2+2 = 7

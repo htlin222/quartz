@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hypoxia and Cyanosis
-date: 2024-01-01
 ---
+
 # Hypoxia and Cyanosis
 
 * Respiratory 

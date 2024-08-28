@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hematologic Alterations
-date: 2024-01-01
 ---
+
 # Hematologic Alterations
 
 *   Chapter 62:  [[Interpreting Peripheral Blood Smears]]

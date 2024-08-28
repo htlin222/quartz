@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic studies-pericardial tamponade
-date: 2024-01-01
 ---
+
 
 # Diagnostic studies-pericardial tamponade
 

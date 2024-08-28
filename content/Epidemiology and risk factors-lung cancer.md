@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Epidemiology and risk factors-lung cancer
-date: 2024-01-01
 ---
+
 # Epidemiology and risk factors-lung cancer
 
 * Most common cause of cancer-related death for both men and women in the U.S.

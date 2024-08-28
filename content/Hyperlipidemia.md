@@ -1,21 +1,16 @@
----
+date: "2023-12-05---
 title: "HYPERLIPIDEMIA"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # HYPERLIPIDEMIA
-
 male and smoking, if DM LDH >130, if TG>500 consider treatment, 200~500 diet control
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -76,4 +71,3 @@ male and smoking, if DM LDH >130, if TG>500 consider treatment, 200~500 diet con
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

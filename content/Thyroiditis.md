@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Thyroiditis
-date: 2024-01-01
 ---
+
 
 # Thyroiditis
 

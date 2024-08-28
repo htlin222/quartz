@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Paroxysmal nocturnal hemoglobinuria
-date: 2024-01-01
 alias: PNH
 ---
+
 
 # Paroxysmal nocturnal hemoglobinuria
 

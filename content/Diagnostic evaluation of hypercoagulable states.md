@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic evaluation of hypercoagulable states
-date: 2024-01-01
 ---
+
 # Diagnostic evaluation of hypercoagulable states
 
 (not routinely required for initial VTE; NEJM 2017;377:1177)

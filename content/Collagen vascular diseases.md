@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Collagen vascular diseases
-date: 2024-01-01
 ---
+
 # Collagen vascular diseases
 (Chest 2013;143:814)
 

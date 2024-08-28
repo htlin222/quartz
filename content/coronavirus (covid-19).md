@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: coronavirus  covid-19
-date: 2024-01-01
 alias: COVID-19
 ---
+
 
 # coronavirus (covid-19)
 

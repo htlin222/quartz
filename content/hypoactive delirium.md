@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hypoactive delirium
-date: 2024-01-01
 ---
+
 # hypoactive delirium
 
 In striking contrast is the hypoactive subtype,

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definitions-skin and soft tissue infections
-date: 2024-01-01
 ---
+
 # Definitions-skin and soft tissue infections
 
 * Cellulitis: infection of dermis and subcutaneous tissue characterized by erythema, warmth, tenderness, and swelling; often occurs as a result of skin breaches (JAMA 2016;315:3)

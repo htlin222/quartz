@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Migraine with aura
-date: 2024-01-01
 ---
+
 # Migraine with aura
 
 [[aura]] 

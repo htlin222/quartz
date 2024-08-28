@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Comparison of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease
-date: 2024-01-01
 ---
+
 # Comparison of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease
 
 將支氣管擴張劑反應視為陽性的其他標準是支氣管擴張劑後 FEV1 百分比增加大於基線的 15%，支氣管擴張劑後 FEV1 增加大於預測值的 10% (10) 或 FEV1 絕對增加 400 ml (6)。

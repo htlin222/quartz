@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hepatic encephalopathy  HE 
-date: 2024-01-01
 ---
+
 # Hepatic encephalopathy (HE)
 
 (NEJM 2016;375:1660; Hepatology 2014; 60:715)

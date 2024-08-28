@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Intracardiac pressures PA catheter and tailored therapy
-date: 2024-01-01
 ---
+
 # Intracardiac pressures PA catheter and tailored therapy
 
 * Transmural pressure (≈ preload) = measured intracardiac pressure – intrathoracic pressure

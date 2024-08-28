@@ -26,7 +26,6 @@ tags:
   - For bleeding in vWD factor XIII deficiency, use if other products not available.
 
 ---
-
 - Irradiated
   - Prevents donor T-cell engraftment and risk of transfusion-assoc. GVHD (HSCT, heme malignancy, congenital immunodeficiency).
 - CMV-negative

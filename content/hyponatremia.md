@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hyponatremia
-date: 2024-01-01
 ---
+
 # hyponatremia
 
 TLDR: 血滲？尿滲？尿鈉?
@@ -17,9 +18,7 @@ TLDR: 血滲？尿滲？尿鈉?
 * [[Treatment-of-hyponatremia]]
 
 ---
-
 [[JAMA review of hyponatremia]]
-
 ---
 
 this is a book

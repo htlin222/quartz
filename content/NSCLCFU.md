@@ -1,23 +1,18 @@
----
+date: "2023-12-05---
 title: "NSCLCFU"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # NSCLCFU
-
 PE, CEA, and CXR Q3M for 3 years
 CT Q6M for 2 years then yearly
 Optional bone scan
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -78,4 +73,3 @@ Optional bone scan
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

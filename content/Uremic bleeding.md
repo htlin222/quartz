@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Uremic bleeding
-date: 2024-01-01
 ---
+
 # Uremic bleeding
 
 * Uremia → platelet dysfunction including ↓ aggregation, impaired adhesiveness

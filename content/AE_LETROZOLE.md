@@ -1,23 +1,18 @@
----
+date: "2023-12-01---
 title: "AE_LETROZOLE"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_LETROZOLE
-
 **Explain the risk of letrozole, such as arthralgia, headache, fatigue, mild emesis, hot flashes, abnormal LFTs, and osteoporosis
 **For the AE of bone loss of letrozole, regular exercise, adequate calcium and vitamin D intake are helpful (vitamin D3 1000 units daily is advisable)
 \*\*Suggest closely follow-up clinical discomfort s/s and return to clinics if s/s progressed or any suspicious.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -54,4 +49,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

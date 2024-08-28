@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Risk Factors-bacterial endocarditis
-date: 2024-01-01
 alias: RF_IE
 ---
+
 
 # Risk Factors-bacterial endocarditis
 

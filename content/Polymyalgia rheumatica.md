@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Polymyalgia rheumatica
-date: 2024-01-01
 ---
+
 # Polymyalgia rheumatica
 
 (JAMA 2016;315:2442; Lancet 2017;390:1700)

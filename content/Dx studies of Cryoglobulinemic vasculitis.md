@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Dx studies of Cryoglobulinemic vasculitis
-date: 2024-01-01
 ---
+
 # Dx studies of Cryoglobulinemic vasculitis
 
 ✓ Cryoglobulins (keep blood warmed to 37°C en route to lab to avoid false ⊖, loss of RF and ↓↓ C3, C4). Cryocrit quantifies cryoprotein but not always indicative of disease activity. May see false ↑ in WBC or plt on automated CBC due to precipitation.

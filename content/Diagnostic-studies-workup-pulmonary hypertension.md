@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic-studies-workup-pulmonary hypertension
-date: 2024-01-01
 ---
+
 # Diagnostic-studies-workup-pulmonary hypertension
 
 * High-res chest CT: dilat. & pruning of pulm arteries, ↑ RA & RV; r/o parenchymal lung dis.

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Short-Term Central Venous Catheter-Related Bloodstream Infxns
-date: 2024-01-01
 ---
+
 # Short-Term Central Venous Catheter-Related Bloodstream Infxns
 
 ## S. aureus

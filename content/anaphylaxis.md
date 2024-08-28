@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: anaphylaxis
-date: 2024-01-01
 ---
+
 # anaphylaxis
 
 * [[Definition and pathophysiology-anaphylaxis]]

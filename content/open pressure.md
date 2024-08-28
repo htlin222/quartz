@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: open pressure
-date: 2024-01-01
 ---
+
 # open pressure
 
 * 正常 9–18 cmH2O

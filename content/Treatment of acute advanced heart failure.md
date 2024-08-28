@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment of acute advanced heart failure
-date: 2024-01-01
 ---
+
 
 # Treatment of acute advanced heart failure
 

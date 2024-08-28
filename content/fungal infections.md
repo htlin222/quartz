@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: fungal infections
-date: 2024-01-01
 ---
+
 
 qv: [[infectious disease]]
 
@@ -20,9 +21,7 @@ qv: [[infectious disease]]
 - [[Blastomycosis]]
 
 ---
-
 ## 下面是 Harrsion 章節
-
 - Chapter 211:  [[Pathogenesis, Diagnosis, and Treatment of Fungal Infections]]
 - Chapter 212:  [[Histoplasmosis]]
 - Chapter 213:  [[Coccidioidomycosis]]

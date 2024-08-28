@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pneumocystis jiroveci  PCP  pneumonia
-date: 2024-01-01
 ---
+
 # Pneumocystis jiroveci (PCP) pneumonia
 
 fever, night sweats, dyspnea on exertion, dry (“doorstop”) cough

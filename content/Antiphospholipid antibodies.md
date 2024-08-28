@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Antiphospholipid antibodies
-date: 2024-01-01
 ---
+
 # Antiphospholipid antibodies
 
 [[Antiphospholipid syndrome (APS)]]

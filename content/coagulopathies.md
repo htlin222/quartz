@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: coagulopathies
-date: 2024-01-01
 ---
+
 
 > [[hematology]]
 
@@ -11,7 +12,6 @@ date: 2024-01-01
 - [[coagulation factors]]
 
 ---
-
 - [[Screening Test Abnormalities in Inherited and Acquired Coagulopathies]]
 - [[Further coagulation tests]]
 - [[Hemophilias]]
@@ -20,6 +20,5 @@ date: 2024-01-01
 - [[Vitamin K deficiency]]
 - [[Properties and Antidotes for Anticoagulants Fibrinolytics]]
 - [[The Coagulation Cascade]]
-
 - [[hypercoagulable states]]
 - [[von willebrand disease]]

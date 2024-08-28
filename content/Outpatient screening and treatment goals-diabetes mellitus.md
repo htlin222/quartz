@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Outpatient screening and treatment goals-diabetes mellitus
-date: 2024-01-01
 ---
+
 # Outpatient screening and treatment goals-diabetes mellitus
 
 (Diabetes Care 2022;45;S83 & S144)

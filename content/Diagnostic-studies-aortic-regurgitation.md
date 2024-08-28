@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnostic-studies-aortic-regurgitation
-date: 2024-01-01
 ---
+
 # Diagnostic-studies-aortic-regurgitation
 
 * ECG: can see LVH, LAD, abnl repol; CXR: cardiomegaly ± ascending Ao dilatation

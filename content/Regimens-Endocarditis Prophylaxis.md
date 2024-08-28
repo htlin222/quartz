@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Regimens-Endocarditis Prophylaxis
-date: 2024-01-01
 ---
+
 # Regimens-Endocarditis Prophylaxis
 
 Oral: amoxicillin 2 g 30–60 min before

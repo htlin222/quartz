@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Classification criteria of Behçet’s syndrome
-date: 2024-01-01
 ---
+
 # Classification criteria of Behçet’s syndrome
 
 (#1 + ≥2 others is 91% Se & 96% Sp; Lancet 1990;335:1078)

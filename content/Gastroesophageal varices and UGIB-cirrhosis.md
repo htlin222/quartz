@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Gastroesophageal varices and UGIB-cirrhosis
-date: 2024-01-01
 ---
+
 # Gastroesophageal varices and UGIB-cirrhosis
 
 See: [[gastrointestinal bleeding]]

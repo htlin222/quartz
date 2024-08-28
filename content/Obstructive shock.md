@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Obstructive shock
-date: 2024-01-01
 ---
+
 # Obstructive shock
 
 Tension pneumothorax

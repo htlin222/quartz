@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: sensible and insensible fluid losses
-date: 2024-01-01
 ---
+
 # sensible and insensible fluid losses
 
 ## Insensible losses (nonmeasurable)

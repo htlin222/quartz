@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Other diagnostic studies-syncope
-date: 2024-01-01
 ---
+
 # Other diagnostic studies-syncope
 
 (consider based on results of H&P and ECG)

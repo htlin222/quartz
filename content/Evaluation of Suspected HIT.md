@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Evaluation of Suspected HIT
-date: 2024-01-01
 ---
+
 # Evaluation of Suspected HIT
 
 > [[Diagnosis of heparin-induced thrombocytopenia]]

@@ -1,8 +1,13 @@
 ---
+date: "2024-01-01"
+---
+
+---
+date: "2024-01-01"
 title: gastroenterology
-date: 2024-01-01
 alias: gi
 ---
+
 
 # gastroenterology
 
@@ -28,14 +33,12 @@ alias: gi
 - [[multiple endocrine neoplasia]] syndromes
 
 ---
-
 - [[gastroenterology anatomy and physiology]]
 - [[gastroenterology diagnostics]]
 - [[gastroenterology approaches and chief complaints]]
 - [[gastroenterology diseases and pathophysiology]]
 - [[gastroenterology key medications and interventions]]
 - [[gastroenterology key clinical trials and publications]]
-
 ---
 
 - [[Gastroenterology - Malabsorption - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:36

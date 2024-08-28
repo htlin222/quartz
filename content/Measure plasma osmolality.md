@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Measure plasma osmolality
-date: 2024-01-01
 ---
+
 # Measure plasma osmolality
 
 ## Hypotonic (Posm <280) most common scenario; 

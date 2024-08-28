@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Mechanisms-Loop diuretics
-date: 2024-01-01
 ---
+
 # Mechanisms-Loop diuretics
 
 * inhib NaK2Cl cotransporter in thick ascending limb (ThAL, site of 25% Na reabsorp) → ↓ medullary osmotic gradient & ↓ free H2O reabsorption via ADH

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Efficacy concerns PA catheter and tailored therapy
-date: 2024-01-01
 ---
+
 # Efficacy concerns PA catheter and tailored therapy
 
 > Efficacy concerns (NEJM 2006;354:2213; JAMA 2005;294:1664)

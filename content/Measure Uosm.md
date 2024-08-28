@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Measure Uosm
-date: 2024-01-01
 ---
+
 # Measure Uosm
 
 * although useful for dx in limited circumstances, b/c almost always >300

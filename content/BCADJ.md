@@ -1,19 +1,15 @@
----
+date: "2023-12-05---
 title: "BCADJ"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # BCADJ
-
 # `___`(R/L) breast cancer, IDC, s/p `___` (MRM, WE+SLNB, SM+SLNB) on 2023/`___`/`___`, pT2(2cm)SLN0(0/3)M0, NG2, LVI, ER/PR/HER2: 8/8/0, FISH: `___`,Ki-67 % `___`
-
 - `___` Menopause, Premenopause
 - Adjuvant chemotherapy:
   - `___` CAF X 6,

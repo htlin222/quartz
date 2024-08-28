@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Chronic treatment-chronic obstructive pulmonary disease
-date: 2024-01-01
 ---
+
 # Chronic treatment-chronic obstructive pulmonary disease
 
 COPD Staging and Recommended Therapies by GOLD Criteria

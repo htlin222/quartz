@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: indications of thoracentesis
-date: 2024-01-01
 ---
+
 # indications of thoracentesis
 
 * all effusions >1 cm in decubitus view

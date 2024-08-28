@@ -24,7 +24,6 @@ tags:
 - N2 = Stage III - a or b ❤️❤️
 
 ---
-
 - From above, we know that T4 is
   - either Stage III - b or c (cannot be “a” and cannot be “c”)
   - T4N2 = Stage IIIb

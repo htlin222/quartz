@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: LV failure
-date: 2024-01-01
 ---
+
 # LV failure
 
 * Diurese to achieve PCWP ~14 → ↓ pulmonary edema, ↓ myocardial O2 demand

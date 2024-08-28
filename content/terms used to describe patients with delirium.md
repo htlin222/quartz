@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: terms used to describe patients with delirium
-date: 2024-01-01
 ---
+
 # terms used to describe patients with delirium
 
 encephalopathy 

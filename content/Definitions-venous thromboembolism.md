@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definitions-venous thromboembolism
-date: 2024-01-01
 ---
+
 # Definitions-venous thromboembolism
 
 ## Superficial thrombophlebitis:

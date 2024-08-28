@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Approach to hypernatremia
-date: 2024-01-01
 ---
+
 
 # Approach to hypernatremia
 

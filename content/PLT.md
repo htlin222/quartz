@@ -1,17 +1,14 @@
----
+date: "2023-12-05---
 title: "PLT"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # Thrombocytopenia, eitology to be determined, suspected ITP
-
 - family history: `___`no family history of thrombocytopenia
 - bleeding s/s:
   - petechiae or ecchymosis,
@@ -31,9 +28,7 @@ tags:
 - 2020/3~4 medication hx:
   Doxazosin (Mesylate)
   Mecobalamin
-
 ## Plan
-
 - Confirm with PB smear for platelete aggregation to rule out psuedothrombocytopenia.
 - Do coagulation screen and BM exaionation.
 - Avoid aspirin.

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Functional GI disease
-date: 2024-01-01
 ---
+
 # Functional GI disease
 
 (~30 types per Rome IV criteria; )

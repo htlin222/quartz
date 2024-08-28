@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations of Eosinophilic gran with polyangiitis
-date: 2024-01-01
 ---
+
 # Clinical manifestations of Eosinophilic gran with polyangiitis
 
 (Rheumatol 2020;59:iii84)

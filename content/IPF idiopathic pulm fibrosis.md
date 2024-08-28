@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: IPF idiopathic pulm fibrosis
-date: 2024-01-01
 ---
+
 # IPF idiopathic pulm fibrosis
 UIP imaging pattern: reticular opacities, honeycombing, traction bronchiectasis; peripheral, subpleural, & basal
 

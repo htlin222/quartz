@@ -17,7 +17,6 @@ enableToc: false
 * The non-inferiority trial demonstrated Class I and II could have been treated as outpatients assuming no other issues.
 
 ---
-
 * Age
 * Sex
 * History of cancer
@@ -29,6 +28,5 @@ enableToc: false
 * Temperature <36°C/96.8°F
 * Altered mental status (disorientation, lethargy, stupor, or coma)
 * O2 saturation <90%
-
 * [[Interpretation of Pulmonary Embolism Severity Index PESI]]
 * [[critical actions of Pulmonary Embolism Severity Index PESI]]

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: narrow complex
-date: 2024-01-01
 ---
+
 # narrow complex
 
 ## regular

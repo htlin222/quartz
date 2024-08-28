@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Hypovolemic shock
-date: 2024-01-01
 ---
+
 # Hypovolemic shock
 
 ## Hemorrhagic

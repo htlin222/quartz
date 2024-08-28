@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Family history of migraine
-date: 2024-01-01
 ---
+
 # Family history of migraine
 
 

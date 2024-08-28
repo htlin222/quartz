@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Kawasaki disease
-date: 2024-01-01
 ---
+
 # Kawasaki disease
 
 Usually Asian children < 4 years old.

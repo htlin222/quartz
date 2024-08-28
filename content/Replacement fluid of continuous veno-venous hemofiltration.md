@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Replacement fluid of continuous veno-venous hemofiltration
-date: 2024-01-01
 ---
+
 # Replacement fluid of continuous veno-venous hemofiltration
 
 Choice of replacement fluid buffer:

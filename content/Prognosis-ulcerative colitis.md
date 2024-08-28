@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Prognosis-ulcerative colitis
-date: 2024-01-01
 ---
+
 
 # Prognosis-ulcerative colitis
 

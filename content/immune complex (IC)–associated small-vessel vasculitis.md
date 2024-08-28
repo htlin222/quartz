@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: immune complex  IC –associated small-vessel vasculitis
-date: 2024-01-01
 ---
+
 # immune complex (IC)–associated small-vessel vasculitis
 
 see [[Immune Complex (IC) Disease (granular staining) ]]

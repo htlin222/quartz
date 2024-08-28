@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Dofetilide
-date: 2024-01-01
 ---
+
 # Dofetilide
 
 500 mcg PO bid

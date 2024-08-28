@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Pharmacologic options-Treatment-hypertension
-date: 2024-01-01
 ---
+
 # Pharmacologic options-Treatment-hypertension
 
 Pre-HTN: ARB prevents onset of HTN, no ↓ in clinical events (NEJM 2006;354:1685)

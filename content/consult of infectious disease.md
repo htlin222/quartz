@@ -28,7 +28,6 @@ I've visited this patient and reviewed relevant history.
 - antibiotics duration: according to treatment response, survey result(s).
 
 ---
-
 - Catheter before this episode: none.
 - In-patient care in recent 90 days: none.
 - Antibiotics course (this episode): ceftazidime *1, piperacillin/tazobactam*1, meropenem + vancomycin 08/05 ~

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: cardiac rhythm management devices
-date: 2024-01-01
 ---
+
 # cardiac rhythm management devices
 
 [[Pacemaker Code]]

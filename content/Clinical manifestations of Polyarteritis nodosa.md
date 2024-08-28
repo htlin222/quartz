@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Clinical manifestations of Polyarteritis nodosa
-date: 2024-01-01
 ---
+
 # Clinical manifestations of Polyarteritis nodosa
 
 (Arth Rheum 2010;62:616):

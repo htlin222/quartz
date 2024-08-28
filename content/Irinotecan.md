@@ -39,7 +39,6 @@ tags:
   - Liposomal irinotecan (Onivyde) for tx of metastatic pancreatic CA in combination w/ 5-FU refractory to gemcitabine
 
 ---
-
 - Note: [[FOLFIRI]] regimens may also be administered in combination with bevacizumab (Ref), cetuximab (Ref), panitumumab (Ref), ramucirumab (Ref), or ziv-aflibercept (Ref); refer to protocols for further information.
 - IV: 180 mg/m2 over 90 minutes on days 1, 15, and 29 of a 6-week cycle (in combination with infusional leucovorin and bolus/infusion fluorouracil; leucovorin administered immediately following irinotecan; fluorouracil immediately following leucovorin); continue until disease progression or unacceptable toxicity.
 - Adjusted dose level −1: 150 mg/m2.

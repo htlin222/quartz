@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Treatment-diverticulitis
-date: 2024-01-01
 ---
+
 # Treatment-diverticulitis
 
 > (JAMA 2017;318:291; NEJM 2018;379:1635; Gastro 2021;160:906)

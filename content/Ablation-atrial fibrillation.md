@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Ablation-atrial fibrillation
-date: 2024-01-01
 ---
+
 # Ablation-atrial fibrillation
 
 (Heart Rhythm 2017;14:e445; JACC 2020;75:1689)

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definitions-and-clinical-manifestations
-date: 2024-01-01
 ---
+
 # Definitions-and-clinical-manifestations
 
 * Pneumonia: s/s (fever, cough, purulent sputum, dyspnea) + new infiltrate on chest imaging

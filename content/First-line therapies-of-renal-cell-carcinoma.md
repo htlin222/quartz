@@ -31,17 +31,13 @@ tags:
 - Surveillancea
 
 ---
-
 ## Intermediate/Poor
-
 - Cabozantinib+nivolumab
 - Lenvatinib+pembrolizumab
 - Axitinib+pembrolizumab
 - Ipilimumab+nivolumab
 - Cabozantinib
-
 ### Other
-
 - Axitinib+avelumab
 - Sunitinib
 - Pazopanib

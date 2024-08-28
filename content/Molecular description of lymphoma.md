@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Molecular description of lymphoma
-date: 2024-01-01
 ---
+
 # Molecular description of lymphoma
 
 ## Marginal zone B cell lymphoma, MALT type

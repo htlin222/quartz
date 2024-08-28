@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Glucose of cerebrospinal fluid
-date: 2024-01-01
 ---
+
 # Glucose of cerebrospinal fluid
 
 * 正常約 50–75 mg/dL，約是 serum 的 0.5–0.8

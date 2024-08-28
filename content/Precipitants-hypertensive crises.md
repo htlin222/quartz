@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Precipitants-hypertensive crises
-date: 2024-01-01
 ---
+
 # Precipitants-hypertensive crises
 
 * Progression of essential HTN ± medical noncompliance (espec clonidine) or ∆ in diet

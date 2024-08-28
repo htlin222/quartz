@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: SCLC staging and treatment
-date: 2024-01-01
 ---
+
 # SCLC staging and treatment
 
 * SCLC usually disseminated at presentation; poor overall survival

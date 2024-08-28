@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definition-syncope
-date: 2024-01-01
 ---
+
 # Definition-syncope
 
 * Symptom of sudden transient loss of consciousness due to global cerebral hypoperfusion

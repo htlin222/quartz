@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Calcitriol
-date: 2024-01-01
 ---
+
 # Calcitriol
 [Calcitriol (1, 25-OH Vitamin D3) | KFSYSCC Formulary](https://www.unboundmedicine.com/ucentral/view/KFSYSCC%20Formulary/2236448/all/Calcitriol  1 25 OH Vitamin D3 ?q=D3)
 ## Hypocalcemia:

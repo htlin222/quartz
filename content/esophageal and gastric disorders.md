@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: esophageal and gastric disorders
-date: 2024-01-01
 ---
+
 
 # esophageal and gastric disorders
 
@@ -11,7 +12,6 @@ date: 2024-01-01
   - [[Figure 3-1 Etiologies of and approach to dysphagia]] (NCP Gastrohep 2008;5:393; Neurogastro 2012;24:57)
 
 ---
-
 - [[gastroesophageal reflux disease]]
 - [[peptic ulcer disease]]
 - [[gastrointestinal stromal tumor]] (GIST)

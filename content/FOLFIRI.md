@@ -19,9 +19,7 @@ tags:
 - FU, infusional 2400 mg/m2 IV Dilute in 500 to 1000 mL D5W¶ and administer over 46 hours. To accommodate an ambulatory pump for outpatient treatment, can be administered undiluted (50 mg/mL) or the total dose can be diluted in 100 to 150 mL NS.¶ Day 1
 
 ---
-
 ## Fluorouracil
-
 - [[5-FU]]
 - (5-FU, Adrucil)
 - Dosing:
@@ -45,5 +43,4 @@ tags:
   - AEs w/ DPD deficiency (prolonged clearance, ↑ tox), radiosensitizer;
   - leucovorin is → given w/ bolus administration to ↑ intracellular half-life of 5-FU (↑ cytotoxicity).
   - [[Uridine triacetate]] used as antidote in cases of overdose or DPD deficiency
-
 > [[Fluorouracil]]

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Behçet’s syndrome
-date: 2024-01-01
 ---
+
 # Behçet’s syndrome
 
 (Nat Rev Dis Primers 2021;7:67)

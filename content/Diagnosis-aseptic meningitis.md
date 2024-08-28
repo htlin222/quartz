@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Diagnosis-aseptic meningitis
-date: 2024-01-01
 ---
+
 # Diagnosis-aseptic meningitis
 
 - Obtain LP for CSF analysis: lymphocytic pleocytosis common in viral etiologies (see Typical CSF Findings in Meningitis table above)

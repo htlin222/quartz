@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Approach to acute AF
-date: 2024-01-01
 ---
+
 # Approach to acute AF
 (Adapted from Circ 2014;130:e199)
 

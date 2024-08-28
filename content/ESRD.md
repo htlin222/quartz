@@ -1,17 +1,14 @@
----
+date: "2023-12-05---
 title: "ESRD"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # ESRD
-
 Recommendations on the management of the clinical frequently used chemotherapeutic agents in patients undergoing dialysis according to Janus et al and Tomita et al
 *5FU standard dose After HD
 *Capecitabine reduced 50%
@@ -28,9 +25,7 @@ Recommendations on the management of the clinical frequently used chemotherapeut
 *Oxaliplatin reduced 30% after HD
 *Taxol standard dose before or after HD
 \*Vcb reduced 25-33% after HD
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -91,4 +86,3 @@ Recommendations on the management of the clinical frequently used chemotherapeut
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

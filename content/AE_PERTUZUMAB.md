@@ -1,21 +1,16 @@
----
+date: "2023-12-01---
 title: "AE_PERTUZUMAB"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_PERTUZUMAB
-
 \*\*explain AEs of pertuzumab, such as alopecia, , skin rash, anorexia, diarrhea, mucositis, and emesis
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -52,4 +47,3 @@ tags:
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

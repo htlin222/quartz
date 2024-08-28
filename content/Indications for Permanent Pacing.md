@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Indications for Permanent Pacing
-date: 2024-01-01
 ---
+
 # Indications for Permanent Pacing
 
 (JACC 2013;61:e6 & 2017;70:e39, Circ 2019;140:e382)

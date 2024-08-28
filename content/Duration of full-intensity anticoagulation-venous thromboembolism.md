@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Duration of full-intensity anticoagulation-venous thromboembolism
-date: 2024-01-01
 ---
+
 # Duration of full-intensity anticoagulation-venous thromboembolism
 
 * Superficial venous thrombosis: **4 wk**

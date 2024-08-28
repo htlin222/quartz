@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: hypertension
-date: 2024-01-01
 ---
+
 
 from [[cardiology]]
 
@@ -23,6 +24,5 @@ from [[cardiology]]
 - [[Resistant HTN]]
 
 ---
-
 - [[hypertensive crises]]
 - 👉 [[lipid disorders]]

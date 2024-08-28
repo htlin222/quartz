@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Approach to oxygenation, hypoxemia, and hypoxemic respiratory failure
-date: 2024-01-01
 ---
+
 # Approach to oxygenation, hypoxemia, and hypoxemic respiratory failure
 
 ## Common misconceptions and mistakes

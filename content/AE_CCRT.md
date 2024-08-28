@@ -1,22 +1,17 @@
----
+date: "2023-12-01---
 title: "AE_CCRT"
 date: "2023-12-01 17:01:03"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[adverse event-of-snippets]]
-
 # AE_CCRT
-
 explain the AEs of CCRT, such as radiation pneumonitis, radiation esophagitis, myelosuppression, alopecia, nausea/vomiting, mucositis, nephrotoxicity, ototoxicity, neuropathy, hypersensitivity reaction, hand-foot-syndrome, and possible severe and life-threatening complication of esophgeal rupture but rare
 \*\*Emphasize the importance of nutrional support (high protein diet) during C/T period.
-
 ### Siblings
-
 - [[AE_ABVD]]
 - [[AE_ACT]]
 - [[AE_ALECTINIB]]
@@ -53,4 +48,3 @@ explain the AEs of CCRT, such as radiation pneumonitis, radiation esophagitis, m
 - [[AE_VEMURAFENIB]]
 - [[AE_VINORELBINE]]
 - [[AE_XELOX]]
-

@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: electrocardiography
-date: 2024-01-01
 alias: ekg
 ---
+
 
 ## approach to EKG
 

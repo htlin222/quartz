@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Evaluation for the potential causes of heart failure
-date: 2024-01-01
 ---
+
 # Evaluation for the potential causes of heart failure
 
 * ECG: evidence for CAD, LVH, LAE, heart block or low voltage (? infiltrative CMP/DCM)

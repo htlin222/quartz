@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: approach to abnormal hemostasis
-date: 2024-01-01
 ---
+
 # approach to abnormal hemostasis
 
  (NEJM 2014;370:847)

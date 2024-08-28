@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Principles-solitary pulmonary nodule
-date: 2024-01-01
 ---
+
 # Principles-solitary pulmonary nodule
 
 

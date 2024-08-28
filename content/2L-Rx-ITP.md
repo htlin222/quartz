@@ -1,8 +1,9 @@
 ---
+date: "2024-01-01"
 title: Second-line or maintainence therapy for idiopathic thrombocytopenic purpura
-date: 2024-01-01
 alias: 2L-Rx-ITP
 ---
+
 
 - from: [[Treatment of Primary ITP in Adults]] 󰒖
 - 

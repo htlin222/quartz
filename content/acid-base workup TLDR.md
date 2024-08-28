@@ -23,20 +23,15 @@ tags:
 > 漲五成+8 v.s. 打七折+40
 
 ---
-
 呼吸性的 → 代謝代償 → 同向跟上
-
 HCO3 = f(pCO2/20mmHg)
-
 - Recid pCO2 超高
   - +2(Acute)
   - +7(Chronic)
 - Reka pCO2 超低
   - -4(Acute)
   - -8(Chronic)
-
 > 我去！西八！
-
 ---
 
 - AG (12±2) normal = Na- Cl - BiCar

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: ACLS Bradycardia Algorithm
-date: 2024-01-01
 ---
+
 # ACLS Bradycardia Algorithm
 
 ## 小藍上不到4個叫慢(<60pbm)，八個叫快(100bpm+)

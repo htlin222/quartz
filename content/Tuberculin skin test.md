@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Tuberculin skin test
-date: 2024-01-01
 ---
+
 # Tuberculin skin test
 
 (TST/ PPD): inject purified protein intradermally, examine for wheal 48–72 hrs later. Interpret based on max diameter of induration, not erythema.

@@ -1,21 +1,16 @@
----
+date: "2023-12-05---
 title: "MEGESTROL"
 date: "2023-12-05 09:57:35"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[snippets]]
-
 # MEGESTROL
-
 Cancer cachexia and anorexia, BW loss > 5%, give megestrol 2.5 ml QD use (2010/00/00~)
-
 ### Siblings
-
 - [[PANCREATIC_ADJ]]
 - [[AMPULLA]]
 - [[ANAL]]
@@ -76,4 +71,3 @@ Cancer cachexia and anorexia, BW loss > 5%, give megestrol 2.5 ml QD use (2010/0
 - [[RECTALADJ]]
 - [[RECTALCCRT]]
 - [[RECTALNET]]
-

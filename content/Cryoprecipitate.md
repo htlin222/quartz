@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Cryoprecipitate
-date: 2024-01-01
 ---
+
 
 # Cryoprecipitate
 
@@ -26,9 +27,7 @@ increase fibrinogen by about 100 mg/dL
 = 0.2 x weight (kg) to provide about 100mg/dL fibrinogen
 
 ---
-
 ### Backlink：
-
 - [[a bleeding disorder]]
 - [[Blood Products and Indications]]
 - [[Coagulation Disorders]]

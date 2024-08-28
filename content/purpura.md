@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: purpura
-date: 2024-01-01
 ---
+
 # purpura
 
 (nonblanching purple/red lesions due to extravasation of RBCs into dermis)

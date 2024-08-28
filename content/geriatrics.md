@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: geriatrics
-date: 2024-01-01
 ---
+
 # geriatrics
 The topics covered are organized as follows:
 

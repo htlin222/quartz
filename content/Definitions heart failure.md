@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Definitions heart failure
-date: 2024-01-01
 ---
+
 
 # Definitions heart failure
 
@@ -15,10 +16,5 @@ date: 2024-01-01
 - Reduced (HFrEF, EF <40%), mildly reduced (HFmrEF, EF 40–49%), & preserved (HFpEF, EF >50%); combination of systolic and diastolic dysfxn may occur regardless of EF
 
 ---
-
 ## TL;DR 小麻的提供的幾種定義
-
 生理、高低輸出、左右、前後、收縮/舒張、保留/減少
-
-
-

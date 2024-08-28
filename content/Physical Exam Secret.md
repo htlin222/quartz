@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Physical Exam Secret
-date: 2024-01-01
 ---
+
 # Physical Exam Secret
 
 1. Postural dizziness (severe enough to stop the test) or an increase in heart rate of at least 30 beats/minute has sensitivity of 97% and specificity of 96% for blood loss >630 mL. Unless associated with dizziness, postural hypotension of any degree has little value.

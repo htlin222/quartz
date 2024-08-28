@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: When to suspect migraine
-date: 2024-01-01
 ---
+
 # When to suspect migraine
 
 * Recurrent headache of moderate to severe intensity

@@ -18,7 +18,6 @@ tags:
 
 
 ---
-
 - H&N CA: 66K cases/y, 14.6K deaths/y in the United States projected in 2021, ↑ due to HPV surge. >90% = SCC (SCCHN)
 - M:F: 3:1
 - RF: Tobacco, EtOH, HPV, betel nut chewing

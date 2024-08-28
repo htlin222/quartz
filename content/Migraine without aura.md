@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Migraine without aura
-date: 2024-01-01
 ---
+
 # Migraine without aura
 
 ![5-4-3-2-1 PUMA 嘔怕](https://i.imgur.com/NvsjpYd.png)

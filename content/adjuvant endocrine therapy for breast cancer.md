@@ -45,9 +45,7 @@ tags:
   - 10 years  or 7~8 years
 
 ---
-
 ## HIGHER-RISK, HORMONE RECEPTOR-POSITIVE, HER2-NEGATIVE CANCERS
-
 Breast Identification of higher-risk patients and approach
 Ovarian suppression plus endocrine therapy
 Methods of suppression

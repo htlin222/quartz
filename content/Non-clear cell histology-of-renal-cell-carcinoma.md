@@ -1,22 +1,17 @@
----
+date: "2024-01-03---
 title: "Non-clear cell histology-of-renal-cell-carcinoma"
 date: "2024-01-03 11:11:04"
 enableToc: false
 tags:
   - building
 ---
-
 > [!info]
 >
 > 🌱來自: [[renal-cell-carcinoma]]
-
 # Non-clear cell histology-of-renal-cell-carcinoma
-
 Clinical trial preferred
 Therapy extrapolated from clear cell; anti-VEGF agents w/ ↑ RR vs. mTOR inhibitors. Some response to chemo in selected cases
-
 ### Siblings
-
 - [[Epidemiology-of-renal-cell-carcinoma]]
 - [[Histology and molecular biology-of-renal-cell-carcinoma]]
 - [[Hereditary RCC and germline testing-of-renal-cell-carcinoma]]
@@ -30,4 +25,3 @@ Therapy extrapolated from clear cell; anti-VEGF agents w/ ↑ RR vs. mTOR inhibi
 - [[Immunotherapies-of-renal-cell-carcinoma]]
 - [[mTOR inhibitors-of-renal-cell-carcinoma]]
 - [[Non-clear cell histology-of-renal-cell-carcinoma]]
-

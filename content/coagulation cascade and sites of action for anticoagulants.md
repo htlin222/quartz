@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: coagulation cascade and sites of action for anticoagulants
-date: 2024-01-01
 ---
+
 
 # coagulation cascade and sites of action for anticoagulants
 

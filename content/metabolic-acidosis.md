@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: metabolic-acidosis
-date: 2024-01-01
 ---
+
 
 # metabolic-acidosis
 
@@ -20,9 +21,7 @@ CPS [[Metabolic Acidosis: Overview]]
 Figure 4-2 [[Approach to metabolic acidosis]]
 
 ---
-
 ## Treatment of severe metabolic acidoses (pH <7.2) (Nat Rev Nephrol 2012;8:589)
-
 - DKA: insulin, IVF, K repletion (NEJM 2015;372:546); AKA: dextrose, IVF, replete K, Mg, PO4
 - Lactic acidosis: treat underlying condition, avoid vasoconstrictors, avoid “Type B” meds
 - Renal failure: hemodialysis

@@ -1,7 +1,8 @@
 ---
+date: "2024-01-01"
 title: Malignancy workup-adrenal incidentalomas
-date: 2024-01-01
 ---
+
 
 ## Malignancy workup-adrenal incidentalomas
 
