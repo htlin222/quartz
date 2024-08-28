@@ -1,4 +1,4 @@
-date: "2023-12-06---
+---
 title: "Atrial fibrillation with rapid ventricular response checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false

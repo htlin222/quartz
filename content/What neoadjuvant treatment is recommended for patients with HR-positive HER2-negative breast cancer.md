@@ -1,4 +1,4 @@
-date: "2023-12-06---
+---
 title: "What neoadjuvant treatment is recommended for patients with HR-positive HER2-negative breast cancer"
 date: "2023-12-06 16:20:33"
 enableToc: false

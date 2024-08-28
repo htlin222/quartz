@@ -1,4 +1,4 @@
-date: "2023-12-06---
+---
 title: "Approach to psychosis checklist for psychosis"
 date: "2023-12-06 17:33:57"
 enableToc: false

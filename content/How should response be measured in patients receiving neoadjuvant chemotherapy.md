@@ -1,4 +1,4 @@
-date: "2023-12-06---
+---
 title: "How should response be measured in patients receiving neoadjuvant chemotherapy"
 date: "2023-12-06 16:20:33"
 enableToc: false

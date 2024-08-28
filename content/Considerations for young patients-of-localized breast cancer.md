@@ -1,4 +1,4 @@
-date: "2023-12-06---
+---
 title: "Considerations for young patients-of-localized breast cancer"
 date: "2023-12-06 14:52:03"
 enableToc: false

@@ -1,4 +1,4 @@
-date: "2023-12-05---
+---
 title: "LUNGNETS"
 date: "2023-12-05 09:57:35"
 enableToc: false

@@ -1,4 +1,4 @@
-date: "2023-12-06---
+---
 title: "Heparin-induced thrombocytopenia checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false

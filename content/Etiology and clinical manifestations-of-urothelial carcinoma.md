@@ -1,4 +1,4 @@
-date: "2024-01-03---
+---
 title: "Etiology and clinical manifestations-of-urothelial carcinoma"
 date: "2024-01-03 11:03:00"
 enableToc: false

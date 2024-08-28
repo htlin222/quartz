@@ -1,4 +1,4 @@
-date: "2023-09-24---
+---
 title: "testmy tilte"
 date: "2023-09-24 02:07:40"
 enableToc: false

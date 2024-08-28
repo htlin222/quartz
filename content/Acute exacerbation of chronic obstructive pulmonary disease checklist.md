@@ -1,4 +1,4 @@
-date: "2023-12-06---
+---
 title: "Acute exacerbation of chronic obstructive pulmonary disease checklist"
 date: "2023-12-06 17:33:57"
 enableToc: false

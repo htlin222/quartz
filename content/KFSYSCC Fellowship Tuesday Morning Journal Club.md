@@ -1,4 +1,4 @@
-date: "2023-12-12---
+---
 title: "KFSYSCC Fellowship Tuesday Morning Journal Club"
 date: "2023-12-12 17:45:33"
 enableToc: false

@@ -1,4 +1,4 @@
-date: "2023-09-24---
+---
 title: "new"
 date: "2023-09-24 02:06:00"
 enableToc: false
