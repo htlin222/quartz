@@ -9,10 +9,8 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[neuroexam]]
+> 🌱 來自：[[neuroexam]]
 
 # JOMAC
 
 ## JOMAC
-
-TODO:

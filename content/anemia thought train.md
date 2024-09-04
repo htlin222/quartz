@@ -14,3 +14,9 @@ tags:
 # anemia thought train
 
 ![Figure: height:450px](https://i.imgur.com/2xwuX37.png)
+
+Isolated Anemia
+
+ACUTE
+
+SUBACUTE CHRNIC

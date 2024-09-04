@@ -6,7 +6,6 @@ alias: hema
 tags: index
 ---
 
-
 lizard
 
 # hematology
@@ -37,9 +36,12 @@ qv [[oncology]]
 - [[plasma cell dyscrasias]] 🦀
 - [[hematopoietic stem cell transplantation]] 🪴
 - [[deck/hematopathology/index.md]]
+- [[lymphoproliferative_disorders.md|lymphoproliferative disorders]]
 
 ---
+
 ## [[benign hematology]]
+
 - [[anemia]]
 - [[laboratory hematology.md|laboratory hematology]]
 - [[disorders of hemostasis]]
@@ -52,8 +54,11 @@ qv [[oncology]]
 - [[Procedure of hematology]]
 - [[Peripheral Smear Findings]]
   - [[Evaluation of a Peripheral Blood Smear]]
+
 ## Pediatric
+
 - [[chronic granulomatous disease.md|chronic granulomatous disease]]
+
 ---
 
 ## Other reference
