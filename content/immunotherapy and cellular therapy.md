@@ -19,3 +19,4 @@ title: immunotherapy and cellular therapy
 * Autologous T cells w/ chimeric receptor: antibody variable region fused to T cell co-stimulatory intracellular signaling domains → MHC independent Ag recognition
 * CAR-T cells targeting CD19 used for ALL, DLBCL, FL, MCL. Targeting B-cell maturation antigen (BCMA) for MM. Strategies for solid tumors in development.
 ## [[CAR-T-Toxicity]] (Biol Blood Marrow Transplant 2019;25:625)
+[[clinical_immuno-oncology.md|Clinical Immuno-Oncology]]

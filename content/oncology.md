@@ -4,7 +4,6 @@ title: oncology
 alias: onco
 ---
 
-
 # oncology
 
 > 腫瘤蔓延，癌症疫情，
@@ -12,7 +11,6 @@ alias: onco
 > 體內異物，病苗滋長，
 > 腫瘤內病，苦難多
 
-[[asco.md|ASCO]]
 
 ## Quick Link
 
@@ -22,16 +20,18 @@ alias: onco
   - [[bioinfo]] ✨
 - [[clinical research methods]]
 - [[cancer pharmacology]]
-- [[inpatient oncology]]
 - [[cancer complications]]
 - [[immunotherapy and cellular therapy]]
 - [[oncologic emergencies]]
 - [[clinical research methods]]
 - [[radiation oncology]]
 - [[principles of surgery and interventional oncology]]
+- [[zen_of_oncology.md|Zen of oncology]]
 
 ---
+
 ## Solid Tumor
+
 - [[breast cancer]] 🌟
 - [[thoracic malignancies]]
 - [[gastrointestinal malignancies]]
@@ -51,10 +51,6 @@ alias: onco
 - [[pediatric cancers]]
 - [[pain and palliative care]]
 - [[infectious disease]]
----
-
-- Harrisons [[Neoplastic Disorders]]
-
-## [[resident360]]
 
 [[resident360_oncology.md|resident360_oncology]]
+[[asco.md|ASCO]]

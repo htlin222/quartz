@@ -23,5 +23,4 @@ tags:
   - anal margin→ includes anal verge & 6 cm radius of surrounding skin
 - Figure 16-3 Devita, Hellman, and Rosenberg’s Cancer: Principles and Practice of Oncology. 9th edition. 2011.
 - [[ln_drainage_of_clinical_manifestations_of_anal_cancer.md|LN drainage_of_clinical_manifestations_of_anal_cancer]]
-- Met sites:
-  - Liver, lung, extrapelvic LNs
+- [[met_sites_of_clinical_manifestations_of_anal_cancer.md|Met sites_of_clinical_manifestations_of_anal_cancer]]
