@@ -14,6 +14,8 @@ tags:
 
 # mantle cell lymphoma
 
+[[nccn_flowchart_of_mantle_cell_lymphoma.md|NCCN flowchart of mantle cell lymphoma]]
+
 ## Epidemiology of mantle cell lymphoma
 
 Represents ~6% of lymphomas

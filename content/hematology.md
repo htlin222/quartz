@@ -10,17 +10,14 @@ lizard
 
 # hematology
 
-back to [[medical]]
-
-[[book list of hematology]]
-
-[[framework_hematology_blood.md|framework_hematology_blood]]
-
 qv [[oncology]]
+
+- [[WHO 2016 Classification of Myeloid Neoplasms and Acute Leukemia]]
+[[gene_therapy.md|gene therapy]]
+
 
 ## [[leukemias and myelodysplastic syndromes]]
 
-- [[WHO 2016 Classification of Myeloid Neoplasms and Acute Leukemia]]
 - [[surface marker]]
 - [[myelodysplastic syndromes]] MDS 🌸
 - [[myeloproliferative neoplasms]] MPN 😭
@@ -54,19 +51,11 @@ qv [[oncology]]
 - [[Procedure of hematology]]
 - [[Peripheral Smear Findings]]
   - [[Evaluation of a Peripheral Blood Smear]]
-
-## Pediatric
-
 - [[chronic granulomatous disease.md|chronic granulomatous disease]]
-
----
-
-## Other reference
-
-1. Section 2: [[Hematopoietic Disorders]]
-2. Section 3: [[Disorders of Hemostasis]]
-
+- [[Hematopoietic Disorders]]
+- [[Disorders of Hemostasis]]
 - [[NEJM Resident 360 hematology]]
 - [[hematology of Huppert's Notes]]
-
----
+- [[medical]]
+- [[book list of hematology]]
+- [[framework_hematology_blood.md|framework_hematology_blood]]
