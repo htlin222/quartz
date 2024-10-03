@@ -1,13 +1,8 @@
 ---
 date: "2024-01-01"
----
-
----
-date: "2024-01-01"
 title: platelet disorders
 alias: thrombocytopenia
 ---
-
 
 # platelet disorders
 
@@ -26,14 +21,19 @@ alias: thrombocytopenia
 - [[Disseminated intravascular coagulation (DIC)]]
 
 ---
+
 ## disorders of platelet function
+
 > Qualitative platelet disorders
+
 - [[Mechanisms and Etiologies of Platelet Function Abnormalities]]
 - Platelet aggregation tests: measure aggregation in response to agonists (eg, ADP)
 - [[von Willebrand’s disease (vWD)]]
 - [[Uremic bleeding]]
 - [[notes-of-platelet disorders]]
+
 ### Backlink
+
 - [[Diagnostic evaluation of thrombocytopenia]]
 - [[hematology]]
 - [[Microangiopathic hemolytic anemia]]

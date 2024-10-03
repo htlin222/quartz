@@ -28,3 +28,5 @@ alias: ITP
 - [[Treatment of Primary ITP in Adults]]
 
 > Post-splenectomy vaccinations needed. (Blood Adv 2019;3:3829; Eur J Haem 2018;100:304)
+
+von [[hematology]]

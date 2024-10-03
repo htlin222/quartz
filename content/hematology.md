@@ -13,8 +13,8 @@ lizard
 qv [[oncology]]
 
 - [[WHO 2016 Classification of Myeloid Neoplasms and Acute Leukemia]]
-[[gene_therapy.md|gene therapy]]
-
+- [[gene_therapy.md|gene therapy]]
+- [[chemotherapy_protocols_in_hematology.md|chemotherapy protocols in hematology]]
 
 ## [[leukemias and myelodysplastic syndromes]]
 
@@ -43,6 +43,7 @@ qv [[oncology]]
 - [[laboratory hematology.md|laboratory hematology]]
 - [[disorders of hemostasis]]
 - [[platelet disorders]]
+    - [[itp.md|ITP]]
 - [[coagulopathies]]
 - [[hypercoagulable states]]
 - [[disorders of leukocytes]]
