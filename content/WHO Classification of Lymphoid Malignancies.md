@@ -33,7 +33,7 @@ enableToc: false
 
 * Peripheral T-cell lymphoma
 	* TET2 and DNMT3A
-* Mycosis fungoides (cutaneous lymphoma)/ Sézary syndrome (+ LAN)
+* [[mycosis_fungoides.md|Mycosis fungoides]] (cutaneous lymphoma)/ Sézary syndrome (+ LAN)
 	* Some ALK1 ⊕
 * Anaplastic large-cell lymphoma
 * Angioimmunoblastic T-cell lymphoma

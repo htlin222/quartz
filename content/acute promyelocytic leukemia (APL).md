@@ -41,3 +41,7 @@ Rare,
 - In general, chemo (anthracycline or gemtuzumab ozogamicin) added to ATRA + ATO induction and consolidation.
 
 ## [[Differentiation syndrome]] (ATRA)
+
+## References
+
+[[atypical_apl.md|atypical APL]]

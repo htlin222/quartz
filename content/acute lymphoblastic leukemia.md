@@ -14,9 +14,13 @@ tags:
 
 # acute lymphoblastic leukemia
 
-[[eln_guideline_2024.md|ELN guideline 2024]]
+- [[eln_guideline_2024.md|ELN guideline 2024]]
+- [[diagnosis_of_all.md|diagnosis of ALL]]
+- [[cytogenetic_of_all.md|cytogenetic of ALL]]
+
 
 - [[classification of acute lymphoblastic leukemia (ALL)|說明]]
+- [[treatment_of_all.md|treatment of ALL]]
 - [[induction chemotherapy of treatment of acute lymphoblastic leukemia (ALL)|怎麼個 induction?]]
 - [[CNS prophylaxis of treatment of acute lymphoblastic leukemia (ALL)|IT 是：要怎麼處理]]
 - [[post-remission therapy of treatment of acute lymphoblastic leukemia (ALL)]]

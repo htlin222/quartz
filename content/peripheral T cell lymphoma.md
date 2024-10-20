@@ -16,3 +16,5 @@ tags:
 
 Brentuximab vedotin with chemotherapy for CD30-positive peripheral T-cell lymphoma ([[echelon-2.md|ECHELON-2]]): a global, double-blind, randomised, phase 3 trial
 
+[[propel.md|PROPEL]]
+

@@ -39,6 +39,7 @@ qv [[oncology]]
 
 ## [[benign hematology]]
 
+- [[cryoglobulinemia.md|Cryoglobulinemia]]
 - [[anemia]]
 - [[laboratory hematology.md|laboratory hematology]]
 - [[disorders of hemostasis]]
