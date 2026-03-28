@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/htlin222/quartz?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/htlin222/quartz?style=flat-square)
+![License](https://img.shields.io/github/license/htlin222/quartz?style=flat-square)
+
 # 蜥蜴的知識花園 🪴
 
 ![Vercel](https://vercelbadge.vercel.app/api/htlin222/quartz)
